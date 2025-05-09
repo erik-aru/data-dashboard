@@ -1,0 +1,33 @@
+name: Build Web Page
+
+on:
+  schedule:
+    - cron: '0 8,20 * * *'  # Runs every day at 08:00 and 20:00 UTC
+  workflow_dispatch:        # Allows manual runs from GitHub UI
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'  # Adjust if you use a different version
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Python script
+        run: |
+          python python.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.GH_TOKEN }}  # Use the PAT stored in secrets
+          publish_dir: ./                          # Path containing your index.html
