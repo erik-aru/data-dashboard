@@ -1,0 +1,482 @@
+{
+  "kuits": {
+    "ROME": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "PARMA-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "PARIS-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ]
+  },
+  "messages": [
+    "14:11  ROME SINGLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
+    "14:11  ROME DOUBLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
+    "14:11  ROME QUALS draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
+    "14:11  Today's OOP of ROME  \n       https://www.wtatennis.com/tournament/709/ROME/2025/order-of-play\n\n",
+    "14:11  OOP of ROME (pdf)   \n       http://wtafiles.wtatennis.com/pdf/draws/2025/709/OP.pdf\n\n",
+    "14:11  PARMA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws\n\n",
+    "14:11  PARMA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws\n\n",
+    "14:11  PARMA-125 QUALS draw    \n       https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws\n\n",
+    "14:11  Today's OOP of PARMA-125  \n       https://www.wtatennis.com/tournament/2041/PARMA-125/2025/order-of-play\n\n",
+    "14:11  OOP of PARMA-125 (pdf)   \n       http://wtafiles.wtatennis.com/pdf/draws/2025/2041/OP.pdf\n\n",
+    "14:11  PARIS-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2057/PARIS-125/2025/draws\n\n",
+    "14:11  PARIS-125 QUALS draw    \n       https://www.wtatennis.com/tournament/2057/PARIS-125/2025/draws\n\n",
+    "14:11  Today's OOP of PARIS-125  \n       https://www.wtatennis.com/tournament/2057/PARIS-125/2025/order-of-play\n\n",
+    "14:11  OOP of PARIS-125 (pdf)   \n       http://wtafiles.wtatennis.com/pdf/draws/2025/2057/OP.pdf\n\n"
+  ],
+  "sits": {
+    "ROME": [
+      [
+        0,
+        48,
+        {
+          "players": [
+            "Katie Volynets",
+            "Aliaksandra Sasnovich",
+            "Varvara Lepchenko",
+            "Erika Andreeva",
+            "Anna Blinkova",
+            "Lisa Pigato",
+            "Harriet Dart",
+            "Anca Todoni",
+            "Zeynep Sonmez",
+            "Ella Seidel",
+            "Aliz\u00e9 Cornet",
+            "Anna Bondar",
+            "Maya Joint",
+            "Maria Lourdes Carle",
+            "Yanina Wickmayer",
+            "Viktorija Golubic",
+            "Ajla Tomljanovic",
+            "Angelica Raggi",
+            "Nicole Fossa Huergo",
+            "Olivia Gadecki",
+            "Tatjana Maria",
+            "Jule Niemeier",
+            "Antonia Ruzic",
+            "Yue Yuan",
+            "Bernarda Pera",
+            "Xiyu Wang",
+            "Anastasia Abbagnato",
+            "Arantxa Rus",
+            "Maria Sakkari",
+            "Chloe Paquet",
+            "Maja Chwalinska",
+            "Yuliia Starodubtseva",
+            "Kamilla Rakhimova",
+            "Leyre Romero Gormaz",
+            "Victoria Mboko",
+            "Cristina Bucsa",
+            "Emiliana Arango",
+            "Marina Stakusic",
+            "Leolia Jeanjean",
+            "Anastasia Zakharova",
+            "Elena-Gabriela Ruse",
+            "Solana Sierra",
+            "Daria Saville",
+            "Laura Siegemund",
+            "Hailey Baptiste",
+            "Storm Hunter",
+            "Federica Di Sarra",
+            "Jil Teichmann"
+          ]
+        }
+      ],
+      [
+        1,
+        96,
+        {
+          "players": [
+            "Aryna Sabalenka",
+            "Dayana Yastremska",
+            "Anastasia Potapova",
+            "Anastasia Pavlyuchenkova",
+            "Katie Boulter",
+            "Sofia Kenin",
+            "Leylah Fernandez",
+            "Antonia Ruzic",
+            "Tyra Caterina Grant",
+            "Alexandra Eala",
+            "Marta Kostyuk",
+            "Daria Kasatkina",
+            "Elena Rybakina",
+            "Moyuka Uchijima",
+            "Eva Lys",
+            "Bianca Andreescu",
+            "Federica Urgesi",
+            "Donna Vekic",
+            "Magdalena Frech",
+            "Victoria Azarenka",
+            "Camila Osorio",
+            "Katerina Siniakova",
+            "Olga Danilovic",
+            "Qinwen Zheng",
+            "Coco Gauff",
+            "Arianna Zucchini",
+            "Victoria Mboko",
+            "Maria Sakkari",
+            "Belinda Bencic",
+            "Magda Linette",
+            "Jil Teichmann",
+            "Maya Joint",
+            "Emma Raducanu",
+            "Lucrezia Stefanini",
+            "Veronika Kudermetova",
+            "Amanda Anisimova",
+            "Emma Navarro",
+            "Kamilla Rakhimova",
+            "Xinyu Wang",
+            "Katie Volynets",
+            "Arantxa Rus",
+            "Clara Tauson",
+            "Linda Noskova",
+            "Kimberly Birrell",
+            "Sonay Kartal",
+            "Emiliana Arango",
+            "Viktoriya Tomova",
+            "Mirra Andreeva",
+            "Jasmine Paolini",
+            "Giorgia Pedone",
+            "Lulu Sun",
+            "Petra Kvitova",
+            "Irina-Camelia Begu",
+            "Ons Jabeur",
+            "Jelena Ostapenko",
+            "Rebecca Sramkova",
+            "McCartney Kessler",
+            "Lucia Bronzetti",
+            "Anastasija Sevastova",
+            "Laura Siegemund",
+            "Diana Shnaider",
+            "Caroline Dolehide",
+            "Olivia Gadecki",
+            "Alycia Parks",
+            "Jaqueline Cristian",
+            "Yulia Putintseva",
+            "Elise Mertens",
+            "Suzan Lamens",
+            "Renata Zarazua",
+            "Ashlyn Krueger",
+            "Anna Bondar",
+            "Jessica Pegula",
+            "Madison Keys",
+            "Varvara Gracheva",
+            "Ajla Tomljanovic",
+            "Peyton Stearns",
+            "Nuria Brancaccio",
+            "Anna Kalinskaya",
+            "Beatriz Haddad Maia",
+            "Marie Bouzkova",
+            "Mayar Sherif",
+            "Sara Errani",
+            "Naomi Osaka",
+            "Viktorija Golubic",
+            "Elina Svitolina",
+            "Jessica Bouzas Maneiro",
+            "Ann Li",
+            "Hailey Baptiste",
+            "Anna Blinkova",
+            "Liudmila Samsonova",
+            "Danielle Collins",
+            "Elena-Gabriela Ruse",
+            "Polina Kudermetova",
+            "Elisabetta Cocciaretto",
+            "Elina Avanesyan",
+            "Iga Swiatek"
+          ]
+        }
+      ],
+      [
+        2,
+        32,
+        {
+          "players": [
+            "Gabriela Dabrowski / Erin Routliffe",
+            "Monica Niculescu / Katarzyna Piter",
+            "Daria Kasatkina / Peyton Stearns",
+            "Shuko Aoyama / Nadiia Kichenok",
+            "Hao-Ching Chan / Giuliana Olmos",
+            "Xinyu Wang / Saisai Zheng",
+            "Linda Noskova / Clara Tauson",
+            "Mirra Andreeva / Diana Shnaider",
+            "Sara Errani / Jasmine Paolini",
+            "Xinyu Jiang / Fang-Hsien Wu",
+            "Leylah Fernandez / Yulia Putintseva",
+            "Makoto Ninomiya / Yifan Xu",
+            "Alexandra Panova / Fanny Stollar",
+            "Alexandra Eala / Coco Gauff",
+            "Tyra Caterina Grant / Lisa Pigato",
+            "Anna Danilina / Irina Khromacheva",
+            "Asia Muhammad / Demi Schuurs",
+            "Cristina Bucsa / Angelica Moratelli",
+            "Lucia Bronzetti / Elisabetta Cocciaretto",
+            "Sofia Kenin / Lyudmyla Kichenok",
+            "Veronika Kudermetova / Elise Mertens",
+            "Timea Babos / Luisa Stefani",
+            "Tereza Mihalikova / Olivia Nicholls",
+            "Su-Wei Hsieh / Jelena Ostapenko",
+            "Caroline Dolehide / Desirae Krawczyk",
+            "Ulrikke Eikeri / Eri Hozumi",
+            "Miyu Kato / Aldila Sutjiadi",
+            "Marta Kostyuk / Elena-Gabriela Ruse",
+            "Storm Hunter / Ellen Perez",
+            "Magda Linette / Rebecca Sramkova",
+            "Nicole Melichar-Martinez / Liudmila Samsonova",
+            "Katerina Siniakova / Shuai Zhang"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "2025-05-13"
+    ],
+    "PARMA-125": [
+      [
+        0,
+        8,
+        {
+          "players": [
+            "Julia Grabher",
+            "Anastasia Abbagnato",
+            "Susan Bandecchi",
+            "Anna-Lena Friedsam",
+            "Patricia Maria Tig",
+            "Arianna Zucchini",
+            "Marina Bassols Ribera",
+            "Nicole Fossa Huergo"
+          ]
+        }
+      ],
+      [
+        1,
+        32,
+        {
+          "players": [
+            "Yulia Putintseva",
+            "Ena Shibahara",
+            "Anna-Lena Friedsam",
+            "Emiliana Arango",
+            "Priscilla Hon",
+            "Ella Seidel",
+            "Kathinka Von Deichmann",
+            "Mayar Sherif",
+            "Camila Osorio",
+            "Marina Stakusic",
+            "Antonia Ruzic",
+            "Aurora Zantedeschi",
+            "Simona Waltert",
+            "Xiyu Wang",
+            "Patricia Maria Tig",
+            "Renata Zarazua",
+            "Irina-Camelia Begu",
+            "Victoria Jimenez Kasintseva",
+            "Julia Grabher",
+            "Darja Semenistaja",
+            "Camilla Rosatello",
+            "Nicole Fossa Huergo",
+            "Anna Bondar",
+            "Alycia Parks",
+            "Zeynep Sonmez",
+            "Jil Teichmann",
+            "Victoria Mboko",
+            "Nuria Parrizas Diaz",
+            "Panna Udvardy",
+            "Varvara Lepchenko",
+            "Shuai Zhang",
+            "Xinyu Wang"
+          ]
+        }
+      ],
+      [
+        2,
+        16,
+        {
+          "players": [
+            "Anna Danilina / Angelica Moratelli",
+            "Yanina Wickmayer / Kimberley Zimmermann",
+            "Anna Bondar / Simona Waltert",
+            "Nicole Fossa Huergo / Zhibek Kulambayeva",
+            "Katarzyna Piter / Mayar Sherif",
+            "Isabelle Haverlag / Maia Lumsden",
+            "Emiliana Arango / Renata Zarazua",
+            "Jesika Maleckova / Miriam Skoch",
+            "Alicia Barnett / Elixane Lechemia",
+            "Jessie Aney / Jessica Failla",
+            "Magali Kempen / Ingrid Martins",
+            "Sabrina Santamaria / Qianhui Tang",
+            "Yvonne Cavalle-Reimers / Lara Salden",
+            "Anastasia Abbagnato / Arianna Zucchini",
+            "Anastasia Detiuc / Eden Silva",
+            "Yifan Xu / Saisai Zheng"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "2025-05-13"
+    ],
+    "PARIS-125": [
+      [
+        0,
+        8,
+        {
+          "players": [
+            "Sijia Wei",
+            "Fiona Ferro",
+            "Elsa Jacquemot",
+            "Sara Bejlek",
+            "Linda Fruhvirtova",
+            "Louisa Chirico",
+            "Maddison Inglis",
+            "Jenny Lim"
+          ]
+        }
+      ],
+      [
+        1,
+        32,
+        {
+          "players": [
+            "Amanda Anisimova",
+            "Yuliia Starodubtseva",
+            "Petra Martic",
+            "Tiantsoa Rakotomanga Rajaonah",
+            "Fiona Ferro",
+            "Anastasia Zakharova",
+            "Chloe Paquet",
+            "Kimberly Birrell",
+            "Lulu Sun",
+            "Julie Belgraver",
+            "Solana Sierra",
+            "Viktorija Golubic",
+            "Aliaksandra Sasnovich",
+            "Maria Lourdes Carle",
+            "Jenny Lim",
+            "Katerina Siniakova",
+            "Varvara Gracheva",
+            "Louisa Chirico",
+            "Diane Parry",
+            "Hailey Baptiste",
+            "Kamilla Rakhimova",
+            "Ksenia Efremova",
+            "Mananchaya Sawangkaew",
+            "Moyuka Uchijima",
+            "Sonay Kartal",
+            "Aoi Ito",
+            "Elsa Jacquemot",
+            "Yue Yuan",
+            "Daria Saville",
+            "Leyre Romero Gormaz",
+            "Erika Andreeva",
+            "Katie Boulter"
+          ]
+        }
+      ],
+      [
+        2,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "2025-05-13"
+    ]
+  }
+}
