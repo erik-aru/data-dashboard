@@ -32,73 +32,97 @@ http://wtafiles.wtatennis.com/pdf/draws/2025/2057/OP.pdf
 https://www.wtatennis.com/tournament/2057/PARIS-125/2025/order-of-play
 -Checking for updates in ROME, PARMA-125, PARIS-125
 -Last checked: 20:15
+20:15  ROME SINGLES draw
+https://www.wtatennis.com/tournament/709/ROME/2025/draws
+20:15  ROME DOUBLES draw
+https://www.wtatennis.com/tournament/709/ROME/2025/draws
+20:15  ROME QUALS draw
+https://www.wtatennis.com/tournament/709/ROME/2025/draws
+20:15  Today's OOP of ROME
+https://www.wtatennis.com/tournament/709/ROME/2025/order-of-play
+20:15  OOP of ROME (pdf)
+http://wtafiles.wtatennis.com/pdf/draws/2025/709/OP.pdf
+20:15  Tomorrow's OOP of ROME
+https://www.wtatennis.com/tournament/709/ROME/2025/order-of-play
+20:15  PARMA-125 SINGLES draw
+https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws
+20:15  PARMA-125 DOUBLES draw
+https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws
+20:15  PARMA-125 QUALS draw
+https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws
+20:15  Today's OOP of PARMA-125
+https://www.wtatennis.com/tournament/2041/PARMA-125/2025/order-of-play
+20:15  OOP of PARMA-125 (pdf)
+http://wtafiles.wtatennis.com/pdf/draws/2025/2041/OP.pdf
+20:15  Tomorrow's OOP of PARMA-125
+https://www.wtatennis.com/tournament/2041/PARMA-125/2025/order-of-play
+20:15  PARIS-125 SINGLES draw
+https://www.wtatennis.com/tournament/2057/PARIS-125/2025/draws
+20:15  PARIS-125 QUALS draw
+https://www.wtatennis.com/tournament/2057/PARIS-125/2025/draws
+20:15  Today's OOP of PARIS-125
+https://www.wtatennis.com/tournament/2057/PARIS-125/2025/order-of-play
+20:15  OOP of PARIS-125 (pdf)
+http://wtafiles.wtatennis.com/pdf/draws/2025/2057/OP.pdf
+20:15  Tomorrow's OOP of PARIS-125
+https://www.wtatennis.com/tournament/2057/PARIS-125/2025/order-of-play
+-Checking for updates in ROME, PARMA-125, PARIS-125
+-Last checked: 08:18
 
 
-20:15  ROME SINGLES draw    
+08:18  ROME SINGLES draw    
        https://www.wtatennis.com/tournament/709/ROME/2025/draws
 
 
-20:15  ROME DOUBLES draw    
+08:18  ROME DOUBLES draw    
        https://www.wtatennis.com/tournament/709/ROME/2025/draws
 
 
-20:15  ROME QUALS draw    
+08:18  ROME QUALS draw    
        https://www.wtatennis.com/tournament/709/ROME/2025/draws
 
 
-20:15  Today's OOP of ROME  
+08:18  Today's OOP of ROME  
        https://www.wtatennis.com/tournament/709/ROME/2025/order-of-play
 
 
-20:15  OOP of ROME (pdf)   
+08:18  OOP of ROME (pdf)   
        http://wtafiles.wtatennis.com/pdf/draws/2025/709/OP.pdf
 
 
-20:15  Tomorrow's OOP of ROME  
-       https://www.wtatennis.com/tournament/709/ROME/2025/order-of-play
-
-
-20:15  PARMA-125 SINGLES draw    
+08:18  PARMA-125 SINGLES draw    
        https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws
 
 
-20:15  PARMA-125 DOUBLES draw    
+08:18  PARMA-125 DOUBLES draw    
        https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws
 
 
-20:15  PARMA-125 QUALS draw    
+08:18  PARMA-125 QUALS draw    
        https://www.wtatennis.com/tournament/2041/PARMA-125/2025/draws
 
 
-20:15  Today's OOP of PARMA-125  
+08:18  Today's OOP of PARMA-125  
        https://www.wtatennis.com/tournament/2041/PARMA-125/2025/order-of-play
 
 
-20:15  OOP of PARMA-125 (pdf)   
+08:18  OOP of PARMA-125 (pdf)   
        http://wtafiles.wtatennis.com/pdf/draws/2025/2041/OP.pdf
 
 
-20:15  Tomorrow's OOP of PARMA-125  
-       https://www.wtatennis.com/tournament/2041/PARMA-125/2025/order-of-play
-
-
-20:15  PARIS-125 SINGLES draw    
+08:18  PARIS-125 SINGLES draw    
        https://www.wtatennis.com/tournament/2057/PARIS-125/2025/draws
 
 
-20:15  PARIS-125 QUALS draw    
+08:18  PARIS-125 QUALS draw    
        https://www.wtatennis.com/tournament/2057/PARIS-125/2025/draws
 
 
-20:15  Today's OOP of PARIS-125  
+08:18  Today's OOP of PARIS-125  
        https://www.wtatennis.com/tournament/2057/PARIS-125/2025/order-of-play
 
 
-20:15  OOP of PARIS-125 (pdf)   
+08:18  OOP of PARIS-125 (pdf)   
        http://wtafiles.wtatennis.com/pdf/draws/2025/2057/OP.pdf
-
-
-20:15  Tomorrow's OOP of PARIS-125  
-       https://www.wtatennis.com/tournament/2057/PARIS-125/2025/order-of-play
 
 
