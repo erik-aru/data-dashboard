@@ -683,27 +683,6 @@
       "nothing"
     ]
   },
-  "torns": [
-    [
-      "ROME",
-      709
-    ],
-    [
-      "PARMA-125",
-      2041
-    ],
-    [
-      "PARIS-125",
-      2057
-    ],
-    [
-      "STRASBOURG",
-      406
-    ],
-    [
-      "RABAT",
-      1005
-    ]
-  ],
+  "torns": [],
   "old_day": 15
 }
