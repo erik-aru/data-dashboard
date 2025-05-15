@@ -217,7 +217,6 @@ def core():
     url=f'https://api.wtatennis.com/tennis/tournaments/?page=0&pageSize=100&excludeLevels=ITF&from={from_}&to={to_}'
     ids=s.get(url).json()
 
-    torns=[]
     torns_string=''
 
     temp_container={}
