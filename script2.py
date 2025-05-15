@@ -594,7 +594,7 @@ def core():
 
                 #url=f'https://api.wtatennis.com/tennis/tournaments/{x[1]}/{year}/matches/?from={from_to_oop}&to={from_to_oop}'
                 url=f'https://api.wtatennis.com/tennis/tournaments/{x[1]}/{year}/matches/?from={today_oop}&to={from_to_oop}'
-
+                print("oop url",url)
 
                 req=connect(url)
 
