@@ -332,7 +332,7 @@ def core():
 ##            messages.append(msg)
 
             time_of_last_check = now
-
+            print("torns",torns)
             for x in torns:
                 
                 req=s.get(f'https://api.wtatennis.com/tennis/tournaments/{x[1]}/{year}/players')
