@@ -82,7 +82,7 @@ print("loaded torns", torns)
 print("loaded old_day", old_day)
 
 def core():
-    global kuits, sits, old_day
+    global kuits, sits, old_day, torns
     def connect(url):
         loop_counter=0
         check_url=url
