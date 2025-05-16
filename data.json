@@ -133,7 +133,43 @@
     "12:00  RABAT SINGLES draw    \n       https://www.wtatennis.com/tournament/1005/RABAT/2025/draws\n\n",
     "12:00  RABAT DOUBLES draw    \n       https://www.wtatennis.com/tournament/1005/RABAT/2025/draws\n\n",
     "12:00  OOP of RABAT (pdf)   \n       http://wtafiles.wtatennis.com/pdf/draws/2025/1005/OP.pdf\n\n",
-    "12:55  OOP in ROME appeared \u2605\n       https://www.wtatennis.com/tournament/709/ROME/2025/order-of-play\n\n"
+    "12:55  OOP in ROME appeared \u2605\n       https://www.wtatennis.com/tournament/709/ROME/2025/order-of-play\n\n",
+    "15:19  OOP in PARMA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2041/PARMA-125/2025/order-of-play\n\n",
+    "15:19  OOP in PARIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2057/PARIS-125/2025/order-of-play\n\n",
+    "15:19  NEW draw in STRASBOURG QUALS \u2605    \n       https://www.wtatennis.com/tournament/406/STRASBOURG/2025/draws\n\n",
+    "       Players added to the draw in STRASBOURG QUALS:    \n\n",
+    "       1. McCartney Kessler \n",
+    "          Kessler, M\n\n",
+    "       2. Jodie Burrage \n",
+    "          Burrage, J\n\n",
+    "       3. Cristina Bucsa \n",
+    "          Bucsa, C\n\n",
+    "       4. Renata Zarazua \n",
+    "          Zarazua, R\n\n",
+    "       5. Marie Bouzkova \n",
+    "          Bouzkova, M\n\n",
+    "       6. Tatjana Maria \n",
+    "          Maria, T\n\n",
+    "       7. Sarah Iliev \n",
+    "          Iliev, S\n\n",
+    "       8. Caroline Dolehide \n",
+    "          Dolehide, C\n\n",
+    "       9. Eva Lys \n",
+    "          Lys, E\n\n",
+    "       10. Chloe Paquet \n",
+    "           Paquet, C\n\n",
+    "       11. Valeriya Strakhova \n",
+    "           Strakhova, V\n\n",
+    "       12. Bernarda Pera \n",
+    "           Pera, B\n\n",
+    "       13. Anna Blinkova \n",
+    "           Blinkova, A\n\n",
+    "       14. Elena Malygina \n",
+    "           Malygina, E\n\n",
+    "       15. Elsa Jacquemot \n",
+    "           Jacquemot, E\n\n",
+    "       16. Suzan Lamens \n",
+    "           Lamens, S\n\n"
   ],
   "sits": {
     "ROME": [
@@ -448,7 +484,7 @@
           "players": []
         }
       ],
-      "2025-05-16"
+      "2025-05-17"
     ],
     "PARIS-125": [
       [
@@ -537,14 +573,31 @@
           "players": []
         }
       ],
-      "2025-05-16"
+      "2025-05-17"
     ],
     "STRASBOURG": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "McCartney Kessler",
+            "Jodie Burrage",
+            "Cristina Bucsa",
+            "Renata Zarazua",
+            "Marie Bouzkova",
+            "Tatjana Maria",
+            "Sarah Iliev",
+            "Caroline Dolehide",
+            "Eva Lys",
+            "Chloe Paquet",
+            "Valeriya Strakhova",
+            "Bernarda Pera",
+            "Anna Blinkova",
+            "Elena Malygina",
+            "Elsa Jacquemot",
+            "Suzan Lamens"
+          ]
         }
       ],
       [
