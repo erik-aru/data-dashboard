@@ -169,7 +169,89 @@
     "       15. Elsa Jacquemot \n",
     "           Jacquemot, E\n\n",
     "       16. Suzan Lamens \n",
-    "           Lamens, S\n\n"
+    "           Lamens, S\n\n",
+    "17:41  change in STRASBOURG DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/406/STRASBOURG/2025/draws\n\n",
+    "       Players added to the draw in STRASBOURG DOUBLES:    \n\n",
+    "       1. Gabriela Dabrowski / Erin Routliffe \n",
+    "          Dabrowski, G/Routliffe, E\n\n",
+    "       2. Xinyu Wang / Saisai Zheng \n",
+    "          Wang, X/Zheng, S\n\n",
+    "       3. Barbora Krejcikova / Linda Noskova \n",
+    "          Krejcikova, B/Noskova, L\n\n",
+    "       4. Cristina Bucsa / Yifan Xu \n",
+    "          Bucsa, C/Xu, Y\n\n",
+    "       5. Lyudmyla Kichenok / Nadiia Kichenok \n",
+    "          Kichenok, L/Kichenok, N\n\n",
+    "       6. Marie Bouzkova / Alexandra Panova \n",
+    "          Bouzkova, M/Panova, A\n\n",
+    "       7. Timea Babos / Luisa Stefani \n",
+    "          Babos, T/Stefani, L\n\n",
+    "       8. Myrtille Georges / Tatjana Maria \n",
+    "          Georges, M/Maria, T\n\n",
+    "       9. Caroline Dolehide / Fanny Stollar \n",
+    "          Dolehide, C/Stollar, F\n\n",
+    "       10. Tereza Mihalikova / Olivia Nicholls \n",
+    "           Mihalikova, T/Nicholls, O\n\n",
+    "       11. McCartney Kessler / Renata Zarazua \n",
+    "           Kessler, M/Zarazua, R\n\n",
+    "       12. Xinyu Jiang / Fang-Hsien Wu \n",
+    "           Jiang, X/Wu, F\n\n",
+    "       13. Miyu Kato / Aldila Sutjiadi \n",
+    "           Kato, M/Sutjiadi, A\n\n",
+    "       14. Hanyu Guo / Nicole Melichar-Martinez \n",
+    "           Guo, H/Melichar-Martinez, N\n\n",
+    "       15. Shuko Aoyama / Hao-Ching Chan \n",
+    "           Aoyama, S/Chan, H\n\n",
+    "       16. Desirae Krawczyk / Ellen Perez \n",
+    "           Krawczyk, D/Perez, E\n\n",
+    "       Players removed from the draw in STRASBOURG DOUBLES:    \n\n",
+    "       1. YIFAN XU / CRISTINA BUCSA \n\n",
+    "       2. GABRIELA DABROWSKI / ERIN ROUTLIFFE \n\n",
+    "       3. NADIIA KICHENOK / LYUDMYLA KICHENOK \n\n",
+    "       4. HAO-CHING CHAN / SHUKO AOYAMA \n\n",
+    "       5. NICOLE MELICHAR-MARTINEZ / HANYU GUO \n\n",
+    "       6. DEMI SCHUURS / ASIA MUHAMMAD \n\n",
+    "       7. ALDILA SUTJIADI / MIYU KATO \n\n",
+    "       8. ELLEN PEREZ / DESIRAE KRAWCZYK \n\n",
+    "       9. LUISA STEFANI / TIMEA BABOS \n\n",
+    "       10. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
+    "       11. FANG-HSIEN WU / XINYU JIANG \n\n",
+    "17:41  OOP in STRASBOURG appeared \u2605\n       https://www.wtatennis.com/tournament/406/STRASBOURG/2025/order-of-play\n\n",
+    "17:41  NEW draw in RABAT QUALS \u2605    \n       https://www.wtatennis.com/tournament/1005/RABAT/2025/draws\n\n",
+    "       Players added to the draw in RABAT QUALS:    \n\n",
+    "       1. Harmony Tan \n",
+    "          Tan, H\n\n",
+    "       2. Tatiana Pieri \n",
+    "          Pieri, T\n\n",
+    "       3. Diae El Jardi \n",
+    "          El Jardi, D\n\n",
+    "       4. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       5. Kaitlin Quevedo \n",
+    "          Quevedo, K\n\n",
+    "       6. Lian Tran \n",
+    "          Tran, L\n\n",
+    "       7. Ekaterina Yashina \n",
+    "          Yashina, E\n\n",
+    "       8. Camilla Rosatello \n",
+    "          Rosatello, C\n\n",
+    "       9. Carol Zhao \n",
+    "          Zhao, C\n\n",
+    "       10. Carolina Alves \n",
+    "           Alves, C\n\n",
+    "       11. Luca Udvardy \n",
+    "           Udvardy, L\n\n",
+    "       12. Sada Nahimana \n",
+    "           Nahimana, S\n\n",
+    "       13. Maria Timofeeva \n",
+    "           Timofeeva, M\n\n",
+    "       14. Tereza Martincova \n",
+    "           Martincova, T\n\n",
+    "       15. Emily Appleton \n",
+    "           Appleton, E\n\n",
+    "       16. Elizabeth Mandlik \n",
+    "           Mandlik, E\n\n",
+    "17:41  OOP in RABAT appeared \u2605\n       https://www.wtatennis.com/tournament/1005/RABAT/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -629,20 +711,25 @@
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "YIFAN XU / CRISTINA BUCSA",
-            "GABRIELA DABROWSKI / ERIN ROUTLIFFE",
-            "NADIIA KICHENOK / LYUDMYLA KICHENOK",
-            "HAO-CHING CHAN / SHUKO AOYAMA",
-            "NICOLE MELICHAR-MARTINEZ / HANYU GUO",
-            "DEMI SCHUURS / ASIA MUHAMMAD",
-            "ALDILA SUTJIADI / MIYU KATO",
-            "ELLEN PEREZ / DESIRAE KRAWCZYK",
-            "LUISA STEFANI / TIMEA BABOS",
-            "OLIVIA NICHOLLS / TEREZA MIHALIKOVA",
-            "FANG-HSIEN WU / XINYU JIANG"
+            "Gabriela Dabrowski / Erin Routliffe",
+            "Xinyu Wang / Saisai Zheng",
+            "Barbora Krejcikova / Linda Noskova",
+            "Cristina Bucsa / Yifan Xu",
+            "Lyudmyla Kichenok / Nadiia Kichenok",
+            "Marie Bouzkova / Alexandra Panova",
+            "Timea Babos / Luisa Stefani",
+            "Myrtille Georges / Tatjana Maria",
+            "Caroline Dolehide / Fanny Stollar",
+            "Tereza Mihalikova / Olivia Nicholls",
+            "McCartney Kessler / Renata Zarazua",
+            "Xinyu Jiang / Fang-Hsien Wu",
+            "Miyu Kato / Aldila Sutjiadi",
+            "Hanyu Guo / Nicole Melichar-Martinez",
+            "Shuko Aoyama / Hao-Ching Chan",
+            "Desirae Krawczyk / Ellen Perez"
           ]
         }
       ],
@@ -660,14 +747,31 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-05-17"
     ],
     "RABAT": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Harmony Tan",
+            "Tatiana Pieri",
+            "Diae El Jardi",
+            "Nicole Fossa Huergo",
+            "Kaitlin Quevedo",
+            "Lian Tran",
+            "Ekaterina Yashina",
+            "Camilla Rosatello",
+            "Carol Zhao",
+            "Carolina Alves",
+            "Luca Udvardy",
+            "Sada Nahimana",
+            "Maria Timofeeva",
+            "Tereza Martincova",
+            "Emily Appleton",
+            "Elizabeth Mandlik"
+          ]
         }
       ],
       [
@@ -734,7 +838,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-05-17"
     ]
   },
   "torns": [
