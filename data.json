@@ -434,7 +434,37 @@
     "       9. MIRIAM SKOCH / JESIKA MALECKOVA \n\n",
     "       10. QIANHUI TANG / MAIA LUMSDEN \n\n",
     "       11. ISABELLE HAVERLAG / EMILY APPLETON \n\n",
-    "20:13  OOP in RABAT appeared \u2605\n       https://www.wtatennis.com/tournament/1005/RABAT/2025/order-of-play\n\n"
+    "20:13  OOP in RABAT appeared \u2605\n       https://www.wtatennis.com/tournament/1005/RABAT/2025/order-of-play\n\n",
+    "16:15  change in STRASBOURG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/406/STRASBOURG/2025/draws\n\n",
+    "       Players added to the draw in STRASBOURG SINGLES:    \n\n",
+    "       1. Caroline Dolehide \n",
+    "          Dolehide, C\n\n",
+    "       2. Marie Bouzkova \n",
+    "          Bouzkova, M\n\n",
+    "       3. Eva Lys \n",
+    "          Lys, E\n\n",
+    "       4. McCartney Kessler \n",
+    "          Kessler, M\n\n",
+    "       5. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "16:15  OOP in STRASBOURG appeared \u2605\n       https://www.wtatennis.com/tournament/406/STRASBOURG/2025/order-of-play\n\n",
+    "16:15  change in RABAT SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1005/RABAT/2025/draws\n\n",
+    "       Players added to the draw in RABAT SINGLES:    \n\n",
+    "       1. Sada Nahimana \n",
+    "          Nahimana, S\n\n",
+    "       2. Tatiana Pieri \n",
+    "          Pieri, T\n\n",
+    "       3. Maria Timofeeva \n",
+    "          Timofeeva, M\n\n",
+    "       4. Camilla Rosatello \n",
+    "          Rosatello, C\n\n",
+    "       5. Carolina Alves \n",
+    "          Alves, C\n\n",
+    "       6. Elizabeth Mandlik \n",
+    "          Mandlik, E\n\n",
+    "       Players removed from the draw in RABAT SINGLES:    \n\n",
+    "       1. Elina Avanesyan \n\n",
+    "       2. Varvara Gracheva \n\n"
   ],
   "sits": {
     "ROME": [
@@ -867,17 +897,19 @@
       ],
       [
         1,
-        23,
+        28,
         {
           "players": [
             "Jessica Pegula",
             "Anna Kalinskaya",
+            "Caroline Dolehide",
             "Danielle Collins",
             "Sofia Kenin",
             "Emma Raducanu",
             "Daria Kasatkina",
             "Paula Badosa",
             "Aliz\u00e9 Cornet",
+            "Marie Bouzkova",
             "Diane Parry",
             "Leylah Fernandez",
             "Linda Noskova",
@@ -887,11 +919,14 @@
             "Yulia Putintseva",
             "Rebecca Sramkova",
             "Xinyu Wang",
+            "Eva Lys",
             "Elena Rybakina",
             "Beatriz Haddad Maia",
             "Clara Tauson",
+            "McCartney Kessler",
             "Ashlyn Krueger",
             "Magdalena Frech",
+            "Anna Blinkova",
             "Emma Navarro"
           ]
         }
@@ -934,7 +969,7 @@
           "players": []
         }
       ],
-      "2025-05-18"
+      "2025-05-19"
     ],
     "RABAT": [
       [
@@ -963,21 +998,25 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
-            "Elina Avanesyan",
+            "Jessica Bouzas Maneiro",
             "Julia Grabher",
+            "Sada Nahimana",
             "Aya El Aouni",
+            "Tatiana Pieri",
             "Carlota Martinez Cirez",
             "Ajla Tomljanovic",
             "Viktoriya Tomova",
             "Ann Li",
-            "Katie Volynets",
+            "Maria Timofeeva",
             "Hailey Baptiste",
+            "Camilla Rosatello",
             "Ana Konjuh",
             "Maya Joint",
-            "Varvara Gracheva",
+            "Carolina Alves",
+            "Katie Volynets",
             "Katerina Siniakova",
             "Aliona Bolsova",
             "Jaqueline Cristian",
@@ -989,7 +1028,7 @@
             "Mayar Sherif",
             "Arantxa Rus",
             "Maria Mateas",
-            "Jessica Bouzas Maneiro",
+            "Elizabeth Mandlik",
             "Kamilla Rakhimova",
             "Jil Teichmann",
             "Elisabetta Cocciaretto",
