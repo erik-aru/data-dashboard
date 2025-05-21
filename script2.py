@@ -388,64 +388,66 @@ def core():
                             kolvo=len(y['eventPlayers'])
 
                             for full_name in y['eventPlayers']:
-                                
-                                if y["eventTypeCode"]=='LD':
-                                    name1=full_name['players'][0]['fullName']
-                                    id_1_1=str(full_name['players'][0]['id'])
-                                    
-                                    name2=full_name['players'][1]['fullName']
-                                    id_1_2=str(full_name['players'][1]['id'])
-
-                                    spoc1L=full_name['players'][0]['lastName']
-                                    spoc2L=full_name['players'][1]['lastName']
-
-                                    name=name1+' / '+name2
-
-                                    ids=[id_1_1,id_1_2]
-
-                                    if spoc1L==None or spoc2L==None:
+                                try:
+                                    if y["eventTypeCode"]=='LD':
+                                        name1=full_name['players'][0]['fullName']
+                                        id_1_1=str(full_name['players'][0]['id'])
                                         
-                                        spoc1L=(' ').join(name1.split()[1:])
-                                        spoc1F=name1.split()[0][0]
-                                        spoc2L=(' ').join(name2.split()[1:])
-                                        spoc2F=name2.split()[0][0]
-                                    else:
+                                        name2=full_name['players'][1]['fullName']
+                                        id_1_2=str(full_name['players'][1]['id'])
+    
                                         spoc1L=full_name['players'][0]['lastName']
-                                        try:
-                                            spoc1F=full_name['players'][0]['firstName'][0]
-                                        except:
-                                            print('\n',full_name['players'][0])
-                                            continue
-
                                         spoc2L=full_name['players'][1]['lastName']
-                                        spoc2F=full_name['players'][1]['firstName'][0]
-
-                                    spocota_format=f"{spoc1L}, {spoc1F}/{spoc2L}, {spoc2F}"    
+    
+                                        name=name1+' / '+name2
+    
+                                        ids=[id_1_1,id_1_2]
+    
+                                        if spoc1L==None or spoc2L==None:
+                                            
+                                            spoc1L=(' ').join(name1.split()[1:])
+                                            spoc1F=name1.split()[0][0]
+                                            spoc2L=(' ').join(name2.split()[1:])
+                                            spoc2F=name2.split()[0][0]
+                                        else:
+                                            spoc1L=full_name['players'][0]['lastName']
+                                            try:
+                                                spoc1F=full_name['players'][0]['firstName'][0]
+                                            except:
+                                                print('\n',full_name['players'][0])
+                                                continue
+    
+                                            spoc2L=full_name['players'][1]['lastName']
+                                            spoc2F=full_name['players'][1]['firstName'][0]
+    
+                                        spocota_format=f"{spoc1L}, {spoc1F}/{spoc2L}, {spoc2F}"    
+                                        
                                     
-                                
-                                else:
-                                    name=full_name['players'][0]['fullName']
-                                    ids=[str(full_name['players'][0]['id'])]
-
-                                    
-                                    spoc1L=full_name['players'][0]['lastName']
-                                    if spoc1L==None:
-                                        spoc1L=(' ').join(name.split()[1:])
-                                        spoc1F=name.split()[0][0]
                                     else:
-                                        try:
-                                            spoc1F=full_name['players'][0]['firstName'][0]
-                                        except:
-                                            print('\n',full_name['players'][0])
-                                            continue
-
-                                    spocota_format=f"{spoc1L}, {spoc1F}"
-                                
-                          
-                                real_players.append(name)
-                                ids_list.append(ids)
-                                spocota.append(spocota_format)
-                       
+                                        name=full_name['players'][0]['fullName']
+                                        ids=[str(full_name['players'][0]['id'])]
+    
+                                        
+                                        spoc1L=full_name['players'][0]['lastName']
+                                        if spoc1L==None:
+                                            spoc1L=(' ').join(name.split()[1:])
+                                            spoc1F=name.split()[0][0]
+                                        else:
+                                            try:
+                                                spoc1F=full_name['players'][0]['firstName'][0]
+                                            except:
+                                                print('\n',full_name['players'][0])
+                                                continue
+    
+                                        spocota_format=f"{spoc1L}, {spoc1F}"
+                                    
+                              
+                                    real_players.append(name)
+                                    ids_list.append(ids)
+                                    spocota.append(spocota_format)
+                                except:
+                                    print("error in",x)
+                                    pass
                             if sits[x[0]][i][1]!=len(y['eventPlayers']) and kolvo>0:
                                 
                                 event_type=slovar.get(y["eventTypeCode"])
