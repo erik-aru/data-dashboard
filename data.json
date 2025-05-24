@@ -1055,7 +1055,8 @@
     "       106. null null \n\n",
     "       107. null null \n\n",
     "       108. null null \n\n",
-    "       109. null null \n\n"
+    "       109. null null \n\n",
+    "04:24  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -1832,7 +1833,7 @@
           "players": []
         }
       ],
-      "2025-05-23"
+      "2025-05-25"
     ]
   },
   "torns": [
@@ -1849,5 +1850,5 @@
       903
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
