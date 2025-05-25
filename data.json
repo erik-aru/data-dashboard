@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "STRASBOURG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "RABAT": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "ROLAND-GARROS": [
       [
         0,
@@ -2033,17 +1989,9 @@
   },
   "torns": [
     [
-      "STRASBOURG",
-      406
-    ],
-    [
-      "RABAT",
-      1005
-    ],
-    [
       "ROLAND-GARROS",
       903
     ]
   ],
-  "old_day": 24
+  "old_day": 25
 }
