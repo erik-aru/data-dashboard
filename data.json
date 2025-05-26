@@ -1148,7 +1148,8 @@
     "          Starodubtseva, Y\n\n",
     "       Players removed from the draw in ROLAND-GARROS SINGLES:    \n\n",
     "       1. Sorana Cirstea \n\n",
-    "12:38  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
+    "12:38  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
+    "04:27  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -1990,7 +1991,7 @@
           "players": []
         }
       ],
-      "2025-05-26"
+      "2025-05-27"
     ]
   },
   "torns": [
@@ -1999,5 +2000,5 @@
       903
     ]
   ],
-  "old_day": 25
+  "old_day": 26
 }
