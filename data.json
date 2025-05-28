@@ -1158,7 +1158,8 @@
     "       Players removed from the draw in ROLAND-GARROS DOUBLES:    \n\n",
     "       1. Sorana Cirstea / Anna Kalinskaya \n\n",
     "       2. Marta Kostyuk / Elena-Gabriela Ruse \n\n",
-    "04:27  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
+    "04:27  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
+    "04:26  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -2000,7 +2001,7 @@
           "players": []
         }
       ],
-      "2025-05-28"
+      "2025-05-29"
     ]
   },
   "torns": [
@@ -2009,5 +2010,5 @@
       903
     ]
   ],
-  "old_day": 27
+  "old_day": 28
 }
