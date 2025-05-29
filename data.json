@@ -21,6 +21,50 @@
         0,
         "none"
       ]
+    ],
+    "BIRMINGHAM-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "BARI-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -1164,7 +1208,138 @@
     "       1. Irina-Camelia Begu / Yanina Wickmayer \n",
     "          Begu, I/Wickmayer, Y\n\n",
     "       Players removed from the draw in ROLAND-GARROS DOUBLES:    \n\n",
-    "       1. Elina Avanesyan / Elisabetta Cocciaretto \n\n"
+    "       1. Elina Avanesyan / Elisabetta Cocciaretto \n\n",
+    "04:26  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
+    "04:26  BIRMINGHAM-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/draws\n\n",
+    "       Players added to the draw in BIRMINGHAM-125 SINGLES:    \n\n",
+    "       1. TATJANA MARIA \n",
+    "          MARIA, T\n\n",
+    "       2. REBECCA MARINO \n",
+    "          MARINO, R\n\n",
+    "       3. AJLA TOMLJANOVIC \n",
+    "          TOMLJANOVIC, A\n\n",
+    "       4. VIKTORIJA GOLUBIC \n",
+    "          GOLUBIC, V\n\n",
+    "       5. HARRIET DART \n",
+    "          DART, H\n\n",
+    "       6. MAGDALENA FRECH \n",
+    "          FRECH, M\n\n",
+    "       7. ELENA-GABRIELA RUSE \n",
+    "          RUSE, E\n\n",
+    "       8. KIMBERLY BIRRELL \n",
+    "          BIRRELL, K\n\n",
+    "       9. CRISTINA BUCSA \n",
+    "          BUCSA, C\n\n",
+    "       10. GREET MINNEN \n",
+    "           MINNEN, G\n\n",
+    "       11. REBEKA MASAROVA \n",
+    "           MASAROVA, R\n\n",
+    "       12. YUE YUAN \n",
+    "           YUAN, Y\n\n",
+    "       13. YULIIA STARODUBTSEVA \n",
+    "           STARODUBTSEVA, Y\n\n",
+    "       14. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       15. OLIVIA GADECKI \n",
+    "           GADECKI, O\n\n",
+    "       16. ZEYNEP SONMEZ \n",
+    "           SONMEZ, Z\n\n",
+    "       17. MANANCHAYA SAWANGKAEW \n",
+    "           SAWANGKAEW, M\n\n",
+    "       18. ROBIN MONTGOMERY \n",
+    "           MONTGOMERY, R\n\n",
+    "       19. ANTONIA RUZIC \n",
+    "           RUZIC, A\n\n",
+    "       20. SONAY KARTAL \n",
+    "           KARTAL, S\n\n",
+    "       21. ERIKA ANDREEVA \n",
+    "           ANDREEVA, E\n\n",
+    "       22. ALEXANDRA EALA \n",
+    "           EALA, A\n\n",
+    "04:26  BIRMINGHAM-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/draws\n\n",
+    "       Players added to the draw in BIRMINGHAM-125 DOUBLES:    \n\n",
+    "       1. MONICA NICULESCU / ELENA-GABRIELA RUSE \n",
+    "          NICULESCU, M/RUSE, E\n\n",
+    "       2. ELIXANE LECHEMIA / ALICIA BARNETT \n",
+    "          LECHEMIA, E/BARNETT, A\n\n",
+    "       3. HAO-CHING CHAN / SHUKO AOYAMA \n",
+    "          CHAN, H/AOYAMA, S\n\n",
+    "       4. HEATHER WATSON / EMILY APPLETON \n",
+    "          WATSON, H/APPLETON, E\n\n",
+    "       5. MAKOTO NINOMIYA / QIANHUI TANG \n",
+    "          NINOMIYA, M/TANG, Q\n\n",
+    "       6. JESSIKA PONCHET / MAGALI KEMPEN \n",
+    "          PONCHET, J/KEMPEN, M\n\n",
+    "       7. HARRIET DART / MAIA LUMSDEN \n",
+    "          DART, H/LUMSDEN, M\n\n",
+    "       8. FANG-HSIEN WU / XINYU JIANG \n",
+    "          WU, F/JIANG, X\n\n",
+    "       9. JODIE BURRAGE / OLIVIA GADECKI \n",
+    "          BURRAGE, J/GADECKI, O\n\n",
+    "       10. IVANA CORLEY / CARMEN CORLEY \n",
+    "           CORLEY, I/CORLEY, C\n\n",
+    "       11. MADELEINE BROOKS / PETRA HULE \n",
+    "           BROOKS, M/HULE, P\n\n",
+    "04:26  BARI-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2077/BARI-125/2025/draws\n\n",
+    "       Players added to the draw in BARI-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. LAURA SIEGEMUND \n",
+    "          SIEGEMUND, L\n\n",
+    "       3. NURIA PARRIZAS DIAZ \n",
+    "          PARRIZAS DIAZ, N\n\n",
+    "       4. ANA BOGDAN \n",
+    "          BOGDAN, A\n\n",
+    "       5. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       6. KATHINKA VON DEICHMANN \n",
+    "          VON DEICHMANN, K\n\n",
+    "       7. VIKTORIYA TOMOVA \n",
+    "          TOMOVA, V\n\n",
+    "       8. CHLOE PAQUET \n",
+    "          PAQUET, C\n\n",
+    "       9. JULIA GRABHER \n",
+    "          GRABHER, J\n\n",
+    "       10. ANHELINA KALININA \n",
+    "           KALININA, A\n\n",
+    "       11. IRYNA SHYMANOVICH \n",
+    "           SHYMANOVICH, I\n\n",
+    "       12. JIL TEICHMANN \n",
+    "           TEICHMANN, J\n\n",
+    "       13. DALMA GALFI \n",
+    "           GALFI, D\n\n",
+    "       14. LUCIA BRONZETTI \n",
+    "           BRONZETTI, L\n\n",
+    "       15. ENA SHIBAHARA \n",
+    "           SHIBAHARA, E\n\n",
+    "       16. ANNA BONDAR \n",
+    "           BONDAR, A\n\n",
+    "       17. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       18. SINJA KRAUS \n",
+    "           KRAUS, S\n\n",
+    "       19. ELISABETTA COCCIARETTO \n",
+    "           COCCIARETTO, E\n\n",
+    "       20. ELSA JACQUEMOT \n",
+    "           JACQUEMOT, E\n\n",
+    "       21. LOIS BOISSON \n",
+    "           BOISSON, L\n\n",
+    "       22. SOLANA SIERRA \n",
+    "           SIERRA, S\n\n",
+    "       23. ANCA TODONI \n",
+    "           TODONI, A\n\n",
+    "       24. ALINA KORNEEVA \n",
+    "           KORNEEVA, A\n\n",
+    "04:26  BARI-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2077/BARI-125/2025/draws\n\n",
+    "       Players added to the draw in BARI-125 DOUBLES:    \n\n",
+    "       1. ANDREA GAMIZ / YVONNE CAVALLE-REIMERS \n",
+    "          GAMIZ, A/CAVALLE-REIMERS, Y\n\n",
+    "       2. QUINN GLEASON / INGRID MARTINS \n",
+    "          GLEASON, Q/MARTINS, I\n\n",
+    "       3. LARA SALDEN / KIMBERLEY ZIMMERMANN \n",
+    "          SALDEN, L/ZIMMERMANN, K\n\n",
+    "       4. ANASTASIA DETIUC / ALIONA BOLSOVA \n",
+    "          DETIUC, A/BOLSOVA, A\n\n"
   ],
   "sits": {
     "ROME": [
@@ -2006,14 +2181,163 @@
           "players": []
         }
       ],
-      "2025-05-29"
+      "2025-05-30"
+    ],
+    "BIRMINGHAM-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        22,
+        {
+          "players": [
+            "TATJANA MARIA",
+            "REBECCA MARINO",
+            "AJLA TOMLJANOVIC",
+            "VIKTORIJA GOLUBIC",
+            "HARRIET DART",
+            "MAGDALENA FRECH",
+            "ELENA-GABRIELA RUSE",
+            "KIMBERLY BIRRELL",
+            "CRISTINA BUCSA",
+            "GREET MINNEN",
+            "REBEKA MASAROVA",
+            "YUE YUAN",
+            "YULIIA STARODUBTSEVA",
+            "ALYCIA PARKS",
+            "OLIVIA GADECKI",
+            "ZEYNEP SONMEZ",
+            "MANANCHAYA SAWANGKAEW",
+            "ROBIN MONTGOMERY",
+            "ANTONIA RUZIC",
+            "SONAY KARTAL",
+            "ERIKA ANDREEVA",
+            "ALEXANDRA EALA"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "MONICA NICULESCU / ELENA-GABRIELA RUSE",
+            "ELIXANE LECHEMIA / ALICIA BARNETT",
+            "HAO-CHING CHAN / SHUKO AOYAMA",
+            "HEATHER WATSON / EMILY APPLETON",
+            "MAKOTO NINOMIYA / QIANHUI TANG",
+            "JESSIKA PONCHET / MAGALI KEMPEN",
+            "HARRIET DART / MAIA LUMSDEN",
+            "FANG-HSIEN WU / XINYU JIANG",
+            "JODIE BURRAGE / OLIVIA GADECKI",
+            "IVANA CORLEY / CARMEN CORLEY",
+            "MADELEINE BROOKS / PETRA HULE"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "BARI-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        24,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "LAURA SIEGEMUND",
+            "NURIA PARRIZAS DIAZ",
+            "ANA BOGDAN",
+            "LAURA PIGOSSI",
+            "KATHINKA VON DEICHMANN",
+            "VIKTORIYA TOMOVA",
+            "CHLOE PAQUET",
+            "JULIA GRABHER",
+            "ANHELINA KALININA",
+            "IRYNA SHYMANOVICH",
+            "JIL TEICHMANN",
+            "DALMA GALFI",
+            "LUCIA BRONZETTI",
+            "ENA SHIBAHARA",
+            "ANNA BONDAR",
+            "MAJA CHWALINSKA",
+            "SINJA KRAUS",
+            "ELISABETTA COCCIARETTO",
+            "ELSA JACQUEMOT",
+            "LOIS BOISSON",
+            "SOLANA SIERRA",
+            "ANCA TODONI",
+            "ALINA KORNEEVA"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "ANDREA GAMIZ / YVONNE CAVALLE-REIMERS",
+            "QUINN GLEASON / INGRID MARTINS",
+            "LARA SALDEN / KIMBERLEY ZIMMERMANN",
+            "ANASTASIA DETIUC / ALIONA BOLSOVA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
     [
       "ROLAND-GARROS",
       903
+    ],
+    [
+      "BIRMINGHAM-125",
+      1126
+    ],
+    [
+      "BARI-125",
+      2077
     ]
   ],
-  "old_day": 28
+  "old_day": 29
 }
