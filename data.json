@@ -1431,7 +1431,58 @@
     "       3. EDEN SILVA / ISABELLE HAVERLAG \n",
     "          SILVA, E/HAVERLAG, I\n\n",
     "       4. JESSICA FAILLA / JESSIE ANEY \n",
-    "          FAILLA, J/ANEY, J\n\n"
+    "          FAILLA, J/ANEY, J\n\n",
+    "20:22  NEW draw in BIRMINGHAM-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/draws\n\n",
+    "       Players added to the draw in BIRMINGHAM-125 QUALS:    \n\n",
+    "       1. Sijia Wei \n",
+    "          Wei, S\n\n",
+    "       2. Kayla Cross \n",
+    "          Cross, K\n\n",
+    "       3. Emily Appleton \n",
+    "          Appleton, E\n\n",
+    "       4. Lizette Cabrera \n",
+    "          Cabrera, L\n\n",
+    "       5. Destanee Aiava \n",
+    "          Aiava, D\n\n",
+    "       6. Valentina Ryser \n",
+    "          Ryser, V\n\n",
+    "       7. Yuriko Miyazaki \n",
+    "          Miyazaki, Y\n\n",
+    "       8. Celine Naef \n",
+    "          Naef, C\n\n",
+    "       9. Whitney Osuigwe \n",
+    "          Osuigwe, W\n\n",
+    "       10. Ella McDonald \n",
+    "           McDonald, E\n\n",
+    "       11. Tereza Martincova \n",
+    "           Martincova, T\n\n",
+    "       12. Kyoka Okamura \n",
+    "           Okamura, K\n\n",
+    "       13. Sara Saito \n",
+    "           Saito, S\n\n",
+    "       14. Ranah Stoiber \n",
+    "           Stoiber, R\n\n",
+    "       15. Vitalia Diatchenko \n",
+    "           Diatchenko, V\n\n",
+    "       16. Carson Branstine \n",
+    "           Branstine, C\n\n",
+    "       17. Manon Leonard \n",
+    "           Leonard, M\n\n",
+    "       18. Harmony Tan \n",
+    "           Tan, H\n\n",
+    "       19. Tegan Bush \n",
+    "           Bush, T\n\n",
+    "       20. Mariam Bolkvadze \n",
+    "           Bolkvadze, M\n\n",
+    "       21. Arianne Hartono \n",
+    "           Hartono, A\n\n",
+    "       22. Naiktha Bains \n",
+    "           Bains, N\n\n",
+    "       23. Amelia Rajecki \n",
+    "           Rajecki, A\n\n",
+    "       24. Sayaka Ishii \n",
+    "           Ishii, S\n\n",
+    "20:22  OOP in BIRMINGHAM-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -2278,9 +2329,34 @@
     "BIRMINGHAM-125": [
       [
         0,
-        0,
+        24,
         {
-          "players": []
+          "players": [
+            "Sijia Wei",
+            "Kayla Cross",
+            "Emily Appleton",
+            "Lizette Cabrera",
+            "Destanee Aiava",
+            "Valentina Ryser",
+            "Yuriko Miyazaki",
+            "Celine Naef",
+            "Whitney Osuigwe",
+            "Ella McDonald",
+            "Tereza Martincova",
+            "Kyoka Okamura",
+            "Sara Saito",
+            "Ranah Stoiber",
+            "Vitalia Diatchenko",
+            "Carson Branstine",
+            "Manon Leonard",
+            "Harmony Tan",
+            "Tegan Bush",
+            "Mariam Bolkvadze",
+            "Arianne Hartono",
+            "Naiktha Bains",
+            "Amelia Rajecki",
+            "Sayaka Ishii"
+          ]
         }
       ],
       [
@@ -2346,7 +2422,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-05-31"
     ],
     "BARI-125": [
       [
