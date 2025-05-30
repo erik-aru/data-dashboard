@@ -65,6 +65,28 @@
         0,
         "none"
       ]
+    ],
+    "MAKARSKA-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -1344,7 +1366,72 @@
     "       1. Anna Bondar / Greet Minnen \n",
     "          Bondar, A/Minnen, G\n\n",
     "       Players removed from the draw in ROLAND-GARROS DOUBLES:    \n\n",
-    "       1. Marie Bouzkova / Marketa Vondrousova \n\n"
+    "       1. Marie Bouzkova / Marketa Vondrousova \n\n",
+    "04:26  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
+    "04:26  MAKARSKA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/draws\n\n",
+    "       Players added to the draw in MAKARSKA-125 SINGLES:    \n\n",
+    "       1. PETRA MARTIC \n",
+    "          MARTIC, P\n\n",
+    "       2. DARIA SAVILLE \n",
+    "          SAVILLE, D\n\n",
+    "       3. TAMARA KORPATSCH \n",
+    "          KORPATSCH, T\n\n",
+    "       4. NINA STOJANOVIC \n",
+    "          STOJANOVIC, N\n\n",
+    "       5. FIONA FERRO \n",
+    "          FERRO, F\n\n",
+    "       6. LEOLIA JEANJEAN \n",
+    "          JEANJEAN, L\n\n",
+    "       7. JAQUELINE  CRISTIAN \n",
+    "          CRISTIAN, J\n\n",
+    "       8. RENATA ZARAZUA \n",
+    "          ZARAZUA, R\n\n",
+    "       9. ALIONA BOLSOVA \n",
+    "          BOLSOVA, A\n\n",
+    "       10. MARIA LOURDES CARLE \n",
+    "           CARLE, M\n\n",
+    "       11. TAMARA ZIDANSEK \n",
+    "           ZIDANSEK, T\n\n",
+    "       12. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       13. JULE NIEMEIER \n",
+    "           NIEMEIER, J\n\n",
+    "       14. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       15. XIYU WANG \n",
+    "           WANG, X\n\n",
+    "       16. LEYRE ROMERO GORMAZ \n",
+    "           ROMERO GORMAZ, L\n\n",
+    "       17. DIANE PARRY \n",
+    "           PARRY, D\n\n",
+    "       18. MOYUKA UCHIJIMA \n",
+    "           UCHIJIMA, M\n\n",
+    "       19. KATIE VOLYNETS \n",
+    "           VOLYNETS, K\n\n",
+    "       20. VERONIKA ERJAVEC \n",
+    "           ERJAVEC, V\n\n",
+    "       21. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       22. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       23. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       24. MAYA JOINT \n",
+    "           JOINT, M\n\n",
+    "       25. ELLA SEIDEL \n",
+    "           SEIDEL, E\n\n",
+    "       26. ELENA PRIDANKINA \n",
+    "           PRIDANKINA, E\n\n",
+    "04:26  MAKARSKA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/draws\n\n",
+    "       Players added to the draw in MAKARSKA-125 DOUBLES:    \n\n",
+    "       1. OKSANA KALASHNIKOVA / ELENA PRIDANKINA \n",
+    "          KALASHNIKOVA, O/PRIDANKINA, E\n\n",
+    "       2. JESIKA MALECKOVA / MIRIAM SKOCH \n",
+    "          MALECKOVA, J/SKOCH, M\n\n",
+    "       3. EDEN SILVA / ISABELLE HAVERLAG \n",
+    "          SILVA, E/HAVERLAG, I\n\n",
+    "       4. JESSICA FAILLA / JESSIE ANEY \n",
+    "          FAILLA, J/ANEY, J\n\n"
   ],
   "sits": {
     "ROME": [
@@ -2186,7 +2273,7 @@
           "players": []
         }
       ],
-      "2025-05-30"
+      "2025-05-31"
     ],
     "BIRMINGHAM-125": [
       [
@@ -2328,6 +2415,76 @@
         }
       ],
       "nothing"
+    ],
+    "MAKARSKA-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        26,
+        {
+          "players": [
+            "PETRA MARTIC",
+            "DARIA SAVILLE",
+            "TAMARA KORPATSCH",
+            "NINA STOJANOVIC",
+            "FIONA FERRO",
+            "LEOLIA JEANJEAN",
+            "JAQUELINE  CRISTIAN",
+            "RENATA ZARAZUA",
+            "ALIONA BOLSOVA",
+            "MARIA LOURDES CARLE",
+            "TAMARA ZIDANSEK",
+            "SIMONA WALTERT",
+            "JULE NIEMEIER",
+            "PANNA UDVARDY",
+            "XIYU WANG",
+            "LEYRE ROMERO GORMAZ",
+            "DIANE PARRY",
+            "MOYUKA UCHIJIMA",
+            "KATIE VOLYNETS",
+            "VERONIKA ERJAVEC",
+            "OKSANA SELEKHMETEVA",
+            "DARJA SEMENISTAJA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "MAYA JOINT",
+            "ELLA SEIDEL",
+            "ELENA PRIDANKINA"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "OKSANA KALASHNIKOVA / ELENA PRIDANKINA",
+            "JESIKA MALECKOVA / MIRIAM SKOCH",
+            "EDEN SILVA / ISABELLE HAVERLAG",
+            "JESSICA FAILLA / JESSIE ANEY"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -2342,7 +2499,11 @@
     [
       "BARI-125",
       2077
+    ],
+    [
+      "MAKARSKA-125",
+      1090
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
