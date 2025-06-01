@@ -1484,7 +1484,8 @@
     "           Ishii, S\n\n",
     "20:22  OOP in BIRMINGHAM-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/order-of-play\n\n",
     "04:24  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
-    "20:20  OOP in BIRMINGHAM-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/order-of-play\n\n"
+    "20:20  OOP in BIRMINGHAM-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/order-of-play\n\n",
+    "04:36  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -2326,7 +2327,7 @@
           "players": []
         }
       ],
-      "2025-06-01"
+      "2025-06-02"
     ],
     "BIRMINGHAM-125": [
       [
@@ -2583,5 +2584,5 @@
       1090
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
