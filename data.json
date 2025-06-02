@@ -1722,7 +1722,57 @@
     "       7. Martina Colmegna \n",
     "          Colmegna, M\n\n",
     "20:22  OOP in BARI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2077/BARI-125/2025/order-of-play\n\n",
-    "04:30  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
+    "04:30  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
+    "12:43  change in BARI-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2077/BARI-125/2025/draws\n\n",
+    "       Players added to the draw in BARI-125 DOUBLES:    \n\n",
+    "       1. Quinn Gleason / Ingrid Martins \n",
+    "          Gleason, Q/Martins, I\n\n",
+    "       2. Astra Sharma / Kathinka Von Deichmann \n",
+    "          Sharma, A/Von Deichmann, K\n\n",
+    "       3. Varvara Lepchenko / Ekaterina Yashina \n",
+    "          Lepchenko, V/Yashina, E\n\n",
+    "       4. Vittoria Paganetti / Federica Urgesi \n",
+    "          Paganetti, V/Urgesi, F\n\n",
+    "       5. Maria Kozyreva / Iryna Shymanovich \n",
+    "          Kozyreva, M/Shymanovich, I\n\n",
+    "       6. Yvonne Cavalle-Reimers / Andrea Gamiz \n",
+    "          Cavalle-Reimers, Y/Gamiz, A\n\n",
+    "       7. Maja Chwalinska / Laura Pigossi \n",
+    "          Chwalinska, M/Pigossi, L\n\n",
+    "       8. Eva Vedder / Kimberley Zimmermann \n",
+    "          Vedder, E/Zimmermann, K\n\n",
+    "       Players removed from the draw in BARI-125 DOUBLES:    \n\n",
+    "       1. ANDREA GAMIZ / YVONNE CAVALLE-REIMERS \n\n",
+    "       2. QUINN GLEASON / INGRID MARTINS \n\n",
+    "       3. LARA SALDEN / KIMBERLEY ZIMMERMANN \n\n",
+    "       4. ANASTASIA DETIUC / ALIONA BOLSOVA \n\n",
+    "12:43  change in BARI-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/2077/BARI-125/2025/draws\n\n",
+    "       Players added to the draw in BARI-125 QUALS:    \n\n",
+    "       1. Lina Glushko \n",
+    "          Glushko, L\n\n",
+    "12:43  change in MAKARSKA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/draws\n\n",
+    "       Players added to the draw in MAKARSKA-125 DOUBLES:    \n\n",
+    "       1. Oksana Kalashnikova / Elena Pridankina \n",
+    "          Kalashnikova, O/Pridankina, E\n\n",
+    "       2. Victoria Jimenez Kasintseva / Taylah Preston \n",
+    "          Jimenez Kasintseva, V/Preston, T\n\n",
+    "       3. Petra Marcinko / Tara Wuerth \n",
+    "          Marcinko, P/Wuerth, T\n\n",
+    "       4. Jessie Aney / Jessica Failla \n",
+    "          Aney, J/Failla, J\n\n",
+    "       5. Lola Radivojevic / Tamara Zidansek \n",
+    "          Radivojevic, L/Zidansek, T\n\n",
+    "       6. Isabelle Haverlag / Eden Silva \n",
+    "          Haverlag, I/Silva, E\n\n",
+    "       7. Bibiane Schoofs / Renata Zarazua \n",
+    "          Schoofs, B/Zarazua, R\n\n",
+    "       8. Jesika Maleckova / Miriam Skoch \n",
+    "          Maleckova, J/Skoch, M\n\n",
+    "       Players removed from the draw in MAKARSKA-125 DOUBLES:    \n\n",
+    "       1. OKSANA KALASHNIKOVA / ELENA PRIDANKINA \n\n",
+    "       2. JESIKA MALECKOVA / MIRIAM SKOCH \n\n",
+    "       3. EDEN SILVA / ISABELLE HAVERLAG \n\n",
+    "       4. JESSICA FAILLA / JESSIE ANEY \n\n"
   ],
   "sits": {
     "ROME": [
@@ -2682,13 +2732,14 @@
     "BARI-125": [
       [
         0,
-        7,
+        8,
         {
           "players": [
             "Astra Sharma",
             "Viola Turini",
             "Justina Mikulskyte",
             "Mei Yamaguchi",
+            "Lina Glushko",
             "Eva Vedder",
             "Angela Fita Boluda",
             "Martina Colmegna"
@@ -2733,13 +2784,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ANDREA GAMIZ / YVONNE CAVALLE-REIMERS",
-            "QUINN GLEASON / INGRID MARTINS",
-            "LARA SALDEN / KIMBERLEY ZIMMERMANN",
-            "ANASTASIA DETIUC / ALIONA BOLSOVA"
+            "Quinn Gleason / Ingrid Martins",
+            "Astra Sharma / Kathinka Von Deichmann",
+            "Varvara Lepchenko / Ekaterina Yashina",
+            "Vittoria Paganetti / Federica Urgesi",
+            "Maria Kozyreva / Iryna Shymanovich",
+            "Yvonne Cavalle-Reimers / Andrea Gamiz",
+            "Maja Chwalinska / Laura Pigossi",
+            "Eva Vedder / Kimberley Zimmermann"
           ]
         }
       ],
@@ -2803,13 +2858,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "OKSANA KALASHNIKOVA / ELENA PRIDANKINA",
-            "JESIKA MALECKOVA / MIRIAM SKOCH",
-            "EDEN SILVA / ISABELLE HAVERLAG",
-            "JESSICA FAILLA / JESSIE ANEY"
+            "Oksana Kalashnikova / Elena Pridankina",
+            "Victoria Jimenez Kasintseva / Taylah Preston",
+            "Petra Marcinko / Tara Wuerth",
+            "Jessie Aney / Jessica Failla",
+            "Lola Radivojevic / Tamara Zidansek",
+            "Isabelle Haverlag / Eden Silva",
+            "Bibiane Schoofs / Renata Zarazua",
+            "Jesika Maleckova / Miriam Skoch"
           ]
         }
       ],
