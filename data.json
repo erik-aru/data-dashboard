@@ -1889,7 +1889,20 @@
     "       8. Isabel He \n",
     "          He, I\n\n",
     "20:22  OOP in MAKARSKA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/order-of-play\n\n",
-    "04:27  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
+    "04:27  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
+    "20:24  OOP in BIRMINGHAM-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1126/BIRMINGHAM-125/2025/order-of-play\n\n",
+    "20:24  OOP in BARI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2077/BARI-125/2025/order-of-play\n\n",
+    "20:24  change in MAKARSKA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/draws\n\n",
+    "       Players added to the draw in MAKARSKA-125 SINGLES:    \n\n",
+    "       1. Tara Wuerth \n",
+    "          Wuerth, T\n\n",
+    "       2. Sara Svetac \n",
+    "          Svetac, S\n\n",
+    "       3. Margaux Rouvroy \n",
+    "          Rouvroy, M\n\n",
+    "       4. Anastasiia Sobolieva \n",
+    "          Sobolieva, A\n\n",
+    "20:24  OOP in MAKARSKA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -2844,7 +2857,7 @@
           "players": []
         }
       ],
-      "2025-06-03"
+      "2025-06-04"
     ],
     "BARI-125": [
       [
@@ -2933,7 +2946,7 @@
           "players": []
         }
       ],
-      "2025-06-03"
+      "2025-06-04"
     ],
     "MAKARSKA-125": [
       [
@@ -2954,13 +2967,15 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Maya Joint",
             "Ana Konjuh",
             "Tamara Zidansek",
             "Louisa Chirico",
+            "Tara Wuerth",
+            "Sara Svetac",
             "Jule Niemeier",
             "Darja Semenistaja",
             "Mayar Sherif",
@@ -2969,6 +2984,7 @@
             "Elena Pridankina",
             "Sara Bejlek",
             "Leyre Romero Gormaz",
+            "Margaux Rouvroy",
             "Petra Martic",
             "Ella Seidel",
             "Victoria Jimenez Kasintseva",
@@ -2976,6 +2992,7 @@
             "Hanne Vandewinkel",
             "Petra Marcinko",
             "Miriam Bulgaru",
+            "Anastasiia Sobolieva",
             "Renata Zarazua",
             "Diane Parry",
             "Lauren Davis",
@@ -3018,7 +3035,7 @@
           "players": []
         }
       ],
-      "2025-06-03"
+      "2025-06-04"
     ]
   },
   "torns": [
