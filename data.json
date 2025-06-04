@@ -1902,7 +1902,8 @@
     "          Rouvroy, M\n\n",
     "       4. Anastasiia Sobolieva \n",
     "          Sobolieva, A\n\n",
-    "20:24  OOP in MAKARSKA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/order-of-play\n\n"
+    "20:24  OOP in MAKARSKA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2025/order-of-play\n\n",
+    "04:28  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -2744,7 +2745,7 @@
           "players": []
         }
       ],
-      "2025-06-04"
+      "2025-06-05"
     ],
     "BIRMINGHAM-125": [
       [
@@ -3056,5 +3057,5 @@
       1090
     ]
   ],
-  "old_day": 3
+  "old_day": 4
 }
