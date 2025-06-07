@@ -2451,7 +2451,12 @@
     "           Stojsavljevic, M\n\n",
     "       24. Priscilla Hon \n",
     "           Hon, P\n\n",
-    "20:23  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2025/order-of-play\n\n"
+    "20:23  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2025/order-of-play\n\n",
+    "04:25  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2025/order-of-play\n\n",
+    "04:25  'S-HERTOGENBOSCH QUALS draw    \n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2025/draws\n\n",
+    "       Players added to the draw in 'S-HERTOGENBOSCH QUALS:    \n\n",
+    "       Players removed from the draw in 'S-HERTOGENBOSCH QUALS:    \n\n",
+    "       1. Greet Minnen \n\n"
   ],
   "sits": {
     "ROME": [
@@ -3293,7 +3298,7 @@
           "players": []
         }
       ],
-      "2025-06-07"
+      "2025-06-08"
     ],
     "BIRMINGHAM-125": [
       [
@@ -3589,10 +3594,9 @@
     "'S-HERTOGENBOSCH": [
       [
         0,
-        23,
+        22,
         {
           "players": [
-            "Greet Minnen",
             "Isis Louise Van Den Broek",
             "Lian Tran",
             "Nina Stojanovic",
@@ -4025,5 +4029,5 @@
       2061
     ]
   ],
-  "old_day": 6
+  "old_day": 7
 }
