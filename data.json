@@ -2456,7 +2456,18 @@
     "04:25  'S-HERTOGENBOSCH QUALS draw    \n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2025/draws\n\n",
     "       Players added to the draw in 'S-HERTOGENBOSCH QUALS:    \n\n",
     "       Players removed from the draw in 'S-HERTOGENBOSCH QUALS:    \n\n",
-    "       1. Greet Minnen \n\n"
+    "       1. Greet Minnen \n\n",
+    "12:38  change in 'S-HERTOGENBOSCH QUALS \u2605   \n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2025/draws\n\n",
+    "       Players added to the draw in 'S-HERTOGENBOSCH QUALS:    \n\n",
+    "       1. Nadiya Kolb \n",
+    "          Kolb, N\n\n",
+    "       2. Jessica Failla \n",
+    "          Failla, J\n\n",
+    "12:38  change in QUEENS QUALS \u2605   \n       https://www.wtatennis.com/tournament/1111/QUEENS/2025/draws\n\n       Players added to the draw in QUEENS QUALS:    \n\n",
+    "       1. Hao-Ching Chan \n",
+    "          Chan, H\n\n",
+    "       Players removed from the draw in QUEENS QUALS:    \n\n",
+    "       1. Lin Zhu \n\n"
   ],
   "sits": {
     "ROME": [
@@ -3594,9 +3605,10 @@
     "'S-HERTOGENBOSCH": [
       [
         0,
-        22,
+        24,
         {
           "players": [
+            "Nadiya Kolb",
             "Isis Louise Van Den Broek",
             "Lian Tran",
             "Nina Stojanovic",
@@ -3618,7 +3630,8 @@
             "Joanna Garland",
             "Ella Seidel",
             "Sarah Van Emst",
-            "Yanina Wickmayer"
+            "Yanina Wickmayer",
+            "Jessica Failla"
           ]
         }
       ],
@@ -3705,7 +3718,7 @@
             "Heather Watson",
             "Ena Shibahara",
             "Tatjana Maria",
-            "Lin Zhu",
+            "Hao-Ching Chan",
             "Arina Rodionova",
             "Destanee Aiava",
             "Emiliana Arango",
