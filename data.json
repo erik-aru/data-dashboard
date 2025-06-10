@@ -3171,7 +3171,21 @@
     "       1. YVONNE CAVALLE-REIMERS / ANGELA FITA BOLUDA \n\n",
     "       2. ALICIA HERRERO LINANA / EKATERINE GORGODZE \n\n",
     "       3. MARIA KOZYREVA / IRYNA SHYMANOVICH \n\n",
-    "       4. LEYRE ROMERO GORMAZ / MARIA LOURDES CARLE \n\n"
+    "       4. LEYRE ROMERO GORMAZ / MARIA LOURDES CARLE \n\n",
+    "20:23  OOP in 'S-HERTOGENBOSCH appeared \u2605\n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2025/order-of-play\n\n",
+    "20:23  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2025/order-of-play\n\n",
+    "20:23  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2025/order-of-play\n\n",
+    "20:23  OOP in GRADO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1129/GRADO-125/2025/order-of-play\n\n",
+    "20:23  change in VALENCIA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2025/draws\n\n       Players added to the draw in VALENCIA-125 SINGLES:    \n\n",
+    "       1. Ekaterine Gorgodze \n",
+    "          Gorgodze, E\n\n",
+    "       Players removed from the draw in VALENCIA-125 SINGLES:    \n\n",
+    "       1. Patricia Maria Tig \n\n",
+    "20:23  change in VALENCIA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2025/draws\n\n",
+    "       Players added to the draw in VALENCIA-125 DOUBLES:    \n\n",
+    "       Players removed from the draw in VALENCIA-125 DOUBLES:    \n\n",
+    "       1. Darja Semenistaja / Anastasiia Sobolieva \n\n",
+    "20:23  OOP in VALENCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -4417,7 +4431,7 @@
           "players": []
         }
       ],
-      "2025-06-10"
+      "2025-06-11"
     ],
     "QUEENS": [
       [
@@ -4526,7 +4540,7 @@
           "players": []
         }
       ],
-      "2025-06-10"
+      "2025-06-11"
     ],
     "ILKLEY-125": [
       [
@@ -4639,7 +4653,7 @@
           "players": []
         }
       ],
-      "2025-06-10"
+      "2025-06-11"
     ],
     "GRADO-125": [
       [
@@ -4741,7 +4755,7 @@
           "players": []
         }
       ],
-      "2025-06-10"
+      "2025-06-11"
     ],
     "VALENCIA-125": [
       [
@@ -4785,7 +4799,7 @@
             "Haruka Kaji",
             "Louisa Chirico",
             "Charo Esquiva Banuls",
-            "Patricia Maria Tig",
+            "Ekaterine Gorgodze",
             "Leyre Romero Gormaz",
             "Mona Barthel",
             "Xiyu Wang",
@@ -4810,13 +4824,12 @@
       ],
       [
         2,
-        8,
+        7,
         {
           "players": [
             "Maria Kozyreva / Iryna Shymanovich",
             "Maria Lourdes Carle / Leyre Romero Gormaz",
             "Alina Korneeva / Solana Sierra",
-            "Darja Semenistaja / Anastasiia Sobolieva",
             "Ekaterine Gorgodze / Alicia Herrero Linana",
             "Yvonne Cavalle-Reimers / Angela Fita Boluda",
             "Aoi Ito / Ekaterina Yashina",
@@ -4838,7 +4851,7 @@
           "players": []
         }
       ],
-      "2025-06-10"
+      "2025-06-11"
     ]
   },
   "torns": [
