@@ -3189,7 +3189,17 @@
     "12:43  change in VALENCIA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2025/draws\n\n",
     "       Players added to the draw in VALENCIA-125 DOUBLES:    \n\n",
     "       1. Alevtina Ibragimova / Anita Wagner \n",
-    "          Ibragimova, A/Wagner, A\n\n"
+    "          Ibragimova, A/Wagner, A\n\n",
+    "20:22  OOP in 'S-HERTOGENBOSCH appeared \u2605\n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2025/order-of-play\n\n",
+    "20:22  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2025/order-of-play\n\n",
+    "20:22  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2025/order-of-play\n\n",
+    "20:22  change in GRADO-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1129/GRADO-125/2025/draws\n\n       Players added to the draw in GRADO-125 DOUBLES:    \n\n",
+    "       1. Camilla Franzin / Cecilia Franzin \n",
+    "          Franzin, C/Franzin, C\n\n",
+    "       Players removed from the draw in GRADO-125 DOUBLES:    \n\n",
+    "       1. Tyra Caterina Grant / Taylor Townsend \n\n",
+    "20:22  OOP in GRADO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1129/GRADO-125/2025/order-of-play\n\n",
+    "20:22  OOP in VALENCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -4435,7 +4445,7 @@
           "players": []
         }
       ],
-      "2025-06-11"
+      "2025-06-12"
     ],
     "QUEENS": [
       [
@@ -4544,7 +4554,7 @@
           "players": []
         }
       ],
-      "2025-06-11"
+      "2025-06-12"
     ],
     "ILKLEY-125": [
       [
@@ -4657,7 +4667,7 @@
           "players": []
         }
       ],
-      "2025-06-11"
+      "2025-06-12"
     ],
     "GRADO-125": [
       [
@@ -4731,7 +4741,7 @@
             "Barbora Palicova / Tatiana Prozorova",
             "Alena Fomina-Klotz / Sada Nahimana",
             "Jesika Maleckova / Miriam Skoch",
-            "Tyra Caterina Grant / Taylor Townsend",
+            "Camilla Franzin / Cecilia Franzin",
             "Rasheeda McAdoo / Maria Paulina Perez Garcia",
             "Giorgia Pedone / Federica Urgesi",
             "Veronika Erjavec / Dominika Salkova",
@@ -4759,7 +4769,7 @@
           "players": []
         }
       ],
-      "2025-06-11"
+      "2025-06-12"
     ],
     "VALENCIA-125": [
       [
@@ -4856,7 +4866,7 @@
           "players": []
         }
       ],
-      "2025-06-11"
+      "2025-06-12"
     ]
   },
   "torns": [
