@@ -3733,7 +3733,29 @@
     "       9. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
     "       10. FANG-HSIEN WU / XINYU JIANG \n\n",
     "       11. DIANA SHNAIDER / MIRRA ANDREEVA \n\n",
-    "20:20  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n"
+    "20:20  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n",
+    "20:21  change in NOTTINGHAM SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2025/draws\n\n",
+    "       Players added to the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       Players removed from the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       1. Elise Mertens \n\n",
+    "20:21  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2025/order-of-play\n\n",
+    "20:21  change in BERLIN SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/draws\n\n",
+    "       Players added to the draw in BERLIN SINGLES:    \n\n",
+    "       1. Sofia Kenin \n",
+    "          Kenin, S\n\n",
+    "       2. Rebeka Masarova \n",
+    "          Masarova, R\n\n",
+    "       3. Viktoriya Tomova \n",
+    "          Tomova, V\n\n",
+    "       4. Katerina Siniakova \n",
+    "          Siniakova, K\n\n",
+    "       5. Caroline Dolehide \n",
+    "          Dolehide, C\n\n",
+    "       6. Ons Jabeur \n",
+    "          Jabeur, O\n\n",
+    "       7. Xinyu Wang \n",
+    "          Wang, X\n\n",
+    "20:21  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -5437,7 +5459,7 @@
       ],
       [
         1,
-        26,
+        25,
         {
           "players": [
             "Beatriz Haddad Maia",
@@ -5458,12 +5480,11 @@
             "Tatjana Maria",
             "Lucia Bronzetti",
             "Dayana Yastremska",
-            "Elise Mertens",
+            "Olga Danilovic",
             "Magda Linette",
             "Mingge Xu",
             "Katie Volynets",
             "Anna Blinkova",
-            "Olga Danilovic",
             "Kimberly Birrell",
             "Clara Tauson"
           ]
@@ -5507,7 +5528,7 @@
           "players": []
         }
       ],
-      "2025-06-15"
+      "2025-06-16"
     ],
     "BERLIN": [
       [
@@ -5544,13 +5565,19 @@
       ],
       [
         1,
-        21,
+        28,
         {
           "players": [
             "Aryna Sabalenka",
+            "Sofia Kenin",
+            "Rebeka Masarova",
+            "Viktoriya Tomova",
+            "Katerina Siniakova",
             "Elena Rybakina",
             "Qinwen Zheng",
             "Jasmine Paolini",
+            "Caroline Dolehide",
+            "Ons Jabeur",
             "Diana Shnaider",
             "Donna Vekic",
             "Marketa Vondrousova",
@@ -5566,6 +5593,7 @@
             "Eva Lys",
             "Marta Kostyuk",
             "Emma Navarro",
+            "Xinyu Wang",
             "Daria Kasatkina",
             "Coco Gauff"
           ]
@@ -5609,7 +5637,7 @@
           "players": []
         }
       ],
-      "2025-06-15"
+      "2025-06-16"
     ]
   },
   "torns": [
