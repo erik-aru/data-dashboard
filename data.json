@@ -1,115 +1,5 @@
 {
   "kuits": {
-    "'S-HERTOGENBOSCH": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "QUEENS": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "ILKLEY-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "GRADO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "VALENCIA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "NOTTINGHAM": [
       [
         0,
@@ -3755,7 +3645,23 @@
     "          Jabeur, O\n\n",
     "       7. Xinyu Wang \n",
     "          Wang, X\n\n",
-    "20:21  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n"
+    "20:21  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n",
+    "04:33  NOTTINGHAM SINGLES draw    \n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2025/draws\n\n",
+    "       Players added to the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       1. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       2. Leolia Jeanjean \n",
+    "          Jeanjean, L\n\n",
+    "       3. Laura Siegemund \n",
+    "          Siegemund, L\n\n",
+    "       4. Anca Todoni \n",
+    "          Todoni, A\n\n",
+    "       5. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       6. Alexandra Eala \n",
+    "          Eala, A\n\n",
+    "       7. Kamilla Rakhimova \n",
+    "          Rakhimova, K\n\n"
   ],
   "sits": {
     "ROME": [
@@ -5459,32 +5365,39 @@
       ],
       [
         1,
-        25,
+        32,
         {
           "players": [
             "Beatriz Haddad Maia",
             "McCartney Kessler",
             "Lin Zhu",
+            "Aliaksandra Sasnovich",
             "Sonay Kartal",
+            "Leolia Jeanjean",
             "Lulu Sun",
             "Katie Boulter",
             "Yulia Putintseva",
             "Hannah Klugman",
+            "Laura Siegemund",
             "Rebecca Sramkova",
             "Francesca Jones",
             "Harriet Dart",
+            "Anca Todoni",
             "Linda Noskova",
             "Leylah Fernandez",
             "Suzan Lamens",
             "Petra Kvitova",
             "Tatjana Maria",
+            "Antonia Ruzic",
             "Lucia Bronzetti",
             "Dayana Yastremska",
             "Olga Danilovic",
             "Magda Linette",
+            "Alexandra Eala",
             "Mingge Xu",
             "Katie Volynets",
             "Anna Blinkova",
+            "Kamilla Rakhimova",
             "Kimberly Birrell",
             "Clara Tauson"
           ]
@@ -5642,26 +5555,6 @@
   },
   "torns": [
     [
-      "'S-HERTOGENBOSCH",
-      822
-    ],
-    [
-      "QUEENS",
-      1111
-    ],
-    [
-      "ILKLEY-125",
-      1127
-    ],
-    [
-      "GRADO-125",
-      1129
-    ],
-    [
-      "VALENCIA-125",
-      2061
-    ],
-    [
       "NOTTINGHAM",
       1080
     ],
@@ -5670,5 +5563,5 @@
       2012
     ]
   ],
-  "old_day": 15
+  "old_day": 16
 }
