@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "BAD-HOMBURG": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -3680,7 +3702,71 @@
     "       Players removed from the draw in BERLIN SINGLES:    \n\n",
     "       1. Qinwen Zheng \n\n",
     "20:22  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2025/order-of-play\n\n",
-    "20:22  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n"
+    "20:22  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n",
+    "04:29  BAD-HOMBURG SINGLES draw    \n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/draws\n\n",
+    "       Players added to the draw in BAD-HOMBURG SINGLES:    \n\n",
+    "       1. ELINA SVITOLINA \n",
+    "          SVITOLINA, E\n\n",
+    "       2. JESSICA PEGULA \n",
+    "          PEGULA, J\n\n",
+    "       3. ELISE MERTENS \n",
+    "          MERTENS, E\n\n",
+    "       4. BEATRIZ HADDAD MAIA \n",
+    "          HADDAD MAIA, B\n\n",
+    "       5. DONNA VEKIC \n",
+    "          VEKIC, D\n\n",
+    "       6. BELINDA BENCIC \n",
+    "          BENCIC, B\n\n",
+    "       7. EKATERINA ALEXANDROVA \n",
+    "          ALEXANDROVA, E\n\n",
+    "       8. JASMINE PAOLINI \n",
+    "          PAOLINI, J\n\n",
+    "       9. PAULA BADOSA \n",
+    "          BADOSA, P\n\n",
+    "       10. MAGDALENA FRECH \n",
+    "           FRECH, M\n\n",
+    "       11. LIUDMILA SAMSONOVA \n",
+    "           SAMSONOVA, L\n\n",
+    "       12. EMMA NAVARRO \n",
+    "           NAVARRO, E\n\n",
+    "       13. IGA SWIATEK \n",
+    "           SWIATEK, I\n\n",
+    "       14. MARTA KOSTYUK \n",
+    "           KOSTYUK, M\n\n",
+    "       15. LEYLAH FERNANDEZ \n",
+    "           FERNANDEZ, L\n\n",
+    "       16. CLARA TAUSON \n",
+    "           TAUSON, C\n\n",
+    "       17. LINDA NOSKOVA \n",
+    "           NOSKOVA, L\n\n",
+    "       18. DIANA SHNAIDER \n",
+    "           SHNAIDER, D\n\n",
+    "       19. MIRRA ANDREEVA \n",
+    "           ANDREEVA, M\n\n",
+    "04:29  BAD-HOMBURG DOUBLES draw    \n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/draws\n\n",
+    "       Players added to the draw in BAD-HOMBURG DOUBLES:    \n\n",
+    "       1. ALEXANDRA PANOVA / HANYU GUO \n",
+    "          PANOVA, A/GUO, H\n\n",
+    "       2. ULRIKKE EIKERI / MAKOTO NINOMIYA \n",
+    "          EIKERI, U/NINOMIYA, M\n\n",
+    "       3. NICOLE MELICHAR-MARTINEZ / NADIIA KICHENOK \n",
+    "          MELICHAR-MARTINEZ, N/KICHENOK, N\n\n",
+    "       4. ERIN ROUTLIFFE / GABRIELA DABROWSKI \n",
+    "          ROUTLIFFE, E/DABROWSKI, G\n\n",
+    "       5. DEMI SCHUURS / ASIA MUHAMMAD \n",
+    "          SCHUURS, D/MUHAMMAD, A\n\n",
+    "       6. ZHAOXUAN YANG / YIFAN XU \n",
+    "          YANG, Z/XU, Y\n\n",
+    "       7. IRINA KHROMACHEVA / FANNY STOLLAR \n",
+    "          KHROMACHEVA, I/STOLLAR, F\n\n",
+    "       8. ELLEN PEREZ / LYUDMYLA KICHENOK \n",
+    "          PEREZ, E/KICHENOK, L\n\n",
+    "       9. LUISA STEFANI / TIMEA BABOS \n",
+    "          STEFANI, L/BABOS, T\n\n",
+    "       10. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n",
+    "           NICHOLLS, O/MIHALIKOVA, T\n\n",
+    "       11. FANG-HSIEN WU / XINYU JIANG \n",
+    "           WU, F/JIANG, X\n\n"
   ],
   "sits": {
     "ROME": [
@@ -5570,6 +5656,76 @@
         }
       ],
       "2025-06-18"
+    ],
+    "BAD-HOMBURG": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        19,
+        {
+          "players": [
+            "ELINA SVITOLINA",
+            "JESSICA PEGULA",
+            "ELISE MERTENS",
+            "BEATRIZ HADDAD MAIA",
+            "DONNA VEKIC",
+            "BELINDA BENCIC",
+            "EKATERINA ALEXANDROVA",
+            "JASMINE PAOLINI",
+            "PAULA BADOSA",
+            "MAGDALENA FRECH",
+            "LIUDMILA SAMSONOVA",
+            "EMMA NAVARRO",
+            "IGA SWIATEK",
+            "MARTA KOSTYUK",
+            "LEYLAH FERNANDEZ",
+            "CLARA TAUSON",
+            "LINDA NOSKOVA",
+            "DIANA SHNAIDER",
+            "MIRRA ANDREEVA"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ALEXANDRA PANOVA / HANYU GUO",
+            "ULRIKKE EIKERI / MAKOTO NINOMIYA",
+            "NICOLE MELICHAR-MARTINEZ / NADIIA KICHENOK",
+            "ERIN ROUTLIFFE / GABRIELA DABROWSKI",
+            "DEMI SCHUURS / ASIA MUHAMMAD",
+            "ZHAOXUAN YANG / YIFAN XU",
+            "IRINA KHROMACHEVA / FANNY STOLLAR",
+            "ELLEN PEREZ / LYUDMYLA KICHENOK",
+            "LUISA STEFANI / TIMEA BABOS",
+            "OLIVIA NICHOLLS / TEREZA MIHALIKOVA",
+            "FANG-HSIEN WU / XINYU JIANG"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -5580,7 +5736,11 @@
     [
       "BERLIN",
       2012
+    ],
+    [
+      "BAD-HOMBURG",
+      2017
     ]
   ],
-  "old_day": 17
+  "old_day": 18
 }
