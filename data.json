@@ -65,6 +65,28 @@
         0,
         "none"
       ]
+    ],
+    "EASTBOURNE": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -3768,7 +3790,75 @@
     "       11. FANG-HSIEN WU / XINYU JIANG \n",
     "           WU, F/JIANG, X\n\n",
     "20:24  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2025/order-of-play\n\n",
-    "20:24  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n"
+    "20:24  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n",
+    "04:28  EASTBOURNE SINGLES draw    \n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/draws\n\n",
+    "       Players added to the draw in EASTBOURNE SINGLES:    \n\n",
+    "       1. ANASTASIA PAVLYUCHENKOVA \n",
+    "          PAVLYUCHENKOVA, A\n\n",
+    "       2. MAGDA LINETTE \n",
+    "          LINETTE, M\n\n",
+    "       3. ONS JABEUR \n",
+    "          JABEUR, O\n\n",
+    "       4. BARBORA KREJCIKOVA \n",
+    "          KREJCIKOVA, B\n\n",
+    "       5. JELENA OSTAPENKO \n",
+    "          OSTAPENKO, J\n\n",
+    "       6. REBECCA SRAMKOVA \n",
+    "          SRAMKOVA, R\n\n",
+    "       7. JAQUELINE  CRISTIAN \n",
+    "          CRISTIAN, J\n\n",
+    "       8. SOFIA KENIN \n",
+    "          KENIN, S\n\n",
+    "       9. MARIE BOUZKOVA \n",
+    "          BOUZKOVA, M\n\n",
+    "       10. DARIA KASATKINA \n",
+    "           KASATKINA, D\n\n",
+    "       11. LUCIA BRONZETTI \n",
+    "           BRONZETTI, L\n\n",
+    "       12. LULU SUN \n",
+    "           SUN, L\n\n",
+    "       13. ANASTASIA POTAPOVA \n",
+    "           POTAPOVA, A\n\n",
+    "       14. CAMILA OSORIO \n",
+    "           OSORIO, C\n\n",
+    "       15. ANN LI \n",
+    "           LI, A\n\n",
+    "       16. PEYTON STEARNS \n",
+    "           STEARNS, P\n\n",
+    "       17. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       18. EMMA RADUCANU \n",
+    "           RADUCANU, E\n\n",
+    "       19. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       20. SONAY KARTAL \n",
+    "           KARTAL, S\n\n",
+    "       21. MAYA JOINT \n",
+    "           JOINT, M\n\n",
+    "04:28  EASTBOURNE DOUBLES draw    \n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/draws\n\n",
+    "       Players added to the draw in EASTBOURNE DOUBLES:    \n\n",
+    "       1. MONICA NICULESCU / ELENA-GABRIELA RUSE \n",
+    "          NICULESCU, M/RUSE, E\n\n",
+    "       2. KATARZYNA PITER / SHUKO AOYAMA \n",
+    "          PITER, K/AOYAMA, S\n\n",
+    "       3. GIULIANA OLMOS / RENATA ZARAZUA \n",
+    "          OLMOS, G/ZARAZUA, R\n\n",
+    "       4. MIYU KATO / CRISTINA BUCSA \n",
+    "          KATO, M/BUCSA, C\n\n",
+    "       5. STORM HUNTER / DESIRAE KRAWCZYK \n",
+    "          HUNTER, S/KRAWCZYK, D\n\n",
+    "       6. ANGELICA MORATELLI / SABRINA SANTAMARIA \n",
+    "          MORATELLI, A/SANTAMARIA, S\n\n",
+    "       7. ALDILA SUTJIADI / ERI HOZUMI \n",
+    "          SUTJIADI, A/HOZUMI, E\n\n",
+    "       8. QUINN GLEASON / OKSANA KALASHNIKOVA \n",
+    "          GLEASON, Q/KALASHNIKOVA, O\n\n",
+    "       9. ANNA DANILINA / MARIE BOUZKOVA \n",
+    "          DANILINA, A/BOUZKOVA, M\n\n",
+    "       10. MAIA LUMSDEN / HARRIET DART \n",
+    "           LUMSDEN, M/DART, H\n\n",
+    "       11. ANNA SISKOVA / KAMILLA RAKHIMOVA \n",
+    "           SISKOVA, A/RAKHIMOVA, K\n\n"
   ],
   "sits": {
     "ROME": [
@@ -5728,6 +5818,78 @@
         }
       ],
       "nothing"
+    ],
+    "EASTBOURNE": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        21,
+        {
+          "players": [
+            "ANASTASIA PAVLYUCHENKOVA",
+            "MAGDA LINETTE",
+            "ONS JABEUR",
+            "BARBORA KREJCIKOVA",
+            "JELENA OSTAPENKO",
+            "REBECCA SRAMKOVA",
+            "JAQUELINE  CRISTIAN",
+            "SOFIA KENIN",
+            "MARIE BOUZKOVA",
+            "DARIA KASATKINA",
+            "LUCIA BRONZETTI",
+            "LULU SUN",
+            "ANASTASIA POTAPOVA",
+            "CAMILA OSORIO",
+            "ANN LI",
+            "PEYTON STEARNS",
+            "ELINA AVANESYAN",
+            "EMMA RADUCANU",
+            "POLINA KUDERMETOVA",
+            "SONAY KARTAL",
+            "MAYA JOINT"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "MONICA NICULESCU / ELENA-GABRIELA RUSE",
+            "KATARZYNA PITER / SHUKO AOYAMA",
+            "GIULIANA OLMOS / RENATA ZARAZUA",
+            "MIYU KATO / CRISTINA BUCSA",
+            "STORM HUNTER / DESIRAE KRAWCZYK",
+            "ANGELICA MORATELLI / SABRINA SANTAMARIA",
+            "ALDILA SUTJIADI / ERI HOZUMI",
+            "QUINN GLEASON / OKSANA KALASHNIKOVA",
+            "ANNA DANILINA / MARIE BOUZKOVA",
+            "MAIA LUMSDEN / HARRIET DART",
+            "ANNA SISKOVA / KAMILLA RAKHIMOVA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -5742,7 +5904,11 @@
     [
       "BAD-HOMBURG",
       2017
+    ],
+    [
+      "EASTBOURNE",
+      710
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
