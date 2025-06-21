@@ -4140,7 +4140,57 @@
     "       18. EMMA RADUCANU \n\n",
     "       19. POLINA KUDERMETOVA \n\n",
     "       20. SONAY KARTAL \n\n",
-    "       21. MAYA JOINT \n\n"
+    "       21. MAYA JOINT \n\n",
+    "20:21  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2025/order-of-play\n\n",
+    "20:21  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2025/order-of-play\n\n",
+    "20:21  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/order-of-play\n\n",
+    "20:21  change in EASTBOURNE DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/draws\n\n",
+    "       Players added to the draw in EASTBOURNE DOUBLES:    \n\n",
+    "       1. Caroline Dolehide / Desirae Krawczyk \n",
+    "          Dolehide, C/Krawczyk, D\n\n",
+    "       2. Giuliana Olmos / Renata Zarazua \n",
+    "          Olmos, G/Zarazua, R\n\n",
+    "       3. Heather Watson / Mingge Xu \n",
+    "          Watson, H/Xu, M\n\n",
+    "       4. Magali Kempen / Qianhui Tang \n",
+    "          Kempen, M/Tang, Q\n\n",
+    "       5. Barbora Krejcikova / Jelena Ostapenko \n",
+    "          Krejcikova, B/Ostapenko, J\n\n",
+    "       6. Quinn Gleason / Oksana Kalashnikova \n",
+    "          Gleason, Q/Kalashnikova, O\n\n",
+    "       7. Shuko Aoyama / Katarzyna Piter \n",
+    "          Aoyama, S/Piter, K\n\n",
+    "       8. Su-Wei Hsieh / Maya Joint \n",
+    "          Hsieh, S/Joint, M\n\n",
+    "       9. Hailey Baptiste / Peyton Stearns \n",
+    "          Baptiste, H/Stearns, P\n\n",
+    "       10. Jodie Burrage / Sonay Kartal \n",
+    "           Burrage, J/Kartal, S\n\n",
+    "       11. Marie Bouzkova / Anna Danilina \n",
+    "           Bouzkova, M/Danilina, A\n\n",
+    "       12. Cristina Bucsa / Miyu Kato \n",
+    "           Bucsa, C/Kato, M\n\n",
+    "       13. Angelica Moratelli / Sabrina Santamaria \n",
+    "           Moratelli, A/Santamaria, S\n\n",
+    "       14. Harriet Dart / Maia Lumsden \n",
+    "           Dart, H/Lumsden, M\n\n",
+    "       15. Kamilla Rakhimova / Anna Siskova \n",
+    "           Rakhimova, K/Siskova, A\n\n",
+    "       16. Eri Hozumi / Aldila Sutjiadi \n",
+    "           Hozumi, E/Sutjiadi, A\n\n",
+    "       Players removed from the draw in EASTBOURNE DOUBLES:    \n\n",
+    "       1. MONICA NICULESCU / ELENA-GABRIELA RUSE \n\n",
+    "       2. KATARZYNA PITER / SHUKO AOYAMA \n\n",
+    "       3. GIULIANA OLMOS / RENATA ZARAZUA \n\n",
+    "       4. MIYU KATO / CRISTINA BUCSA \n\n",
+    "       5. STORM HUNTER / DESIRAE KRAWCZYK \n\n",
+    "       6. ANGELICA MORATELLI / SABRINA SANTAMARIA \n\n",
+    "       7. ALDILA SUTJIADI / ERI HOZUMI \n\n",
+    "       8. QUINN GLEASON / OKSANA KALASHNIKOVA \n\n",
+    "       9. ANNA DANILINA / MARIE BOUZKOVA \n\n",
+    "       10. MAIA LUMSDEN / HARRIET DART \n\n",
+    "       11. ANNA SISKOVA / KAMILLA RAKHIMOVA \n\n",
+    "20:21  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -5920,7 +5970,7 @@
           "players": []
         }
       ],
-      "2025-06-21"
+      "2025-06-22"
     ],
     "BERLIN": [
       [
@@ -6029,7 +6079,7 @@
           "players": []
         }
       ],
-      "2025-06-21"
+      "2025-06-22"
     ],
     "BAD-HOMBURG": [
       [
@@ -6126,7 +6176,7 @@
           "players": []
         }
       ],
-      "2025-06-21"
+      "2025-06-22"
     ],
     "EASTBOURNE": [
       [
@@ -6197,20 +6247,25 @@
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "MONICA NICULESCU / ELENA-GABRIELA RUSE",
-            "KATARZYNA PITER / SHUKO AOYAMA",
-            "GIULIANA OLMOS / RENATA ZARAZUA",
-            "MIYU KATO / CRISTINA BUCSA",
-            "STORM HUNTER / DESIRAE KRAWCZYK",
-            "ANGELICA MORATELLI / SABRINA SANTAMARIA",
-            "ALDILA SUTJIADI / ERI HOZUMI",
-            "QUINN GLEASON / OKSANA KALASHNIKOVA",
-            "ANNA DANILINA / MARIE BOUZKOVA",
-            "MAIA LUMSDEN / HARRIET DART",
-            "ANNA SISKOVA / KAMILLA RAKHIMOVA"
+            "Caroline Dolehide / Desirae Krawczyk",
+            "Giuliana Olmos / Renata Zarazua",
+            "Heather Watson / Mingge Xu",
+            "Magali Kempen / Qianhui Tang",
+            "Barbora Krejcikova / Jelena Ostapenko",
+            "Quinn Gleason / Oksana Kalashnikova",
+            "Shuko Aoyama / Katarzyna Piter",
+            "Su-Wei Hsieh / Maya Joint",
+            "Hailey Baptiste / Peyton Stearns",
+            "Jodie Burrage / Sonay Kartal",
+            "Marie Bouzkova / Anna Danilina",
+            "Cristina Bucsa / Miyu Kato",
+            "Angelica Moratelli / Sabrina Santamaria",
+            "Harriet Dart / Maia Lumsden",
+            "Kamilla Rakhimova / Anna Siskova",
+            "Eri Hozumi / Aldila Sutjiadi"
           ]
         }
       ],
@@ -6228,7 +6283,7 @@
           "players": []
         }
       ],
-      "2025-06-21"
+      "2025-06-22"
     ]
   },
   "torns": [
