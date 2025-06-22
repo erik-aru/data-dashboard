@@ -4190,6 +4190,36 @@
     "       9. ANNA DANILINA / MARIE BOUZKOVA \n\n",
     "       10. MAIA LUMSDEN / HARRIET DART \n\n",
     "       11. ANNA SISKOVA / KAMILLA RAKHIMOVA \n\n",
+    "20:21  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n",
+    "20:21  change in BAD-HOMBURG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/draws\n\n",
+    "       Players added to the draw in BAD-HOMBURG SINGLES:    \n\n",
+    "       1. Katerina Siniakova \n",
+    "          Siniakova, K\n\n",
+    "       2. Olga Danilovic \n",
+    "          Danilovic, O\n\n",
+    "       3. Ajla Tomljanovic \n",
+    "          Tomljanovic, A\n\n",
+    "       4. Victoria Azarenka \n",
+    "          Azarenka, V\n\n",
+    "       5. Ashlyn Krueger \n",
+    "          Krueger, A\n\n",
+    "       Players removed from the draw in BAD-HOMBURG SINGLES:    \n\n",
+    "       1. Xinyu Wang \n\n",
+    "20:21  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/order-of-play\n\n",
+    "20:21  change in EASTBOURNE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/draws\n\n",
+    "       Players added to the draw in EASTBOURNE SINGLES:    \n\n",
+    "       1. Kimberly Birrell \n",
+    "          Birrell, K\n\n",
+    "       2. Elisabetta Cocciaretto \n",
+    "          Cocciaretto, E\n\n",
+    "       3. Kamilla Rakhimova \n",
+    "          Rakhimova, K\n\n",
+    "       4. Greet Minnen \n",
+    "          Minnen, G\n\n",
+    "       5. Alexandra Eala \n",
+    "          Eala, A\n\n",
+    "       6. Varvara Gracheva \n",
+    "          Gracheva, V\n\n",
     "20:21  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n"
   ],
   "sits": {
@@ -6108,17 +6138,20 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Jessica Pegula",
             "Liudmila Samsonova",
+            "Katerina Siniakova",
             "Naomi Osaka",
+            "Olga Danilovic",
             "Marta Kostyuk",
             "Emma Navarro",
             "Mirra Andreeva",
             "Magdalena Frech",
             "Clara Tauson",
+            "Ajla Tomljanovic",
             "Linda Noskova",
             "Donna Vekic",
             "Diana Shnaider",
@@ -6126,11 +6159,12 @@
             "Belinda Bencic",
             "Yulia Putintseva",
             "Maria Sakkari",
+            "Victoria Azarenka",
             "Laura Siegemund",
             "Iga Swiatek",
             "Elina Svitolina",
             "Elise Mertens",
-            "Xinyu Wang",
+            "Ashlyn Krueger",
             "Beatriz Haddad Maia",
             "Leylah Fernandez",
             "Tatjana Maria",
@@ -6176,7 +6210,7 @@
           "players": []
         }
       ],
-      "2025-06-22"
+      "2025-06-23"
     ],
     "EASTBOURNE": [
       [
@@ -6213,7 +6247,7 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Daria Kasatkina",
@@ -6225,18 +6259,24 @@
             "Ann Li",
             "Emma Raducanu",
             "Sofia Kenin",
+            "Kimberly Birrell",
             "Anastasia Pavlyuchenkova",
             "Viktoriya Tomova",
+            "Elisabetta Cocciaretto",
+            "Kamilla Rakhimova",
             "Mingge Xu",
             "Peyton Stearns",
             "Magda Linette",
             "Dayana Yastremska",
             "Francesca Jones",
+            "Greet Minnen",
             "Lucia Bronzetti",
+            "Alexandra Eala",
             "Sonay Kartal",
             "Jelena Ostapenko",
             "Rebecca Sramkova",
             "Jaqueline Cristian",
+            "Varvara Gracheva",
             "Camila Osorio",
             "Jodie Burrage",
             "Moyuka Uchijima",
@@ -6283,7 +6323,7 @@
           "players": []
         }
       ],
-      "2025-06-22"
+      "2025-06-23"
     ]
   },
   "torns": [
