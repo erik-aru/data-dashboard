@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "WIMBLEDON": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -4192,7 +4214,8 @@
     "20:24  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/order-of-play\n\n",
     "20:24  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n",
     "20:24  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/order-of-play\n\n",
-    "20:24  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n"
+    "20:24  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n",
+    "04:30  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -6296,6 +6319,44 @@
         }
       ],
       "2025-06-26"
+    ],
+    "WIMBLEDON": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        2,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "2025-06-26"
     ]
   },
   "torns": [
@@ -6306,7 +6367,11 @@
     [
       "EASTBOURNE",
       710
+    ],
+    [
+      "WIMBLEDON",
+      904
     ]
   ],
-  "old_day": 25
+  "old_day": 26
 }
