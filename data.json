@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "BAD-HOMBURG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "EASTBOURNE": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "WIMBLEDON": [
       [
         0,
@@ -4607,7 +4563,8 @@
     "       64. Xinyu Wang / Saisai Zheng \n",
     "           Wang, X/Zheng, S\n\n",
     "20:23  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/order-of-play\n\n",
-    "20:23  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n"
+    "20:23  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n",
+    "04:36  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -6942,22 +6899,14 @@
           "players": []
         }
       ],
-      "2025-06-26"
+      "2025-06-30"
     ]
   },
   "torns": [
-    [
-      "BAD-HOMBURG",
-      2017
-    ],
-    [
-      "EASTBOURNE",
-      710
-    ],
     [
       "WIMBLEDON",
       904
     ]
   ],
-  "old_day": 28
+  "old_day": 29
 }
