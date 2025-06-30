@@ -4564,7 +4564,8 @@
     "           Wang, X/Zheng, S\n\n",
     "20:23  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2025/order-of-play\n\n",
     "20:23  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2025/order-of-play\n\n",
-    "04:36  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n"
+    "04:36  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
+    "04:34  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -6899,7 +6900,7 @@
           "players": []
         }
       ],
-      "2025-06-30"
+      "2025-07-01"
     ]
   },
   "torns": [
@@ -6908,5 +6909,5 @@
       904
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
