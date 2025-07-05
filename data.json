@@ -4876,7 +4876,11 @@
     "       Players removed from the draw in WIMBLEDON DOUBLES:    \n\n",
     "       1. Victoria Azarenka / Ashlyn Krueger \n\n",
     "       2. Greet Minnen / Monica Niculescu \n\n",
-    "04:31  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n"
+    "04:31  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
+    "04:27  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
+    "04:27  change in NEWPORT-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/draws\n\n       Players added to the draw in NEWPORT-125 DOUBLES:    \n\n",
+    "04:27  change in BASTAD-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2025/draws\n\n       Players added to the draw in BASTAD-125 DOUBLES:    \n\n",
+    "04:27  change in CONTREXEVILLE-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/draws\n\n       Players added to the draw in CONTREXEVILLE-125 DOUBLES:    \n\n"
   ],
   "sits": {
     "ROME": [
@@ -7211,7 +7215,7 @@
           "players": []
         }
       ],
-      "2025-07-05"
+      "2025-07-06"
     ],
     "NEWPORT-125": [
       [
@@ -7258,18 +7262,18 @@
         12,
         {
           "players": [
-            "CHRISTINA MCHALE / HANNA CHANG",
-            "CATHERINE HARRISON / CHRISTINA ROSCA",
-            "PRARTHANA THOMBARE / ARIANNE HARTONO",
-            "ALEXANDRA OSBORNE / HALEY GIAVARA",
-            "MARY LEWIS / BRANDY WALKER",
-            "MARIA KONONOVA / JAEDA DANIEL",
             "LEONIE KUNG / VASANTI SHINDE",
-            "LEONIE KUNG / ELIZABETH MANDLIK",
+            "CHRISTINA MCHALE / HANNA CHANG",
+            "MARIA KONONOVA / JAEDA DANIEL",
             "MARIA MATEAS / ALANA SMITH",
+            "PRARTHANA THOMBARE / ARIANNE HARTONO",
+            "CATHERINE HARRISON / CHRISTINA ROSCA",
+            "ALEXANDRA OSBORNE / HALEY GIAVARA",
+            "LEONIE KUNG / ELIZABETH MANDLIK",
+            "MIA KUPRES / ARIANA ARSENEAULT",
             "IVANA CORLEY / CARMEN CORLEY",
             "MARIBELLA ZAMARRIPA / KAYLA CROSS",
-            "MIA KUPRES / ARIANA ARSENEAULT"
+            "MARY LEWIS / BRANDY WALKER"
           ]
         }
       ],
@@ -7338,17 +7342,17 @@
         11,
         {
           "players": [
-            "NADIIA KOLB / MARYNA KOLB",
-            "MAKOTO NINOMIYA / MAIA LUMSDEN",
             "KIMBERLEY ZIMMERMANN / ANITA WAGNER",
-            "JESSICA FAILLA / JESSIE ANEY",
-            "INES IBBOU / NAIMA KARAMOKO",
-            "I-HSUAN CHO / YI-TSEN CHO",
-            "ANASTASIA DETIUC / DARJA SEMENISTAJA",
             "MIRIAM SKOCH / JESIKA MALECKOVA",
-            "MARIA KOZYREVA / IRYNA SHYMANOVICH",
             "SHUO FENG / RUTUJA BHOSALE",
-            "MADELEINE BROOKS / EUDICE CHONG"
+            "NADIIA KOLB / MARYNA KOLB",
+            "MADELEINE BROOKS / EUDICE CHONG",
+            "MAKOTO NINOMIYA / MAIA LUMSDEN",
+            "MARIA KOZYREVA / IRYNA SHYMANOVICH",
+            "INES IBBOU / NAIMA KARAMOKO",
+            "JESSICA FAILLA / JESSIE ANEY",
+            "I-HSUAN CHO / YI-TSEN CHO",
+            "ANASTASIA DETIUC / DARJA SEMENISTAJA"
           ]
         }
       ],
@@ -7413,9 +7417,9 @@
         4,
         {
           "players": [
-            "YVONNE CAVALLE-REIMERS / ALICIA HERRERO LINANA",
-            "NICOLE FOSSA HUERGO / MAGALI KEMPEN",
             "QUINN GLEASON / INGRID MARTINS",
+            "NICOLE FOSSA HUERGO / MAGALI KEMPEN",
+            "YVONNE CAVALLE-REIMERS / ALICIA HERRERO LINANA",
             "EMILY APPLETON / ISABELLE HAVERLAG"
           ]
         }
@@ -7455,5 +7459,5 @@
       2071
     ]
   ],
-  "old_day": 4
+  "old_day": 5
 }
