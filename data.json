@@ -4880,7 +4880,42 @@
     "04:27  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
     "04:27  change in NEWPORT-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/draws\n\n       Players added to the draw in NEWPORT-125 DOUBLES:    \n\n",
     "04:27  change in BASTAD-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2025/draws\n\n       Players added to the draw in BASTAD-125 DOUBLES:    \n\n",
-    "04:27  change in CONTREXEVILLE-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/draws\n\n       Players added to the draw in CONTREXEVILLE-125 DOUBLES:    \n\n"
+    "04:27  change in CONTREXEVILLE-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/draws\n\n       Players added to the draw in CONTREXEVILLE-125 DOUBLES:    \n\n",
+    "20:21  NEW draw in CONTREXEVILLE-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/draws\n\n",
+    "       Players added to the draw in CONTREXEVILLE-125 QUALS:    \n\n",
+    "       1. Angela Fita Boluda \n",
+    "          Fita Boluda, A\n\n",
+    "       2. Tina Smith \n",
+    "          Smith, T\n\n",
+    "       3. Mina Hodzic \n",
+    "          Hodzic, M\n\n",
+    "       4. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       5. Kaitlin Quevedo \n",
+    "          Quevedo, K\n\n",
+    "       6. Diana Martynov \n",
+    "          Martynov, D\n\n",
+    "       7. Diletta Cherubini \n",
+    "          Cherubini, D\n\n",
+    "       8. Silvia Ambrosio \n",
+    "          Ambrosio, S\n\n",
+    "       9. Sada Nahimana \n",
+    "          Nahimana, S\n\n",
+    "       10. Alicia Herrero Linana \n",
+    "           Herrero Linana, A\n\n",
+    "       11. Mathilde Lollia \n",
+    "           Lollia, M\n\n",
+    "       12. Lia Karatancheva \n",
+    "           Karatancheva, L\n\n",
+    "       13. Carolina Alves \n",
+    "           Alves, C\n\n",
+    "       14. Ekaterina Kazionova \n",
+    "           Kazionova, E\n\n",
+    "       15. Sarah Iliev \n",
+    "           Iliev, S\n\n",
+    "       16. Caroline Werner \n",
+    "           Werner, C\n\n",
+    "20:21  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -7375,9 +7410,26 @@
     "CONTREXEVILLE-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Angela Fita Boluda",
+            "Tina Smith",
+            "Mina Hodzic",
+            "Nicole Fossa Huergo",
+            "Kaitlin Quevedo",
+            "Diana Martynov",
+            "Diletta Cherubini",
+            "Silvia Ambrosio",
+            "Sada Nahimana",
+            "Alicia Herrero Linana",
+            "Mathilde Lollia",
+            "Lia Karatancheva",
+            "Carolina Alves",
+            "Ekaterina Kazionova",
+            "Sarah Iliev",
+            "Caroline Werner"
+          ]
         }
       ],
       [
@@ -7438,7 +7490,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-07-06"
     ]
   },
   "torns": [
