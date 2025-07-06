@@ -4915,7 +4915,27 @@
     "           Iliev, S\n\n",
     "       16. Caroline Werner \n",
     "           Werner, C\n\n",
-    "20:21  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n"
+    "20:21  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n",
+    "04:33  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
+    "04:33  NEWPORT-125 QUALS draw    \n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/draws\n\n",
+    "       Players added to the draw in NEWPORT-125 QUALS:    \n\n",
+    "       1. Gabriela Lee \n",
+    "          Lee, G\n\n",
+    "       2. Haley Giavara \n",
+    "          Giavara, H\n\n",
+    "       3. Petra Hule \n",
+    "          Hule, P\n\n",
+    "       4. Makenna Jones \n",
+    "          Jones, M\n\n",
+    "       5. Alana Smith \n",
+    "          Smith, A\n\n",
+    "       6. Victoria Hu \n",
+    "          Hu, V\n\n",
+    "       7. Olivia Lincer \n",
+    "          Lincer, O\n\n",
+    "       8. Anna Frey \n",
+    "          Frey, A\n\n",
+    "04:33  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -7250,14 +7270,23 @@
           "players": []
         }
       ],
-      "2025-07-06"
+      "2025-07-07"
     ],
     "NEWPORT-125": [
       [
         0,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Gabriela Lee",
+            "Haley Giavara",
+            "Petra Hule",
+            "Makenna Jones",
+            "Alana Smith",
+            "Victoria Hu",
+            "Olivia Lincer",
+            "Anna Frey"
+          ]
         }
       ],
       [
@@ -7326,7 +7355,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-07-06"
     ],
     "BASTAD-125": [
       [
@@ -7511,5 +7540,5 @@
       2071
     ]
   ],
-  "old_day": 5
+  "old_day": 6
 }
