@@ -5291,7 +5291,19 @@
     "       27. ANTONIA RUZIC \n\n",
     "       28. ELLA SEIDEL \n\n",
     "20:22  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2025/order-of-play\n\n",
-    "20:22  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n"
+    "20:22  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n",
+    "04:35  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
+    "04:35  NEWPORT-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/draws\n\n",
+    "       Players added to the draw in NEWPORT-125 SINGLES:    \n\n",
+    "       1. Olivia Lincer \n",
+    "          Lincer, O\n\n",
+    "       2. Alana Smith \n",
+    "          Smith, A\n\n",
+    "       3. Petra Hule \n",
+    "          Hule, P\n\n",
+    "       4. Haley Giavara \n",
+    "          Giavara, H\n\n",
+    "04:35  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -7626,7 +7638,7 @@
           "players": []
         }
       ],
-      "2025-07-07"
+      "2025-07-08"
     ],
     "NEWPORT-125": [
       [
@@ -7647,7 +7659,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Tatjana Maria",
@@ -7662,6 +7674,8 @@
             "Elvina Kalieva",
             "Carol Zhao",
             "Ye-Xin Ma",
+            "Olivia Lincer",
+            "Alana Smith",
             "Maria Mateas",
             "Arianne Hartono",
             "Mariam Bolkvadze",
@@ -7670,6 +7684,7 @@
             "Darja Vidmanova",
             "Katherine Sebov",
             "Sahaja Yamalapalli",
+            "Petra Hule",
             "Talia Gibson",
             "Lucrezia Stefanini",
             "Lea Ma",
@@ -7677,6 +7692,7 @@
             "Eugenie Bouchard",
             "Elizabeth Mandlik",
             "Leonie Kung",
+            "Haley Giavara",
             "Ena Shibahara"
           ]
         }
@@ -7719,7 +7735,7 @@
           "players": []
         }
       ],
-      "2025-07-06"
+      "2025-07-07"
     ],
     "BASTAD-125": [
       [
@@ -7917,5 +7933,5 @@
       2071
     ]
   ],
-  "old_day": 6
+  "old_day": 7
 }
