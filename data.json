@@ -5321,7 +5321,30 @@
     "20:24  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2025/order-of-play\n\n",
     "20:24  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n",
     "04:35  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
-    "04:35  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/order-of-play\n\n"
+    "04:35  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/order-of-play\n\n",
+    "12:44  change in CONTREXEVILLE-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/draws\n\n",
+    "       Players added to the draw in CONTREXEVILLE-125 DOUBLES:    \n\n",
+    "       1. Quinn Gleason / Ingrid Martins \n",
+    "          Gleason, Q/Martins, I\n\n",
+    "       2. Amina Anshba / Aliona Bolsova \n",
+    "          Anshba, A/Bolsova, A\n\n",
+    "       3. Estelle Cascino / Carole Monnet \n",
+    "          Cascino, E/Monnet, C\n\n",
+    "       4. Yvonne Cavalle-Reimers / Alicia Herrero Linana \n",
+    "          Cavalle-Reimers, Y/Herrero Linana, A\n\n",
+    "       5. Angela Fita Boluda / Laura Pigossi \n",
+    "          Fita Boluda, A/Pigossi, L\n\n",
+    "       6. Nicole Fossa Huergo / Magali Kempen \n",
+    "          Fossa Huergo, N/Kempen, M\n\n",
+    "       7. Victoria Jimenez Kasintseva / Lola Radivojevic \n",
+    "          Jimenez Kasintseva, V/Radivojevic, L\n\n",
+    "       8. Emily Appleton / Isabelle Haverlag \n",
+    "          Appleton, E/Haverlag, I\n\n",
+    "       Players removed from the draw in CONTREXEVILLE-125 DOUBLES:    \n\n",
+    "       1. QUINN GLEASON / INGRID MARTINS \n\n",
+    "       2. NICOLE FOSSA HUERGO / MAGALI KEMPEN \n\n",
+    "       3. YVONNE CAVALLE-REIMERS / ALICIA HERRERO LINANA \n\n",
+    "       4. EMILY APPLETON / ISABELLE HAVERLAG \n\n"
   ],
   "sits": {
     "ROME": [
@@ -7910,13 +7933,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "QUINN GLEASON / INGRID MARTINS",
-            "NICOLE FOSSA HUERGO / MAGALI KEMPEN",
-            "YVONNE CAVALLE-REIMERS / ALICIA HERRERO LINANA",
-            "EMILY APPLETON / ISABELLE HAVERLAG"
+            "Quinn Gleason / Ingrid Martins",
+            "Amina Anshba / Aliona Bolsova",
+            "Estelle Cascino / Carole Monnet",
+            "Yvonne Cavalle-Reimers / Alicia Herrero Linana",
+            "Angela Fita Boluda / Laura Pigossi",
+            "Nicole Fossa Huergo / Magali Kempen",
+            "Victoria Jimenez Kasintseva / Lola Radivojevic",
+            "Emily Appleton / Isabelle Haverlag"
           ]
         }
       ],
