@@ -87,6 +87,94 @@
         0,
         "none"
       ]
+    ],
+    "ROME-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "PORTO-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "HAMBURG": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "IASI": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -5346,7 +5434,275 @@
     "       3. YVONNE CAVALLE-REIMERS / ALICIA HERRERO LINANA \n\n",
     "       4. EMILY APPLETON / ISABELLE HAVERLAG \n\n",
     "20:24  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2025/order-of-play\n\n",
-    "20:24  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n"
+    "20:24  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2025/order-of-play\n\n",
+    "04:33  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2025/order-of-play\n\n",
+    "04:33  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/order-of-play\n\n",
+    "04:33  ROME-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1130/ROME-125/2025/draws\n\n",
+    "       Players added to the draw in ROME-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. MARTINA TREVISAN \n",
+    "          TREVISAN, M\n\n",
+    "       3. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       4. KATHINKA VON DEICHMANN \n",
+    "          VON DEICHMANN, K\n\n",
+    "       5. SUSAN BANDECCHI \n",
+    "          BANDECCHI, S\n\n",
+    "       6. ANGELA FITA BOLUDA \n",
+    "          FITA BOLUDA, A\n\n",
+    "       7. TAMARA ZIDANSEK \n",
+    "          ZIDANSEK, T\n\n",
+    "       8. LEA BOSKOVIC \n",
+    "          BOSKOVIC, L\n\n",
+    "       9. NURIA BRANCACCIO \n",
+    "          BRANCACCIO, N\n\n",
+    "       10. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       11. JULIA RIERA \n",
+    "           RIERA, J\n\n",
+    "       12. ANOUK KOEVERMANS \n",
+    "           KOEVERMANS, A\n\n",
+    "       13. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       14. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       15. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       16. BARBORA PALICOVA \n",
+    "           PALICOVA, B\n\n",
+    "       17. GIORGIA PEDONE \n",
+    "           PEDONE, G\n\n",
+    "       18. TATIANA PROZOROVA \n",
+    "           PROZOROVA, T\n\n",
+    "       19. LOLA RADIVOJEVIC \n",
+    "           RADIVOJEVIC, L\n\n",
+    "       20. PETRA MARCINKO \n",
+    "           MARCINKO, P\n\n",
+    "       21. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "       22. HANNE VANDEWINKEL \n",
+    "           VANDEWINKEL, H\n\n",
+    "       23. KAITLIN QUEVEDO \n",
+    "           QUEVEDO, K\n\n",
+    "04:33  ROME-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1130/ROME-125/2025/draws\n\n",
+    "       Players added to the draw in ROME-125 DOUBLES:    \n\n",
+    "       1. LAURA PIGOSSI / ANGELA FITA BOLUDA \n",
+    "          PIGOSSI, L/FITA BOLUDA, A\n\n",
+    "       2. MOMOKO KOBORI / AYANO SHIMIZU \n",
+    "          KOBORI, M/SHIMIZU, A\n\n",
+    "       3. I-HSUAN CHO / YI-TSEN CHO \n",
+    "          CHO, I/CHO, Y\n\n",
+    "       4. RASHEEDA MCADOO / SAPFO SAKELLARIDI \n",
+    "          MCADOO, R/SAKELLARIDI, S\n\n",
+    "04:33  PORTO-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/draws\n\n",
+    "       Players added to the draw in PORTO-125 SINGLES:    \n\n",
+    "       1. MONA BARTHEL \n",
+    "          BARTHEL, M\n\n",
+    "       2. HEATHER WATSON \n",
+    "          WATSON, H\n\n",
+    "       3. ANNA-LENA FRIEDSAM \n",
+    "          FRIEDSAM, A\n\n",
+    "       4. LIZETTE CABRERA \n",
+    "          CABRERA, L\n\n",
+    "       5. PRISCILLA HON \n",
+    "          HON, P\n\n",
+    "       6. GABRIELA KNUTSON \n",
+    "          KNUTSON, G\n\n",
+    "       7. TESSAH ANDRIANJAFITRIMO \n",
+    "          ANDRIANJAFITRIMO, T\n\n",
+    "       8. VIKTORIA HRUNCAKOVA \n",
+    "          HRUNCAKOVA, V\n\n",
+    "       9. XINYU GAO \n",
+    "          GAO, X\n\n",
+    "       10. LUCREZIA STEFANINI \n",
+    "           STEFANINI, L\n\n",
+    "       11. MAI HONTAMA \n",
+    "           HONTAMA, M\n\n",
+    "       12. MANON LEONARD \n",
+    "           LEONARD, M\n\n",
+    "       13. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       14. VALENTINA RYSER \n",
+    "           RYSER, V\n\n",
+    "       15. HINA INOUE \n",
+    "           INOUE, H\n\n",
+    "       16. AOI ITO \n",
+    "           ITO, A\n\n",
+    "       17. ALINA CHARAEVA \n",
+    "           CHARAEVA, A\n\n",
+    "       18. LINDA FRUHVIRTOVA \n",
+    "           FRUHVIRTOVA, L\n\n",
+    "       19. LANLANA TARARUDEE \n",
+    "           TARARUDEE, L\n\n",
+    "       20. ERIKA ANDREEVA \n",
+    "           ANDREEVA, E\n\n",
+    "       21. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       22. CELINE NAEF \n",
+    "           NAEF, C\n\n",
+    "       23. TEREZA VALENTOVA \n",
+    "           VALENTOVA, T\n\n",
+    "04:33  PORTO-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/draws\n\n",
+    "       Players added to the draw in PORTO-125 DOUBLES:    \n\n",
+    "       1. RIYA BHATIA / MARIANA DRAZIC \n",
+    "          BHATIA, R/DRAZIC, M\n\n",
+    "       2. YANA MORDERGER / TAYISIYA MORDERGER \n",
+    "          MORDERGER, Y/MORDERGER, T\n\n",
+    "       3. MADELEINE BROOKS / EUDICE CHONG \n",
+    "          BROOKS, M/CHONG, E\n\n",
+    "       4. ANITA WAGNER / FREYA CHRISTIE \n",
+    "          WAGNER, A/CHRISTIE, F\n\n",
+    "       5. ALINA CHARAEVA / GABRIELA KNUTSON \n",
+    "          CHARAEVA, A/KNUTSON, G\n\n",
+    "       6. PEANGTARN PLIPUECH / EN-SHUO LIANG \n",
+    "          PLIPUECH, P/LIANG, E\n\n",
+    "       7. MATILDE JORGE / FRANCISCA JORGE \n",
+    "          JORGE, M/JORGE, F\n\n",
+    "       8. EMILY WEBLEY-SMITH / EKATERINA OVCHARENKO \n",
+    "          WEBLEY-SMITH, E/OVCHARENKO, E\n\n",
+    "       9. ESTELLE CASCINO / CAROLE MONNET \n",
+    "          CASCINO, E/MONNET, C\n\n",
+    "       10. IVANA CORLEY / CARMEN CORLEY \n",
+    "           CORLEY, I/CORLEY, C\n\n",
+    "       11. MANA AYUKAWA / BRIANA SZABO \n",
+    "           AYUKAWA, M/SZABO, B\n\n",
+    "04:33  HAMBURG SINGLES draw    \n       https://www.wtatennis.com/tournament/2042/HAMBURG/2025/draws\n\n",
+    "       Players added to the draw in HAMBURG SINGLES:    \n\n",
+    "       1. TATJANA MARIA \n",
+    "          MARIA, T\n\n",
+    "       2. LAURA SIEGEMUND \n",
+    "          SIEGEMUND, L\n\n",
+    "       3. ARANTXA RUS \n",
+    "          RUS, A\n\n",
+    "       4. DARIA SAVILLE \n",
+    "          SAVILLE, D\n\n",
+    "       5. VIKTORIYA TOMOVA \n",
+    "          TOMOVA, V\n\n",
+    "       6. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       7. DALMA GALFI \n",
+    "          GALFI, D\n\n",
+    "       8. CRISTINA BUCSA \n",
+    "          BUCSA, C\n\n",
+    "       9. REBEKA MASAROVA \n",
+    "          MASAROVA, R\n\n",
+    "       10. ANNA BONDAR \n",
+    "           BONDAR, A\n\n",
+    "       11. DAYANA YASTREMSKA \n",
+    "           YASTREMSKA, D\n\n",
+    "       12. KAJA JUVAN \n",
+    "           JUVAN, K\n\n",
+    "       13. EVA LYS \n",
+    "           LYS, E\n\n",
+    "       14. XINYU WANG \n",
+    "           WANG, X\n\n",
+    "       15. DIANE PARRY \n",
+    "           PARRY, D\n\n",
+    "       16. MOYUKA UCHIJIMA \n",
+    "           UCHIJIMA, M\n\n",
+    "       17. JESSICA BOUZAS MANEIRO \n",
+    "           BOUZAS MANEIRO, J\n\n",
+    "       18. ELSA JACQUEMOT \n",
+    "           JACQUEMOT, E\n\n",
+    "       19. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       20. ANTONIA RUZIC \n",
+    "           RUZIC, A\n\n",
+    "       21. ELLA SEIDEL \n",
+    "           SEIDEL, E\n\n",
+    "04:33  HAMBURG DOUBLES draw    \n       https://www.wtatennis.com/tournament/2042/HAMBURG/2025/draws\n\n",
+    "       Players added to the draw in HAMBURG DOUBLES:    \n\n",
+    "       1. ANGELICA MORATELLI / ALEXANDRA PANOVA \n",
+    "          MORATELLI, A/PANOVA, A\n\n",
+    "       2. MARYNA KOLB / NADIIA KOLB \n",
+    "          KOLB, M/KOLB, N\n\n",
+    "       3. SABRINA SANTAMARIA / VIKTORIYA TOMOVA \n",
+    "          SANTAMARIA, S/TOMOVA, V\n\n",
+    "       4. NADIIA KICHENOK / MAKOTO NINOMIYA \n",
+    "          KICHENOK, N/NINOMIYA, M\n\n",
+    "       5. VALERIYA STRAKHOVA / IRINA BARA \n",
+    "          STRAKHOVA, V/BARA, I\n\n",
+    "       6. NICOLE FOSSA HUERGO / MAGALI KEMPEN \n",
+    "          FOSSA HUERGO, N/KEMPEN, M\n\n",
+    "       7. MAYAR SHERIF / ANNA BONDAR \n",
+    "          SHERIF, M/BONDAR, A\n\n",
+    "       8. JESIKA MALECKOVA / MIRIAM SKOCH \n",
+    "          MALECKOVA, J/SKOCH, M\n\n",
+    "       9. MAIA LUMSDEN / ZHIBEK KULAMBAYEVA \n",
+    "          LUMSDEN, M/KULAMBAYEVA, Z\n\n",
+    "       10. ANDREA GAMIZ / EVA VEDDER \n",
+    "           GAMIZ, A/VEDDER, E\n\n",
+    "       11. SAISAI ZHENG / MOYUKA UCHIJIMA \n",
+    "           ZHENG, S/UCHIJIMA, M\n\n",
+    "04:33  IASI SINGLES draw    \n       https://www.wtatennis.com/tournament/2063/IASI/2025/draws\n\n",
+    "       Players added to the draw in IASI SINGLES:    \n\n",
+    "       1. IRINA-CAMELIA BEGU \n",
+    "          BEGU, I\n\n",
+    "       2. ANASTASIJA SEVASTOVA \n",
+    "          SEVASTOVA, A\n\n",
+    "       3. NURIA PARRIZAS DIAZ \n",
+    "          PARRIZAS DIAZ, N\n\n",
+    "       4. KATARZYNA KAWA \n",
+    "          KAWA, K\n\n",
+    "       5. MARIA SAKKARI \n",
+    "          SAKKARI, M\n\n",
+    "       6. LEOLIA JEANJEAN \n",
+    "          JEANJEAN, L\n\n",
+    "       7. JAQUELINE  CRISTIAN \n",
+    "          CRISTIAN, J\n\n",
+    "       8. JIL TEICHMANN \n",
+    "          TEICHMANN, J\n\n",
+    "       9. LUCIA BRONZETTI \n",
+    "          BRONZETTI, L\n\n",
+    "       10. MARIA LOURDES CARLE \n",
+    "           CARLE, M\n\n",
+    "       11. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       12. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       13. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       14. VARVARA GRACHEVA \n",
+    "           GRACHEVA, V\n\n",
+    "       15. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       16. ANN LI \n",
+    "           LI, A\n\n",
+    "       17. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       18. ELISABETTA COCCIARETTO \n",
+    "           COCCIARETTO, E\n\n",
+    "       19. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       20. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "       21. ANCA TODONI \n",
+    "           TODONI, A\n\n",
+    "04:33  IASI DOUBLES draw    \n       https://www.wtatennis.com/tournament/2063/IASI/2025/draws\n\n",
+    "       Players added to the draw in IASI DOUBLES:    \n\n",
+    "       1. ELIXANE LECHEMIA / ALICIA BARNETT \n",
+    "          LECHEMIA, E/BARNETT, A\n\n",
+    "       2. QUINN GLEASON / INGRID MARTINS \n",
+    "          GLEASON, Q/MARTINS, I\n\n",
+    "       3. AMINA ANSHBA / ALIONA BOLSOVA \n",
+    "          ANSHBA, A/BOLSOVA, A\n\n",
+    "       4. ANNA SISKOVA / IRYNA SHYMANOVICH \n",
+    "          SISKOVA, A/SHYMANOVICH, I\n\n",
+    "       5. JESSIE ANEY / JESSICA FAILLA \n",
+    "          ANEY, J/FAILLA, J\n\n",
+    "       6. YVONNE CAVALLE-REIMERS / ALICIA HERRERO LINANA \n",
+    "          CAVALLE-REIMERS, Y/HERRERO LINANA, A\n\n",
+    "       7. BIBIANE SCHOOFS / INES IBBOU \n",
+    "          SCHOOFS, B/IBBOU, I\n\n",
+    "       8. ISABELLE HAVERLAG / EMILY APPLETON \n",
+    "          HAVERLAG, I/APPLETON, E\n\n",
+    "       9. MAJA CHWALINSKA / ANASTASIA DETIUC \n",
+    "          CHWALINSKA, M/DETIUC, A\n\n",
+    "       10. KIMBERLEY ZIMMERMANN / SHUO FENG \n",
+    "           ZIMMERMANN, K/FENG, S\n\n",
+    "       11. NAIMA KARAMOKO / LIAN TRAN \n",
+    "           KARAMOKO, N/TRAN, L\n\n"
   ],
   "sits": {
     "ROME": [
@@ -7681,7 +8037,7 @@
           "players": []
         }
       ],
-      "2025-07-10"
+      "2025-07-11"
     ],
     "NEWPORT-125": [
       [
@@ -7778,7 +8134,7 @@
           "players": []
         }
       ],
-      "2025-07-09"
+      "2025-07-10"
     ],
     "BASTAD-125": [
       [
@@ -7964,6 +8320,291 @@
         }
       ],
       "2025-07-10"
+    ],
+    "ROME-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        23,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "MARTINA TREVISAN",
+            "LAURA PIGOSSI",
+            "KATHINKA VON DEICHMANN",
+            "SUSAN BANDECCHI",
+            "ANGELA FITA BOLUDA",
+            "TAMARA ZIDANSEK",
+            "LEA BOSKOVIC",
+            "NURIA BRANCACCIO",
+            "JOANNA GARLAND",
+            "JULIA RIERA",
+            "ANOUK KOEVERMANS",
+            "OKSANA SELEKHMETEVA",
+            "DARJA SEMENISTAJA",
+            "DOMINIKA SALKOVA",
+            "BARBORA PALICOVA",
+            "GIORGIA PEDONE",
+            "TATIANA PROZOROVA",
+            "LOLA RADIVOJEVIC",
+            "PETRA MARCINKO",
+            "TIANTSOA RAKOTOMANGA RAJAONAH",
+            "HANNE VANDEWINKEL",
+            "KAITLIN QUEVEDO"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "LAURA PIGOSSI / ANGELA FITA BOLUDA",
+            "MOMOKO KOBORI / AYANO SHIMIZU",
+            "I-HSUAN CHO / YI-TSEN CHO",
+            "RASHEEDA MCADOO / SAPFO SAKELLARIDI"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "PORTO-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        23,
+        {
+          "players": [
+            "MONA BARTHEL",
+            "HEATHER WATSON",
+            "ANNA-LENA FRIEDSAM",
+            "LIZETTE CABRERA",
+            "PRISCILLA HON",
+            "GABRIELA KNUTSON",
+            "TESSAH ANDRIANJAFITRIMO",
+            "VIKTORIA HRUNCAKOVA",
+            "XINYU GAO",
+            "LUCREZIA STEFANINI",
+            "MAI HONTAMA",
+            "MANON LEONARD",
+            "CAROLE MONNET",
+            "VALENTINA RYSER",
+            "HINA INOUE",
+            "AOI ITO",
+            "ALINA CHARAEVA",
+            "LINDA FRUHVIRTOVA",
+            "LANLANA TARARUDEE",
+            "ERIKA ANDREEVA",
+            "SOFIA COSTOULAS",
+            "CELINE NAEF",
+            "TEREZA VALENTOVA"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "RIYA BHATIA / MARIANA DRAZIC",
+            "YANA MORDERGER / TAYISIYA MORDERGER",
+            "MADELEINE BROOKS / EUDICE CHONG",
+            "ANITA WAGNER / FREYA CHRISTIE",
+            "ALINA CHARAEVA / GABRIELA KNUTSON",
+            "PEANGTARN PLIPUECH / EN-SHUO LIANG",
+            "MATILDE JORGE / FRANCISCA JORGE",
+            "EMILY WEBLEY-SMITH / EKATERINA OVCHARENKO",
+            "ESTELLE CASCINO / CAROLE MONNET",
+            "IVANA CORLEY / CARMEN CORLEY",
+            "MANA AYUKAWA / BRIANA SZABO"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "HAMBURG": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        21,
+        {
+          "players": [
+            "TATJANA MARIA",
+            "LAURA SIEGEMUND",
+            "ARANTXA RUS",
+            "DARIA SAVILLE",
+            "VIKTORIYA TOMOVA",
+            "MAYAR SHERIF",
+            "DALMA GALFI",
+            "CRISTINA BUCSA",
+            "REBEKA MASAROVA",
+            "ANNA BONDAR",
+            "DAYANA YASTREMSKA",
+            "KAJA JUVAN",
+            "EVA LYS",
+            "XINYU WANG",
+            "DIANE PARRY",
+            "MOYUKA UCHIJIMA",
+            "JESSICA BOUZAS MANEIRO",
+            "ELSA JACQUEMOT",
+            "POLINA KUDERMETOVA",
+            "ANTONIA RUZIC",
+            "ELLA SEIDEL"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ANGELICA MORATELLI / ALEXANDRA PANOVA",
+            "MARYNA KOLB / NADIIA KOLB",
+            "SABRINA SANTAMARIA / VIKTORIYA TOMOVA",
+            "NADIIA KICHENOK / MAKOTO NINOMIYA",
+            "VALERIYA STRAKHOVA / IRINA BARA",
+            "NICOLE FOSSA HUERGO / MAGALI KEMPEN",
+            "MAYAR SHERIF / ANNA BONDAR",
+            "JESIKA MALECKOVA / MIRIAM SKOCH",
+            "MAIA LUMSDEN / ZHIBEK KULAMBAYEVA",
+            "ANDREA GAMIZ / EVA VEDDER",
+            "SAISAI ZHENG / MOYUKA UCHIJIMA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "IASI": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        21,
+        {
+          "players": [
+            "IRINA-CAMELIA BEGU",
+            "ANASTASIJA SEVASTOVA",
+            "NURIA PARRIZAS DIAZ",
+            "KATARZYNA KAWA",
+            "MARIA SAKKARI",
+            "LEOLIA JEANJEAN",
+            "JAQUELINE  CRISTIAN",
+            "JIL TEICHMANN",
+            "LUCIA BRONZETTI",
+            "MARIA LOURDES CARLE",
+            "FRANCESCA JONES",
+            "MAJA CHWALINSKA",
+            "SIMONA WALTERT",
+            "VARVARA GRACHEVA",
+            "ALYCIA PARKS",
+            "ANN LI",
+            "ELINA AVANESYAN",
+            "ELISABETTA COCCIARETTO",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "SARA BEJLEK",
+            "ANCA TODONI"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ELIXANE LECHEMIA / ALICIA BARNETT",
+            "QUINN GLEASON / INGRID MARTINS",
+            "AMINA ANSHBA / ALIONA BOLSOVA",
+            "ANNA SISKOVA / IRYNA SHYMANOVICH",
+            "JESSIE ANEY / JESSICA FAILLA",
+            "YVONNE CAVALLE-REIMERS / ALICIA HERRERO LINANA",
+            "BIBIANE SCHOOFS / INES IBBOU",
+            "ISABELLE HAVERLAG / EMILY APPLETON",
+            "MAJA CHWALINSKA / ANASTASIA DETIUC",
+            "KIMBERLEY ZIMMERMANN / SHUO FENG",
+            "NAIMA KARAMOKO / LIAN TRAN"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -7982,7 +8623,23 @@
     [
       "CONTREXEVILLE-125",
       2071
+    ],
+    [
+      "ROME-125",
+      1130
+    ],
+    [
+      "PORTO-125",
+      1135
+    ],
+    [
+      "HAMBURG",
+      2042
+    ],
+    [
+      "IASI",
+      2063
     ]
   ],
-  "old_day": 9
+  "old_day": 10
 }
