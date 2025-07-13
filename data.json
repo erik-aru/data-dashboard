@@ -6223,7 +6223,95 @@
     "       1. Nadiya Kolb \n",
     "          Kolb, N\n\n",
     "       Players removed from the draw in HAMBURG QUALS:    \n\n",
-    "       1. Valeriya Strakhova \n\n"
+    "       1. Valeriya Strakhova \n\n",
+    "20:22  change in ROME-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1130/ROME-125/2025/draws\n\n",
+    "       Players added to the draw in ROME-125 SINGLES:    \n\n",
+    "       1. Varvara Lepchenko \n",
+    "          Lepchenko, V\n\n",
+    "       2. Giorgia Pedone \n",
+    "          Pedone, G\n\n",
+    "       3. Aurora Zantedeschi \n",
+    "          Zantedeschi, A\n\n",
+    "       4. Laura Pigossi \n",
+    "          Pigossi, L\n\n",
+    "       5. Lina Gjorcheska \n",
+    "          Gjorcheska, L\n\n",
+    "       6. Petra Marcinko \n",
+    "          Marcinko, P\n\n",
+    "       7. Dominika Salkova \n",
+    "          Salkova, D\n\n",
+    "       8. Tatiana Prozorova \n",
+    "          Prozorova, T\n\n",
+    "       9. Jazmin Ortenzi \n",
+    "          Ortenzi, J\n\n",
+    "       10. Dalila Spiteri \n",
+    "           Spiteri, D\n\n",
+    "       11. Lea Boskovic \n",
+    "           Boskovic, L\n\n",
+    "       12. Angela Fita Boluda \n",
+    "           Fita Boluda, A\n\n",
+    "       13. Julia Riera \n",
+    "           Riera, J\n\n",
+    "       14. Tamara Zidansek \n",
+    "           Zidansek, T\n\n",
+    "       15. Hanne Vandewinkel \n",
+    "           Vandewinkel, H\n\n",
+    "       16. Lola Radivojevic \n",
+    "           Radivojevic, L\n\n",
+    "       17. Barbora Palicova \n",
+    "           Palicova, B\n\n",
+    "       18. Susan Bandecchi \n",
+    "           Bandecchi, S\n\n",
+    "       19. Alisa Oktiabreva \n",
+    "           Oktiabreva, A\n\n",
+    "       20. Lisa Pigato \n",
+    "           Pigato, L\n\n",
+    "       21. Kaitlin Quevedo \n",
+    "           Quevedo, K\n\n",
+    "       22. Oksana Selekhmeteva \n",
+    "           Selekhmeteva, O\n\n",
+    "       23. Kathinka Von Deichmann \n",
+    "           Von Deichmann, K\n\n",
+    "       24. Ekaterine Gorgodze \n",
+    "           Gorgodze, E\n\n",
+    "       25. Nuria Brancaccio \n",
+    "           Brancaccio, N\n\n",
+    "       26. Martina Trevisan \n",
+    "           Trevisan, M\n\n",
+    "       27. Darja Semenistaja \n",
+    "           Semenistaja, D\n\n",
+    "       Players removed from the draw in ROME-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n\n",
+    "       2. MARTINA TREVISAN \n\n",
+    "       3. LAURA PIGOSSI \n\n",
+    "       4. KATHINKA VON DEICHMANN \n\n",
+    "       5. SUSAN BANDECCHI \n\n",
+    "       6. ANGELA FITA BOLUDA \n\n",
+    "       7. TAMARA ZIDANSEK \n\n",
+    "       8. LEA BOSKOVIC \n\n",
+    "       9. NURIA BRANCACCIO \n\n",
+    "       10. JOANNA GARLAND \n\n",
+    "       11. JULIA RIERA \n\n",
+    "       12. ANOUK KOEVERMANS \n\n",
+    "       13. OKSANA SELEKHMETEVA \n\n",
+    "       14. DARJA SEMENISTAJA \n\n",
+    "       15. DOMINIKA SALKOVA \n\n",
+    "       16. BARBORA PALICOVA \n\n",
+    "       17. GIORGIA PEDONE \n\n",
+    "       18. TATIANA PROZOROVA \n\n",
+    "       19. LOLA RADIVOJEVIC \n\n",
+    "       20. PETRA MARCINKO \n\n",
+    "       21. TIANTSOA RAKOTOMANGA RAJAONAH \n\n",
+    "       22. HANNE VANDEWINKEL \n\n",
+    "       23. KAITLIN QUEVEDO \n\n",
+    "20:22  OOP in ROME-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1130/ROME-125/2025/order-of-play\n\n",
+    "20:22  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/order-of-play\n\n",
+    "20:22  change in HAMBURG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2042/HAMBURG/2025/draws\n\n",
+    "       Players added to the draw in HAMBURG SINGLES:    \n\n",
+    "       Players removed from the draw in HAMBURG SINGLES:    \n\n",
+    "       1. Elsa Jacquemot \n\n",
+    "20:22  OOP in HAMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2042/HAMBURG/2025/order-of-play\n\n",
+    "20:22  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -8861,32 +8949,36 @@
       ],
       [
         1,
-        23,
+        27,
         {
           "players": [
-            "VARVARA LEPCHENKO",
-            "MARTINA TREVISAN",
-            "LAURA PIGOSSI",
-            "KATHINKA VON DEICHMANN",
-            "SUSAN BANDECCHI",
-            "ANGELA FITA BOLUDA",
-            "TAMARA ZIDANSEK",
-            "LEA BOSKOVIC",
-            "NURIA BRANCACCIO",
-            "JOANNA GARLAND",
-            "JULIA RIERA",
-            "ANOUK KOEVERMANS",
-            "OKSANA SELEKHMETEVA",
-            "DARJA SEMENISTAJA",
-            "DOMINIKA SALKOVA",
-            "BARBORA PALICOVA",
-            "GIORGIA PEDONE",
-            "TATIANA PROZOROVA",
-            "LOLA RADIVOJEVIC",
-            "PETRA MARCINKO",
-            "TIANTSOA RAKOTOMANGA RAJAONAH",
-            "HANNE VANDEWINKEL",
-            "KAITLIN QUEVEDO"
+            "Varvara Lepchenko",
+            "Giorgia Pedone",
+            "Aurora Zantedeschi",
+            "Laura Pigossi",
+            "Lina Gjorcheska",
+            "Petra Marcinko",
+            "Dominika Salkova",
+            "Tatiana Prozorova",
+            "Jazmin Ortenzi",
+            "Dalila Spiteri",
+            "Lea Boskovic",
+            "Angela Fita Boluda",
+            "Julia Riera",
+            "Tamara Zidansek",
+            "Hanne Vandewinkel",
+            "Lola Radivojevic",
+            "Barbora Palicova",
+            "Susan Bandecchi",
+            "Alisa Oktiabreva",
+            "Lisa Pigato",
+            "Kaitlin Quevedo",
+            "Oksana Selekhmeteva",
+            "Kathinka Von Deichmann",
+            "Ekaterine Gorgodze",
+            "Nuria Brancaccio",
+            "Martina Trevisan",
+            "Darja Semenistaja"
           ]
         }
       ],
@@ -8916,7 +9008,7 @@
           "players": []
         }
       ],
-      "2025-07-13"
+      "2025-07-14"
     ],
     "PORTO-125": [
       [
@@ -9017,7 +9109,7 @@
           "players": []
         }
       ],
-      "2025-07-13"
+      "2025-07-14"
     ],
     "HAMBURG": [
       [
@@ -9054,7 +9146,7 @@
       ],
       [
         1,
-        26,
+        25,
         {
           "players": [
             "Ekaterina Alexandrova",
@@ -9073,7 +9165,6 @@
             "Raluka Serban",
             "Tamara Korpatsch",
             "Astra Sharma",
-            "Elsa Jacquemot",
             "Viktoriya Tomova",
             "Tatjana Maria",
             "Moyuka Uchijima",
@@ -9124,7 +9215,7 @@
           "players": []
         }
       ],
-      "2025-07-13"
+      "2025-07-14"
     ],
     "IASI": [
       [
@@ -9231,7 +9322,7 @@
           "players": []
         }
       ],
-      "2025-07-13"
+      "2025-07-14"
     ]
   },
   "torns": [
