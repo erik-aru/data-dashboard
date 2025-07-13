@@ -44,28 +44,6 @@
         "none"
       ]
     ],
-    "BASTAD-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CONTREXEVILLE-125": [
       [
         0,
@@ -6035,7 +6013,8 @@
     "           Smith, T\n\n",
     "       24. Mia Ristic \n",
     "           Ristic, M\n\n",
-    "20:22  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2025/order-of-play\n\n"
+    "20:22  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2025/order-of-play\n\n",
+    "04:38  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -8467,7 +8446,7 @@
           "players": []
         }
       ],
-      "2025-07-12"
+      "2025-07-13"
     ],
     "BASTAD-125": [
       [
@@ -9041,10 +9020,6 @@
       1123
     ],
     [
-      "BASTAD-125",
-      2003
-    ],
-    [
       "CONTREXEVILLE-125",
       2071
     ],
@@ -9065,5 +9040,5 @@
       2063
     ]
   ],
-  "old_day": 12
+  "old_day": 13
 }
