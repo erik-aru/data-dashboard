@@ -6273,7 +6273,44 @@
     "       6. Ariana Geerlings \n",
     "          Geerlings, A\n\n",
     "       7. Aleksandra Krunic \n",
-    "          Krunic, A\n\n"
+    "          Krunic, A\n\n",
+    "20:25  OOP in ROME-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1130/ROME-125/2025/order-of-play\n\n",
+    "20:25  change in PORTO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/draws\n\n",
+    "       Players added to the draw in PORTO-125 SINGLES:    \n\n",
+    "       1. Himeno Sakatsume \n",
+    "          Sakatsume, H\n\n",
+    "       2. Alina Korneeva \n",
+    "          Korneeva, A\n\n",
+    "       3. Emina Bektas \n",
+    "          Bektas, E\n\n",
+    "       4. Aliona Falei \n",
+    "          Falei, A\n\n",
+    "20:25  change in PORTO-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/draws\n\n",
+    "       Players added to the draw in PORTO-125 DOUBLES:    \n\n",
+    "       Players removed from the draw in PORTO-125 DOUBLES:    \n\n",
+    "       1. Sofia Costoulas / Alina Korneeva \n\n",
+    "20:25  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/order-of-play\n\n",
+    "20:25  change in HAMBURG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2042/HAMBURG/2025/draws\n\n       Players added to the draw in HAMBURG SINGLES:    \n\n",
+    "       1. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       Players removed from the draw in HAMBURG SINGLES:    \n\n",
+    "       1. Eva Lys \n\n",
+    "20:25  OOP in HAMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2042/HAMBURG/2025/order-of-play\n\n",
+    "20:25  change in IASI SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2063/IASI/2025/draws\n\n",
+    "       Players added to the draw in IASI SINGLES:    \n\n",
+    "       1. Irene Burillo \n",
+    "          Burillo, I\n\n",
+    "       2. Giulia Safina Popa \n",
+    "          Popa, G\n\n",
+    "       3. Anna Siskova \n",
+    "          Siskova, A\n\n",
+    "       4. Alicia Herrero Linana \n",
+    "          Herrero Linana, A\n\n",
+    "       5. Margaux Rouvroy \n",
+    "          Rouvroy, M\n\n",
+    "       6. Daria Lodikova \n",
+    "          Lodikova, D\n\n",
+    "20:25  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -8975,7 +9012,7 @@
           "players": []
         }
       ],
-      "2025-07-14"
+      "2025-07-15"
     ],
     "PORTO-125": [
       [
@@ -9004,10 +9041,12 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Aoi Ito",
+            "Himeno Sakatsume",
+            "Alina Korneeva",
             "Manon Leonard",
             "Vitalia Diatchenko",
             "Gabriela Knutson",
@@ -9015,6 +9054,7 @@
             "Alina Charaeva",
             "Tereza Valentova",
             "Francisca Jorge",
+            "Emina Bektas",
             "Viktoria Hruncakova",
             "Matilde Jorge",
             "Carole Monnet",
@@ -9024,6 +9064,7 @@
             "Taylah Preston",
             "Lanlana Tararudee",
             "Valentina Ryser",
+            "Aliona Falei",
             "Hina Inoue",
             "Angelina Voloshchuk",
             "Heather Watson",
@@ -9040,13 +9081,12 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Francisca Jorge / Matilde Jorge",
             "Ankita Raina / Lanlana Tararudee",
             "Alina Charaeva / Gabriela Knutson",
-            "Sofia Costoulas / Alina Korneeva",
             "Celine Naef / Heather Watson",
             "Carmen Corley / Ivana Corley",
             "Mana Ayukawa / Briana Szabo",
@@ -9076,7 +9116,7 @@
           "players": []
         }
       ],
-      "2025-07-14"
+      "2025-07-15"
     ],
     "HAMBURG": [
       [
@@ -9124,7 +9164,7 @@
             "Sinja Kraus",
             "Noma Noha Akugue",
             "Anna Bondar",
-            "Eva Lys",
+            "Nicole Fossa Huergo",
             "Leyre Romero Gormaz",
             "Sada Nahimana",
             "Arantxa Rus",
@@ -9189,7 +9229,7 @@
           "players": []
         }
       ],
-      "2025-07-14"
+      "2025-07-15"
     ],
     "IASI": [
       [
@@ -9226,7 +9266,7 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Elina Avanesyan",
@@ -9238,6 +9278,7 @@
             "Ana Bogdan",
             "Varvara Gracheva",
             "Nuria Parrizas Diaz",
+            "Irene Burillo",
             "Simona Waltert",
             "Anastasija Sevastova",
             "Iryna Shymanovich",
@@ -9246,14 +9287,19 @@
             "Jil Teichmann",
             "Irina-Camelia Begu",
             "Nao Hibino",
+            "Giulia Safina Popa",
             "Victoria Jimenez Kasintseva",
             "Katarzyna Kawa",
+            "Anna Siskova",
             "Guiomar Maristany Zuleta De Reales",
             "Ann Li",
             "Francesca Jones",
+            "Alicia Herrero Linana",
+            "Margaux Rouvroy",
             "Panna Udvardy",
             "Jana Fett",
             "Veronika Erjavec",
+            "Daria Lodikova",
             "Jaqueline Cristian"
           ]
         }
@@ -9296,7 +9342,7 @@
           "players": []
         }
       ],
-      "2025-07-14"
+      "2025-07-15"
     ]
   },
   "torns": [
