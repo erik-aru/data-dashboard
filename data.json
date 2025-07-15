@@ -6315,7 +6315,39 @@
     "       1. Alice Rame \n",
     "          Rame, A\n\n",
     "       Players removed from the draw in ROME-125 SINGLES:    \n\n",
-    "       1. Sapfo Sakellaridi \n\n"
+    "       1. Sapfo Sakellaridi \n\n",
+    "20:25  change in ROME-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1130/ROME-125/2025/draws\n\n",
+    "       Players added to the draw in ROME-125 DOUBLES:    \n\n",
+    "       1. Laura Pigossi / Katarzyna Piter \n",
+    "          Pigossi, L/Piter, K\n\n",
+    "       2. I-Hsuan Cho / Yi-Tsen Cho \n",
+    "          Cho, I/Cho, Y\n\n",
+    "       3. Tyra Caterina Grant / Lisa Pigato \n",
+    "          Grant, T/Pigato, L\n\n",
+    "       4. Rasheeda McAdoo / Sapfo Sakellaridi \n",
+    "          McAdoo, R/Sakellaridi, S\n\n",
+    "       5. Nuria Brancaccio / Julia Riera \n",
+    "          Brancaccio, N/Riera, J\n\n",
+    "       6. Anastasia Abbagnato / Tatiana Prozorova \n",
+    "          Abbagnato, A/Prozorova, T\n\n",
+    "       7. Ekaterine Gorgodze / Darja Semenistaja \n",
+    "          Gorgodze, E/Semenistaja, D\n\n",
+    "       8. Momoko Kobori / Ayano Shimizu \n",
+    "          Kobori, M/Shimizu, A\n\n",
+    "       Players removed from the draw in ROME-125 DOUBLES:    \n\n",
+    "       1. LAURA PIGOSSI / ANGELA FITA BOLUDA \n\n",
+    "       2. MOMOKO KOBORI / AYANO SHIMIZU \n\n",
+    "       3. I-HSUAN CHO / YI-TSEN CHO \n\n",
+    "       4. RASHEEDA MCADOO / SAPFO SAKELLARIDI \n\n",
+    "20:25  OOP in ROME-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1130/ROME-125/2025/order-of-play\n\n",
+    "20:25  change in PORTO-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/draws\n\n       Players added to the draw in PORTO-125 DOUBLES:    \n\n",
+    "       1. Teresa Franco Dias / Rinko Matsuda \n",
+    "          Franco Dias, T/Matsuda, R\n\n",
+    "       Players removed from the draw in PORTO-125 DOUBLES:    \n\n",
+    "       1. Celine Naef / Heather Watson \n\n",
+    "20:25  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2025/order-of-play\n\n",
+    "20:25  OOP in HAMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2042/HAMBURG/2025/order-of-play\n\n",
+    "20:25  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -8993,13 +9025,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "LAURA PIGOSSI / ANGELA FITA BOLUDA",
-            "MOMOKO KOBORI / AYANO SHIMIZU",
-            "I-HSUAN CHO / YI-TSEN CHO",
-            "RASHEEDA MCADOO / SAPFO SAKELLARIDI"
+            "Laura Pigossi / Katarzyna Piter",
+            "I-Hsuan Cho / Yi-Tsen Cho",
+            "Tyra Caterina Grant / Lisa Pigato",
+            "Rasheeda McAdoo / Sapfo Sakellaridi",
+            "Nuria Brancaccio / Julia Riera",
+            "Anastasia Abbagnato / Tatiana Prozorova",
+            "Ekaterine Gorgodze / Darja Semenistaja",
+            "Momoko Kobori / Ayano Shimizu"
           ]
         }
       ],
@@ -9017,7 +9053,7 @@
           "players": []
         }
       ],
-      "2025-07-15"
+      "2025-07-16"
     ],
     "PORTO-125": [
       [
@@ -9092,7 +9128,7 @@
             "Francisca Jorge / Matilde Jorge",
             "Ankita Raina / Lanlana Tararudee",
             "Alina Charaeva / Gabriela Knutson",
-            "Celine Naef / Heather Watson",
+            "Teresa Franco Dias / Rinko Matsuda",
             "Carmen Corley / Ivana Corley",
             "Mana Ayukawa / Briana Szabo",
             "Ana Filipa Santos / Angelina Voloshchuk",
@@ -9121,7 +9157,7 @@
           "players": []
         }
       ],
-      "2025-07-15"
+      "2025-07-16"
     ],
     "HAMBURG": [
       [
@@ -9234,7 +9270,7 @@
           "players": []
         }
       ],
-      "2025-07-15"
+      "2025-07-16"
     ],
     "IASI": [
       [
@@ -9347,7 +9383,7 @@
           "players": []
         }
       ],
-      "2025-07-15"
+      "2025-07-16"
     ]
   },
   "torns": [
