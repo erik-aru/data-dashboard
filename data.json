@@ -6715,7 +6715,42 @@
     "           Bertacchi, A\n\n",
     "       15. Carolina Alves \n",
     "           Alves, C\n\n",
-    "20:24  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n"
+    "20:24  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n",
+    "04:32  WASHINGTON-DC QUALS draw    \n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/draws\n\n",
+    "       Players added to the draw in WASHINGTON-DC QUALS:    \n\n",
+    "       1. Caroline Dolehide \n",
+    "          Dolehide, C\n\n",
+    "       2. Cristina Bucsa \n",
+    "          Bucsa, C\n\n",
+    "       3. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       4. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       5. Polina Kudermetova \n",
+    "          Kudermetova, P\n\n",
+    "       6. Alana Smith \n",
+    "          Smith, A\n\n",
+    "       7. Rebecca Marino \n",
+    "          Marino, R\n\n",
+    "       8. Yuliia Starodubtseva \n",
+    "          Starodubtseva, Y\n\n",
+    "       9. Camila Osorio \n",
+    "          Osorio, C\n\n",
+    "       10. Taylor Townsend \n",
+    "           Townsend, T\n\n",
+    "       11. Anastasia Zakharova \n",
+    "           Zakharova, A\n\n",
+    "       12. Emiliana Arango \n",
+    "           Arango, E\n\n",
+    "       13. Kamilla Rakhimova \n",
+    "           Rakhimova, K\n\n",
+    "       14. Varvara Lepchenko \n",
+    "           Lepchenko, V\n\n",
+    "       15. Clervie Ngounoue \n",
+    "           Ngounoue, C\n\n",
+    "       16. Kimberly Birrell \n",
+    "           Birrell, K\n\n",
+    "04:32  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -9756,9 +9791,26 @@
     "WASHINGTON-DC": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Caroline Dolehide",
+            "Cristina Bucsa",
+            "Aliaksandra Sasnovich",
+            "Anna Blinkova",
+            "Polina Kudermetova",
+            "Alana Smith",
+            "Rebecca Marino",
+            "Yuliia Starodubtseva",
+            "Camila Osorio",
+            "Taylor Townsend",
+            "Anastasia Zakharova",
+            "Emiliana Arango",
+            "Kamilla Rakhimova",
+            "Varvara Lepchenko",
+            "Clervie Ngounoue",
+            "Kimberly Birrell"
+          ]
         }
       ],
       [
@@ -9822,7 +9874,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-07-19"
     ],
     "PRAGUE": [
       [
@@ -10042,5 +10094,5 @@
       1131
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
