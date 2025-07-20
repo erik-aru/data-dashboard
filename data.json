@@ -6962,7 +6962,54 @@
     "       Players added to the draw in PALERMO-125 QUALS:    \n\n",
     "       1. Michaela Bayerlova \n",
     "          Bayerlova, M\n\n",
-    "20:23  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n"
+    "20:23  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n",
+    "04:43  WASHINGTON-DC DOUBLES draw    \n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/draws\n\n",
+    "       Players added to the draw in WASHINGTON-DC DOUBLES:    \n\n",
+    "       1. Asia Muhammad / Erin Routliffe \n",
+    "          Muhammad, A/Routliffe, E\n\n",
+    "       2. Ulrikke Eikeri / Eri Hozumi \n",
+    "          Eikeri, U/Hozumi, E\n\n",
+    "       3. Yifan Xu / Zhaoxuan Yang \n",
+    "          Xu, Y/Yang, Z\n\n",
+    "       4. Maya Joint / Ellen Perez \n",
+    "          Joint, M/Perez, E\n\n",
+    "       5. Hao-Ching Chan / Xinyu Jiang \n",
+    "          Chan, H/Jiang, X\n\n",
+    "       6. Katarzyna Piter / Sabrina Santamaria \n",
+    "          Piter, K/Santamaria, S\n\n",
+    "       7. Caroline Dolehide / Sofia Kenin \n",
+    "          Dolehide, C/Kenin, S\n\n",
+    "       8. Kamilla Rakhimova / Galina Voskoboeva \n",
+    "          Rakhimova, K/Voskoboeva, G\n\n",
+    "       9. Giuliana Olmos / Aldila Sutjiadi \n",
+    "          Olmos, G/Sutjiadi, A\n\n",
+    "       10. Miyu Kato / Fang-Hsien Wu \n",
+    "           Kato, M/Wu, F\n\n",
+    "       11. Emma Raducanu / Elena Rybakina \n",
+    "           Raducanu, E/Rybakina, E\n\n",
+    "       12. Tereza Mihalikova / Olivia Nicholls \n",
+    "           Mihalikova, T/Nicholls, O\n\n",
+    "       13. Hailey Baptiste / Venus Williams \n",
+    "           Baptiste, H/Williams, V\n\n",
+    "       14. Eugenie Bouchard / Clervie Ngounoue \n",
+    "           Bouchard, E/Ngounoue, C\n\n",
+    "       15. Cristina Bucsa / Nicole Melichar-Martinez \n",
+    "           Bucsa, C/Melichar-Martinez, N\n\n",
+    "       16. Taylor Townsend / Shuai Zhang \n",
+    "           Townsend, T/Zhang, S\n\n",
+    "       Players removed from the draw in WASHINGTON-DC DOUBLES:    \n\n",
+    "       1. ZHAOXUAN YANG / YIFAN XU \n\n",
+    "       2. SABRINA SANTAMARIA / KATARZYNA PITER \n\n",
+    "       3. ERI HOZUMI / ULRIKKE EIKERI \n\n",
+    "       4. FANG-HSIEN WU / MIYU KATO \n\n",
+    "       5. GIULIANA OLMOS / ALDILA SUTJIADI \n\n",
+    "       6. CAROLINE DOLEHIDE / SOFIA KENIN \n\n",
+    "       7. NICOLE MELICHAR-MARTINEZ / CRISTINA BUCSA \n\n",
+    "       8. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
+    "       9. HAO-CHING CHAN / XINYU JIANG \n\n",
+    "       10. GALINA VOSKOBOEVA / KAMILLA RAKHIMOVA \n\n",
+    "       11. ELLEN PEREZ / MAYA JOINT \n\n",
+    "04:43  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -10059,20 +10106,25 @@
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "ZHAOXUAN YANG / YIFAN XU",
-            "SABRINA SANTAMARIA / KATARZYNA PITER",
-            "ERI HOZUMI / ULRIKKE EIKERI",
-            "FANG-HSIEN WU / MIYU KATO",
-            "GIULIANA OLMOS / ALDILA SUTJIADI",
-            "CAROLINE DOLEHIDE / SOFIA KENIN",
-            "NICOLE MELICHAR-MARTINEZ / CRISTINA BUCSA",
-            "OLIVIA NICHOLLS / TEREZA MIHALIKOVA",
-            "HAO-CHING CHAN / XINYU JIANG",
-            "GALINA VOSKOBOEVA / KAMILLA RAKHIMOVA",
-            "ELLEN PEREZ / MAYA JOINT"
+            "Asia Muhammad / Erin Routliffe",
+            "Ulrikke Eikeri / Eri Hozumi",
+            "Yifan Xu / Zhaoxuan Yang",
+            "Maya Joint / Ellen Perez",
+            "Hao-Ching Chan / Xinyu Jiang",
+            "Katarzyna Piter / Sabrina Santamaria",
+            "Caroline Dolehide / Sofia Kenin",
+            "Kamilla Rakhimova / Galina Voskoboeva",
+            "Giuliana Olmos / Aldila Sutjiadi",
+            "Miyu Kato / Fang-Hsien Wu",
+            "Emma Raducanu / Elena Rybakina",
+            "Tereza Mihalikova / Olivia Nicholls",
+            "Hailey Baptiste / Venus Williams",
+            "Eugenie Bouchard / Clervie Ngounoue",
+            "Cristina Bucsa / Nicole Melichar-Martinez",
+            "Taylor Townsend / Shuai Zhang"
           ]
         }
       ],
@@ -10090,7 +10142,7 @@
           "players": []
         }
       ],
-      "2025-07-19"
+      "2025-07-20"
     ],
     "PRAGUE": [
       [
@@ -10320,5 +10372,5 @@
       1131
     ]
   ],
-  "old_day": 19
+  "old_day": 20
 }
