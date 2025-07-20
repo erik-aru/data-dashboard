@@ -7133,7 +7133,41 @@
     "       8. KIMBERLEY ZIMMERMANN / SHUO FENG \n\n",
     "       9. VERONIKA ERJAVEC / KRISTINA NOVAK \n\n",
     "       10. AMINA ANSHBA / SINJA KRAUS \n\n",
-    "       11. AURORA ZANTEDESCHI / JULIA RIERA \n\n"
+    "       11. AURORA ZANTEDESCHI / JULIA RIERA \n\n",
+    "20:23  change in PRAGUE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1082/PRAGUE/2025/draws\n\n",
+    "       Players added to the draw in PRAGUE SINGLES:    \n\n",
+    "       1. Anastasia Gasanova \n",
+    "          Gasanova, A\n\n",
+    "       2. Alena Kovackova \n",
+    "          Kovackova, A\n\n",
+    "       3. Mai Hontama \n",
+    "          Hontama, M\n\n",
+    "       4. Xinyu Gao \n",
+    "          Gao, X\n\n",
+    "       5. Lucrezia Stefanini \n",
+    "          Stefanini, L\n\n",
+    "       6. Astra Sharma \n",
+    "          Sharma, A\n\n",
+    "       7. Jesika Maleckova \n",
+    "          Maleckova, J\n\n",
+    "20:23  OOP in PRAGUE appeared \u2605\n       https://www.wtatennis.com/tournament/1082/PRAGUE/2025/order-of-play\n\n",
+    "20:23  change in PALERMO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/draws\n\n",
+    "       Players added to the draw in PALERMO-125 SINGLES:    \n\n",
+    "       1. Angela Fita Boluda \n",
+    "          Fita Boluda, A\n\n",
+    "       2. Renata Jamrichova \n",
+    "          Jamrichova, R\n\n",
+    "       3. Aurora Zantedeschi \n",
+    "          Zantedeschi, A\n\n",
+    "       4. Kaitlin Quevedo \n",
+    "          Quevedo, K\n\n",
+    "       5. Alice Rame \n",
+    "          Rame, A\n\n",
+    "       6. Carlota Martinez Cirez \n",
+    "          Martinez Cirez, C\n\n",
+    "       Players removed from the draw in PALERMO-125 SINGLES:    \n\n",
+    "       1. Jil Teichmann \n\n",
+    "20:23  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -10303,10 +10337,11 @@
       ],
       [
         1,
-        25,
+        32,
         {
           "players": [
             "Linda Noskova",
+            "Anastasia Gasanova",
             "Viktorija Golubic",
             "Elisabetta Cocciaretto",
             "Laura Samson",
@@ -10316,13 +10351,18 @@
             "Xinyu Wang",
             "Harriet Dart",
             "Lucie Havlickova",
+            "Alena Kovackova",
             "Sara Bejlek",
             "Moyuka Uchijima",
+            "Mai Hontama",
             "Alycia Parks",
             "Marie Bouzkova",
+            "Xinyu Gao",
             "Viktoriya Tomova",
+            "Lucrezia Stefanini",
             "Leolia Jeanjean",
             "Nuria Parrizas Diaz",
+            "Astra Sharma",
             "Ann Li",
             "Elina Avanesyan",
             "Anna Bondar",
@@ -10330,6 +10370,7 @@
             "Priscilla Hon",
             "Aoi Ito",
             "Tereza Valentova",
+            "Jesika Maleckova",
             "Rebecca Sramkova"
           ]
         }
@@ -10372,7 +10413,7 @@
           "players": []
         }
       ],
-      "2025-07-20"
+      "2025-07-21"
     ],
     "PALERMO-125": [
       [
@@ -10401,10 +10442,11 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Mayar Sherif",
+            "Angela Fita Boluda",
             "Hanne Vandewinkel",
             "Dalila Spiteri",
             "Kathinka Von Deichmann",
@@ -10415,13 +10457,16 @@
             "Chloe Paquet",
             "Oksana Selekhmeteva",
             "Giorgia Pedone",
+            "Renata Jamrichova",
+            "Aurora Zantedeschi",
             "Panna Udvardy",
             "Veronika Erjavec",
             "Simona Waltert",
             "Miriam Bulgaru",
+            "Kaitlin Quevedo",
             "Lola Radivojevic",
             "Anouk Koevermans",
-            "Julia Grabher",
+            "Alice Rame",
             "Jule Niemeier",
             "Darja Semenistaja",
             "Leyre Romero Gormaz",
@@ -10429,8 +10474,9 @@
             "Tyra Caterina Grant",
             "Tamara Zidansek",
             "Claire Liu",
+            "Carlota Martinez Cirez",
             "Tara Wuerth",
-            "Jil Teichmann"
+            "Julia Grabher"
           ]
         }
       ],
@@ -10471,7 +10517,7 @@
           "players": []
         }
       ],
-      "2025-07-20"
+      "2025-07-21"
     ]
   },
   "torns": [
