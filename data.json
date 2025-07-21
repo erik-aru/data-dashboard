@@ -1,93 +1,5 @@
 {
   "kuits": {
-    "ROME-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "PORTO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "HAMBURG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "IASI": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "WASHINGTON-DC": [
       [
         0,
@@ -7167,7 +7079,18 @@
     "          Martinez Cirez, C\n\n",
     "       Players removed from the draw in PALERMO-125 SINGLES:    \n\n",
     "       1. Jil Teichmann \n\n",
-    "20:23  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n"
+    "20:23  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n",
+    "04:44  WASHINGTON-DC SINGLES draw    \n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/draws\n\n",
+    "       Players added to the draw in WASHINGTON-DC SINGLES:    \n\n",
+    "       1. Taylor Townsend \n",
+    "          Townsend, T\n\n",
+    "       2. Yuliia Starodubtseva \n",
+    "          Starodubtseva, Y\n\n",
+    "       3. Kamilla Rakhimova \n",
+    "          Rakhimova, K\n\n",
+    "       4. Caroline Dolehide \n",
+    "          Dolehide, C\n\n",
+    "04:44  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -10232,12 +10155,13 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Jessica Pegula",
             "Leylah Fernandez",
             "Maya Joint",
+            "Taylor Townsend",
             "Tatjana Maria",
             "Hailey Baptiste",
             "Sofia Kenin",
@@ -10246,11 +10170,14 @@
             "Victoria Mboko",
             "Venus Williams",
             "Peyton Stearns",
+            "Yuliia Starodubtseva",
             "Magdalena Frech",
             "Magda Linette",
             "Danielle Collins",
             "Anna Kalinskaya",
+            "Kamilla Rakhimova",
             "McCartney Kessler",
+            "Caroline Dolehide",
             "Clara Tauson",
             "Marta Kostyuk",
             "Emma Raducanu",
@@ -10300,7 +10227,7 @@
           "players": []
         }
       ],
-      "2025-07-20"
+      "2025-07-21"
     ],
     "PRAGUE": [
       [
@@ -10522,22 +10449,6 @@
   },
   "torns": [
     [
-      "ROME-125",
-      1130
-    ],
-    [
-      "PORTO-125",
-      1135
-    ],
-    [
-      "HAMBURG",
-      2042
-    ],
-    [
-      "IASI",
-      2063
-    ],
-    [
       "WASHINGTON-DC",
       1045
     ],
@@ -10550,5 +10461,5 @@
       1131
     ]
   ],
-  "old_day": 20
+  "old_day": 21
 }
