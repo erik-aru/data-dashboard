@@ -7107,7 +7107,8 @@
     "       Players removed from the draw in PRAGUE SINGLES:    \n\n",
     "       1. Elina Avanesyan \n\n",
     "20:25  OOP in PRAGUE appeared \u2605\n       https://www.wtatennis.com/tournament/1082/PRAGUE/2025/order-of-play\n\n",
-    "20:25  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n"
+    "20:25  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n",
+    "04:40  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -10244,7 +10245,7 @@
           "players": []
         }
       ],
-      "2025-07-21"
+      "2025-07-22"
     ],
     "PRAGUE": [
       [
@@ -10478,5 +10479,5 @@
       1131
     ]
   ],
-  "old_day": 21
+  "old_day": 22
 }
