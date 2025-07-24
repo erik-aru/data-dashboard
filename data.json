@@ -87,6 +87,28 @@
         0,
         "none"
       ]
+    ],
+    "WARSAW-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -7331,7 +7353,66 @@
     "       24. DIANA SHNAIDER / MIRRA ANDREEVA \n",
     "           SHNAIDER, D/ANDREEVA, M\n\n",
     "20:25  OOP in PRAGUE appeared \u2605\n       https://www.wtatennis.com/tournament/1082/PRAGUE/2025/order-of-play\n\n",
-    "20:25  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n"
+    "20:25  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n",
+    "04:40  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n",
+    "04:40  WARSAW-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/draws\n\n",
+    "       Players added to the draw in WARSAW-125 SINGLES:    \n\n",
+    "       1. POLONA HERCOG \n",
+    "          HERCOG, P\n\n",
+    "       2. VIKTORIJA GOLUBIC \n",
+    "          GOLUBIC, V\n\n",
+    "       3. KATHINKA VON DEICHMANN \n",
+    "          VON DEICHMANN, K\n\n",
+    "       4. HARRIET DART \n",
+    "          DART, H\n\n",
+    "       5. TAMARA KORPATSCH \n",
+    "          KORPATSCH, T\n\n",
+    "       6. NINA STOJANOVIC \n",
+    "          STOJANOVIC, N\n\n",
+    "       7. KATERINA SINIAKOVA \n",
+    "          SINIAKOVA, K\n\n",
+    "       8. JANA FETT \n",
+    "          FETT, J\n\n",
+    "       9. XINYU GAO \n",
+    "          GAO, X\n\n",
+    "       10. ANNA BONDAR \n",
+    "           BONDAR, A\n\n",
+    "       11. LUCREZIA STEFANINI \n",
+    "           STEFANINI, L\n\n",
+    "       12. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       13. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       14. ZEYNEP SONMEZ \n",
+    "           SONMEZ, Z\n\n",
+    "       15. DIANE PARRY \n",
+    "           PARRY, D\n\n",
+    "       16. DARIA SNIGUR \n",
+    "           SNIGUR, D\n\n",
+    "       17. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       18. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       19. ELLA SEIDEL \n",
+    "           SEIDEL, E\n\n",
+    "       20. CELINE NAEF \n",
+    "           NAEF, C\n\n",
+    "       21. TATIANA PROZOROVA \n",
+    "           PROZOROVA, T\n\n",
+    "       22. TEREZA VALENTOVA \n",
+    "           VALENTOVA, T\n\n",
+    "       23. ALINA KORNEEVA \n",
+    "           KORNEEVA, A\n\n",
+    "04:40  WARSAW-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/draws\n\n",
+    "       Players added to the draw in WARSAW-125 DOUBLES:    \n\n",
+    "       1. MIRIAM SKOCH / JESIKA MALECKOVA \n",
+    "          SKOCH, M/MALECKOVA, J\n\n",
+    "       2. MAIA LUMSDEN / HARRIET DART \n",
+    "          LUMSDEN, M/DART, H\n\n",
+    "       3. ANNA-LENA FRIEDSAM / MAGALI KEMPEN \n",
+    "          FRIEDSAM, A/KEMPEN, M\n\n",
+    "       4. YVONNE CAVALLE-REIMERS / MARIA KOZYREVA \n",
+    "          CAVALLE-REIMERS, Y/KOZYREVA, M\n\n"
   ],
   "sits": {
     "ROME": [
@@ -10468,7 +10549,7 @@
           "players": []
         }
       ],
-      "2025-07-23"
+      "2025-07-24"
     ],
     "PRAGUE": [
       [
@@ -10822,6 +10903,73 @@
         }
       ],
       "nothing"
+    ],
+    "WARSAW-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        23,
+        {
+          "players": [
+            "POLONA HERCOG",
+            "VIKTORIJA GOLUBIC",
+            "KATHINKA VON DEICHMANN",
+            "HARRIET DART",
+            "TAMARA KORPATSCH",
+            "NINA STOJANOVIC",
+            "KATERINA SINIAKOVA",
+            "JANA FETT",
+            "XINYU GAO",
+            "ANNA BONDAR",
+            "LUCREZIA STEFANINI",
+            "MAJA CHWALINSKA",
+            "JOANNA GARLAND",
+            "ZEYNEP SONMEZ",
+            "DIANE PARRY",
+            "DARIA SNIGUR",
+            "DOMINIKA SALKOVA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "ELLA SEIDEL",
+            "CELINE NAEF",
+            "TATIANA PROZOROVA",
+            "TEREZA VALENTOVA",
+            "ALINA KORNEEVA"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "MIRIAM SKOCH / JESIKA MALECKOVA",
+            "MAIA LUMSDEN / HARRIET DART",
+            "ANNA-LENA FRIEDSAM / MAGALI KEMPEN",
+            "YVONNE CAVALLE-REIMERS / MARIA KOZYREVA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -10840,7 +10988,11 @@
     [
       "MONTREAL",
       806
+    ],
+    [
+      "WARSAW-125",
+      2087
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
