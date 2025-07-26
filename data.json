@@ -7417,7 +7417,76 @@
     "20:23  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n",
     "04:40  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n",
     "20:25  OOP in PRAGUE appeared \u2605\n       https://www.wtatennis.com/tournament/1082/PRAGUE/2025/order-of-play\n\n",
-    "20:25  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n"
+    "20:25  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2025/order-of-play\n\n",
+    "04:37  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n",
+    "04:37  MONTREAL QUALS draw    \n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/draws\n\n",
+    "       Players added to the draw in MONTREAL QUALS:    \n\n",
+    "       1. Laura Siegemund \n",
+    "          Siegemund, L\n\n",
+    "       2. Nao Hibino \n",
+    "          Hibino, N\n\n",
+    "       3. Kamilla Rakhimova \n",
+    "          Rakhimova, K\n\n",
+    "       4. Astra Sharma \n",
+    "          Sharma, A\n\n",
+    "       5. Yue Yuan \n",
+    "          Yuan, Y\n\n",
+    "       6. Whitney Osuigwe \n",
+    "          Osuigwe, W\n\n",
+    "       7. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       8. Dasha Plekhanova \n",
+    "          Plekhanova, D\n\n",
+    "       9. Cristina Bucsa \n",
+    "          Bucsa, C\n\n",
+    "       10. Priscilla Hon \n",
+    "           Hon, P\n\n",
+    "       11. Elsa Jacquemot \n",
+    "           Jacquemot, E\n\n",
+    "       12. Carol Zhao \n",
+    "           Zhao, C\n\n",
+    "       13. Taylor Townsend \n",
+    "           Townsend, T\n\n",
+    "       14. Mihaela Buzarnescu \n",
+    "           Buzarnescu, M\n\n",
+    "       15. Leolia Jeanjean \n",
+    "           Jeanjean, L\n\n",
+    "       16. Cadence Brace \n",
+    "           Brace, C\n\n",
+    "       17. Rebeka Masarova \n",
+    "           Masarova, R\n\n",
+    "       18. Yafan Wang \n",
+    "           Wang, Y\n\n",
+    "       19. Viktoriya Tomova \n",
+    "           Tomova, V\n\n",
+    "       20. Katherine Sebov \n",
+    "           Sebov, K\n\n",
+    "       21. Aoi Ito \n",
+    "           Ito, A\n\n",
+    "       22. Aliaksandra Sasnovich \n",
+    "           Sasnovich, A\n\n",
+    "       23. Varvara Gracheva \n",
+    "           Gracheva, V\n\n",
+    "       24. Maddison Inglis \n",
+    "           Inglis, M\n\n",
+    "       25. Katie Volynets \n",
+    "           Volynets, K\n\n",
+    "       26. Jodie Burrage \n",
+    "           Burrage, J\n\n",
+    "       27. Talia Gibson \n",
+    "           Gibson, T\n\n",
+    "       28. Louisa Chirico \n",
+    "           Chirico, L\n\n",
+    "       29. Shuai Zhang \n",
+    "           Zhang, S\n\n",
+    "       30. Destanee Aiava \n",
+    "           Aiava, D\n\n",
+    "       31. Bernarda Pera \n",
+    "           Pera, B\n\n",
+    "       32. Madison Brengle \n",
+    "           Brengle, M\n\n",
+    "04:37  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/order-of-play\n\n",
+    "04:37  change in WARSAW-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/draws\n\n       Players added to the draw in WARSAW-125 DOUBLES:    \n\n"
   ],
   "sits": {
     "ROME": [
@@ -10554,7 +10623,7 @@
           "players": []
         }
       ],
-      "2025-07-25"
+      "2025-07-26"
     ],
     "PRAGUE": [
       [
@@ -10776,9 +10845,42 @@
     "MONTREAL": [
       [
         0,
-        0,
+        32,
         {
-          "players": []
+          "players": [
+            "Laura Siegemund",
+            "Nao Hibino",
+            "Kamilla Rakhimova",
+            "Astra Sharma",
+            "Yue Yuan",
+            "Whitney Osuigwe",
+            "Antonia Ruzic",
+            "Dasha Plekhanova",
+            "Cristina Bucsa",
+            "Priscilla Hon",
+            "Elsa Jacquemot",
+            "Carol Zhao",
+            "Taylor Townsend",
+            "Mihaela Buzarnescu",
+            "Leolia Jeanjean",
+            "Cadence Brace",
+            "Rebeka Masarova",
+            "Yafan Wang",
+            "Viktoriya Tomova",
+            "Katherine Sebov",
+            "Aoi Ito",
+            "Aliaksandra Sasnovich",
+            "Varvara Gracheva",
+            "Maddison Inglis",
+            "Katie Volynets",
+            "Jodie Burrage",
+            "Talia Gibson",
+            "Louisa Chirico",
+            "Shuai Zhang",
+            "Destanee Aiava",
+            "Bernarda Pera",
+            "Madison Brengle"
+          ]
         }
       ],
       [
@@ -10907,7 +11009,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-07-26"
     ],
     "WARSAW-125": [
       [
@@ -10953,10 +11055,10 @@
         4,
         {
           "players": [
-            "MIRIAM SKOCH / JESIKA MALECKOVA",
-            "MAIA LUMSDEN / HARRIET DART",
+            "YVONNE CAVALLE-REIMERS / MARIA KOZYREVA",
             "ANNA-LENA FRIEDSAM / MAGALI KEMPEN",
-            "YVONNE CAVALLE-REIMERS / MARIA KOZYREVA"
+            "MAIA LUMSDEN / HARRIET DART",
+            "MIRIAM SKOCH / JESIKA MALECKOVA"
           ]
         }
       ],
@@ -10999,5 +11101,5 @@
       2087
     ]
   ],
-  "old_day": 25
+  "old_day": 26
 }
