@@ -22,28 +22,6 @@
         "none"
       ]
     ],
-    "PRAGUE": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "PALERMO-125": [
       [
         0,
@@ -7752,7 +7730,43 @@
     "          Ryser, V\n\n",
     "       8. Urszula Radwanska \n",
     "          Radwanska, U\n\n",
-    "20:23  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/order-of-play\n\n"
+    "20:23  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/order-of-play\n\n",
+    "04:45  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2025/order-of-play\n\n",
+    "04:45  MONTREAL SINGLES draw    \n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/draws\n\n",
+    "       Players added to the draw in MONTREAL SINGLES:    \n\n",
+    "       1. Viktoriya Tomova \n",
+    "          Tomova, V\n\n",
+    "       2. Cristina Bucsa \n",
+    "          Bucsa, C\n\n",
+    "       3. Varvara Gracheva \n",
+    "          Gracheva, V\n\n",
+    "       4. Louisa Chirico \n",
+    "          Chirico, L\n\n",
+    "       5. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       6. Aoi Ito \n",
+    "          Ito, A\n\n",
+    "       7. Whitney Osuigwe \n",
+    "          Osuigwe, W\n\n",
+    "       8. Bernarda Pera \n",
+    "          Pera, B\n\n",
+    "       9. Elsa Jacquemot \n",
+    "          Jacquemot, E\n\n",
+    "       10. Kamilla Rakhimova \n",
+    "           Rakhimova, K\n\n",
+    "       11. Ariana Arseneault \n",
+    "           Arseneault, A\n\n",
+    "       12. Laura Siegemund \n",
+    "           Siegemund, L\n\n",
+    "       13. Antonia Ruzic \n",
+    "           Ruzic, A\n\n",
+    "       14. Yafan Wang \n",
+    "           Wang, Y\n\n",
+    "       15. Leolia Jeanjean \n",
+    "           Jeanjean, L\n\n",
+    "       16. Hanyu Guo \n",
+    "           Guo, H\n\n",
+    "04:45  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -10889,7 +10903,7 @@
           "players": []
         }
       ],
-      "2025-07-26"
+      "2025-07-27"
     ],
     "PRAGUE": [
       [
@@ -11151,11 +11165,13 @@
       ],
       [
         1,
-        80,
+        96,
         {
           "players": [
             "Coco Gauff",
             "Danielle Collins",
+            "Viktoriya Tomova",
+            "Cristina Bucsa",
             "Veronika Kudermetova",
             "Olga Danilovic",
             "Sofia Kenin",
@@ -11166,11 +11182,15 @@
             "Diana Shnaider",
             "Ekaterina Alexandrova",
             "Lin Zhu",
+            "Varvara Gracheva",
             "Suzan Lamens",
             "Polina Kudermetova",
             "Beatriz Haddad Maia",
             "Ashlyn Krueger",
+            "Louisa Chirico",
             "Jessica Bouzas Maneiro",
+            "Katie Volynets",
+            "Aoi Ito",
             "Jasmine Paolini",
             "Mirra Andreeva",
             "Bianca Andreescu",
@@ -11185,12 +11205,15 @@
             "Anna Blinkova",
             "Daria Kasatkina",
             "Elena Rybakina",
+            "Whitney Osuigwe",
             "Hailey Baptiste",
             "Jaqueline Cristian",
             "Marina Stakusic",
             "Linda Noskova",
             "Dayana Yastremska",
+            "Bernarda Pera",
             "Camila Osorio",
+            "Elsa Jacquemot",
             "Rebecca Marino",
             "Emma Navarro",
             "Amanda Anisimova",
@@ -11202,9 +11225,11 @@
             "Elise Mertens",
             "Ann Li",
             "Anna Kalinskaya",
+            "Kamilla Rakhimova",
             "Kayla Cross",
             "Elina Svitolina",
             "Liudmila Samsonova",
+            "Ariana Arseneault",
             "Naomi Osaka",
             "Katie Boulter",
             "Renata Zarazua",
@@ -11217,22 +11242,27 @@
             "Jessica Pegula",
             "Madison Keys",
             "Tatjana Maria",
+            "Laura Siegemund",
             "Alycia Parks",
             "Caty McNally",
             "Rebecca Sramkova",
             "Belinda Bencic",
             "Eugenie Bouchard",
             "Emiliana Arango",
+            "Antonia Ruzic",
             "Anastasia Potapova",
             "Karolina Muchova",
             "Clara Tauson",
             "Elizabeth Mandlik",
             "Lucia Bronzetti",
+            "Yafan Wang",
             "Yuliia Starodubtseva",
             "Magdalena Frech",
             "Anastasia Pavlyuchenkova",
             "Eva Lys",
+            "Leolia Jeanjean",
             "Yulia Putintseva",
+            "Hanyu Guo",
             "Iga Swiatek"
           ]
         }
@@ -11283,7 +11313,7 @@
           "players": []
         }
       ],
-      "2025-07-26"
+      "2025-07-27"
     ],
     "WARSAW-125": [
       [
@@ -11368,10 +11398,6 @@
       1045
     ],
     [
-      "PRAGUE",
-      1082
-    ],
-    [
       "PALERMO-125",
       1131
     ],
@@ -11384,5 +11410,5 @@
       2087
     ]
   ],
-  "old_day": 26
+  "old_day": 27
 }
