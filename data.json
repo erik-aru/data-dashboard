@@ -7937,7 +7937,8 @@
     "04:43  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/order-of-play\n\n",
     "20:25  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/order-of-play\n\n",
     "04:54  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/order-of-play\n\n",
-    "20:25  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/order-of-play\n\n"
+    "20:25  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2025/order-of-play\n\n",
+    "04:36  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -11492,7 +11493,7 @@
           "players": []
         }
       ],
-      "2025-08-01"
+      "2025-08-02"
     ],
     "WARSAW-125": [
       [
@@ -11594,5 +11595,5 @@
       2087
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
