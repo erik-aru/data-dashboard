@@ -8238,7 +8238,9 @@
     "           Krunic, A\n\n",
     "       48. Aoi Ito \n",
     "           Ito, A\n\n",
-    "04:50  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n"
+    "04:50  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n",
+    "04:48  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2025/order-of-play\n\n",
+    "04:48  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -11793,7 +11795,7 @@
           "players": []
         }
       ],
-      "2025-08-05"
+      "2025-08-06"
     ],
     "WARSAW-125": [
       [
@@ -12068,7 +12070,7 @@
           "players": []
         }
       ],
-      "2025-08-05"
+      "2025-08-06"
     ]
   },
   "torns": [
@@ -12081,5 +12083,5 @@
       1017
     ]
   ],
-  "old_day": 5
+  "old_day": 6
 }
