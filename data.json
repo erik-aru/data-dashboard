@@ -8582,7 +8582,21 @@
     "       21. XINYU JIANG / HAO-CHING CHAN \n\n",
     "       22. FANNY STOLLAR / FANG-HSIEN WU \n\n",
     "       23. ANNA KALINSKAYA / SORANA CIRSTEA \n\n",
-    "       24. DIANA SHNAIDER / MIRRA ANDREEVA \n\n"
+    "       24. DIANA SHNAIDER / MIRRA ANDREEVA \n\n",
+    "20:24  change in CINCINNATI SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/draws\n\n",
+    "       Players added to the draw in CINCINNATI SINGLES:    \n\n",
+    "       1. Cristina Bucsa \n",
+    "          Bucsa, C\n\n",
+    "       2. Yue Yuan \n",
+    "          Yuan, Y\n\n",
+    "       3. Iva Jovic \n",
+    "          Jovic, I\n\n",
+    "       4. Solana Sierra \n",
+    "          Sierra, S\n\n",
+    "       Players removed from the draw in CINCINNATI SINGLES:    \n\n",
+    "       1. Victoria Mboko \n\n",
+    "       2. Naomi Osaka \n\n",
+    "20:24  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -12287,7 +12301,7 @@
       ],
       [
         1,
-        94,
+        96,
         {
           "players": [
             "Aryna Sabalenka",
@@ -12323,7 +12337,8 @@
             "Magdalena Frech",
             "Sorana Cirstea",
             "Donna Vekic",
-            "Victoria Mboko",
+            "Cristina Bucsa",
+            "Yue Yuan",
             "Diana Shnaider",
             "Ekaterina Alexandrova",
             "Lulu Sun",
@@ -12368,7 +12383,8 @@
             "Emina Bektas",
             "Ashlyn Krueger",
             "Linda Noskova",
-            "Naomi Osaka",
+            "Iva Jovic",
+            "Solana Sierra",
             "Alycia Parks",
             "Barbora Krejcikova",
             "Elina Svitolina",
@@ -12441,7 +12457,7 @@
           "players": []
         }
       ],
-      "2025-08-08"
+      "2025-08-09"
     ]
   },
   "torns": [
