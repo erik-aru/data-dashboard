@@ -8596,7 +8596,11 @@
     "       Players removed from the draw in CINCINNATI SINGLES:    \n\n",
     "       1. Victoria Mboko \n\n",
     "       2. Naomi Osaka \n\n",
-    "20:24  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n"
+    "20:24  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n",
+    "04:30  CINCINNATI DOUBLES draw    \n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/draws\n\n",
+    "       Players added to the draw in CINCINNATI DOUBLES:    \n\n",
+    "       Players removed from the draw in CINCINNATI DOUBLES:    \n\n",
+    "       1. Caroline Dolehide / Sofia Kenin \n\n"
   ],
   "sits": {
     "ROME": [
@@ -12405,11 +12409,10 @@
       ],
       [
         2,
-        32,
+        31,
         {
           "players": [
             "Sara Errani / Jasmine Paolini",
-            "Caroline Dolehide / Sofia Kenin",
             "Magda Linette / Clara Tauson",
             "Tereza Mihalikova / Olivia Nicholls",
             "Peyton Stearns / Marketa Vondrousova",
@@ -12466,5 +12469,5 @@
       1017
     ]
   ],
-  "old_day": 8
+  "old_day": 9
 }
