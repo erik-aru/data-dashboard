@@ -21,6 +21,28 @@
         0,
         "none"
       ]
+    ],
+    "CLEVELAND": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -8611,7 +8633,76 @@
     "       1. Beatriz Haddad Maia / Laura Siegemund \n\n",
     "20:22  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n",
     "20:23  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n",
-    "20:22  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n"
+    "20:22  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n",
+    "04:31  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n",
+    "04:31  CLEVELAND SINGLES draw    \n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/draws\n\n",
+    "       Players added to the draw in CLEVELAND SINGLES:    \n\n",
+    "       1. LAURA SIEGEMUND \n",
+    "          SIEGEMUND, L\n\n",
+    "       2. ANASTASIJA SEVASTOVA \n",
+    "          SEVASTOVA, A\n\n",
+    "       3. LIN ZHU \n",
+    "          ZHU, L\n\n",
+    "       4. ELENA-GABRIELA RUSE \n",
+    "          RUSE, E\n\n",
+    "       5. CAROLINE DOLEHIDE \n",
+    "          DOLEHIDE, C\n\n",
+    "       6. LIUDMILA SAMSONOVA \n",
+    "          SAMSONOVA, L\n\n",
+    "       7. DAYANA YASTREMSKA \n",
+    "          YASTREMSKA, D\n\n",
+    "       8. SUZAN LAMENS \n",
+    "          LAMENS, S\n\n",
+    "       9. ANASTASIA POTAPOVA \n",
+    "          POTAPOVA, A\n\n",
+    "       10. EVA LYS \n",
+    "           LYS, E\n\n",
+    "       11. ANN LI \n",
+    "           LI, A\n\n",
+    "       12. XINYU WANG \n",
+    "           WANG, X\n\n",
+    "       13. HAILEY BAPTISTE \n",
+    "           BAPTISTE, H\n\n",
+    "       14. PEYTON STEARNS \n",
+    "           STEARNS, P\n\n",
+    "       15. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       16. CLARA TAUSON \n",
+    "           TAUSON, C\n\n",
+    "       17. LOIS BOISSON \n",
+    "           BOISSON, L\n\n",
+    "       18. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       19. SOLANA SIERRA \n",
+    "           SIERRA, S\n\n",
+    "       20. SONAY KARTAL \n",
+    "           KARTAL, S\n\n",
+    "       21. MAYA JOINT \n",
+    "           JOINT, M\n\n",
+    "04:31  CLEVELAND DOUBLES draw    \n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/draws\n\n",
+    "       Players added to the draw in CLEVELAND DOUBLES:    \n\n",
+    "       1. ZHAOXUAN YANG / YIFAN XU \n",
+    "          YANG, Z/XU, Y\n\n",
+    "       2. YAFAN WANG / SHUKO AOYAMA \n",
+    "          WANG, Y/AOYAMA, S\n\n",
+    "       3. ULRIKKE EIKERI / ERI HOZUMI \n",
+    "          EIKERI, U/HOZUMI, E\n\n",
+    "       4. MAIA LUMSDEN / MAKOTO NINOMIYA \n",
+    "          LUMSDEN, M/NINOMIYA, M\n\n",
+    "       5. ALEKSANDRA KRUNIC / ANNA DANILINA \n",
+    "          KRUNIC, A/DANILINA, A\n\n",
+    "       6. HAO-CHING CHAN / XINYU JIANG \n",
+    "          CHAN, H/JIANG, X\n\n",
+    "       7. FANG-HSIEN WU / FANNY STOLLAR \n",
+    "          WU, F/STOLLAR, F\n\n",
+    "       8. ANASTASIA DETIUC / MIRIAM SKOCH \n",
+    "          DETIUC, A/SKOCH, M\n\n",
+    "       9. SABRINA SANTAMARIA / QIANHUI TANG \n",
+    "          SANTAMARIA, S/TANG, Q\n\n",
+    "       10. IVANA CORLEY / CARMEN CORLEY \n",
+    "           CORLEY, I/CORLEY, C\n\n",
+    "       11. EMILY APPLETON / ISABELLE HAVERLAG \n",
+    "           APPLETON, E/HAVERLAG, I\n\n"
   ],
   "sits": {
     "ROME": [
@@ -12472,14 +12563,90 @@
           "players": []
         }
       ],
-      "2025-08-12"
+      "2025-08-13"
+    ],
+    "CLEVELAND": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        21,
+        {
+          "players": [
+            "LAURA SIEGEMUND",
+            "ANASTASIJA SEVASTOVA",
+            "LIN ZHU",
+            "ELENA-GABRIELA RUSE",
+            "CAROLINE DOLEHIDE",
+            "LIUDMILA SAMSONOVA",
+            "DAYANA YASTREMSKA",
+            "SUZAN LAMENS",
+            "ANASTASIA POTAPOVA",
+            "EVA LYS",
+            "ANN LI",
+            "XINYU WANG",
+            "HAILEY BAPTISTE",
+            "PEYTON STEARNS",
+            "ELINA AVANESYAN",
+            "CLARA TAUSON",
+            "LOIS BOISSON",
+            "POLINA KUDERMETOVA",
+            "SOLANA SIERRA",
+            "SONAY KARTAL",
+            "MAYA JOINT"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ZHAOXUAN YANG / YIFAN XU",
+            "YAFAN WANG / SHUKO AOYAMA",
+            "ULRIKKE EIKERI / ERI HOZUMI",
+            "MAIA LUMSDEN / MAKOTO NINOMIYA",
+            "ALEKSANDRA KRUNIC / ANNA DANILINA",
+            "HAO-CHING CHAN / XINYU JIANG",
+            "FANG-HSIEN WU / FANNY STOLLAR",
+            "ANASTASIA DETIUC / MIRIAM SKOCH",
+            "SABRINA SANTAMARIA / QIANHUI TANG",
+            "IVANA CORLEY / CARMEN CORLEY",
+            "EMILY APPLETON / ISABELLE HAVERLAG"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
     [
       "CINCINNATI",
       1017
+    ],
+    [
+      "CLEVELAND",
+      2040
     ]
   ],
-  "old_day": 12
+  "old_day": 13
 }
