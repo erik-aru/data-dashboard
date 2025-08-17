@@ -9100,7 +9100,19 @@
     "       9. NICOLE MELICHAR-MARTINEZ / CRISTINA BUCSA \n\n",
     "       10. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
     "       11. IRINA KHROMACHEVA / KAMILLA RAKHIMOVA \n\n",
-    "04:33  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n"
+    "04:33  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n",
+    "20:22  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2025/order-of-play\n\n",
+    "20:22  change in CLEVELAND SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/draws\n\n",
+    "       Players added to the draw in CLEVELAND SINGLES:    \n\n",
+    "       1. Yafan Wang \n",
+    "          Wang, Y\n\n",
+    "       2. Sorana Cirstea \n",
+    "          Cirstea, S\n\n",
+    "       3. Elsa Jacquemot \n",
+    "          Jacquemot, E\n\n",
+    "       4. Talia Gibson \n",
+    "          Gibson, T\n\n",
+    "20:22  OOP in CLEVELAND appeared \u2605\n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -12961,7 +12973,7 @@
           "players": []
         }
       ],
-      "2025-08-17"
+      "2025-08-18"
     ],
     "CLEVELAND": [
       [
@@ -12990,12 +13002,14 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Liudmila Samsonova",
             "Caroline Dolehide",
             "Peyton Stearns",
+            "Yafan Wang",
+            "Sorana Cirstea",
             "Moyuka Uchijima",
             "Jil Teichmann",
             "Lois Boisson",
@@ -13010,6 +13024,7 @@
             "Sonay Kartal",
             "Solana Sierra",
             "Lin Zhu",
+            "Elsa Jacquemot",
             "Yuliia Starodubtseva",
             "Ann Li",
             "Iva Jovic",
@@ -13018,6 +13033,7 @@
             "Yue Yuan",
             "Lucia Bronzetti",
             "Viktorija Golubic",
+            "Talia Gibson",
             "Greet Minnen",
             "Suzan Lamens",
             "Xinyu Wang"
@@ -13062,7 +13078,7 @@
           "players": []
         }
       ],
-      "2025-08-17"
+      "2025-08-18"
     ],
     "MONTERREY": [
       [
