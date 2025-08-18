@@ -9112,7 +9112,18 @@
     "          Jacquemot, E\n\n",
     "       4. Talia Gibson \n",
     "          Gibson, T\n\n",
-    "20:22  OOP in CLEVELAND appeared \u2605\n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/order-of-play\n\n"
+    "20:22  OOP in CLEVELAND appeared \u2605\n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/order-of-play\n\n",
+    "04:39  MONTERREY SINGLES draw    \n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/draws\n\n",
+    "       Players added to the draw in MONTERREY SINGLES:    \n\n",
+    "       1. Cristina Bucsa \n",
+    "          Bucsa, C\n\n",
+    "       2. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       3. Leolia Jeanjean \n",
+    "          Jeanjean, L\n\n",
+    "       4. Lulu Sun \n",
+    "          Sun, L\n\n",
+    "04:39  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -13107,10 +13118,11 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Emma Navarro",
+            "Cristina Bucsa",
             "Alycia Parks",
             "Rebecca Sramkova",
             "Victoria Rodriguez",
@@ -13124,11 +13136,14 @@
             "Anna Blinkova",
             "Elise Mertens",
             "Anastasia Pavlyuchenkova",
+            "Antonia Ruzic",
+            "Leolia Jeanjean",
             "Elisabetta Cocciaretto",
             "Marie Bouzkova",
             "Zeynep Sonmez",
             "Beatriz Haddad Maia",
             "Linda Noskova",
+            "Lulu Sun",
             "Anna Bondar",
             "Tatjana Maria",
             "Renata Zarazua",
@@ -13175,7 +13190,7 @@
           "players": []
         }
       ],
-      "2025-08-17"
+      "2025-08-18"
     ]
   },
   "torns": [
@@ -13192,5 +13207,5 @@
       1039
     ]
   ],
-  "old_day": 17
+  "old_day": 18
 }
