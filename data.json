@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "CINCINNATI": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CLEVELAND": [
       [
         0,
@@ -9124,7 +9102,8 @@
     "       4. Lulu Sun \n",
     "          Sun, L\n\n",
     "04:39  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n",
-    "20:22  OOP in CLEVELAND appeared \u2605\n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/order-of-play\n\n"
+    "20:22  OOP in CLEVELAND appeared \u2605\n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/order-of-play\n\n",
+    "04:24  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -13191,14 +13170,10 @@
           "players": []
         }
       ],
-      "2025-08-18"
+      "2025-08-19"
     ]
   },
   "torns": [
-    [
-      "CINCINNATI",
-      1017
-    ],
     [
       "CLEVELAND",
       2040
@@ -13208,5 +13183,5 @@
       1039
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
