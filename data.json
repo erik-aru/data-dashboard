@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "US-OPEN": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -9103,7 +9125,10 @@
     "          Sun, L\n\n",
     "04:39  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n",
     "20:22  OOP in CLEVELAND appeared \u2605\n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/order-of-play\n\n",
-    "04:24  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n"
+    "04:24  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n",
+    "04:25  OOP in CLEVELAND appeared \u2605\n       https://www.wtatennis.com/tournament/2040/CLEVELAND/2025/order-of-play\n\n",
+    "04:25  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2025/order-of-play\n\n",
+    "04:25  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -13069,7 +13094,7 @@
           "players": []
         }
       ],
-      "2025-08-19"
+      "2025-08-20"
     ],
     "MONTERREY": [
       [
@@ -13170,7 +13195,45 @@
           "players": []
         }
       ],
-      "2025-08-19"
+      "2025-08-20"
+    ],
+    "US-OPEN": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        2,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "2025-08-20"
     ]
   },
   "torns": [
@@ -13181,7 +13244,11 @@
     [
       "MONTERREY",
       1039
+    ],
+    [
+      "US-OPEN",
+      905
     ]
   ],
-  "old_day": 19
+  "old_day": 20
 }
