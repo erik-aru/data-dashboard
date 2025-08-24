@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "CLEVELAND": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "MONTERREY": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "US-OPEN": [
       [
         0,
@@ -10718,7 +10674,8 @@
     "       125. Lamens, Suzan \n\n",
     "       126. Glozman, Valerie \n\n",
     "       127. Arango, Emiliana \n\n",
-    "       128. Swiatek, Iga \n\n"
+    "       128. Swiatek, Iga \n\n",
+    "04:26  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -15081,22 +15038,14 @@
           "players": []
         }
       ],
-      "2025-08-24"
+      "2025-08-25"
     ]
   },
   "torns": [
-    [
-      "CLEVELAND",
-      2040
-    ],
-    [
-      "MONTERREY",
-      1039
-    ],
     [
       "US-OPEN",
       905
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
