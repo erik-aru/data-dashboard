@@ -11143,7 +11143,42 @@
     "       1. Yvonne Cavalle-Reimers / Solana Sierra \n",
     "          Cavalle-Reimers, Y/Sierra, S\n\n",
     "04:24  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n",
-    "04:22  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n"
+    "04:22  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n",
+    "12:36  NEW draw in CHANGSHA-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/draws\n\n",
+    "       Players added to the draw in CHANGSHA-125 QUALS:    \n\n",
+    "       1. Sohyun Park \n",
+    "          Park, S\n\n",
+    "       2. Rinko Matsuda \n",
+    "          Matsuda, R\n\n",
+    "       3. Jiaqi Wang \n",
+    "          Wang, J\n\n",
+    "       4. Daria Kudashova \n",
+    "          Kudashova, D\n\n",
+    "       5. Jessica Pieri \n",
+    "          Pieri, J\n\n",
+    "       6. Su Jeong Jang \n",
+    "          Jang, S\n\n",
+    "       7. Fangzhou Liu \n",
+    "          Liu, F\n\n",
+    "       8. Zongyu Li \n",
+    "          Li, Z\n\n",
+    "       9. Meiling Wang \n",
+    "          Wang, M\n\n",
+    "       10. Viktoria Morvayova \n",
+    "           Morvayova, V\n\n",
+    "       11. Shuo Feng \n",
+    "           Feng, S\n\n",
+    "       12. Meiqi Guo \n",
+    "           Guo, M\n\n",
+    "       13. Diletta Cherubini \n",
+    "           Cherubini, D\n\n",
+    "       14. Chengyiyi Yuan \n",
+    "           Yuan, C\n\n",
+    "       15. Eudice Chong \n",
+    "           Chong, E\n\n",
+    "       16. Ekaterina Reyngold \n",
+    "           Reyngold, E\n\n",
+    "12:36  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -15659,9 +15694,26 @@
     "CHANGSHA-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Sohyun Park",
+            "Rinko Matsuda",
+            "Jiaqi Wang",
+            "Daria Kudashova",
+            "Jessica Pieri",
+            "Su Jeong Jang",
+            "Fangzhou Liu",
+            "Zongyu Li",
+            "Meiling Wang",
+            "Viktoria Morvayova",
+            "Shuo Feng",
+            "Meiqi Guo",
+            "Diletta Cherubini",
+            "Chengyiyi Yuan",
+            "Eudice Chong",
+            "Ekaterina Reyngold"
+          ]
         }
       ],
       [
@@ -15743,7 +15795,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-08-31"
     ],
     "GUADALAJARA-125": [
       [
