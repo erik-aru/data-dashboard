@@ -11178,7 +11178,32 @@
     "           Chong, E\n\n",
     "       16. Ekaterina Reyngold \n",
     "           Reyngold, E\n\n",
-    "12:36  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n"
+    "12:36  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n",
+    "20:19  NEW draw in MONTREUX-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/draws\n\n",
+    "       Players added to the draw in MONTREUX-125 QUALS:    \n\n",
+    "       1. Sada Nahimana \n",
+    "          Nahimana, S\n\n",
+    "       2. Marie Mettraux \n",
+    "          Mettraux, M\n\n",
+    "       3. Anouck Vrancken Peeters \n",
+    "          Vrancken Peeters, A\n\n",
+    "       4. Caroline Werner \n",
+    "          Werner, C\n\n",
+    "       5. Renata Jamrichova \n",
+    "          Jamrichova, R\n\n",
+    "       6. Aliona Bolsova \n",
+    "          Bolsova, A\n\n",
+    "       7. Jessica Bertoldo \n",
+    "          Bertoldo, J\n\n",
+    "       8. Dalila Spiteri \n",
+    "          Spiteri, D\n\n",
+    "       9. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "       10. Alina Granwehr \n",
+    "           Granwehr, A\n\n",
+    "       11. Elena Malygina \n",
+    "           Malygina, E\n\n",
+    "20:19  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -15612,9 +15637,21 @@
     "MONTREUX-125": [
       [
         0,
-        0,
+        11,
         {
-          "players": []
+          "players": [
+            "Sada Nahimana",
+            "Marie Mettraux",
+            "Anouck Vrancken Peeters",
+            "Caroline Werner",
+            "Renata Jamrichova",
+            "Aliona Bolsova",
+            "Jessica Bertoldo",
+            "Dalila Spiteri",
+            "Teodora Kostovic",
+            "Alina Granwehr",
+            "Elena Malygina"
+          ]
         }
       ],
       [
@@ -15689,7 +15726,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-08-31"
     ],
     "CHANGSHA-125": [
       [
