@@ -11553,7 +11553,20 @@
     "       37. HANNE VANDEWINKEL \n\n",
     "       38. TYRA CATERINA GRANT \n\n",
     "20:20  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/order-of-play\n\n",
-    "20:20  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n"
+    "20:20  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n",
+    "04:29  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n",
+    "04:29  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n",
+    "04:29  GUADALAJARA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/draws\n\n",
+    "       Players added to the draw in GUADALAJARA-125 SINGLES:    \n\n",
+    "       1. Maria Kozyreva \n",
+    "          Kozyreva, M\n\n",
+    "       2. Anastasia Kulikova \n",
+    "          Kulikova, A\n\n",
+    "       3. Victoria Rodriguez \n",
+    "          Rodriguez, V\n\n",
+    "       4. Varvara Lepchenko \n",
+    "          Lepchenko, V\n\n",
+    "04:29  OOP in GUADALAJARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -15982,7 +15995,7 @@
           "players": []
         }
       ],
-      "2025-09-01"
+      "2025-09-02"
     ],
     "MONTREUX-125": [
       [
@@ -16166,7 +16179,7 @@
           "players": []
         }
       ],
-      "2025-08-31"
+      "2025-09-01"
     ],
     "GUADALAJARA-125": [
       [
@@ -16187,16 +16200,19 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Kamilla Rakhimova",
             "Victoria Jimenez Kasintseva",
             "Anna Rogers",
             "Alana Smith",
+            "Maria Kozyreva",
+            "Anastasia Kulikova",
             "Martina Trevisan",
             "Olivia Gadecki",
             "Francesca Jones",
+            "Victoria Rodriguez",
             "Iryna Shymanovich",
             "Laura Pigossi",
             "Alisa Oktiabreva",
@@ -16216,6 +16232,7 @@
             "Nicole Fossa Huergo",
             "Linda Klimovicova",
             "Maddison Inglis",
+            "Varvara Lepchenko",
             "Arianne Hartono",
             "Alexandra Eala"
           ]
@@ -16247,7 +16264,7 @@
           "players": []
         }
       ],
-      "2025-08-31"
+      "2025-09-01"
     ]
   },
   "torns": [
@@ -16268,5 +16285,5 @@
       2098
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
