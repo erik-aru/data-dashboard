@@ -11566,7 +11566,53 @@
     "          Rodriguez, V\n\n",
     "       4. Varvara Lepchenko \n",
     "          Lepchenko, V\n\n",
-    "04:29  OOP in GUADALAJARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/order-of-play\n\n"
+    "04:29  OOP in GUADALAJARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/order-of-play\n\n",
+    "12:42  change in MONTREUX-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/draws\n\n",
+    "       Players added to the draw in MONTREUX-125 SINGLES:    \n\n",
+    "       1. Caroline Werner \n",
+    "          Werner, C\n\n",
+    "       2. Dalila Spiteri \n",
+    "          Spiteri, D\n\n",
+    "       3. Aliona Bolsova \n",
+    "          Bolsova, A\n\n",
+    "       4. Sada Nahimana \n",
+    "          Nahimana, S\n\n",
+    "       5. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "12:42  change in MONTREUX-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/draws\n\n",
+    "       Players added to the draw in MONTREUX-125 DOUBLES:    \n\n",
+    "       1. Emily Appleton / Isabelle Haverlag \n",
+    "          Appleton, E/Haverlag, I\n\n",
+    "       2. Anouk Koevermans / Valentina Ryser \n",
+    "          Koevermans, A/Ryser, V\n\n",
+    "       3. Dominika Salkova / Kathinka Von Deichmann \n",
+    "          Salkova, D/Von Deichmann, K\n\n",
+    "       4. Arantxa Rus / Anca Todoni \n",
+    "          Rus, A/Todoni, A\n\n",
+    "       5. Tamara Korpatsch / Angelica Moratelli \n",
+    "          Korpatsch, T/Moratelli, A\n\n",
+    "       6. Oksana Selekhmeteva / Simona Waltert \n",
+    "          Selekhmeteva, O/Waltert, S\n\n",
+    "       7. Alicia Barnett / Elixane Lechemia \n",
+    "          Barnett, A/Lechemia, E\n\n",
+    "       8. Aliona Bolsova / Darja Semenistaja \n",
+    "          Bolsova, A/Semenistaja, D\n\n",
+    "       Players removed from the draw in MONTREUX-125 DOUBLES:    \n\n",
+    "       1. ALICIA BARNETT / ELIXANE LECHEMIA \n\n",
+    "       2. DARJA SEMENISTAJA / ALIONA BOLSOVA \n\n",
+    "       3. ISABELLE HAVERLAG / EMILY APPLETON \n\n",
+    "       4. JESIKA MALECKOVA / MIRIAM SKOCH \n\n",
+    "12:42  change in CHANGSHA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/draws\n\n",
+    "       Players added to the draw in CHANGSHA-125 SINGLES:    \n\n",
+    "       1. Daria Kudashova \n",
+    "          Kudashova, D\n\n",
+    "       2. Meiqi Guo \n",
+    "          Guo, M\n\n",
+    "       3. Jessica Pieri \n",
+    "          Pieri, J\n\n",
+    "       4. Ekaterina Reyngold \n",
+    "          Reyngold, E\n\n",
+    "12:42  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -16019,18 +16065,21 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Jil Teichmann",
             "Maja Chwalinska",
             "Oksana Selekhmeteva",
+            "Caroline Werner",
             "Susan Bandecchi",
             "Tamara Korpatsch",
+            "Dalila Spiteri",
             "Arantxa Rus",
             "Sara Bejlek",
             "Dominika Salkova",
             "Andrea Lazaro Garcia",
+            "Aliona Bolsova",
             "Lola Radivojevic",
             "Tara Wuerth",
             "Hanne Vandewinkel",
@@ -16041,12 +16090,14 @@
             "Kathinka Von Deichmann",
             "Nuria Brancaccio",
             "Darya Astakhova",
+            "Sada Nahimana",
             "Anca Todoni",
             "Simona Waltert",
             "Valentina Ryser",
             "Anouk Koevermans",
             "Carson Branstine",
             "Guiomar Maristany Zuleta De Reales",
+            "Teodora Kostovic",
             "Oleksandra Oliynykova",
             "Mayar Sherif"
           ]
@@ -16054,13 +16105,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ALICIA BARNETT / ELIXANE LECHEMIA",
-            "DARJA SEMENISTAJA / ALIONA BOLSOVA",
-            "ISABELLE HAVERLAG / EMILY APPLETON",
-            "JESIKA MALECKOVA / MIRIAM SKOCH"
+            "Emily Appleton / Isabelle Haverlag",
+            "Anouk Koevermans / Valentina Ryser",
+            "Dominika Salkova / Kathinka Von Deichmann",
+            "Arantxa Rus / Anca Todoni",
+            "Tamara Korpatsch / Angelica Moratelli",
+            "Oksana Selekhmeteva / Simona Waltert",
+            "Alicia Barnett / Elixane Lechemia",
+            "Aliona Bolsova / Darja Semenistaja"
           ]
         }
       ],
@@ -16107,7 +16162,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Maria Lourdes Carle",
@@ -16121,17 +16176,21 @@
             "Xinyu Gao",
             "Anna-Lena Friedsam",
             "Chloe Paquet",
+            "Daria Kudashova",
             "Ying Zhang",
             "Alina Charaeva",
             "Zhibek Kulambayeva",
             "Sijia Wei",
             "Lanlana Tararudee",
+            "Meiqi Guo",
             "Hanna Chang",
+            "Jessica Pieri",
             "Ye-Xin Ma",
             "En-Shuo Liang",
             "Carole Monnet",
             "Veronika Erjavec",
             "Mai Hontama",
+            "Ekaterina Reyngold",
             "Zarina Diyas",
             "Carol Zhao",
             "Raluka Serban",
@@ -16179,7 +16238,7 @@
           "players": []
         }
       ],
-      "2025-09-01"
+      "2025-09-02"
     ],
     "GUADALAJARA-125": [
       [
