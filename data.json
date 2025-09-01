@@ -11612,7 +11612,39 @@
     "          Pieri, J\n\n",
     "       4. Ekaterina Reyngold \n",
     "          Reyngold, E\n\n",
-    "12:42  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n"
+    "12:42  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n",
+    "20:20  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/order-of-play\n\n",
+    "20:20  change in GUADALAJARA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/draws\n\n       Players added to the draw in GUADALAJARA-125 SINGLES:    \n\n",
+    "       1. Jessica Hinojosa Gomez \n",
+    "          Hinojosa Gomez, J\n\n",
+    "       2. Natalia Sousa Salazar \n",
+    "          Sousa Salazar, N\n\n",
+    "       Players removed from the draw in GUADALAJARA-125 SINGLES:    \n\n",
+    "       1. Elsa Jacquemot \n\n",
+    "       2. Linda Klimovicova \n\n",
+    "20:20  change in GUADALAJARA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/draws\n\n",
+    "       Players added to the draw in GUADALAJARA-125 DOUBLES:    \n\n",
+    "       1. Irina Khromacheva / Kamilla Rakhimova \n",
+    "          Khromacheva, I/Rakhimova, K\n\n",
+    "       2. Anastasia Detiuc / Elena Pridankina \n",
+    "          Detiuc, A/Pridankina, E\n\n",
+    "       3. Storm Hunter / Laura Pigossi \n",
+    "          Hunter, S/Pigossi, L\n\n",
+    "       4. Magali Kempen / Monica Niculescu \n",
+    "          Kempen, M/Niculescu, M\n\n",
+    "       5. Emiliana Arango / Panna Udvardy \n",
+    "          Arango, E/Udvardy, P\n\n",
+    "       6. Maria Kozyreva / Iryna Shymanovich \n",
+    "          Kozyreva, M/Shymanovich, I\n\n",
+    "       7. Nikola Bartunkova / Natalia Sousa Salazar \n",
+    "          Bartunkova, N/Sousa Salazar, N\n\n",
+    "       8. Katarzyna Piter / Qianhui Tang \n",
+    "          Piter, K/Tang, Q\n\n",
+    "       Players removed from the draw in GUADALAJARA-125 DOUBLES:    \n\n",
+    "       1. MAGALI KEMPEN / MONICA NICULESCU \n\n",
+    "       2. QIANHUI TANG / KATARZYNA PITER \n\n",
+    "       3. MAIA LUMSDEN / MAKOTO NINOMIYA \n\n",
+    "       4. ANASTASIA DETIUC / ELENA PRIDANKINA \n\n"
   ],
   "sits": {
     "ROME": [
@@ -16133,7 +16165,7 @@
           "players": []
         }
       ],
-      "2025-09-01"
+      "2025-09-02"
     ],
     "CHANGSHA-125": [
       [
@@ -16277,7 +16309,7 @@
             "Alisa Oktiabreva",
             "Nikola Bartunkova",
             "Panna Udvardy",
-            "Elsa Jacquemot",
+            "Jessica Hinojosa Gomez",
             "Rebecca Marino",
             "Ana Sofia Sanchez",
             "Kayla Day",
@@ -16289,7 +16321,7 @@
             "Katarzyna Kawa",
             "Amandine Hesse",
             "Nicole Fossa Huergo",
-            "Linda Klimovicova",
+            "Natalia Sousa Salazar",
             "Maddison Inglis",
             "Varvara Lepchenko",
             "Arianne Hartono",
@@ -16299,13 +16331,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "MAGALI KEMPEN / MONICA NICULESCU",
-            "QIANHUI TANG / KATARZYNA PITER",
-            "MAIA LUMSDEN / MAKOTO NINOMIYA",
-            "ANASTASIA DETIUC / ELENA PRIDANKINA"
+            "Irina Khromacheva / Kamilla Rakhimova",
+            "Anastasia Detiuc / Elena Pridankina",
+            "Storm Hunter / Laura Pigossi",
+            "Magali Kempen / Monica Niculescu",
+            "Emiliana Arango / Panna Udvardy",
+            "Maria Kozyreva / Iryna Shymanovich",
+            "Nikola Bartunkova / Natalia Sousa Salazar",
+            "Katarzyna Piter / Qianhui Tang"
           ]
         }
       ],
