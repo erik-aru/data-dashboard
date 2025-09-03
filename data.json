@@ -12815,7 +12815,9 @@
     "       63. Boisson, Lois / Maria, Tatjana \n\n",
     "       64. Errani, Sara / Paolini, Jasmine \n\n",
     "12:42  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n",
-    "20:20  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/order-of-play\n\n"
+    "20:20  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/order-of-play\n\n",
+    "04:23  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n",
+    "04:23  OOP in GUADALAJARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -17244,7 +17246,7 @@
           "players": []
         }
       ],
-      "2025-09-03"
+      "2025-09-04"
     ],
     "MONTREUX-125": [
       [
@@ -17530,7 +17532,7 @@
           "players": []
         }
       ],
-      "2025-09-02"
+      "2025-09-03"
     ]
   },
   "torns": [
@@ -17551,5 +17553,5 @@
       2098
     ]
   ],
-  "old_day": 2
+  "old_day": 3
 }
