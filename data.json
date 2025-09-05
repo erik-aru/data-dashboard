@@ -14576,7 +14576,41 @@
     "       1. Zheng Xiao / Chengyiyi Yuan \n\n",
     "04:23  OOP in GUADALAJARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2098/GUADALAJARA-125/2025/order-of-play\n\n",
     "12:39  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2025/order-of-play\n\n",
-    "12:39  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n"
+    "12:39  OOP in CHANGSHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1141/CHANGSHA-125/2025/order-of-play\n\n",
+    "20:21  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2025/order-of-play\n\n",
+    "20:21  NEW draw in SAN-SEBASTIAN-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/draws\n\n",
+    "       Players added to the draw in SAN-SEBASTIAN-125 QUALS:    \n\n",
+    "       1. Tamara Korpatsch \n",
+    "          Korpatsch, T\n\n",
+    "       2. Emily Seibold \n",
+    "          Seibold, E\n\n",
+    "       3. Olga Bienzobas Fernandez \n",
+    "          Bienzobas Fernandez, O\n\n",
+    "       4. Tina Smith \n",
+    "          Smith, T\n\n",
+    "       5. Carson Branstine \n",
+    "          Branstine, C\n\n",
+    "       6. Noma Noha Akugue \n",
+    "          Noha Akugue, N\n\n",
+    "       7. Enola Chiesa \n",
+    "          Chiesa, E\n\n",
+    "       8. Francesca Curmi \n",
+    "          Curmi, F\n\n",
+    "       9. Dalila Spiteri \n",
+    "          Spiteri, D\n\n",
+    "       10. Ellie Schoppe \n",
+    "           Schoppe, E\n\n",
+    "       11. Anastasia Tikhonova \n",
+    "           Tikhonova, A\n\n",
+    "       12. Gabriela Lee \n",
+    "           Lee, G\n\n",
+    "       13. Ekaterina Kazionova \n",
+    "           Kazionova, E\n\n",
+    "       14. Nahia Berecoechea \n",
+    "           Berecoechea, N\n\n",
+    "       15. Tatiana Pieri \n",
+    "           Pieri, T\n\n",
+    "20:21  OOP in SAN-SEBASTIAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -19097,7 +19131,7 @@
           "players": []
         }
       ],
-      "2025-09-05"
+      "2025-09-06"
     ],
     "CHANGSHA-125": [
       [
@@ -19296,9 +19330,25 @@
     "SAN-SEBASTIAN-125": [
       [
         0,
-        0,
+        15,
         {
-          "players": []
+          "players": [
+            "Tamara Korpatsch",
+            "Emily Seibold",
+            "Olga Bienzobas Fernandez",
+            "Tina Smith",
+            "Carson Branstine",
+            "Noma Noha Akugue",
+            "Enola Chiesa",
+            "Francesca Curmi",
+            "Dalila Spiteri",
+            "Ellie Schoppe",
+            "Anastasia Tikhonova",
+            "Gabriela Lee",
+            "Ekaterina Kazionova",
+            "Nahia Berecoechea",
+            "Tatiana Pieri"
+          ]
         }
       ],
       [
@@ -19372,7 +19422,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-09-06"
     ],
     "SAO-PAULO": [
       [
