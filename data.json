@@ -14781,7 +14781,46 @@
     "           Day, K\n\n",
     "       24. Iryna Shymanovich \n",
     "           Shymanovich, I\n\n",
-    "04:22  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n"
+    "04:22  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n",
+    "12:35  change in SAN-SEBASTIAN-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/draws\n\n",
+    "       Players added to the draw in SAN-SEBASTIAN-125 QUALS:    \n\n",
+    "       1. Naoko Eto \n",
+    "          Eto, N\n\n",
+    "12:35  NEW draw in HUZHOU-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2025/draws\n\n",
+    "       Players added to the draw in HUZHOU-125 QUALS:    \n\n",
+    "       1. Hanna Chang \n",
+    "          Chang, H\n\n",
+    "       2. Meiqi Guo \n",
+    "          Guo, M\n\n",
+    "       3. Zongyu Li \n",
+    "          Li, Z\n\n",
+    "       4. Ekaterina Reyngold \n",
+    "          Reyngold, E\n\n",
+    "       5. En-Shuo Liang \n",
+    "          Liang, E\n\n",
+    "       6. Riya Bhatia \n",
+    "          Bhatia, R\n\n",
+    "       7. Yuki Naito \n",
+    "          Naito, Y\n\n",
+    "       8. Diletta Cherubini \n",
+    "          Cherubini, D\n\n",
+    "       9. Zhibek Kulambayeva \n",
+    "          Kulambayeva, Z\n\n",
+    "       10. Guyu Xu \n",
+    "           Xu, G\n\n",
+    "       11. Su Jeong Jang \n",
+    "           Jang, S\n\n",
+    "       12. Momoko Kobori \n",
+    "           Kobori, M\n\n",
+    "       13. Jessica Pieri \n",
+    "           Pieri, J\n\n",
+    "       14. Eudice Chong \n",
+    "           Chong, E\n\n",
+    "       15. Chengyiyi Yuan \n",
+    "           Yuan, C\n\n",
+    "       16. Daria Kudashova \n",
+    "           Kudashova, D\n\n",
+    "12:35  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -19501,7 +19540,7 @@
     "SAN-SEBASTIAN-125": [
       [
         0,
-        15,
+        16,
         {
           "players": [
             "Tamara Korpatsch",
@@ -19512,6 +19551,7 @@
             "Noma Noha Akugue",
             "Enola Chiesa",
             "Francesca Curmi",
+            "Naoko Eto",
             "Dalila Spiteri",
             "Ellie Schoppe",
             "Anastasia Tikhonova",
@@ -19703,9 +19743,26 @@
     "HUZHOU-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Hanna Chang",
+            "Meiqi Guo",
+            "Zongyu Li",
+            "Ekaterina Reyngold",
+            "En-Shuo Liang",
+            "Riya Bhatia",
+            "Yuki Naito",
+            "Diletta Cherubini",
+            "Zhibek Kulambayeva",
+            "Guyu Xu",
+            "Su Jeong Jang",
+            "Momoko Kobori",
+            "Jessica Pieri",
+            "Eudice Chong",
+            "Chengyiyi Yuan",
+            "Daria Kudashova"
+          ]
         }
       ],
       [
@@ -19786,7 +19843,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-09-07"
     ],
     "LJUBLJANA-125": [
       [
