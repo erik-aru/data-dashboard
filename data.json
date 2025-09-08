@@ -15361,7 +15361,20 @@
     "          Jimenez Kasintseva, V\n\n",
     "       6. Elena Pridankina \n",
     "          Pridankina, E\n\n",
-    "04:24  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n"
+    "04:24  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n",
+    "12:43  change in HUZHOU-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2025/draws\n\n",
+    "       Players added to the draw in HUZHOU-125 SINGLES:    \n\n",
+    "       1. Jessica Pieri \n",
+    "          Pieri, J\n\n",
+    "       2. Hanna Chang \n",
+    "          Chang, H\n\n",
+    "       3. Diletta Cherubini \n",
+    "          Cherubini, D\n\n",
+    "       4. En-Shuo Liang \n",
+    "          Liang, E\n\n",
+    "       5. Zhibek Kulambayeva \n",
+    "          Kulambayeva, Z\n\n",
+    "12:43  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -20303,17 +20316,19 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Maria Lourdes Carle",
             "Yidi Yang",
             "Wushuang Zheng",
+            "Jessica Pieri",
             "Xiaodi You",
             "Anastasia Gasanova",
             "Jia-Jing Lu",
             "Lanlana Tararudee",
             "Veronika Erjavec",
+            "Hanna Chang",
             "Sara Saito",
             "Chloe Paquet",
             "Ayano Shimizu",
@@ -20324,7 +20339,9 @@
             "Meiling Wang",
             "Han Shi",
             "Xinxin Yao",
+            "Diletta Cherubini",
             "Raluka Serban",
+            "En-Shuo Liang",
             "Alina Charaeva",
             "Maria Timofeeva",
             "Sohyun Park",
@@ -20332,6 +20349,7 @@
             "Anna-Lena Friedsam",
             "Carole Monnet",
             "Zarina Diyas",
+            "Zhibek Kulambayeva",
             "Joanna Garland"
           ]
         }
@@ -20374,7 +20392,7 @@
           "players": []
         }
       ],
-      "2025-09-08"
+      "2025-09-09"
     ],
     "LJUBLJANA-125": [
       [
