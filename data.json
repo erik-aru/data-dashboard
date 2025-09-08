@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "US-OPEN": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "MONTREUX-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "SAN-SEBASTIAN-125": [
       [
         0,
@@ -15379,7 +15335,33 @@
     "          Zaar, L\n\n",
     "       8. Lucija Ciric Bagaric \n",
     "          Ciric Bagaric, L\n\n",
-    "20:19  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n"
+    "20:19  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n",
+    "04:24  SAO-PAULO SINGLES draw    \n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2025/draws\n\n",
+    "       Players added to the draw in SAO-PAULO SINGLES:    \n\n",
+    "       1. Miriana Tona \n",
+    "          Tona, M\n\n",
+    "       2. Victoria Rodriguez \n",
+    "          Rodriguez, V\n\n",
+    "       3. Martina Okalova \n",
+    "          Okalova, M\n\n",
+    "       4. Yasmine Mansouri \n",
+    "          Mansouri, Y\n\n",
+    "04:24  OOP in SAO-PAULO appeared \u2605\n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2025/order-of-play\n\n",
+    "04:24  GUADALAJARA-500 SINGLES draw    \n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/draws\n\n",
+    "       Players added to the draw in GUADALAJARA-500 SINGLES:    \n\n",
+    "       1. Marina Stakusic \n",
+    "          Stakusic, M\n\n",
+    "       2. Darja Vidmanova \n",
+    "          Vidmanova, D\n\n",
+    "       3. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       4. Lucrezia Stefanini \n",
+    "          Stefanini, L\n\n",
+    "       5. Victoria Jimenez Kasintseva \n",
+    "          Jimenez Kasintseva, V\n\n",
+    "       6. Elena Pridankina \n",
+    "          Pridankina, E\n\n",
+    "04:24  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -20216,10 +20198,11 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Beatriz Haddad Maia",
+            "Miriana Tona",
             "Elizabeth Mandlik",
             "Laura Pigossi",
             "Jazmin Ortenzi",
@@ -20227,6 +20210,7 @@
             "Luiza Fullana",
             "Renata Zarazua",
             "Ajla Tomljanovic",
+            "Victoria Rodriguez",
             "Ana Sofia Sanchez",
             "Tiantsoa Rakotomanga Rajaonah",
             "Valeriya Strakhova",
@@ -20236,8 +20220,10 @@
             "Leolia Jeanjean",
             "Janice Tjen",
             "Arina Rodionova",
+            "Martina Okalova",
             "Julia Riera",
             "Vitalia Diatchenko",
+            "Yasmine Mansouri",
             "Alexandra Eala",
             "Francesca Jones",
             "Lina Glushko",
@@ -20288,7 +20274,7 @@
           "players": []
         }
       ],
-      "2025-09-07"
+      "2025-09-08"
     ],
     "HUZHOU-125": [
       [
@@ -20518,7 +20504,7 @@
       ],
       [
         1,
-        22,
+        28,
         {
           "players": [
             "Elise Mertens",
@@ -20530,18 +20516,24 @@
             "Tatjana Maria",
             "Jelena Ostapenko",
             "Polina Kudermetova",
+            "Marina Stakusic",
             "Storm Hunter",
             "Katerina Siniakova",
             "Emiliana Arango",
             "Magda Linette",
             "Alycia Parks",
+            "Darja Vidmanova",
             "Nikola Bartunkova",
+            "Nicole Fossa Huergo",
             "Sloane Stephens",
+            "Lucrezia Stefanini",
             "Magdalena Frech",
             "Camila Osorio",
             "Kamilla Rakhimova",
             "Katarzyna Kawa",
             "Iva Jovic",
+            "Victoria Jimenez Kasintseva",
+            "Elena Pridankina",
             "Veronika Kudermetova"
           ]
         }
@@ -20584,18 +20576,10 @@
           "players": []
         }
       ],
-      "2025-09-07"
+      "2025-09-08"
     ]
   },
   "torns": [
-    [
-      "US-OPEN",
-      905
-    ],
-    [
-      "MONTREUX-125",
-      1112
-    ],
     [
       "SAN-SEBASTIAN-125",
       1137
@@ -20617,5 +20601,5 @@
       2075
     ]
   ],
-  "old_day": 7
+  "old_day": 8
 }
