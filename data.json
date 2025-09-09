@@ -15386,7 +15386,14 @@
     "          Oz, I\n\n",
     "       4. Teodora Kostovic \n",
     "          Kostovic, T\n\n",
-    "20:22  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n"
+    "20:22  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n",
+    "04:24  OOP in SAO-PAULO appeared \u2605\n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2025/order-of-play\n\n",
+    "04:24  change in GUADALAJARA-500 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/draws\n\n       Players added to the draw in GUADALAJARA-500 DOUBLES:    \n\n",
+    "       1. Nikola Bartunkova / Victoria Jimenez Kasintseva \n",
+    "          Bartunkova, N/Jimenez Kasintseva, V\n\n",
+    "       Players removed from the draw in GUADALAJARA-500 DOUBLES:    \n\n",
+    "       1. Amandine Hesse / Tatjana Maria \n\n",
+    "04:24  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -20299,7 +20306,7 @@
           "players": []
         }
       ],
-      "2025-09-08"
+      "2025-09-09"
     ],
     "HUZHOU-125": [
       [
@@ -20587,7 +20594,7 @@
             "Elsa Jacquemot / Polina Kudermetova",
             "Jessie Aney / Quinn Gleason",
             "Carmen Corley / Ivana Corley",
-            "Amandine Hesse / Tatjana Maria",
+            "Nikola Bartunkova / Victoria Jimenez Kasintseva",
             "Sabrina Santamaria / Qianhui Tang",
             "Iva Jovic / Ena Shibahara",
             "Alana Smith / Darja Vidmanova",
@@ -20610,7 +20617,7 @@
           "players": []
         }
       ],
-      "2025-09-08"
+      "2025-09-09"
     ]
   },
   "torns": [
@@ -20635,5 +20642,5 @@
       2075
     ]
   ],
-  "old_day": 8
+  "old_day": 9
 }
