@@ -15399,7 +15399,32 @@
     "       1. Silvia Ambrosio \n",
     "          Ambrosio, S\n\n",
     "       Players removed from the draw in LJUBLJANA-125 SINGLES:    \n\n",
-    "       1. Miriam Bulgaru \n\n"
+    "       1. Miriam Bulgaru \n\n",
+    "20:21  change in SAN-SEBASTIAN-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/draws\n\n",
+    "       Players added to the draw in SAN-SEBASTIAN-125 DOUBLES:    \n\n",
+    "       1. Angelica Moratelli / Darja Semenistaja \n",
+    "          Moratelli, A/Semenistaja, D\n\n",
+    "       2. Tayisiya Morderger / Yana Morderger \n",
+    "          Morderger, T/Morderger, Y\n\n",
+    "       3. Nahia Berecoechea / Olga Bienzobas Fernandez \n",
+    "          Berecoechea, N/Bienzobas Fernandez, O\n\n",
+    "       4. Elvina Kalieva / Gabriela Lee \n",
+    "          Kalieva, E/Lee, G\n\n",
+    "       5. Celine Naef / Kathinka Von Deichmann \n",
+    "          Naef, C/Von Deichmann, K\n\n",
+    "       6. Andrea Gamiz / Eva Vedder \n",
+    "          Gamiz, A/Vedder, E\n\n",
+    "       7. Angela Fita Boluda / Arantxa Rus \n",
+    "          Fita Boluda, A/Rus, A\n\n",
+    "       8. Anastasia Tikhonova / Tara Wuerth \n",
+    "          Tikhonova, A/Wuerth, T\n\n",
+    "       Players removed from the draw in SAN-SEBASTIAN-125 DOUBLES:    \n\n",
+    "       1. CAMILLA ROSATELLO / ANGELICA MORATELLI \n\n",
+    "       2. INES IBBOU / ANNA SISKOVA \n\n",
+    "       3. ANDREA GAMIZ / EVA VEDDER \n\n",
+    "       4. ANASTASIA TIKHONOVA / TARA WUERTH \n\n",
+    "20:21  OOP in SAN-SEBASTIAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/order-of-play\n\n",
+    "20:21  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -20183,13 +20208,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "CAMILLA ROSATELLO / ANGELICA MORATELLI",
-            "INES IBBOU / ANNA SISKOVA",
-            "ANDREA GAMIZ / EVA VEDDER",
-            "ANASTASIA TIKHONOVA / TARA WUERTH"
+            "Angelica Moratelli / Darja Semenistaja",
+            "Tayisiya Morderger / Yana Morderger",
+            "Nahia Berecoechea / Olga Bienzobas Fernandez",
+            "Elvina Kalieva / Gabriela Lee",
+            "Celine Naef / Kathinka Von Deichmann",
+            "Andrea Gamiz / Eva Vedder",
+            "Angela Fita Boluda / Arantxa Rus",
+            "Anastasia Tikhonova / Tara Wuerth"
           ]
         }
       ],
@@ -20207,7 +20236,7 @@
           "players": []
         }
       ],
-      "2025-09-09"
+      "2025-09-10"
     ],
     "SAO-PAULO": [
       [
@@ -20514,7 +20543,7 @@
           "players": []
         }
       ],
-      "2025-09-09"
+      "2025-09-10"
     ],
     "GUADALAJARA-500": [
       [
