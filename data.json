@@ -15424,7 +15424,9 @@
     "       3. ANDREA GAMIZ / EVA VEDDER \n\n",
     "       4. ANASTASIA TIKHONOVA / TARA WUERTH \n\n",
     "20:21  OOP in SAN-SEBASTIAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/order-of-play\n\n",
-    "20:21  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n"
+    "20:21  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n",
+    "04:22  OOP in SAO-PAULO appeared \u2605\n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2025/order-of-play\n\n",
+    "04:22  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -20341,7 +20343,7 @@
           "players": []
         }
       ],
-      "2025-09-09"
+      "2025-09-10"
     ],
     "HUZHOU-125": [
       [
@@ -20652,7 +20654,7 @@
           "players": []
         }
       ],
-      "2025-09-09"
+      "2025-09-10"
     ]
   },
   "torns": [
@@ -20677,5 +20679,5 @@
       2075
     ]
   ],
-  "old_day": 9
+  "old_day": 10
 }
