@@ -15808,7 +15808,59 @@
     "20:18  OOP in SAN-SEBASTIAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/order-of-play\n\n",
     "20:18  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n",
     "04:22  OOP in SAO-PAULO appeared \u2605\n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2025/order-of-play\n\n",
-    "04:22  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n"
+    "04:22  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n",
+    "12:39  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2025/order-of-play\n\n",
+    "12:39  NEW draw in SEOUL QUALS \u2605    \n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/draws\n\n",
+    "       Players added to the draw in SEOUL QUALS:    \n\n",
+    "       1. Alycia Parks \n",
+    "          Parks, A\n\n",
+    "       2. Chloe Paquet \n",
+    "          Paquet, C\n\n",
+    "       3. Boyoung Jeong \n",
+    "          Jeong, B\n\n",
+    "       4. Linda Fruhvirtova \n",
+    "          Fruhvirtova, L\n\n",
+    "       5. Suzan Lamens \n",
+    "          Lamens, S\n\n",
+    "       6. Eunhye Lee \n",
+    "          Lee, E\n\n",
+    "       7. Yafan Wang \n",
+    "          Wang, Y\n\n",
+    "       8. Caty McNally \n",
+    "          McNally, C\n\n",
+    "       9. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       10. Kyoka Okamura \n",
+    "           Okamura, K\n\n",
+    "       11. Jessika Ponchet \n",
+    "           Ponchet, J\n\n",
+    "       12. Maria Lourdes Carle \n",
+    "           Carle, M\n\n",
+    "       13. Katerina Siniakova \n",
+    "           Siniakova, K\n\n",
+    "       14. Astra Sharma \n",
+    "           Sharma, A\n\n",
+    "       15. Su Jeong Jang \n",
+    "           Jang, S\n\n",
+    "       16. Talia Gibson \n",
+    "           Gibson, T\n\n",
+    "       17. Anastasia Zakharova \n",
+    "           Zakharova, A\n\n",
+    "       18. Gaeul Jang \n",
+    "           Jang, G\n\n",
+    "       19. Mai Hontama \n",
+    "           Hontama, M\n\n",
+    "       20. Ella Seidel \n",
+    "           Seidel, E\n\n",
+    "       21. Varvara Gracheva \n",
+    "           Gracheva, V\n\n",
+    "       22. Tatiana Prozorova \n",
+    "           Prozorova, T\n\n",
+    "       23. Hanna Chang \n",
+    "           Chang, H\n\n",
+    "       24. Katie Volynets \n",
+    "           Volynets, K\n\n",
+    "12:39  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -20830,7 +20882,7 @@
           "players": []
         }
       ],
-      "2025-09-12"
+      "2025-09-13"
     ],
     "LJUBLJANA-125": [
       [
@@ -21041,9 +21093,34 @@
     "SEOUL": [
       [
         0,
-        0,
+        24,
         {
-          "players": []
+          "players": [
+            "Alycia Parks",
+            "Chloe Paquet",
+            "Boyoung Jeong",
+            "Linda Fruhvirtova",
+            "Suzan Lamens",
+            "Eunhye Lee",
+            "Yafan Wang",
+            "Caty McNally",
+            "Anna Blinkova",
+            "Kyoka Okamura",
+            "Jessika Ponchet",
+            "Maria Lourdes Carle",
+            "Katerina Siniakova",
+            "Astra Sharma",
+            "Su Jeong Jang",
+            "Talia Gibson",
+            "Anastasia Zakharova",
+            "Gaeul Jang",
+            "Mai Hontama",
+            "Ella Seidel",
+            "Varvara Gracheva",
+            "Tatiana Prozorova",
+            "Hanna Chang",
+            "Katie Volynets"
+          ]
         }
       ],
       [
@@ -21124,7 +21201,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-09-13"
     ],
     "TOLENTINO-125": [
       [
