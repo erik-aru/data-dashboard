@@ -15863,7 +15863,13 @@
     "12:39  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n",
     "20:21  OOP in SAN-SEBASTIAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1137/SAN-SEBASTIAN-125/2025/order-of-play\n\n",
     "20:21  OOP in SAO-PAULO appeared \u2605\n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2025/order-of-play\n\n",
-    "20:21  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n"
+    "20:21  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n",
+    "04:22  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2025/order-of-play\n\n",
+    "04:22  change in SEOUL QUALS \u2605   \n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/draws\n\n       Players added to the draw in SEOUL QUALS:    \n\n",
+    "       1. En-Shuo Liang \n",
+    "          Liang, E\n\n",
+    "       Players removed from the draw in SEOUL QUALS:    \n\n",
+    "       1. Suzan Lamens \n\n"
   ],
   "sits": {
     "ROME": [
@@ -21091,7 +21097,7 @@
           "players": []
         }
       ],
-      "2025-09-12"
+      "2025-09-13"
     ],
     "SEOUL": [
       [
@@ -21103,7 +21109,7 @@
             "Chloe Paquet",
             "Boyoung Jeong",
             "Linda Fruhvirtova",
-            "Suzan Lamens",
+            "En-Shuo Liang",
             "Eunhye Lee",
             "Yafan Wang",
             "Caty McNally",
@@ -21415,5 +21421,5 @@
       1136
     ]
   ],
-  "old_day": 12
+  "old_day": 13
 }
