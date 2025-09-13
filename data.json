@@ -16001,7 +16001,70 @@
     "       9. HAO-CHING CHAN / CLARA TAUSON \n\n",
     "       10. IRINA KHROMACHEVA / ASHLYN KRUEGER \n\n",
     "       11. CATY MCNALLY / MAYA JOINT \n\n",
-    "12:36  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n"
+    "12:36  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n",
+    "20:18  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2025/order-of-play\n\n",
+    "20:18  NEW draw in TOLENTINO-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2025/draws\n\n",
+    "       Players added to the draw in TOLENTINO-125 QUALS:    \n\n",
+    "       1. Tina Smith \n",
+    "          Smith, T\n\n",
+    "       2. Aneta Kucmova \n",
+    "          Kucmova, A\n\n",
+    "       3. Noma Noha Akugue \n",
+    "          Noha Akugue, N\n\n",
+    "       4. Aurora Zantedeschi \n",
+    "          Zantedeschi, A\n\n",
+    "       5. Beatrice Ricci \n",
+    "          Ricci, B\n\n",
+    "       6. Tatiana Pieri \n",
+    "          Pieri, T\n\n",
+    "       7. Francesca Curmi \n",
+    "          Curmi, F\n\n",
+    "       8. Angelica Raggi \n",
+    "          Raggi, A\n\n",
+    "       9. Verena Meliss \n",
+    "          Meliss, V\n\n",
+    "       10. Dalila Spiteri \n",
+    "           Spiteri, D\n\n",
+    "       11. Ipek Oz \n",
+    "           Oz, I\n\n",
+    "       12. Federica Urgesi \n",
+    "           Urgesi, F\n\n",
+    "       13. Amina Anshba \n",
+    "           Anshba, A\n\n",
+    "       14. Cristina Diaz Adrover \n",
+    "           Diaz Adrover, C\n\n",
+    "20:18  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2025/order-of-play\n\n",
+    "20:18  NEW draw in CALDAS-DA-RAINHA-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/draws\n\n",
+    "       Players added to the draw in CALDAS-DA-RAINHA-125 QUALS:    \n\n",
+    "       1. Anastasia Tikhonova \n",
+    "          Tikhonova, A\n\n",
+    "       2. Tayisiya Morderger \n",
+    "          Morderger, T\n\n",
+    "       3. Lina Glushko \n",
+    "          Glushko, L\n\n",
+    "       4. Amandine Hesse \n",
+    "          Hesse, A\n\n",
+    "       5. Sara Lanca \n",
+    "          Lanca, S\n\n",
+    "       6. Urszula Radwanska \n",
+    "          Radwanska, U\n\n",
+    "       7. Eva Guerrero Alvarez \n",
+    "          Guerrero Alvarez, E\n\n",
+    "       8. Yana Morderger \n",
+    "          Morderger, Y\n\n",
+    "       9. Ashley Lahey \n",
+    "          Lahey, A\n\n",
+    "       10. Anouck Vrancken Peeters \n",
+    "           Vrancken Peeters, A\n\n",
+    "       11. Ayla Aksu \n",
+    "           Aksu, A\n\n",
+    "       12. Diana Martynov \n",
+    "           Martynov, D\n\n",
+    "       13. Alice Robbe \n",
+    "           Robbe, A\n\n",
+    "       14. Ekaterina Ovcharenko \n",
+    "           Ovcharenko, E\n\n",
+    "20:18  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -21120,7 +21183,7 @@
           "players": []
         }
       ],
-      "2025-09-13"
+      "2025-09-14"
     ],
     "GUADALAJARA-500": [
       [
@@ -21337,9 +21400,24 @@
     "TOLENTINO-125": [
       [
         0,
-        0,
+        14,
         {
-          "players": []
+          "players": [
+            "Tina Smith",
+            "Aneta Kucmova",
+            "Noma Noha Akugue",
+            "Aurora Zantedeschi",
+            "Beatrice Ricci",
+            "Tatiana Pieri",
+            "Francesca Curmi",
+            "Angelica Raggi",
+            "Verena Meliss",
+            "Dalila Spiteri",
+            "Ipek Oz",
+            "Federica Urgesi",
+            "Amina Anshba",
+            "Cristina Diaz Adrover"
+          ]
         }
       ],
       [
@@ -21418,14 +21496,29 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-09-14"
     ],
     "CALDAS-DA-RAINHA-125": [
       [
         0,
-        0,
+        14,
         {
-          "players": []
+          "players": [
+            "Anastasia Tikhonova",
+            "Tayisiya Morderger",
+            "Lina Glushko",
+            "Amandine Hesse",
+            "Sara Lanca",
+            "Urszula Radwanska",
+            "Eva Guerrero Alvarez",
+            "Yana Morderger",
+            "Ashley Lahey",
+            "Anouck Vrancken Peeters",
+            "Ayla Aksu",
+            "Diana Martynov",
+            "Alice Robbe",
+            "Ekaterina Ovcharenko"
+          ]
         }
       ],
       [
@@ -21506,7 +21599,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-09-14"
     ]
   },
   "torns": [
