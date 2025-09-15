@@ -16260,7 +16260,28 @@
     "       9. MADELEINE BROOKS / ANASTASIA TIKHONOVA \n\n",
     "       10. LAURA PIGOSSI / JULIA RIERA \n\n",
     "       11. INES IBBOU / TIANTSOA RAKOTOMANGA RAJAONAH \n\n",
-    "20:18  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n"
+    "20:18  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n",
+    "12:42  change in SEOUL SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/draws\n\n       Players added to the draw in SEOUL SINGLES:    \n\n",
+    "       1. Anastasia Zakharova \n",
+    "          Zakharova, A\n\n",
+    "       Players removed from the draw in SEOUL SINGLES:    \n\n",
+    "       1. Lin Zhu \n\n",
+    "12:42  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n",
+    "12:42  change in TOLENTINO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2025/draws\n\n",
+    "       Players added to the draw in TOLENTINO-125 SINGLES:    \n\n",
+    "       Players removed from the draw in TOLENTINO-125 SINGLES:    \n\n",
+    "       1. Simona Waltert \n\n",
+    "       2. Carson Branstine \n\n",
+    "12:42  change in CALDAS-DA-RAINHA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/draws\n\n",
+    "       Players added to the draw in CALDAS-DA-RAINHA-125 SINGLES:    \n\n",
+    "       1. Anastasia Tikhonova \n",
+    "          Tikhonova, A\n\n",
+    "       2. Ayla Aksu \n",
+    "          Aksu, A\n\n",
+    "       3. Urszula Radwanska \n",
+    "          Radwanska, U\n\n",
+    "       4. Eva Guerrero Alvarez \n",
+    "          Guerrero Alvarez, E\n\n"
   ],
   "sits": {
     "ROME": [
@@ -21529,7 +21550,7 @@
         {
           "players": [
             "Iga Swiatek",
-            "Lin Zhu",
+            "Anastasia Zakharova",
             "Sorana Cirstea",
             "Barbora Krejcikova",
             "Tatiana Prozorova",
@@ -21597,7 +21618,7 @@
           "players": []
         }
       ],
-      "2025-09-15"
+      "2025-09-16"
     ],
     "TOLENTINO-125": [
       [
@@ -21624,7 +21645,7 @@
       ],
       [
         1,
-        28,
+        26,
         {
           "players": [
             "Mayar Sherif",
@@ -21636,7 +21657,6 @@
             "Sara Bejlek",
             "Nuria Brancaccio",
             "Samira De Stefano",
-            "Kaja Juvan",
             "Caroline Werner",
             "Lola Radivojevic",
             "Martina Trevisan",
@@ -21648,11 +21668,10 @@
             "Noemi Basiletti",
             "Alice Rame",
             "Anouk Koevermans",
-            "Simona Waltert",
+            "Kaja Juvan",
             "Tamara Zidansek",
             "Jennifer Ruggeri",
             "Ylena In-Albon",
-            "Carson Branstine",
             "Oleksandra Oliynykova",
             "Darja Semenistaja"
           ]
@@ -21721,17 +21740,20 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Petra Marcinko",
+            "Anastasia Tikhonova",
             "Ines Murta",
             "Harmony Tan",
             "Kayla Cross",
+            "Ayla Aksu",
             "Amandine Hesse",
             "Kaitlin Quevedo",
             "Alina Korneeva",
             "Renata Jamrichova",
+            "Urszula Radwanska",
             "Harriet Dart",
             "Karolina Pliskova",
             "Tessah Andrianjafitrimo",
@@ -21740,6 +21762,7 @@
             "Eva Vedder",
             "Katherine Sebov",
             "Gabriela Knutson",
+            "Eva Guerrero Alvarez",
             "Lina Glushko",
             "Kristina Dmitruk",
             "Julie Belgraver",
