@@ -16281,7 +16281,23 @@
     "       3. Urszula Radwanska \n",
     "          Radwanska, U\n\n",
     "       4. Eva Guerrero Alvarez \n",
-    "          Guerrero Alvarez, E\n\n"
+    "          Guerrero Alvarez, E\n\n",
+    "20:21  change in TOLENTINO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2025/draws\n\n",
+    "       Players added to the draw in TOLENTINO-125 SINGLES:    \n\n",
+    "       1. Tatiana Pieri \n",
+    "          Pieri, T\n\n",
+    "       2. Francesca Curmi \n",
+    "          Curmi, F\n\n",
+    "       3. Aurora Zantedeschi \n",
+    "          Zantedeschi, A\n\n",
+    "       4. Noma Noha Akugue \n",
+    "          Noha Akugue, N\n\n",
+    "       5. Federica Urgesi \n",
+    "          Urgesi, F\n\n",
+    "       6. Tina Smith \n",
+    "          Smith, T\n\n",
+    "20:21  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2025/order-of-play\n\n",
+    "20:21  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -21645,18 +21661,21 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Mayar Sherif",
             "Celine Naef",
             "Ekaterine Gorgodze",
             "Hanne Vandewinkel",
+            "Tatiana Pieri",
+            "Francesca Curmi",
             "Tara Wuerth",
             "Arantxa Rus",
             "Sara Bejlek",
             "Nuria Brancaccio",
             "Samira De Stefano",
+            "Aurora Zantedeschi",
             "Caroline Werner",
             "Lola Radivojevic",
             "Martina Trevisan",
@@ -21672,7 +21691,10 @@
             "Tamara Zidansek",
             "Jennifer Ruggeri",
             "Ylena In-Albon",
+            "Noma Noha Akugue",
             "Oleksandra Oliynykova",
+            "Federica Urgesi",
+            "Tina Smith",
             "Darja Semenistaja"
           ]
         }
@@ -21715,7 +21737,7 @@
           "players": []
         }
       ],
-      "2025-09-15"
+      "2025-09-16"
     ],
     "CALDAS-DA-RAINHA-125": [
       [
@@ -21816,7 +21838,7 @@
           "players": []
         }
       ],
-      "2025-09-15"
+      "2025-09-16"
     ]
   },
   "torns": [
