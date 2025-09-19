@@ -16432,7 +16432,43 @@
     "       1. Beatriz Haddad Maia / Laura Siegemund \n\n",
     "12:40  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n",
     "20:22  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2025/order-of-play\n\n",
-    "20:22  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n"
+    "20:22  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n",
+    "12:41  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n",
+    "12:41  NEW draw in JINGSHAN-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2025/draws\n\n",
+    "       Players added to the draw in JINGSHAN-125 QUALS:    \n\n",
+    "       1. Ekaterina Reyngold \n",
+    "          Reyngold, E\n\n",
+    "       2. Valeria Savinykh \n",
+    "          Savinykh, V\n\n",
+    "       3. Qiu Yu Ye \n",
+    "          Ye, Q\n\n",
+    "       4. Hong Yi Cody Wong \n",
+    "          Wong, H\n\n",
+    "       5. Lea Ma \n",
+    "          Ma, L\n\n",
+    "       6. Fang Ying Xun \n",
+    "          Xun, F\n\n",
+    "       7. Jiaqi Wang \n",
+    "          Wang, J\n\n",
+    "       8. Ying Zhang \n",
+    "          Zhang, Y\n\n",
+    "       9. Lian Tran \n",
+    "          Tran, L\n\n",
+    "       10. Fangran Tian \n",
+    "           Tian, F\n\n",
+    "       11. Meiqi Guo \n",
+    "           Guo, M\n\n",
+    "       12. Katarina Zavatska \n",
+    "           Zavatska, K\n\n",
+    "       13. Diletta Cherubini \n",
+    "           Cherubini, D\n\n",
+    "       14. Jing-Jing Lu \n",
+    "           Lu, J\n\n",
+    "       15. Riya Bhatia \n",
+    "           Bhatia, R\n\n",
+    "       16. Ankita Raina \n",
+    "           Raina, A\n\n",
+    "12:41  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -21768,7 +21804,7 @@
           "players": []
         }
       ],
-      "2025-09-19"
+      "2025-09-20"
     ],
     "TOLENTINO-125": [
       [
@@ -21977,9 +22013,26 @@
     "JINGSHAN-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Ekaterina Reyngold",
+            "Valeria Savinykh",
+            "Qiu Yu Ye",
+            "Hong Yi Cody Wong",
+            "Lea Ma",
+            "Fang Ying Xun",
+            "Jiaqi Wang",
+            "Ying Zhang",
+            "Lian Tran",
+            "Fangran Tian",
+            "Meiqi Guo",
+            "Katarina Zavatska",
+            "Diletta Cherubini",
+            "Jing-Jing Lu",
+            "Riya Bhatia",
+            "Ankita Raina"
+          ]
         }
       ],
       [
@@ -22060,7 +22113,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-09-20"
     ]
   },
   "torns": [
