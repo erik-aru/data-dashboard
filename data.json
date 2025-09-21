@@ -16788,7 +16788,8 @@
     "           SHNAIDER, D/ANDREEVA, M\n\n",
     "12:37  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2025/order-of-play\n\n",
     "12:37  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2025/order-of-play\n\n",
-    "20:18  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n"
+    "20:18  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2025/order-of-play\n\n",
+    "04:23  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -22227,7 +22228,7 @@
           "players": []
         }
       ],
-      "2025-09-20"
+      "2025-09-21"
     ],
     "CALDAS-DA-RAINHA-125": [
       [
@@ -22638,5 +22639,5 @@
       1020
     ]
   ],
-  "old_day": 20
+  "old_day": 21
 }
