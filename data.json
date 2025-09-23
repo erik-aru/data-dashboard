@@ -17264,7 +17264,39 @@
     "       116. VICTORIA MBOKO \n\n",
     "       117. MIRRA ANDREEVA \n\n",
     "       118. IVA JOVIC \n\n",
-    "12:42  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2025/order-of-play\n\n"
+    "12:42  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2025/order-of-play\n\n",
+    "12:41  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2025/order-of-play\n\n",
+    "12:41  change in BEIJING SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1020/BEIJING/2025/draws\n\n",
+    "       Players added to the draw in BEIJING SINGLES:    \n\n",
+    "       1. Dalma Galfi \n",
+    "          Galfi, D\n\n",
+    "       2. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       3. Janice Tjen \n",
+    "          Tjen, J\n\n",
+    "       4. Ella Seidel \n",
+    "          Seidel, E\n\n",
+    "       5. Cristina Bucsa \n",
+    "          Bucsa, C\n\n",
+    "       6. Moyuka Uchijima \n",
+    "          Uchijima, M\n\n",
+    "       7. Victoria Jimenez Kasintseva \n",
+    "          Jimenez Kasintseva, V\n\n",
+    "       8. Maddison Inglis \n",
+    "          Inglis, M\n\n",
+    "       9. Anna Bondar \n",
+    "          Bondar, A\n\n",
+    "       10. Elsa Jacquemot \n",
+    "           Jacquemot, E\n\n",
+    "       11. Anastasia Zakharova \n",
+    "           Zakharova, A\n\n",
+    "       12. Katie Volynets \n",
+    "           Volynets, K\n\n",
+    "       13. Priscilla Hon \n",
+    "           Hon, P\n\n",
+    "       Players removed from the draw in BEIJING SINGLES:    \n\n",
+    "       1. Elina Svitolina \n\n",
+    "12:41  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -22907,7 +22939,7 @@
           "players": []
         }
       ],
-      "2025-09-23"
+      "2025-09-24"
     ],
     "BEIJING": [
       [
@@ -22968,7 +23000,7 @@
       ],
       [
         1,
-        84,
+        96,
         {
           "players": [
             "Iga Swiatek",
@@ -22979,23 +23011,30 @@
             "Anna Kalinskaya",
             "Liudmila Samsonova",
             "Lois Boisson",
+            "Dalma Galfi",
             "Rebecca Sramkova",
             "Elena-Gabriela Ruse",
             "Emma Navarro",
             "Naomi Osaka",
+            "Aliaksandra Sasnovich",
+            "Janice Tjen",
             "Magdalena Frech",
+            "Ella Seidel",
             "Marta Kostyuk",
             "Emma Raducanu",
             "Donna Vekic",
+            "Cristina Bucsa",
             "Ajla Tomljanovic",
             "Yuliia Starodubtseva",
             "Jessica Pegula",
             "Mirra Andreeva",
+            "Moyuka Uchijima",
             "Lin Zhu",
             "Jessica Bouzas Maneiro",
             "Jaqueline Cristian",
             "Dayana Yastremska",
             "Diana Shnaider",
+            "Victoria Jimenez Kasintseva",
             "Maya Joint",
             "Sonay Kartal",
             "Alycia Parks",
@@ -23016,19 +23055,22 @@
             "Anastasija Sevastova",
             "Kimberly Birrell",
             "Polina Kudermetova",
+            "Maddison Inglis",
             "Sofia Kenin",
             "Veronika Kudermetova",
-            "Magda Linette",
+            "Anna Bondar",
             "Bianca Andreescu",
             "Tatjana Maria",
             "Marie Bouzkova",
-            "Elina Svitolina",
+            "Magda Linette",
             "Karolina Muchova",
             "Caroline Dolehide",
             "Sorana Cirstea",
+            "Elsa Jacquemot",
             "Antonia Ruzic",
             "Paula Badosa",
             "Xinyu Wang",
+            "Anastasia Zakharova",
             "Shuai Zhang",
             "Katie Boulter",
             "Hailey Baptiste",
@@ -23046,7 +23088,9 @@
             "Anna Blinkova",
             "Ekaterina Alexandrova",
             "Belinda Bencic",
+            "Katie Volynets",
             "Peyton Stearns",
+            "Priscilla Hon",
             "Viktorija Golubic",
             "Jelena Ostapenko",
             "Leylah Fernandez",
@@ -23104,7 +23148,7 @@
           "players": []
         }
       ],
-      "2025-09-23"
+      "2025-09-24"
     ]
   },
   "torns": [
