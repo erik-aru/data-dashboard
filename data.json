@@ -17715,7 +17715,86 @@
     "           Ngounoue, C\n\n",
     "       16. Linda Fruhvirtova \n",
     "           Fruhvirtova, L\n\n",
-    "12:41  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/order-of-play\n\n"
+    "12:41  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/order-of-play\n\n",
+    "12:36  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2025/order-of-play\n\n",
+    "12:36  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2025/order-of-play\n\n",
+    "12:36  change in SUZHOU-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/draws\n\n",
+    "       Players added to the draw in SUZHOU-125 SINGLES:    \n\n",
+    "       1. Iva Jovic \n",
+    "          Jovic, I\n\n",
+    "       2. Lulu Sun \n",
+    "          Sun, L\n\n",
+    "       3. Talia Gibson \n",
+    "          Gibson, T\n\n",
+    "       4. Kimberly Birrell \n",
+    "          Birrell, K\n\n",
+    "       5. Suzan Lamens \n",
+    "          Lamens, S\n\n",
+    "       6. Xinxin Yao \n",
+    "          Yao, X\n\n",
+    "       7. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       8. Chenting Zhu \n",
+    "          Zhu, C\n\n",
+    "       9. Moyuka Uchijima \n",
+    "          Uchijima, M\n\n",
+    "       10. Lucia Bronzetti \n",
+    "           Bronzetti, L\n\n",
+    "       11. Viktorija Golubic \n",
+    "           Golubic, V\n\n",
+    "       12. Rebeka Masarova \n",
+    "           Masarova, R\n\n",
+    "       13. Elisabetta Cocciaretto \n",
+    "           Cocciaretto, E\n\n",
+    "       14. Anastasia Zakharova \n",
+    "           Zakharova, A\n\n",
+    "       15. Greet Minnen \n",
+    "           Minnen, G\n\n",
+    "       16. Han Shi \n",
+    "           Shi, H\n\n",
+    "       17. Katarzyna Kawa \n",
+    "           Kawa, K\n\n",
+    "       18. Alexandra Eala \n",
+    "           Eala, A\n\n",
+    "       19. Yulia Putintseva \n",
+    "           Putintseva, Y\n\n",
+    "       20. Diane Parry \n",
+    "           Parry, D\n\n",
+    "       21. Yuliia Starodubtseva \n",
+    "           Starodubtseva, Y\n\n",
+    "       22. Dalma Galfi \n",
+    "           Galfi, D\n\n",
+    "       23. Leolia Jeanjean \n",
+    "           Jeanjean, L\n\n",
+    "       24. Saisai Zheng \n",
+    "           Zheng, S\n\n",
+    "       25. Tatjana Maria \n",
+    "           Maria, T\n\n",
+    "       Players removed from the draw in SUZHOU-125 SINGLES:    \n\n",
+    "       1. TATJANA MARIA \n\n",
+    "       2. VIKTORIJA GOLUBIC \n\n",
+    "       3. YULIA PUTINTSEVA \n\n",
+    "       4. REBECCA SRAMKOVA \n\n",
+    "       5. LEOLIA JEANJEAN \n\n",
+    "       6. KIMBERLY BIRRELL \n\n",
+    "       7. MARIE BOUZKOVA \n\n",
+    "       8. LUCIA BRONZETTI \n\n",
+    "       9. ANNA BLINKOVA \n\n",
+    "       10. EMILIANA ARANGO \n\n",
+    "       11. SUZAN LAMENS \n\n",
+    "       12. YULIIA STARODUBTSEVA \n\n",
+    "       13. KAMILLA RAKHIMOVA \n\n",
+    "       14. ALYCIA PARKS \n\n",
+    "       15. ZEYNEP SONMEZ \n\n",
+    "       16. HAILEY BAPTISTE \n\n",
+    "       17. ANASTASIA ZAKHAROVA \n\n",
+    "       18. ELISABETTA COCCIARETTO \n\n",
+    "       19. ELSA JACQUEMOT \n\n",
+    "       20. LOIS BOISSON \n\n",
+    "       21. POLINA KUDERMETOVA \n\n",
+    "       22. ALEXANDRA EALA \n\n",
+    "       23. IVA JOVIC \n\n",
+    "12:36  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -23358,7 +23437,7 @@
           "players": []
         }
       ],
-      "2025-09-27"
+      "2025-09-28"
     ],
     "BEIJING": [
       [
@@ -23575,7 +23654,7 @@
           "players": []
         }
       ],
-      "2025-09-27"
+      "2025-09-28"
     ],
     "COSENZA-125": [
       [
@@ -23678,32 +23757,34 @@
       ],
       [
         1,
-        23,
+        25,
         {
           "players": [
-            "TATJANA MARIA",
-            "VIKTORIJA GOLUBIC",
-            "YULIA PUTINTSEVA",
-            "REBECCA SRAMKOVA",
-            "LEOLIA JEANJEAN",
-            "KIMBERLY BIRRELL",
-            "MARIE BOUZKOVA",
-            "LUCIA BRONZETTI",
-            "ANNA BLINKOVA",
-            "EMILIANA ARANGO",
-            "SUZAN LAMENS",
-            "YULIIA STARODUBTSEVA",
-            "KAMILLA RAKHIMOVA",
-            "ALYCIA PARKS",
-            "ZEYNEP SONMEZ",
-            "HAILEY BAPTISTE",
-            "ANASTASIA ZAKHAROVA",
-            "ELISABETTA COCCIARETTO",
-            "ELSA JACQUEMOT",
-            "LOIS BOISSON",
-            "POLINA KUDERMETOVA",
-            "ALEXANDRA EALA",
-            "IVA JOVIC"
+            "Iva Jovic",
+            "Lulu Sun",
+            "Talia Gibson",
+            "Kimberly Birrell",
+            "Suzan Lamens",
+            "Xinxin Yao",
+            "Katie Volynets",
+            "Chenting Zhu",
+            "Moyuka Uchijima",
+            "Lucia Bronzetti",
+            "Viktorija Golubic",
+            "Rebeka Masarova",
+            "Elisabetta Cocciaretto",
+            "Anastasia Zakharova",
+            "Greet Minnen",
+            "Han Shi",
+            "Katarzyna Kawa",
+            "Alexandra Eala",
+            "Yulia Putintseva",
+            "Diane Parry",
+            "Yuliia Starodubtseva",
+            "Dalma Galfi",
+            "Leolia Jeanjean",
+            "Saisai Zheng",
+            "Tatjana Maria"
           ]
         }
       ],
@@ -23740,7 +23821,7 @@
           "players": []
         }
       ],
-      "2025-09-27"
+      "2025-09-28"
     ],
     "SAMSUN-125": [
       [
