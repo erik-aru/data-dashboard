@@ -17944,7 +17944,11 @@
     "           Atay, S\n\n",
     "       15. Ekaterina Ovcharenko \n",
     "           Ovcharenko, E\n\n",
-    "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n"
+    "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n",
+    "04:23  SUZHOU-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/draws\n\n",
+    "       Players added to the draw in SUZHOU-125 SINGLES:    \n\n",
+    "       Players removed from the draw in SUZHOU-125 SINGLES:    \n\n",
+    "       1. Elisabetta Cocciaretto \n\n"
   ],
   "sits": {
     "ROME": [
@@ -23929,7 +23933,7 @@
       ],
       [
         1,
-        25,
+        24,
         {
           "players": [
             "Iva Jovic",
@@ -23944,7 +23948,6 @@
             "Lucia Bronzetti",
             "Viktorija Golubic",
             "Rebeka Masarova",
-            "Elisabetta Cocciaretto",
             "Anastasia Zakharova",
             "Greet Minnen",
             "Han Shi",
@@ -24108,5 +24111,5 @@
       1149
     ]
   ],
-  "old_day": 27
+  "old_day": 28
 }
