@@ -18177,7 +18177,24 @@
     "       1. Maryna Kolb \n",
     "          Kolb, M\n\n",
     "20:19  OOP in COSENZA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/order-of-play\n\n",
-    "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n"
+    "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n",
+    "12:43  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2025/order-of-play\n\n",
+    "12:43  change in SUZHOU-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/draws\n\n       Players added to the draw in SUZHOU-125 SINGLES:    \n\n",
+    "       1. Maddison Inglis \n",
+    "          Inglis, M\n\n",
+    "       Players removed from the draw in SUZHOU-125 SINGLES:    \n\n",
+    "       1. Arianne Hartono \n\n",
+    "12:43  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/order-of-play\n\n",
+    "12:43  change in SAMSUN-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/draws\n\n",
+    "       Players added to the draw in SAMSUN-125 SINGLES:    \n\n",
+    "       1. Carol Young Suh Lee \n",
+    "          Lee, C\n\n",
+    "       2. Weronika Falkowska \n",
+    "          Falkowska, W\n\n",
+    "       3. Isabella Shinikova \n",
+    "          Shinikova, I\n\n",
+    "       4. Elina Nepliy \n",
+    "          Nepliy, E\n\n"
   ],
   "sits": {
     "ROME": [
@@ -24037,7 +24054,7 @@
           "players": []
         }
       ],
-      "2025-09-29"
+      "2025-09-30"
     ],
     "COSENZA-125": [
       [
@@ -24198,7 +24215,7 @@
             "Diane Parry",
             "Yuliia Starodubtseva",
             "Dalma Galfi",
-            "Arianne Hartono",
+            "Maddison Inglis",
             "Leolia Jeanjean",
             "Saisai Zheng",
             "Tatjana Maria"
@@ -24243,7 +24260,7 @@
           "players": []
         }
       ],
-      "2025-09-29"
+      "2025-09-30"
     ],
     "SAMSUN-125": [
       [
@@ -24272,7 +24289,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Tiantsoa Rakotomanga Rajaonah",
@@ -24289,8 +24306,10 @@
             "Ayla Aksu",
             "Cagla Buyukakcay",
             "Emily Appleton",
+            "Carol Young Suh Lee",
             "Kaitlin Quevedo",
             "Sofia Costoulas",
+            "Weronika Falkowska",
             "Karolina Pliskova",
             "Lina Gjorcheska",
             "Tessah Andrianjafitrimo",
@@ -24300,6 +24319,8 @@
             "Maria Timofeeva",
             "Justina Mikulskyte",
             "Harriet Dart",
+            "Isabella Shinikova",
+            "Elina Nepliy",
             "Anastasia Tikhonova",
             "Defne Cirpanli",
             "Kaja Juvan"
