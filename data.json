@@ -18194,7 +18194,23 @@
     "       3. Isabella Shinikova \n",
     "          Shinikova, I\n\n",
     "       4. Elina Nepliy \n",
-    "          Nepliy, E\n\n"
+    "          Nepliy, E\n\n",
+    "20:19  change in COSENZA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/draws\n\n",
+    "       Players added to the draw in COSENZA-125 SINGLES:    \n\n",
+    "       1. Anastasia Abbagnato \n",
+    "          Abbagnato, A\n\n",
+    "       2. Tiphanie Lemaitre \n",
+    "          Lemaitre, T\n\n",
+    "       3. Deborah Chiesa \n",
+    "          Chiesa, D\n\n",
+    "       4. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "20:19  change in COSENZA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/draws\n\n",
+    "       Players added to the draw in COSENZA-125 DOUBLES:    \n\n",
+    "       Players removed from the draw in COSENZA-125 DOUBLES:    \n\n",
+    "       1. Leyre Romero Gormaz / Mayar Sherif \n\n",
+    "20:19  OOP in COSENZA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/order-of-play\n\n",
+    "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -24083,21 +24099,24 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Mayar Sherif",
             "Tatiana Pieri",
             "Andrea Lazaro Garcia",
             "Tamara Zidansek",
+            "Anastasia Abbagnato",
             "Nicole Fossa Huergo",
             "Aurora Zantedeschi",
             "Leyre Romero Gormaz",
             "Simona Waltert",
             "Sinja Kraus",
+            "Tiphanie Lemaitre",
             "Paula Ormaechea",
             "Anouk Koevermans",
             "Lola Radivojevic",
+            "Deborah Chiesa",
             "Julia Grabher",
             "Bernarda Pera",
             "Carson Branstine",
@@ -24110,6 +24129,7 @@
             "Oksana Selekhmeteva",
             "Oleksandra Oliynykova",
             "Mona Barthel",
+            "Teodora Kostovic",
             "Maja Chwalinska",
             "Silvia Ambrosio",
             "Guiomar Maristany Zuleta De Reales",
@@ -24119,7 +24139,7 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Jesika Maleckova / Miriam Skoch",
@@ -24130,7 +24150,6 @@
             "Aliona Bolsova / Guiomar Maristany Zuleta De Reales",
             "Ines Ibbou / Vasanti Shinde",
             "Soumeya Anane / Ekaterina Kazionova",
-            "Leyre Romero Gormaz / Mayar Sherif",
             "Freya Christie / Anita Wagner",
             "Tatiana Pieri / Dalila Spiteri",
             "Amina Anshba / Madeleine Brooks",
@@ -24155,7 +24174,7 @@
           "players": []
         }
       ],
-      "2025-09-29"
+      "2025-09-30"
     ],
     "SUZHOU-125": [
       [
@@ -24365,7 +24384,7 @@
           "players": []
         }
       ],
-      "2025-09-29"
+      "2025-09-30"
     ]
   },
   "torns": [
