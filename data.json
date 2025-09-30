@@ -18210,7 +18210,11 @@
     "       Players removed from the draw in COSENZA-125 DOUBLES:    \n\n",
     "       1. Leyre Romero Gormaz / Mayar Sherif \n\n",
     "20:19  OOP in COSENZA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/order-of-play\n\n",
-    "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n"
+    "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n",
+    "04:24  SUZHOU-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/draws\n\n",
+    "       Players added to the draw in SUZHOU-125 DOUBLES:    \n\n",
+    "       Players removed from the draw in SUZHOU-125 DOUBLES:    \n\n",
+    "       1. Arianne Hartono / Prarthana Thombare \n\n"
   ],
   "sits": {
     "ROME": [
@@ -24243,7 +24247,7 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Storm Hunter / Desirae Krawczyk",
@@ -24258,7 +24262,6 @@
             "Linda Fruhvirtova / Viktorija Golubic",
             "Yu-Yun Li / Elena Pridankina",
             "Aldila Sutjiadi / Janice Tjen",
-            "Arianne Hartono / Prarthana Thombare",
             "Eudice Chong / En-Shuo Liang",
             "Estelle Cascino / Shuo Feng",
             "Moyuka Uchijima / Saisai Zheng"
@@ -24405,5 +24408,5 @@
       1149
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
