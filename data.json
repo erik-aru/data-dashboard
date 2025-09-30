@@ -18214,7 +18214,22 @@
     "04:24  SUZHOU-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/draws\n\n",
     "       Players added to the draw in SUZHOU-125 DOUBLES:    \n\n",
     "       Players removed from the draw in SUZHOU-125 DOUBLES:    \n\n",
-    "       1. Arianne Hartono / Prarthana Thombare \n\n"
+    "       1. Arianne Hartono / Prarthana Thombare \n\n",
+    "12:44  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2025/order-of-play\n\n",
+    "12:44  change in COSENZA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/draws\n\n       Players added to the draw in COSENZA-125 SINGLES:    \n\n",
+    "       1. Leonie Kung \n",
+    "          Kung, L\n\n",
+    "       Players removed from the draw in COSENZA-125 SINGLES:    \n\n",
+    "       1. Paula Ormaechea \n\n",
+    "12:44  change in COSENZA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/draws\n\n",
+    "       Players added to the draw in COSENZA-125 DOUBLES:    \n\n",
+    "       1. Leonie Kung / Tiphanie Lemaitre \n",
+    "          Kung, L/Lemaitre, T\n\n",
+    "12:44  change in SUZHOU-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/draws\n\n",
+    "       Players added to the draw in SUZHOU-125 DOUBLES:    \n\n",
+    "       1. Arianne Hartono / Prarthana Thombare \n",
+    "          Hartono, A/Thombare, P\n\n",
+    "12:44  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -24074,7 +24089,7 @@
           "players": []
         }
       ],
-      "2025-09-30"
+      "2025-10-01"
     ],
     "COSENZA-125": [
       [
@@ -24117,7 +24132,7 @@
             "Simona Waltert",
             "Sinja Kraus",
             "Tiphanie Lemaitre",
-            "Paula Ormaechea",
+            "Leonie Kung",
             "Anouk Koevermans",
             "Lola Radivojevic",
             "Deborah Chiesa",
@@ -24143,7 +24158,7 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Jesika Maleckova / Miriam Skoch",
@@ -24154,6 +24169,7 @@
             "Aliona Bolsova / Guiomar Maristany Zuleta De Reales",
             "Ines Ibbou / Vasanti Shinde",
             "Soumeya Anane / Ekaterina Kazionova",
+            "Leonie Kung / Tiphanie Lemaitre",
             "Freya Christie / Anita Wagner",
             "Tatiana Pieri / Dalila Spiteri",
             "Amina Anshba / Madeleine Brooks",
@@ -24247,7 +24263,7 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Storm Hunter / Desirae Krawczyk",
@@ -24262,6 +24278,7 @@
             "Linda Fruhvirtova / Viktorija Golubic",
             "Yu-Yun Li / Elena Pridankina",
             "Aldila Sutjiadi / Janice Tjen",
+            "Arianne Hartono / Prarthana Thombare",
             "Eudice Chong / En-Shuo Liang",
             "Estelle Cascino / Shuo Feng",
             "Moyuka Uchijima / Saisai Zheng"
@@ -24282,7 +24299,7 @@
           "players": []
         }
       ],
-      "2025-09-30"
+      "2025-10-01"
     ],
     "SAMSUN-125": [
       [
