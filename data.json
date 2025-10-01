@@ -87,6 +87,28 @@
         0,
         "none"
       ]
+    ],
+    "MALLORCA-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -18231,7 +18253,93 @@
     "          Hartono, A/Thombare, P\n\n",
     "12:44  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2025/order-of-play\n\n",
     "20:22  OOP in COSENZA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/order-of-play\n\n",
-    "20:22  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n"
+    "20:22  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n",
+    "04:23  MALLORCA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 SINGLES:    \n\n",
+    "       1. ARANTXA RUS \n",
+    "          RUS, A\n\n",
+    "       2. POLONA HERCOG \n",
+    "          HERCOG, P\n\n",
+    "       3. EKATERINE GORGODZE \n",
+    "          GORGODZE, E\n\n",
+    "       4. PAULA ORMAECHEA \n",
+    "          ORMAECHEA, P\n\n",
+    "       5. DALILA JAKUPOVIC \n",
+    "          JAKUPOVIC, D\n\n",
+    "       6. MONA BARTHEL \n",
+    "          BARTHEL, M\n\n",
+    "       7. DESPINA PAPAMICHAIL \n",
+    "          PAPAMICHAIL, D\n\n",
+    "       8. BERNARDA PERA \n",
+    "          PERA, B\n\n",
+    "       9. ANDREA LAZARO GARCIA \n",
+    "          LAZARO GARCIA, A\n\n",
+    "       10. MAYAR SHERIF \n",
+    "           SHERIF, M\n\n",
+    "       11. CAROLINE WERNER \n",
+    "           WERNER, C\n\n",
+    "       12. JULIA GRABHER \n",
+    "           GRABHER, J\n\n",
+    "       13. JESSICA PIERI \n",
+    "           PIERI, J\n\n",
+    "       14. MARIA LOURDES CARLE \n",
+    "           CARLE, M\n\n",
+    "       15. TAMARA ZIDANSEK \n",
+    "           ZIDANSEK, T\n\n",
+    "       16. MIRIAM BULGARU \n",
+    "           BULGARU, M\n\n",
+    "       17. MARINA BASSOLS RIBERA \n",
+    "           BASSOLS RIBERA, M\n\n",
+    "       18. CARSON BRANSTINE \n",
+    "           BRANSTINE, C\n\n",
+    "       19. GUIOMAR MARISTANY ZULETA DE REALES \n",
+    "           MARISTANY ZULETA DE REALES, G\n\n",
+    "       20. NURIA BRANCACCIO \n",
+    "           BRANCACCIO, N\n\n",
+    "       21. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       22. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       23. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       24. LEYRE ROMERO GORMAZ \n",
+    "           ROMERO GORMAZ, L\n\n",
+    "       25. SINJA KRAUS \n",
+    "           KRAUS, S\n\n",
+    "       26. OLEKSANDRA OLIYNYKOVA \n",
+    "           OLIYNYKOVA, O\n\n",
+    "       27. AMARISSA TOTH \n",
+    "           TOTH, A\n\n",
+    "       28. ELSA JACQUEMOT \n",
+    "           JACQUEMOT, E\n\n",
+    "       29. SOLANA SIERRA \n",
+    "           SIERRA, S\n\n",
+    "       30. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       31. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       32. TARA WUERTH \n",
+    "           WUERTH, T\n\n",
+    "       33. BARBORA PALICOVA \n",
+    "           PALICOVA, B\n\n",
+    "       34. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "       35. LOLA RADIVOJEVIC \n",
+    "           RADIVOJEVIC, L\n\n",
+    "       36. TESSA JOHANNA BROCKMANN \n",
+    "           BROCKMANN, T\n\n",
+    "       37. TEODORA KOSTOVIC \n",
+    "           KOSTOVIC, T\n\n",
+    "04:23  MALLORCA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 DOUBLES:    \n\n",
+    "       1. ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS \n",
+    "          MORATELLI, A/CAVALLE-REIMERS, Y\n\n",
+    "       2. ALICIA BARNETT / ELIXANE LECHEMIA \n",
+    "          BARNETT, A/LECHEMIA, E\n\n",
+    "       3. MIRIAM SKOCH / JESIKA MALECKOVA \n",
+    "          SKOCH, M/MALECKOVA, J\n\n",
+    "       4. NIKA RADISIC / DALILA JAKUPOVIC \n",
+    "          RADISIC, N/JAKUPOVIC, D\n\n"
   ],
   "sits": {
     "ROME": [
@@ -24407,6 +24515,87 @@
         }
       ],
       "2025-10-01"
+    ],
+    "MALLORCA-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "ARANTXA RUS",
+            "POLONA HERCOG",
+            "EKATERINE GORGODZE",
+            "PAULA ORMAECHEA",
+            "DALILA JAKUPOVIC",
+            "MONA BARTHEL",
+            "DESPINA PAPAMICHAIL",
+            "BERNARDA PERA",
+            "ANDREA LAZARO GARCIA",
+            "MAYAR SHERIF",
+            "CAROLINE WERNER",
+            "JULIA GRABHER",
+            "JESSICA PIERI",
+            "MARIA LOURDES CARLE",
+            "TAMARA ZIDANSEK",
+            "MIRIAM BULGARU",
+            "MARINA BASSOLS RIBERA",
+            "CARSON BRANSTINE",
+            "GUIOMAR MARISTANY ZULETA DE REALES",
+            "NURIA BRANCACCIO",
+            "MAJA CHWALINSKA",
+            "PANNA UDVARDY",
+            "CAROLE MONNET",
+            "LEYRE ROMERO GORMAZ",
+            "SINJA KRAUS",
+            "OLEKSANDRA OLIYNYKOVA",
+            "AMARISSA TOTH",
+            "ELSA JACQUEMOT",
+            "SOLANA SIERRA",
+            "OKSANA SELEKHMETEVA",
+            "DARJA SEMENISTAJA",
+            "TARA WUERTH",
+            "BARBORA PALICOVA",
+            "SARA BEJLEK",
+            "LOLA RADIVOJEVIC",
+            "TESSA JOHANNA BROCKMANN",
+            "TEODORA KOSTOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS",
+            "ALICIA BARNETT / ELIXANE LECHEMIA",
+            "MIRIAM SKOCH / JESIKA MALECKOVA",
+            "NIKA RADISIC / DALILA JAKUPOVIC"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -24425,7 +24614,11 @@
     [
       "SAMSUN-125",
       1149
+    ],
+    [
+      "MALLORCA-125",
+      1128
     ]
   ],
-  "old_day": 30
+  "old_day": 1
 }
