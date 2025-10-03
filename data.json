@@ -18624,7 +18624,44 @@
     "           Dolehide, C\n\n",
     "       32. Anna Blinkova \n",
     "           Blinkova, A\n\n",
-    "12:40  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n"
+    "12:40  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n",
+    "20:21  OOP in COSENZA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/order-of-play\n\n",
+    "20:21  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n",
+    "20:21  NEW draw in MALLORCA-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 QUALS:    \n\n",
+    "       1. Carole Monnet \n",
+    "          Monnet, C\n\n",
+    "       2. Maxine Kammerer \n",
+    "          Kammerer, M\n\n",
+    "       3. Tea Kovacevic \n",
+    "          Kovacevic, T\n\n",
+    "       4. Aneta Kucmova \n",
+    "          Kucmova, A\n\n",
+    "       5. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "       6. Mireia Sagrista Bermejo \n",
+    "          Sagrista Bermejo, M\n\n",
+    "       7. Min Liu \n",
+    "          Liu, M\n\n",
+    "       8. Ekaterina Kazionova \n",
+    "          Kazionova, E\n\n",
+    "       9. Marina Bassols Ribera \n",
+    "          Bassols Ribera, M\n\n",
+    "       10. Fanny Norin \n",
+    "           Norin, F\n\n",
+    "       11. Yvonne Cavalle-Reimers \n",
+    "           Cavalle-Reimers, Y\n\n",
+    "       12. Dalila Spiteri \n",
+    "           Spiteri, D\n\n",
+    "       13. Tessa Johanna Brockmann \n",
+    "           Brockmann, T\n\n",
+    "       14. Yelyzaveta Kotliar \n",
+    "           Kotliar, Y\n\n",
+    "       15. Maryna Kolb \n",
+    "           Kolb, M\n\n",
+    "       16. Mina Hodzic \n",
+    "           Hodzic, M\n\n",
+    "20:21  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -24589,7 +24626,7 @@
           "players": []
         }
       ],
-      "2025-10-03"
+      "2025-10-04"
     ],
     "SUZHOU-125": [
       [
@@ -24799,14 +24836,31 @@
           "players": []
         }
       ],
-      "2025-10-03"
+      "2025-10-04"
     ],
     "MALLORCA-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Carole Monnet",
+            "Maxine Kammerer",
+            "Tea Kovacevic",
+            "Aneta Kucmova",
+            "Teodora Kostovic",
+            "Mireia Sagrista Bermejo",
+            "Min Liu",
+            "Ekaterina Kazionova",
+            "Marina Bassols Ribera",
+            "Fanny Norin",
+            "Yvonne Cavalle-Reimers",
+            "Dalila Spiteri",
+            "Tessa Johanna Brockmann",
+            "Yelyzaveta Kotliar",
+            "Maryna Kolb",
+            "Mina Hodzic"
+          ]
         }
       ],
       [
@@ -24880,7 +24934,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-10-04"
     ],
     "WUHAN": [
       [
