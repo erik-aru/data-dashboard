@@ -18661,7 +18661,11 @@
     "           Kolb, M\n\n",
     "       16. Mina Hodzic \n",
     "           Hodzic, M\n\n",
-    "20:21  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n"
+    "20:21  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n",
+    "04:22  MALLORCA-125 QUALS draw    \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 QUALS:    \n\n",
+    "       Players removed from the draw in MALLORCA-125 QUALS:    \n\n",
+    "       1. Marina Bassols Ribera \n\n"
   ],
   "sits": {
     "ROME": [
@@ -24841,7 +24845,7 @@
     "MALLORCA-125": [
       [
         0,
-        16,
+        15,
         {
           "players": [
             "Carole Monnet",
@@ -24852,7 +24856,6 @@
             "Mireia Sagrista Bermejo",
             "Min Liu",
             "Ekaterina Kazionova",
-            "Marina Bassols Ribera",
             "Fanny Norin",
             "Yvonne Cavalle-Reimers",
             "Dalila Spiteri",
@@ -25127,5 +25130,5 @@
       1075
     ]
   ],
-  "old_day": 3
+  "old_day": 4
 }
