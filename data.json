@@ -19042,7 +19042,22 @@
     "          Ruzic, A\n\n",
     "       9. Polina Kudermetova \n",
     "          Kudermetova, P\n\n",
-    "12:36  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n"
+    "12:36  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n",
+    "20:19  change in MALLORCA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 SINGLES:    \n\n",
+    "       1. Dalila Spiteri \n",
+    "          Spiteri, D\n\n",
+    "       2. Yelyzaveta Kotliar \n",
+    "          Kotliar, Y\n\n",
+    "       3. Aneta Kucmova \n",
+    "          Kucmova, A\n\n",
+    "       4. Mina Hodzic \n",
+    "          Hodzic, M\n\n",
+    "       5. Carole Monnet \n",
+    "          Monnet, C\n\n",
+    "       6. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "20:19  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -25245,10 +25260,11 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Solana Sierra",
+            "Dalila Spiteri",
             "Guiomar Maristany Zuleta De Reales",
             "Irene Burillo",
             "Ekaterine Gorgodze",
@@ -25256,14 +25272,18 @@
             "Julia Stusek",
             "Oksana Selekhmeteva",
             "Darja Semenistaja",
+            "Yelyzaveta Kotliar",
             "Andrea Lazaro Garcia",
             "Tamara Zidansek",
             "Cristina Diaz Adrover",
+            "Aneta Kucmova",
+            "Mina Hodzic",
             "Sara Bejlek",
             "Arantxa Rus",
             "Oleksandra Oliynykova",
             "Lola Radivojevic",
             "Miriam Bulgaru",
+            "Carole Monnet",
             "Mona Barthel",
             "Noma Noha Akugue",
             "Panna Udvardy",
@@ -25272,6 +25292,7 @@
             "Nuria Brancaccio",
             "Carson Branstine",
             "Caroline Werner",
+            "Teodora Kostovic",
             "Mariella Thamm",
             "Mayar Sherif"
           ]
@@ -25303,7 +25324,7 @@
           "players": []
         }
       ],
-      "2025-10-05"
+      "2025-10-06"
     ],
     "WUHAN": [
       [
