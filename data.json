@@ -19017,7 +19017,32 @@
     "12:36  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n",
     "20:19  OOP in COSENZA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1138/COSENZA-125/2025/order-of-play\n\n",
     "20:19  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2025/order-of-play\n\n",
-    "20:19  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n"
+    "20:19  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n",
+    "12:36  change in MALLORCA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 SINGLES:    \n\n",
+    "       Players removed from the draw in MALLORCA-125 SINGLES:    \n\n",
+    "       1. Maja Chwalinska \n\n",
+    "12:36  change in WUHAN SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/draws\n\n",
+    "       Players added to the draw in WUHAN SINGLES:    \n\n",
+    "       1. Anastasia Zakharova \n",
+    "          Zakharova, A\n\n",
+    "       2. Emiliana Arango \n",
+    "          Arango, E\n\n",
+    "       3. Yulia Putintseva \n",
+    "          Putintseva, Y\n\n",
+    "       4. Varvara Gracheva \n",
+    "          Gracheva, V\n\n",
+    "       5. Katerina Siniakova \n",
+    "          Siniakova, K\n\n",
+    "       6. Moyuka Uchijima \n",
+    "          Uchijima, M\n\n",
+    "       7. Lucia Bronzetti \n",
+    "          Bronzetti, L\n\n",
+    "       8. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       9. Polina Kudermetova \n",
+    "          Kudermetova, P\n\n",
+    "12:36  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -25220,7 +25245,7 @@
       ],
       [
         1,
-        27,
+        26,
         {
           "players": [
             "Solana Sierra",
@@ -25247,7 +25272,6 @@
             "Nuria Brancaccio",
             "Carson Branstine",
             "Caroline Werner",
-            "Maja Chwalinska",
             "Mariella Thamm",
             "Mayar Sherif"
           ]
@@ -25324,24 +25348,29 @@
       ],
       [
         1,
-        47,
+        56,
         {
           "players": [
             "Aryna Sabalenka",
             "Rebecca Sramkova",
             "Anna Kalinskaya",
+            "Anastasia Zakharova",
             "Sofia Kenin",
+            "Emiliana Arango",
             "Liudmila Samsonova",
             "Naomi Osaka",
             "Leylah Fernandez",
             "Linda Noskova",
+            "Yulia Putintseva",
             "McCartney Kessler",
             "Jaqueline Cristian",
             "Elena Rybakina",
             "Amanda Anisimova",
+            "Varvara Gracheva",
             "Jessica Bouzas Maneiro",
             "Lin Zhu",
             "Maya Joint",
+            "Katerina Siniakova",
             "Diana Shnaider",
             "Ekaterina Alexandrova",
             "Victoria Mboko",
@@ -25361,16 +25390,20 @@
             "Shuai Zhang",
             "Sorana Cirstea",
             "Jelena Ostapenko",
+            "Moyuka Uchijima",
             "Xinyu Wang",
             "Coco Gauff",
             "Jasmine Paolini",
+            "Lucia Bronzetti",
             "Yue Yuan",
+            "Antonia Ruzic",
             "Magda Linette",
             "Olga Danilovic",
             "Clara Tauson",
             "Belinda Bencic",
             "Donna Vekic",
             "Elise Mertens",
+            "Polina Kudermetova",
             "Camila Osorio",
             "Marie Bouzkova",
             "Iga Swiatek"
@@ -25427,7 +25460,7 @@
           "players": []
         }
       ],
-      "2025-10-05"
+      "2025-10-06"
     ]
   },
   "torns": [
