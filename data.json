@@ -18969,7 +18969,36 @@
     "          Monnet, C\n\n",
     "       6. Teodora Kostovic \n",
     "          Kostovic, T\n\n",
-    "20:19  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n"
+    "20:19  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n",
+    "12:42  change in MALLORCA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 DOUBLES:    \n\n",
+    "       1. Jesika Maleckova / Miriam Skoch \n",
+    "          Maleckova, J/Skoch, M\n\n",
+    "       2. Maria Lourdes Carle / Despina Papamichail \n",
+    "          Carle, M/Papamichail, D\n\n",
+    "       3. Ekaterine Gorgodze / Darja Semenistaja \n",
+    "          Gorgodze, E/Semenistaja, D\n\n",
+    "       4. Dalila Jakupovic / Nika Radisic \n",
+    "          Jakupovic, D/Radisic, N\n\n",
+    "       5. Alicia Barnett / Elixane Lechemia \n",
+    "          Barnett, A/Lechemia, E\n\n",
+    "       6. Noma Noha Akugue / Mariella Thamm \n",
+    "          Noha Akugue, N/Thamm, M\n\n",
+    "       7. Mayar Sherif / Tamara Zidansek \n",
+    "          Sherif, M/Zidansek, T\n\n",
+    "       8. Yvonne Cavalle-Reimers / Angelica Moratelli \n",
+    "          Cavalle-Reimers, Y/Moratelli, A\n\n",
+    "       Players removed from the draw in MALLORCA-125 DOUBLES:    \n\n",
+    "       1. ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS \n\n",
+    "       2. ALICIA BARNETT / ELIXANE LECHEMIA \n\n",
+    "       3. MIRIAM SKOCH / JESIKA MALECKOVA \n\n",
+    "       4. NIKA RADISIC / DALILA JAKUPOVIC \n\n",
+    "12:42  change in WUHAN DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/draws\n\n       Players added to the draw in WUHAN DOUBLES:    \n\n",
+    "       1. Iva Jovic / Giuliana Olmos \n",
+    "          Jovic, I/Olmos, G\n\n",
+    "       Players removed from the draw in WUHAN DOUBLES:    \n\n",
+    "       1. Ulrikke Eikeri / Yifan Xu \n\n",
+    "12:42  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -25212,13 +25241,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS",
-            "ALICIA BARNETT / ELIXANE LECHEMIA",
-            "MIRIAM SKOCH / JESIKA MALECKOVA",
-            "NIKA RADISIC / DALILA JAKUPOVIC"
+            "Jesika Maleckova / Miriam Skoch",
+            "Maria Lourdes Carle / Despina Papamichail",
+            "Ekaterine Gorgodze / Darja Semenistaja",
+            "Dalila Jakupovic / Nika Radisic",
+            "Alicia Barnett / Elixane Lechemia",
+            "Noma Noha Akugue / Mariella Thamm",
+            "Mayar Sherif / Tamara Zidansek",
+            "Yvonne Cavalle-Reimers / Angelica Moratelli"
           ]
         }
       ],
@@ -25359,7 +25392,7 @@
             "Laura Siegemund / Fanny Stollar",
             "Nicole Melichar-Martinez / Liudmila Samsonova",
             "Maria Sakkari / Donna Vekic",
-            "Ulrikke Eikeri / Yifan Xu",
+            "Iva Jovic / Giuliana Olmos",
             "Magda Linette / Clara Tauson",
             "Timea Babos / Luisa Stefani",
             "Asia Muhammad / Demi Schuurs",
@@ -25393,7 +25426,7 @@
           "players": []
         }
       ],
-      "2025-10-06"
+      "2025-10-07"
     ]
   },
   "torns": [
