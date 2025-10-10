@@ -19611,7 +19611,59 @@
     "       11. XINYU WANG / SAISAI ZHENG \n",
     "           WANG, X/ZHENG, S\n\n",
     "12:42  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n",
-    "12:42  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n"
+    "12:42  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n",
+    "12:41  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2025/order-of-play\n\n",
+    "12:41  NEW draw in NINGBO QUALS \u2605    \n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/draws\n\n",
+    "       Players added to the draw in NINGBO QUALS:    \n\n",
+    "       1. McCartney Kessler \n",
+    "          Kessler, M\n\n",
+    "       2. Tamara Korpatsch \n",
+    "          Korpatsch, T\n\n",
+    "       3. Yuliia Starodubtseva \n",
+    "          Starodubtseva, Y\n\n",
+    "       4. Priscilla Hon \n",
+    "          Hon, P\n\n",
+    "       5. Maya Joint \n",
+    "          Joint, M\n\n",
+    "       6. Ajla Tomljanovic \n",
+    "          Tomljanovic, A\n\n",
+    "       7. Viktoriya Tomova \n",
+    "          Tomova, V\n\n",
+    "       8. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       9. Tatjana Maria \n",
+    "          Maria, T\n\n",
+    "       10. Aliaksandra Sasnovich \n",
+    "           Sasnovich, A\n\n",
+    "       11. Lilli Tagger \n",
+    "           Tagger, L\n\n",
+    "       12. Camila Osorio \n",
+    "           Osorio, C\n\n",
+    "       13. Laura Siegemund \n",
+    "           Siegemund, L\n\n",
+    "       14. Saisai Zheng \n",
+    "           Zheng, S\n\n",
+    "       15. Linda Fruhvirtova \n",
+    "           Fruhvirtova, L\n\n",
+    "       16. Zeynep Sonmez \n",
+    "           Sonmez, Z\n\n",
+    "       17. Yulia Putintseva \n",
+    "           Putintseva, Y\n\n",
+    "       18. Katarzyna Kawa \n",
+    "           Kawa, K\n\n",
+    "       19. Talia Gibson \n",
+    "           Gibson, T\n\n",
+    "       20. Lucia Bronzetti \n",
+    "           Bronzetti, L\n\n",
+    "       21. Polina Kudermetova \n",
+    "           Kudermetova, P\n\n",
+    "       22. Hanyu Guo \n",
+    "           Guo, H\n\n",
+    "       23. Meng-Yi Chen \n",
+    "           Chen, M\n\n",
+    "       24. Kamilla Rakhimova \n",
+    "           Rakhimova, K\n\n",
+    "12:41  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -26039,7 +26091,7 @@
           "players": []
         }
       ],
-      "2025-10-10"
+      "2025-10-11"
     ],
     "OSAKA": [
       [
@@ -26389,9 +26441,34 @@
     "NINGBO": [
       [
         0,
-        0,
+        24,
         {
-          "players": []
+          "players": [
+            "McCartney Kessler",
+            "Tamara Korpatsch",
+            "Yuliia Starodubtseva",
+            "Priscilla Hon",
+            "Maya Joint",
+            "Ajla Tomljanovic",
+            "Viktoriya Tomova",
+            "Antonia Ruzic",
+            "Tatjana Maria",
+            "Aliaksandra Sasnovich",
+            "Lilli Tagger",
+            "Camila Osorio",
+            "Laura Siegemund",
+            "Saisai Zheng",
+            "Linda Fruhvirtova",
+            "Zeynep Sonmez",
+            "Yulia Putintseva",
+            "Katarzyna Kawa",
+            "Talia Gibson",
+            "Lucia Bronzetti",
+            "Polina Kudermetova",
+            "Hanyu Guo",
+            "Meng-Yi Chen",
+            "Kamilla Rakhimova"
+          ]
         }
       ],
       [
@@ -26472,7 +26549,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-10-11"
     ]
   },
   "torns": [
