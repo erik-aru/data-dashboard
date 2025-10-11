@@ -19664,7 +19664,44 @@
     "       24. Kamilla Rakhimova \n",
     "           Rakhimova, K\n\n",
     "12:41  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n",
-    "20:21  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n"
+    "20:21  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2025/order-of-play\n\n",
+    "04:22  TAMPICO-125 QUALS draw    \n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/draws\n\n",
+    "       Players added to the draw in TAMPICO-125 QUALS:    \n\n",
+    "       1. Ekaterina Kazionova \n",
+    "          Kazionova, E\n\n",
+    "       2. Sabastiani Leon \n",
+    "          Leon, S\n\n",
+    "       3. Dasha Plekhanova \n",
+    "          Plekhanova, D\n\n",
+    "       4. Haley Giavara \n",
+    "          Giavara, H\n\n",
+    "       5. Marian Gomez Pezuela Cano \n",
+    "          Gomez Pezuela Cano, M\n\n",
+    "       6. Usue Maitane Arconada \n",
+    "          Arconada, U\n\n",
+    "       7. Weronika Falkowska \n",
+    "          Falkowska, W\n\n",
+    "       8. Ana Paola Gonzalez Dominguez \n",
+    "          Gonzalez Dominguez, A\n\n",
+    "       9. Katrina Scott \n",
+    "          Scott, K\n\n",
+    "       10. Victoria Hu \n",
+    "           Hu, V\n\n",
+    "       11. Kristina Novak \n",
+    "           Novak, K\n\n",
+    "       12. Daniela Martinez Guerrero \n",
+    "           Martinez Guerrero, D\n\n",
+    "       13. Sachia Vickery \n",
+    "           Vickery, S\n\n",
+    "04:22  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n",
+    "04:22  change in NINGBO QUALS \u2605   \n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/draws\n\n       Players added to the draw in NINGBO QUALS:    \n\n",
+    "       1. Yihan Qu \n",
+    "          Qu, Y\n\n",
+    "       2. Yidi Yang \n",
+    "          Yang, Y\n\n",
+    "       Players removed from the draw in NINGBO QUALS:    \n\n",
+    "       1. McCartney Kessler \n\n",
+    "       2. Laura Siegemund \n\n"
   ],
   "sits": {
     "ROME": [
@@ -26354,9 +26391,23 @@
     "TAMPICO-125": [
       [
         0,
-        0,
+        13,
         {
-          "players": []
+          "players": [
+            "Ekaterina Kazionova",
+            "Sabastiani Leon",
+            "Dasha Plekhanova",
+            "Haley Giavara",
+            "Marian Gomez Pezuela Cano",
+            "Usue Maitane Arconada",
+            "Weronika Falkowska",
+            "Ana Paola Gonzalez Dominguez",
+            "Katrina Scott",
+            "Victoria Hu",
+            "Kristina Novak",
+            "Daniela Martinez Guerrero",
+            "Sachia Vickery"
+          ]
         }
       ],
       [
@@ -26437,7 +26488,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-10-11"
     ],
     "NINGBO": [
       [
@@ -26445,7 +26496,7 @@
         24,
         {
           "players": [
-            "McCartney Kessler",
+            "Yihan Qu",
             "Tamara Korpatsch",
             "Yuliia Starodubtseva",
             "Priscilla Hon",
@@ -26457,7 +26508,7 @@
             "Aliaksandra Sasnovich",
             "Lilli Tagger",
             "Camila Osorio",
-            "Laura Siegemund",
+            "Yidi Yang",
             "Saisai Zheng",
             "Linda Fruhvirtova",
             "Zeynep Sonmez",
@@ -26583,5 +26634,5 @@
       2092
     ]
   ],
-  "old_day": 10
+  "old_day": 11
 }
