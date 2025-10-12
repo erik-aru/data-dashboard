@@ -20063,7 +20063,26 @@
     "       34. DIANA SHNAIDER \n\n",
     "       35. MAYA JOINT \n\n",
     "       36. VICTORIA MBOKO \n\n",
-    "       37. MIRRA ANDREEVA \n\n"
+    "       37. MIRRA ANDREEVA \n\n",
+    "04:23  RIO-DE-JANEIRO-125 QUALS draw    \n       https://www.wtatennis.com/tournament/1150/RIO-DE-JANEIRO-125/2025/draws\n\n",
+    "       Players added to the draw in RIO-DE-JANEIRO-125 QUALS:    \n\n",
+    "       1. Martina Capurro Taborda \n",
+    "          Capurro Taborda, M\n\n",
+    "       2. Sofia Da Cruz Mendonca \n",
+    "          Da Cruz Mendonca, S\n\n",
+    "       3. Thaisa Grana Pedretti \n",
+    "          Pedretti, T\n\n",
+    "       4. Leticia Garcia Vidal \n",
+    "          Vidal, L\n\n",
+    "       5. Maria Urrutia \n",
+    "          Urrutia, M\n\n",
+    "       6. Maria Paulina Perez Garcia \n",
+    "          Perez Garcia, M\n\n",
+    "       7. Julia Konishi Camargo Silva \n",
+    "          Konishi Camargo Silva, J\n\n",
+    "       8. Rebeca Pereira \n",
+    "          Pereira, R\n\n",
+    "04:23  OOP in RIO-DE-JANEIRO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1150/RIO-DE-JANEIRO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -26723,9 +26742,18 @@
     "RIO-DE-JANEIRO-125": [
       [
         0,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Martina Capurro Taborda",
+            "Sofia Da Cruz Mendonca",
+            "Thaisa Grana Pedretti",
+            "Leticia Garcia Vidal",
+            "Maria Urrutia",
+            "Maria Paulina Perez Garcia",
+            "Julia Konishi Camargo Silva",
+            "Rebeca Pereira"
+          ]
         }
       ],
       [
@@ -26795,7 +26823,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-10-12"
     ],
     "TAMPICO-125": [
       [
@@ -27024,5 +27052,5 @@
       2092
     ]
   ],
-  "old_day": 11
+  "old_day": 12
 }
