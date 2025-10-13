@@ -20486,7 +20486,34 @@
     "          Novak, K\n\n",
     "       4. Dasha Plekhanova \n",
     "          Plekhanova, D\n\n",
-    "04:24  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n"
+    "04:24  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n",
+    "12:42  change in OSAKA SINGLES \u2605   \n       https://www.wtatennis.com/tournament/405/OSAKA/2025/draws\n\n",
+    "       Players added to the draw in OSAKA SINGLES:    \n\n",
+    "       1. Elisabetta Cocciaretto \n",
+    "          Cocciaretto, E\n\n",
+    "       2. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       3. Tereza Valentova \n",
+    "          Valentova, T\n\n",
+    "       4. Varvara Gracheva \n",
+    "          Gracheva, V\n\n",
+    "       5. Joanna Garland \n",
+    "          Garland, J\n\n",
+    "       6. Dalma Galfi \n",
+    "          Galfi, D\n\n",
+    "12:42  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2025/order-of-play\n\n",
+    "12:42  change in JINAN-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1144/JINAN-125/2025/draws\n\n",
+    "       Players added to the draw in JINAN-125 SINGLES:    \n\n",
+    "       1. Ekaterina Reyngold \n",
+    "          Reyngold, E\n\n",
+    "       2. Priska Nugroho \n",
+    "          Nugroho, P\n\n",
+    "       3. Fangran Tian \n",
+    "          Tian, F\n\n",
+    "       4. Katarina Zavatska \n",
+    "          Zavatska, K\n\n",
+    "12:42  OOP in JINAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1144/JINAN-125/2025/order-of-play\n\n",
+    "12:42  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -26951,7 +26978,7 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Naomi Osaka",
@@ -26959,16 +26986,22 @@
             "Suzan Lamens",
             "Emiliana Arango",
             "Jaqueline Cristian",
+            "Elisabetta Cocciaretto",
+            "Katie Volynets",
             "Jessica Bouzas Maneiro",
             "Elise Mertens",
             "Cristina Bucsa",
+            "Tereza Valentova",
             "Alexandra Eala",
             "Maria Sakkari",
             "Ashlyn Krueger",
             "Nao Hibino",
             "Olga Danilovic",
             "Ann Li",
+            "Varvara Gracheva",
+            "Joanna Garland",
             "Rebecca Sramkova",
+            "Dalma Galfi",
             "Alycia Parks",
             "Hailey Baptiste",
             "Leylah Fernandez",
@@ -27021,7 +27054,7 @@
           "players": []
         }
       ],
-      "2025-10-13"
+      "2025-10-14"
     ],
     "JINAN-125": [
       [
@@ -27050,12 +27083,13 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Anastasia Zakharova",
             "Lanlana Tararudee",
             "Tatiana Prozorova",
+            "Ekaterina Reyngold",
             "Xiaowei Li",
             "Arianne Hartono",
             "Han Shi",
@@ -27070,15 +27104,18 @@
             "Tiantsoa Rakotomanga Rajaonah",
             "Whitney Osuigwe",
             "Chloe Paquet",
+            "Priska Nugroho",
             "Zhuoxuan Bai",
             "Arina Rodionova",
             "Erika Andreeva",
+            "Fangran Tian",
             "Veronika Erjavec",
             "Victoria Jimenez Kasintseva",
             "Ye-Xin Ma",
             "Alina Korneeva",
             "Xiaodi You",
             "Sijia Wei",
+            "Katarina Zavatska",
             "Darya Astakhova",
             "Anna Bondar"
           ]
@@ -27122,7 +27159,7 @@
           "players": []
         }
       ],
-      "2025-10-13"
+      "2025-10-14"
     ],
     "RIO-DE-JANEIRO-125": [
       [
@@ -27428,7 +27465,7 @@
           "players": []
         }
       ],
-      "2025-10-13"
+      "2025-10-14"
     ]
   },
   "torns": [
