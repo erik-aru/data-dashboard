@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "MALLORCA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "WUHAN": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "OSAKA": [
       [
         0,
@@ -20519,7 +20475,18 @@
     "       8. HALEY GIAVARA / VICTORIA HU \n\n",
     "       9. ANASTASIA TIKHONOVA / HARRIET DART \n\n",
     "       10. MARIAN GOMEZ PEZUELA CANO / CADENCE BRACE \n\n",
-    "       11. AMELIA RAJECKI / KAYLA CROSS \n\n"
+    "       11. AMELIA RAJECKI / KAYLA CROSS \n\n",
+    "04:24  TAMPICO-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/draws\n\n",
+    "       Players added to the draw in TAMPICO-125 SINGLES:    \n\n",
+    "       1. Haley Giavara \n",
+    "          Giavara, H\n\n",
+    "       2. Katrina Scott \n",
+    "          Scott, K\n\n",
+    "       3. Kristina Novak \n",
+    "          Novak, K\n\n",
+    "       4. Dasha Plekhanova \n",
+    "          Plekhanova, D\n\n",
+    "04:24  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -27278,11 +27245,13 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Caroline Dolehide",
             "Diletta Cherubini",
+            "Haley Giavara",
+            "Katrina Scott",
             "Jessica Pieri",
             "Maria Portillo Ramirez",
             "Emina Bektas",
@@ -27291,6 +27260,7 @@
             "Elvina Kalieva",
             "Lea Ma",
             "Amelia Rajecki",
+            "Kristina Novak",
             "Leonie Kung",
             "Hanna Chang",
             "Cadence Brace",
@@ -27305,6 +27275,7 @@
             "Harriet Dart",
             "Valeriya Strakhova",
             "Victoria Rodriguez",
+            "Dasha Plekhanova",
             "Sahaja Yamalapalli",
             "Sloane Stephens",
             "Lia Karatancheva",
@@ -27348,7 +27319,7 @@
           "players": []
         }
       ],
-      "2025-10-12"
+      "2025-10-13"
     ],
     "NINGBO": [
       [
@@ -27462,14 +27433,6 @@
   },
   "torns": [
     [
-      "MALLORCA-125",
-      1128
-    ],
-    [
-      "WUHAN",
-      1075
-    ],
-    [
       "OSAKA",
       405
     ],
@@ -27490,5 +27453,5 @@
       2092
     ]
   ],
-  "old_day": 12
+  "old_day": 13
 }
