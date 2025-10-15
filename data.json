@@ -20523,7 +20523,9 @@
     "          Ruzic, A\n\n",
     "       Players removed from the draw in NINGBO SINGLES:    \n\n",
     "       1. Shuai Zhang \n\n",
-    "12:45  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n"
+    "12:45  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n",
+    "04:24  OOP in RIO-DE-JANEIRO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1150/RIO-DE-JANEIRO-125/2025/order-of-play\n\n",
+    "04:24  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -27266,7 +27268,7 @@
           "players": []
         }
       ],
-      "2025-10-14"
+      "2025-10-15"
     ],
     "TAMPICO-125": [
       [
@@ -27366,7 +27368,7 @@
           "players": []
         }
       ],
-      "2025-10-14"
+      "2025-10-15"
     ],
     "NINGBO": [
       [
@@ -27500,5 +27502,5 @@
       2092
     ]
   ],
-  "old_day": 14
+  "old_day": 15
 }
