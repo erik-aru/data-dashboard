@@ -21119,7 +21119,9 @@
     "           ZAMARRIPA, M/ZAMARRIPA, A\n\n",
     "12:44  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2025/order-of-play\n\n",
     "12:44  OOP in JINAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1144/JINAN-125/2025/order-of-play\n\n",
-    "12:44  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n"
+    "12:44  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n",
+    "04:24  OOP in RIO-DE-JANEIRO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1150/RIO-DE-JANEIRO-125/2025/order-of-play\n\n",
+    "04:24  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -27862,7 +27864,7 @@
           "players": []
         }
       ],
-      "2025-10-16"
+      "2025-10-17"
     ],
     "TAMPICO-125": [
       [
@@ -27962,7 +27964,7 @@
           "players": []
         }
       ],
-      "2025-10-16"
+      "2025-10-17"
     ],
     "NINGBO": [
       [
@@ -28544,5 +28546,5 @@
       2094
     ]
   ],
-  "old_day": 16
+  "old_day": 17
 }
