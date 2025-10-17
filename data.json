@@ -21121,7 +21121,61 @@
     "12:44  OOP in JINAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1144/JINAN-125/2025/order-of-play\n\n",
     "12:44  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n",
     "04:24  OOP in RIO-DE-JANEIRO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1150/RIO-DE-JANEIRO-125/2025/order-of-play\n\n",
-    "04:24  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n"
+    "04:24  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n",
+    "12:41  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2025/order-of-play\n\n",
+    "12:41  OOP in JINAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1144/JINAN-125/2025/order-of-play\n\n",
+    "12:41  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2025/order-of-play\n\n",
+    "12:41  NEW draw in TOKYO QUALS \u2605    \n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/draws\n\n",
+    "       Players added to the draw in TOKYO QUALS:    \n\n",
+    "       1. Marie Bouzkova \n",
+    "          Bouzkova, M\n\n",
+    "       2. Kimberly Birrell \n",
+    "          Birrell, K\n\n",
+    "       3. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       4. Katie Boulter \n",
+    "          Boulter, K\n\n",
+    "       5. Eva Lys \n",
+    "          Lys, E\n\n",
+    "       6. Yuliia Starodubtseva \n",
+    "          Starodubtseva, Y\n\n",
+    "       7. Sae Noguchi \n",
+    "          Noguchi, S\n\n",
+    "       8. Viktorija Golubic \n",
+    "          Golubic, V\n\n",
+    "       9. Emiliana Arango \n",
+    "          Arango, E\n\n",
+    "       10. Varvara Gracheva \n",
+    "           Gracheva, V\n\n",
+    "       11. Elena-Gabriela Ruse \n",
+    "           Ruse, E\n\n",
+    "       12. Hailey Baptiste \n",
+    "           Baptiste, H\n\n",
+    "       13. Ashlyn Krueger \n",
+    "           Krueger, A\n\n",
+    "       14. Dalma Galfi \n",
+    "           Galfi, D\n\n",
+    "       15. Nao Hibino \n",
+    "           Hibino, N\n\n",
+    "       16. Cristina Bucsa \n",
+    "           Bucsa, C\n\n",
+    "       17. Alina Charaeva \n",
+    "           Charaeva, A\n\n",
+    "       18. Himeno Sakatsume \n",
+    "           Sakatsume, H\n\n",
+    "       19. Ena Shibahara \n",
+    "           Shibahara, E\n\n",
+    "       20. Rebecca Sramkova \n",
+    "           Sramkova, R\n\n",
+    "       21. Maria Sakkari \n",
+    "           Sakkari, M\n\n",
+    "       22. Zeynep Sonmez \n",
+    "           Sonmez, Z\n\n",
+    "       23. Aliaksandra Sasnovich \n",
+    "           Sasnovich, A\n\n",
+    "       24. Suzan Lamens \n",
+    "           Lamens, S\n\n",
+    "12:41  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -27662,7 +27716,7 @@
           "players": []
         }
       ],
-      "2025-10-17"
+      "2025-10-18"
     ],
     "JINAN-125": [
       [
@@ -27767,7 +27821,7 @@
           "players": []
         }
       ],
-      "2025-10-17"
+      "2025-10-18"
     ],
     "RIO-DE-JANEIRO-125": [
       [
@@ -28073,7 +28127,7 @@
           "players": []
         }
       ],
-      "2025-10-17"
+      "2025-10-18"
     ],
     "GUANGZHOU": [
       [
@@ -28170,9 +28224,34 @@
     "TOKYO": [
       [
         0,
-        0,
+        24,
         {
-          "players": []
+          "players": [
+            "Marie Bouzkova",
+            "Kimberly Birrell",
+            "Anna Blinkova",
+            "Katie Boulter",
+            "Eva Lys",
+            "Yuliia Starodubtseva",
+            "Sae Noguchi",
+            "Viktorija Golubic",
+            "Emiliana Arango",
+            "Varvara Gracheva",
+            "Elena-Gabriela Ruse",
+            "Hailey Baptiste",
+            "Ashlyn Krueger",
+            "Dalma Galfi",
+            "Nao Hibino",
+            "Cristina Bucsa",
+            "Alina Charaeva",
+            "Himeno Sakatsume",
+            "Ena Shibahara",
+            "Rebecca Sramkova",
+            "Maria Sakkari",
+            "Zeynep Sonmez",
+            "Aliaksandra Sasnovich",
+            "Suzan Lamens"
+          ]
         }
       ],
       [
@@ -28252,7 +28331,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-10-18"
     ],
     "ROVERETO-125": [
       [
