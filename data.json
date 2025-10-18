@@ -21175,7 +21175,14 @@
     "           Sasnovich, A\n\n",
     "       24. Suzan Lamens \n",
     "           Lamens, S\n\n",
-    "12:41  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/order-of-play\n\n"
+    "12:41  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/order-of-play\n\n",
+    "04:22  OOP in RIO-DE-JANEIRO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1150/RIO-DE-JANEIRO-125/2025/order-of-play\n\n",
+    "04:22  OOP in TAMPICO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2067/TAMPICO-125/2025/order-of-play\n\n",
+    "04:22  change in TOKYO QUALS \u2605   \n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/draws\n\n       Players added to the draw in TOKYO QUALS:    \n\n",
+    "       1. Maddison Inglis \n",
+    "          Inglis, M\n\n",
+    "       Players removed from the draw in TOKYO QUALS:    \n\n",
+    "       1. Elena-Gabriela Ruse \n\n"
   ],
   "sits": {
     "ROME": [
@@ -27918,7 +27925,7 @@
           "players": []
         }
       ],
-      "2025-10-17"
+      "2025-10-18"
     ],
     "TAMPICO-125": [
       [
@@ -28018,7 +28025,7 @@
           "players": []
         }
       ],
-      "2025-10-17"
+      "2025-10-18"
     ],
     "NINGBO": [
       [
@@ -28237,7 +28244,7 @@
             "Viktorija Golubic",
             "Emiliana Arango",
             "Varvara Gracheva",
-            "Elena-Gabriela Ruse",
+            "Maddison Inglis",
             "Hailey Baptiste",
             "Ashlyn Krueger",
             "Dalma Galfi",
@@ -28625,5 +28632,5 @@
       2094
     ]
   ],
-  "old_day": 17
+  "old_day": 18
 }
