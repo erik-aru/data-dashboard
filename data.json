@@ -22,51 +22,7 @@
         "none"
       ]
     ],
-    "JINAN-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "RIO-DE-JANEIRO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "TAMPICO-125": [
       [
         0,
         0
@@ -21561,7 +21517,35 @@
     "          Konishi Camargo Silva, J\n\n",
     "       8. Fernanda Labrana \n",
     "          Labrana, F\n\n",
-    "20:20  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n"
+    "20:20  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n",
+    "04:24  OOP in RIO-DE-JANEIRO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1150/RIO-DE-JANEIRO-125/2025/order-of-play\n\n",
+    "04:24  QUERETARO-125 QUALS draw    \n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/draws\n\n",
+    "       Players added to the draw in QUERETARO-125 QUALS:    \n\n",
+    "       1. Haley Giavara \n",
+    "          Giavara, H\n\n",
+    "       2. Marian Gomez Pezuela Cano \n",
+    "          Gomez Pezuela Cano, M\n\n",
+    "       3. Kristina Novak \n",
+    "          Novak, K\n\n",
+    "       4. Katrina Scott \n",
+    "          Scott, K\n\n",
+    "       5. Anita Wagner \n",
+    "          Wagner, A\n\n",
+    "       6. Alexandra Osborne \n",
+    "          Osborne, A\n\n",
+    "       7. Maria Portillo Ramirez \n",
+    "          Portillo Ramirez, M\n\n",
+    "       8. Katherine Torres Lopez \n",
+    "          Torres Lopez, K\n\n",
+    "       9. Maria Fernanda Navarro Oliva \n",
+    "          Navarro Oliva, M\n\n",
+    "       10. Elina Nepliy \n",
+    "           Nepliy, E\n\n",
+    "       11. Daniela Martinez Guerrero \n",
+    "           Martinez Guerrero, D\n\n",
+    "       12. Maria Herazo \n",
+    "           Herazo, M\n\n",
+    "04:24  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -28304,7 +28288,7 @@
           "players": []
         }
       ],
-      "2025-10-18"
+      "2025-10-19"
     ],
     "TAMPICO-125": [
       [
@@ -28839,9 +28823,22 @@
     "QUERETARO-125": [
       [
         0,
-        0,
+        12,
         {
-          "players": []
+          "players": [
+            "Haley Giavara",
+            "Marian Gomez Pezuela Cano",
+            "Kristina Novak",
+            "Katrina Scott",
+            "Anita Wagner",
+            "Alexandra Osborne",
+            "Maria Portillo Ramirez",
+            "Katherine Torres Lopez",
+            "Maria Fernanda Navarro Oliva",
+            "Elina Nepliy",
+            "Daniela Martinez Guerrero",
+            "Maria Herazo"
+          ]
         }
       ],
       [
@@ -28915,7 +28912,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-10-19"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -29013,16 +29010,8 @@
       405
     ],
     [
-      "JINAN-125",
-      1144
-    ],
-    [
       "RIO-DE-JANEIRO-125",
       1150
-    ],
-    [
-      "TAMPICO-125",
-      2067
     ],
     [
       "NINGBO",
@@ -29049,5 +29038,5 @@
       2094
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
