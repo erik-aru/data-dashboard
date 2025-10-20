@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "OSAKA": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "RIO-DE-JANEIRO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "NINGBO": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "GUANGZHOU": [
       [
         0,
@@ -21957,7 +21891,12 @@
     "          Zamarripa, M\n\n",
     "       Players removed from the draw in FLORIANOPOLIS-125 QUALS:    \n\n",
     "       1. Miriana Tona \n\n",
-    "20:20  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n"
+    "20:20  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n",
+    "04:26  TOKYO DOUBLES draw    \n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/draws\n\n",
+    "       Players added to the draw in TOKYO DOUBLES:    \n\n",
+    "       1. Emiliana Arango / Zeynep Sonmez \n",
+    "          Arango, E/Sonmez, Z\n\n",
+    "04:26  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -29087,7 +29026,7 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Ellen Perez / Taylor Townsend",
@@ -29103,6 +29042,7 @@
             "Giuliana Olmos / Aldila Sutjiadi",
             "Anna Danilina / Aleksandra Krunic",
             "Bianca Andreescu / Victoria Mboko",
+            "Emiliana Arango / Zeynep Sonmez",
             "Shuko Aoyama / Cristina Bucsa",
             "Asia Muhammad / Demi Schuurs"
           ]
@@ -29307,7 +29247,7 @@
           "players": []
         }
       ],
-      "2025-10-19"
+      "2025-10-20"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -29408,18 +29348,6 @@
   },
   "torns": [
     [
-      "OSAKA",
-      405
-    ],
-    [
-      "RIO-DE-JANEIRO-125",
-      1150
-    ],
-    [
-      "NINGBO",
-      2092
-    ],
-    [
       "GUANGZHOU",
       1023
     ],
@@ -29440,5 +29368,5 @@
       2094
     ]
   ],
-  "old_day": 19
+  "old_day": 20
 }
