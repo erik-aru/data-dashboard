@@ -21896,7 +21896,42 @@
     "       Players added to the draw in TOKYO DOUBLES:    \n\n",
     "       1. Emiliana Arango / Zeynep Sonmez \n",
     "          Arango, E/Sonmez, Z\n\n",
-    "04:26  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n"
+    "04:26  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n",
+    "12:43  change in GUANGZHOU SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2025/draws\n\n",
+    "       Players added to the draw in GUANGZHOU SINGLES:    \n\n",
+    "       1. Lulu Sun \n",
+    "          Sun, L\n\n",
+    "       2. Kaja Juvan \n",
+    "          Juvan, K\n\n",
+    "       3. Claire Liu \n",
+    "          Liu, C\n\n",
+    "       4. Alina Korneeva \n",
+    "          Korneeva, A\n\n",
+    "       5. Tiantsoa Rakotomanga Rajaonah \n",
+    "          Rakotomanga Rajaonah, T\n\n",
+    "       6. Katarzyna Kawa \n",
+    "          Kawa, K\n\n",
+    "       7. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       8. Victoria Jimenez Kasintseva \n",
+    "          Jimenez Kasintseva, V\n\n",
+    "12:43  change in GUANGZHOU DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2025/draws\n\n       Players added to the draw in GUANGZHOU DOUBLES:    \n\n",
+    "       1. Lucia Bronzetti / Elisabetta Cocciaretto \n",
+    "          Bronzetti, L/Cocciaretto, E\n\n",
+    "       Players removed from the draw in GUANGZHOU DOUBLES:    \n\n",
+    "       1. Shuo Feng / Zhaoxuan Yang \n\n",
+    "12:43  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2025/order-of-play\n\n",
+    "12:43  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/order-of-play\n\n",
+    "12:43  change in ROVERETO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/draws\n\n",
+    "       Players added to the draw in ROVERETO-125 SINGLES:    \n\n",
+    "       1. Noma Noha Akugue \n",
+    "          Noha Akugue, N\n\n",
+    "       2. Radka Zelnickova \n",
+    "          Zelnickova, R\n\n",
+    "       3. Eva Guerrero Alvarez \n",
+    "          Guerrero Alvarez, E\n\n",
+    "       4. Alevtina Ibragimova \n",
+    "          Ibragimova, A\n\n"
   ],
   "sits": {
     "ROME": [
@@ -28885,22 +28920,29 @@
       ],
       [
         1,
-        24,
+        32,
         {
           "players": [
             "Jessica Bouzas Maneiro",
+            "Lulu Sun",
             "Yafan Wang",
             "Kamilla Rakhimova",
+            "Kaja Juvan",
             "Caty McNally",
             "Ajla Tomljanovic",
             "Alycia Parks",
             "Alexandra Eala",
+            "Claire Liu",
             "Anna Bondar",
             "Hanyu Guo",
             "Ella Seidel",
             "Leolia Jeanjean",
+            "Alina Korneeva",
             "Yulia Putintseva",
             "Polina Kudermetova",
+            "Tiantsoa Rakotomanga Rajaonah",
+            "Katarzyna Kawa",
+            "Katie Volynets",
             "Shuai Zhang",
             "Anastasia Zakharova",
             "Veronika Erjavec",
@@ -28911,6 +28953,7 @@
             "Diane Parry",
             "Camila Osorio",
             "Lucia Bronzetti",
+            "Victoria Jimenez Kasintseva",
             "Ann Li"
           ]
         }
@@ -28934,7 +28977,7 @@
             "Monica Niculescu / Sabrina Santamaria",
             "I-Hsuan Cho / Yi-Tsen Cho",
             "Alicia Barnett / Elixane Lechemia",
-            "Shuo Feng / Zhaoxuan Yang",
+            "Lucia Bronzetti / Elisabetta Cocciaretto",
             "Isabelle Haverlag / Maia Lumsden"
           ]
         }
@@ -28953,7 +28996,7 @@
           "players": []
         }
       ],
-      "2025-10-20"
+      "2025-10-21"
     ],
     "TOKYO": [
       [
@@ -29062,7 +29105,7 @@
           "players": []
         }
       ],
-      "2025-10-20"
+      "2025-10-21"
     ],
     "ROVERETO-125": [
       [
@@ -29091,14 +29134,16 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Darja Semenistaja",
             "Noemi Basiletti",
             "Aurora Zantedeschi",
+            "Noma Noha Akugue",
             "Celine Naef",
             "Jana Fett",
+            "Radka Zelnickova",
             "Sofia Costoulas",
             "Lucrezia Stefanini",
             "Anastasiia Sobolieva",
@@ -29106,9 +29151,11 @@
             "Elisa Visentin",
             "Dalila Jakupovic",
             "Gabriela Knutson",
+            "Eva Guerrero Alvarez",
             "Daria Snigur",
             "Maria Timofeeva",
             "Tyra Caterina Grant",
+            "Alevtina Ibragimova",
             "Susan Bandecchi",
             "Angela Fita Boluda",
             "Aliona Bolsova",
