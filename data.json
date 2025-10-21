@@ -21951,7 +21951,45 @@
     "       Players removed from the draw in GUANGZHOU DOUBLES:    \n\n",
     "       1. Anna Bondar / Veronika Erjavec \n\n",
     "12:44  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2025/order-of-play\n\n",
-    "12:44  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/order-of-play\n\n"
+    "12:44  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/order-of-play\n\n",
+    "20:23  change in ROVERETO-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/draws\n\n       Players added to the draw in ROVERETO-125 DOUBLES:    \n\n",
+    "       1. Noemi Basiletti / Tyra Caterina Grant \n",
+    "          Basiletti, N/Grant, T\n\n",
+    "       Players removed from the draw in ROVERETO-125 DOUBLES:    \n\n",
+    "       1. Alevtina Ibragimova / Sofya Lansere \n\n",
+    "20:23  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/order-of-play\n\n",
+    "20:23  change in QUERETARO-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/draws\n\n",
+    "       Players added to the draw in QUERETARO-125 DOUBLES:    \n\n",
+    "       1. Alicia Herrero Linana / Valeriya Strakhova \n",
+    "          Herrero Linana, A/Strakhova, V\n\n",
+    "       2. Kristina Novak / Martina Okalova \n",
+    "          Novak, K/Okalova, M\n\n",
+    "       3. Lian Tran / Anita Wagner \n",
+    "          Tran, L/Wagner, A\n\n",
+    "       4. Selena Janicijevic / Lia Karatancheva \n",
+    "          Janicijevic, S/Karatancheva, L\n\n",
+    "       5. Midori Castillo Meza / Natalia Sousa Salazar \n",
+    "          Castillo Meza, M/Sousa Salazar, N\n\n",
+    "       6. Marian Gomez Pezuela Cano / Varvara Lepchenko \n",
+    "          Gomez Pezuela Cano, M/Lepchenko, V\n\n",
+    "       7. Victoria Rodriguez / Ana Sofia Sanchez \n",
+    "          Rodriguez, V/Sanchez, A\n\n",
+    "       8. Haley Giavara / Alexandra Osborne \n",
+    "          Giavara, H/Osborne, A\n\n",
+    "       Players removed from the draw in QUERETARO-125 DOUBLES:    \n\n",
+    "       1. ANA SOFIA S\u00c1NCHEZ / VICTORIA RODRIGUEZ \n\n",
+    "       2. ANITA WAGNER / LIAN TRAN \n\n",
+    "       3. VALERIYA STRAKHOVA / ALICIA HERRERO LINANA \n\n",
+    "       4. HALEY GIAVARA / ALEXANDRA OSBORNE \n\n",
+    "20:23  change in FLORIANOPOLIS-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/draws\n\n       Players added to the draw in FLORIANOPOLIS-125 SINGLES:    \n\n",
+    "       1. Fernanda Labrana \n",
+    "          Labrana, F\n\n",
+    "       Players removed from the draw in FLORIANOPOLIS-125 SINGLES:    \n\n",
+    "       1. Tara Wuerth \n\n",
+    "20:23  change in FLORIANOPOLIS-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/draws\n\n",
+    "       Players added to the draw in FLORIANOPOLIS-125 DOUBLES:    \n\n",
+    "       Players removed from the draw in FLORIANOPOLIS-125 DOUBLES:    \n\n",
+    "       1. Nicole Fossa Huergo / Tara Wuerth \n\n"
   ],
   "sits": {
     "ROME": [
@@ -29207,7 +29245,7 @@
             "Deborah Chiesa / Angelica Moratelli",
             "Silvia Ambrosio / Aurora Zantedeschi",
             "Tayisiya Morderger / Yana Morderger",
-            "Alevtina Ibragimova / Sofya Lansere",
+            "Noemi Basiletti / Tyra Caterina Grant",
             "Dalila Jakupovic / Nika Radisic",
             "Maryna Kolb / Nadiya Kolb",
             "Susan Bandecchi / Madeleine Brooks",
@@ -29230,7 +29268,7 @@
           "players": []
         }
       ],
-      "2025-10-21"
+      "2025-10-22"
     ],
     "QUERETARO-125": [
       [
@@ -29294,13 +29332,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ANA SOFIA S\u00c1NCHEZ / VICTORIA RODRIGUEZ",
-            "ANITA WAGNER / LIAN TRAN",
-            "VALERIYA STRAKHOVA / ALICIA HERRERO LINANA",
-            "HALEY GIAVARA / ALEXANDRA OSBORNE"
+            "Alicia Herrero Linana / Valeriya Strakhova",
+            "Kristina Novak / Martina Okalova",
+            "Lian Tran / Anita Wagner",
+            "Selena Janicijevic / Lia Karatancheva",
+            "Midori Castillo Meza / Natalia Sousa Salazar",
+            "Marian Gomez Pezuela Cano / Varvara Lepchenko",
+            "Victoria Rodriguez / Ana Sofia Sanchez",
+            "Haley Giavara / Alexandra Osborne"
           ]
         }
       ],
@@ -29352,7 +29394,7 @@
             "Leyre Romero Gormaz",
             "Mayar Sherif",
             "Alice Rame",
-            "Tara Wuerth",
+            "Fernanda Labrana",
             "Laura Pigossi",
             "Anastasia Zolotareva",
             "Eva Vedder",
@@ -29379,7 +29421,7 @@
       ],
       [
         2,
-        15,
+        14,
         {
           "players": [
             "Ingrid Martins / Laura Pigossi",
@@ -29394,9 +29436,8 @@
             "Andrea Gamiz / Eva Vedder",
             "Mayar Sherif / Panna Udvardy",
             "Maria Eduarda Lages / Anastasia Zolotareva",
-            "Carole Monnet / Sada Nahimana",
             "Fernanda Labrana / Rebeca Pereira",
-            "Nicole Fossa Huergo / Tara Wuerth"
+            "Carole Monnet / Sada Nahimana"
           ]
         }
       ],
