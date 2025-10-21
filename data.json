@@ -21932,7 +21932,19 @@
     "          Guerrero Alvarez, E\n\n",
     "       4. Alevtina Ibragimova \n",
     "          Ibragimova, A\n\n",
-    "20:23  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/order-of-play\n\n"
+    "20:23  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/order-of-play\n\n",
+    "04:24  QUERETARO-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/draws\n\n",
+    "       Players added to the draw in QUERETARO-125 SINGLES:    \n\n",
+    "       1. Elina Nepliy \n",
+    "          Nepliy, E\n\n",
+    "       2. Maria Fernanda Navarro Oliva \n",
+    "          Navarro Oliva, M\n\n",
+    "       3. Haley Giavara \n",
+    "          Giavara, H\n\n",
+    "       4. Katrina Scott \n",
+    "          Scott, K\n\n",
+    "04:24  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n",
+    "04:24  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -29235,11 +29247,12 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Sara Bejlek",
             "Usue Maitane Arconada",
+            "Elina Nepliy",
             "Gabriela Lee",
             "Lia Karatancheva",
             "Victoria Rodriguez",
@@ -29262,9 +29275,12 @@
             "Midori Castillo Meza",
             "Hanne Vandewinkel",
             "Miriam Bulgaru",
+            "Maria Fernanda Navarro Oliva",
             "Ekaterina Kazionova",
             "Martina Okalova",
+            "Haley Giavara",
             "Maria Portillo Ramirez",
+            "Katrina Scott",
             "Varvara Lepchenko"
           ]
         }
@@ -29295,7 +29311,7 @@
           "players": []
         }
       ],
-      "2025-10-20"
+      "2025-10-21"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -29391,7 +29407,7 @@
           "players": []
         }
       ],
-      "2025-10-20"
+      "2025-10-21"
     ]
   },
   "torns": [
@@ -29416,5 +29432,5 @@
       2094
     ]
   ],
-  "old_day": 20
+  "old_day": 21
 }
