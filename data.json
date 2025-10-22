@@ -21989,7 +21989,9 @@
     "20:23  change in FLORIANOPOLIS-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/draws\n\n",
     "       Players added to the draw in FLORIANOPOLIS-125 DOUBLES:    \n\n",
     "       Players removed from the draw in FLORIANOPOLIS-125 DOUBLES:    \n\n",
-    "       1. Nicole Fossa Huergo / Tara Wuerth \n\n"
+    "       1. Nicole Fossa Huergo / Tara Wuerth \n\n",
+    "04:24  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n",
+    "04:24  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -29360,7 +29362,7 @@
           "players": []
         }
       ],
-      "2025-10-21"
+      "2025-10-22"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -29455,7 +29457,7 @@
           "players": []
         }
       ],
-      "2025-10-21"
+      "2025-10-22"
     ]
   },
   "torns": [
@@ -29480,5 +29482,5 @@
       2094
     ]
   ],
-  "old_day": 21
+  "old_day": 22
 }
