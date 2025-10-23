@@ -109,6 +109,94 @@
         0,
         "none"
       ]
+    ],
+    "HONG-KONG": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "JIUJIANG": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "CALI-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "CHENNAI": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -21998,7 +22086,417 @@
     "20:24  change in FLORIANOPOLIS-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/draws\n\n",
     "       Players added to the draw in FLORIANOPOLIS-125 DOUBLES:    \n\n",
     "       Players removed from the draw in FLORIANOPOLIS-125 DOUBLES:    \n\n",
-    "       1. Mayar Sherif / Panna Udvardy \n\n"
+    "       1. Mayar Sherif / Panna Udvardy \n\n",
+    "04:24  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n",
+    "04:24  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n",
+    "04:24  HONG-KONG SINGLES draw    \n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2025/draws\n\n",
+    "       Players added to the draw in HONG-KONG SINGLES:    \n\n",
+    "       1. JIA-JING LU \n",
+    "          LU, J\n\n",
+    "       2. ANASTASIJA SEVASTOVA \n",
+    "          SEVASTOVA, A\n\n",
+    "       3. AJLA TOMLJANOVIC \n",
+    "          TOMLJANOVIC, A\n\n",
+    "       4. ZARINA DIYAS \n",
+    "          DIYAS, Z\n\n",
+    "       5. YAFAN WANG \n",
+    "          WANG, Y\n\n",
+    "       6. ALIAKSANDRA SASNOVICH \n",
+    "          SASNOVICH, A\n\n",
+    "       7. MARIA SAKKARI \n",
+    "          SAKKARI, M\n\n",
+    "       8. HARUKA KAJI \n",
+    "          KAJI, H\n\n",
+    "       9. KATIE BOULTER \n",
+    "          BOULTER, K\n\n",
+    "       10. KYOKA OKAMURA \n",
+    "           OKAMURA, K\n\n",
+    "       11. JAQUELINE  CRISTIAN \n",
+    "           CRISTIAN, J\n\n",
+    "       12. SOFIA KENIN \n",
+    "           KENIN, S\n\n",
+    "       13. DALMA GALFI \n",
+    "           GALFI, D\n\n",
+    "       14. CRISTINA BUCSA \n",
+    "           BUCSA, C\n\n",
+    "       15. MADDISON INGLIS \n",
+    "           INGLIS, M\n\n",
+    "       16. YE-XIN MA \n",
+    "           MA, Y\n\n",
+    "       17. XIAODI YOU \n",
+    "           YOU, X\n\n",
+    "       18. ANASTASIA KULIKOVA \n",
+    "           KULIKOVA, A\n\n",
+    "       19. EMILY APPLETON \n",
+    "           APPLETON, E\n\n",
+    "       20. ANNA KALINSKAYA \n",
+    "           KALINSKAYA, A\n\n",
+    "       21. EMILIANA ARANGO \n",
+    "           ARANGO, E\n\n",
+    "       22. EN-SHUO LIANG \n",
+    "           LIANG, E\n\n",
+    "       23. SUZAN LAMENS \n",
+    "           LAMENS, S\n\n",
+    "       24. EVA LYS \n",
+    "           LYS, E\n\n",
+    "       25. VARVARA GRACHEVA \n",
+    "           GRACHEVA, V\n\n",
+    "       26. KAMILLA RAKHIMOVA \n",
+    "           RAKHIMOVA, K\n\n",
+    "       27. XIYU WANG \n",
+    "           WANG, X\n\n",
+    "       28. HIMENO SAKATSUME \n",
+    "           SAKATSUME, H\n\n",
+    "       29. MCCARTNEY KESSLER \n",
+    "           KESSLER, M\n\n",
+    "       30. LEYLAH FERNANDEZ \n",
+    "           FERNANDEZ, L\n\n",
+    "       31. MOYUKA UCHIJIMA \n",
+    "           UCHIJIMA, M\n\n",
+    "       32. VERONIKA ERJAVEC \n",
+    "           ERJAVEC, V\n\n",
+    "       33. HINA INOUE \n",
+    "           INOUE, H\n\n",
+    "       34. LEA MA \n",
+    "           MA, L\n\n",
+    "       35. TALIA GIBSON \n",
+    "           GIBSON, T\n\n",
+    "       36. ASHLYN KRUEGER \n",
+    "           KRUEGER, A\n\n",
+    "       37. ERIKA ANDREEVA \n",
+    "           ANDREEVA, E\n\n",
+    "       38. ALEXANDRA EALA \n",
+    "           EALA, A\n\n",
+    "       39. MAYA JOINT \n",
+    "           JOINT, M\n\n",
+    "       40. VICTORIA MBOKO \n",
+    "           MBOKO, V\n\n",
+    "       41. MIHO KURAMOCHI \n",
+    "           KURAMOCHI, M\n\n",
+    "04:24  HONG-KONG DOUBLES draw    \n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2025/draws\n\n",
+    "       Players added to the draw in HONG-KONG DOUBLES:    \n\n",
+    "       1. FANG-HSIEN WU / ERI HOZUMI \n",
+    "          WU, F/HOZUMI, E\n\n",
+    "       2. NADIIA KICHENOK / MAKOTO NINOMIYA \n",
+    "          KICHENOK, N/NINOMIYA, M\n\n",
+    "       3. NADIIA KOLB / MARYNA KOLB \n",
+    "          KOLB, N/KOLB, M\n\n",
+    "       4. SHUKO AOYAMA / CRISTINA BUCSA \n",
+    "          AOYAMA, S/BUCSA, C\n\n",
+    "       5. YAFAN WANG / XINYU JIANG \n",
+    "          WANG, Y/JIANG, X\n\n",
+    "       6. PEANGTARN PLIPUECH / MOMOKO KOBORI \n",
+    "          PLIPUECH, P/KOBORI, M\n\n",
+    "       7. EMILY APPLETON / QIANHUI TANG \n",
+    "          APPLETON, E/TANG, Q\n\n",
+    "       8. SHUO FENG / EN-SHUO LIANG \n",
+    "          FENG, S/LIANG, E\n\n",
+    "       9. EUDICE CHONG / HONG YI CODY WONG \n",
+    "          CHONG, E/WONG, H\n\n",
+    "       10. SABRINA SANTAMARIA / MOYUKA UCHIJIMA \n",
+    "           SANTAMARIA, S/UCHIJIMA, M\n\n",
+    "       11. HAO-CHING CHAN / ALEXANDRA EALA \n",
+    "           CHAN, H/EALA, A\n\n",
+    "04:24  JIUJIANG SINGLES draw    \n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/draws\n\n",
+    "       Players added to the draw in JIUJIANG SINGLES:    \n\n",
+    "       1. LAURA SIEGEMUND \n",
+    "          SIEGEMUND, L\n\n",
+    "       2. VIKTORIJA GOLUBIC \n",
+    "          GOLUBIC, V\n\n",
+    "       3. LIN ZHU \n",
+    "          ZHU, L\n\n",
+    "       4. YULIA PUTINTSEVA \n",
+    "          PUTINTSEVA, Y\n\n",
+    "       5. CHLOE PAQUET \n",
+    "          PAQUET, C\n\n",
+    "       6. TAMARA KORPATSCH \n",
+    "          KORPATSCH, T\n\n",
+    "       7. REBECCA SRAMKOVA \n",
+    "          SRAMKOVA, R\n\n",
+    "       8. WUSHUANG ZHENG \n",
+    "          ZHENG, W\n\n",
+    "       9. ENA SHIBAHARA \n",
+    "          SHIBAHARA, E\n\n",
+    "       10. XINYU GAO \n",
+    "           GAO, X\n\n",
+    "       11. ANNA BONDAR \n",
+    "           BONDAR, A\n\n",
+    "       12. HANYU GUO \n",
+    "           GUO, H\n\n",
+    "       13. CLAIRE LIU \n",
+    "           LIU, C\n\n",
+    "       14. ANNA BLINKOVA \n",
+    "           BLINKOVA, A\n\n",
+    "       15. YUE YUAN \n",
+    "           YUAN, Y\n\n",
+    "       16. KAJA JUVAN \n",
+    "           JUVAN, K\n\n",
+    "       17. YULIIA STARODUBTSEVA \n",
+    "           STARODUBTSEVA, Y\n\n",
+    "       18. CAMILA OSORIO \n",
+    "           OSORIO, C\n\n",
+    "       19. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       20. ANN LI \n",
+    "           LI, A\n\n",
+    "       21. ZHUOXUAN BAI \n",
+    "           BAI, Z\n\n",
+    "       22. ANASTASIA ZAKHAROVA \n",
+    "           ZAKHAROVA, A\n\n",
+    "       23. KATIE VOLYNETS \n",
+    "           VOLYNETS, K\n\n",
+    "       24. ELISABETTA COCCIARETTO \n",
+    "           COCCIARETTO, E\n\n",
+    "       25. SIJIA WEI \n",
+    "           WEI, S\n\n",
+    "       26. DARYA ASTAKHOVA \n",
+    "           ASTAKHOVA, D\n\n",
+    "       27. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       28. ALIONA FALEI \n",
+    "           FALEI, A\n\n",
+    "       29. CAROL YOUNG SUH LEE \n",
+    "           LEE, C\n\n",
+    "       30. HAN SHI \n",
+    "           SHI, H\n\n",
+    "       31. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       32. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       33. ELLA SEIDEL \n",
+    "           SEIDEL, E\n\n",
+    "       34. ELENA PRIDANKINA \n",
+    "           PRIDANKINA, E\n\n",
+    "       35. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "       36. ALINA KORNEEVA \n",
+    "           KORNEEVA, A\n\n",
+    "       37. LILLI TAGGER \n",
+    "           TAGGER, L\n\n",
+    "04:24  JIUJIANG DOUBLES draw    \n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/draws\n\n",
+    "       Players added to the draw in JIUJIANG DOUBLES:    \n\n",
+    "       1. EKATERINA OVCHARENKO / EMILY WEBLEY-SMITH \n",
+    "          OVCHARENKO, E/WEBLEY-SMITH, E\n\n",
+    "       2. KATARZYNA PITER / KRISTINA MLADENOVIC \n",
+    "          PITER, K/MLADENOVIC, K\n\n",
+    "       3. ELIXANE LECHEMIA / ALICIA BARNETT \n",
+    "          LECHEMIA, E/BARNETT, A\n\n",
+    "       4. MANA AYUKAWA / KANAKO MORISAKI \n",
+    "          AYUKAWA, M/MORISAKI, K\n\n",
+    "       5. ISABELLE HAVERLAG / MAIA LUMSDEN \n",
+    "          HAVERLAG, I/LUMSDEN, M\n\n",
+    "       6. WUSHUANG ZHENG / QIU YU YE \n",
+    "          ZHENG, W/YE, Q\n\n",
+    "       7. I-HSUAN CHO / YI-TSEN CHO \n",
+    "          CHO, I/CHO, Y\n\n",
+    "       8. ANNA BLINKOVA / POLINA KUDERMETOVA \n",
+    "          BLINKOVA, A/KUDERMETOVA, P\n\n",
+    "       9. ALINA KORNEEVA / DOMINIKA SALKOVA \n",
+    "          KORNEEVA, A/SALKOVA, D\n\n",
+    "       10. QUINN GLEASON / ELENA PRIDANKINA \n",
+    "           GLEASON, Q/PRIDANKINA, E\n\n",
+    "       11. YU-YUN LI / ZONGYU LI \n",
+    "           LI, Y/LI, Z\n\n",
+    "04:24  CALI-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/draws\n\n",
+    "       Players added to the draw in CALI-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. POLONA HERCOG \n",
+    "          HERCOG, P\n\n",
+    "       3. EKATERINE GORGODZE \n",
+    "          GORGODZE, E\n\n",
+    "       4. DESPINA PAPAMICHAIL \n",
+    "          PAPAMICHAIL, D\n\n",
+    "       5. MARTINA TREVISAN \n",
+    "          TREVISAN, M\n\n",
+    "       6. GABRIELA CE \n",
+    "          CE, G\n\n",
+    "       7. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       8. NICOLE FOSSA HUERGO \n",
+    "          FOSSA HUERGO, N\n\n",
+    "       9. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       10. VALERIYA STRAKHOVA \n",
+    "           STRAKHOVA, V\n\n",
+    "       11. CAROLINA ALVES \n",
+    "           ALVES, C\n\n",
+    "       12. GABRIELA LEE \n",
+    "           LEE, G\n\n",
+    "       13. JULIA GRABHER \n",
+    "           GRABHER, J\n\n",
+    "       14. MARTINA COLMEGNA \n",
+    "           COLMEGNA, M\n\n",
+    "       15. JESSICA PIERI \n",
+    "           PIERI, J\n\n",
+    "       16. KATARINA JOKIC \n",
+    "           JOKIC, K\n\n",
+    "       17. HANNA CHANG \n",
+    "           CHANG, H\n\n",
+    "       18. ALICIA HERRERO LINANA \n",
+    "           HERRERO LINANA, A\n\n",
+    "       19. MARTINA OKALOVA \n",
+    "           OKALOVA, M\n\n",
+    "       20. EVA VEDDER \n",
+    "           VEDDER, E\n\n",
+    "       21. SADA NAHIMANA \n",
+    "           NAHIMANA, S\n\n",
+    "       22. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       23. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       24. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       25. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       26. LEYRE ROMERO GORMAZ \n",
+    "           ROMERO GORMAZ, L\n\n",
+    "       27. TINA SMITH \n",
+    "           SMITH, T\n\n",
+    "       28. SINJA KRAUS \n",
+    "           KRAUS, S\n\n",
+    "       29. OLEKSANDRA OLIYNYKOVA \n",
+    "           OLIYNYKOVA, O\n\n",
+    "       30. JAZMIN ORTENZI \n",
+    "           ORTENZI, J\n\n",
+    "       31. JULIA RIERA \n",
+    "           RIERA, J\n\n",
+    "       32. ANNA ROGERS \n",
+    "           ROGERS, A\n\n",
+    "       33. SELENA JANICIJEVIC \n",
+    "           JANICIJEVIC, S\n\n",
+    "       34. TARA WUERTH \n",
+    "           WUERTH, T\n\n",
+    "       35. BARBORA PALICOVA \n",
+    "           PALICOVA, B\n\n",
+    "       36. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "       37. LUISINA GIOVANNINI \n",
+    "           GIOVANNINI, L\n\n",
+    "04:24  CALI-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/draws\n\n",
+    "       Players added to the draw in CALI-125 DOUBLES:    \n\n",
+    "       1. NICOLE FOSSA HUERGO / EKATERINE GORGODZE \n",
+    "          FOSSA HUERGO, N/GORGODZE, E\n\n",
+    "       2. MARIA PAULINA PEREZ GARCIA / YULIANA LIZARAZO \n",
+    "          PEREZ GARCIA, M/LIZARAZO, Y\n\n",
+    "       3. INGRID MARTINS / LAURA PIGOSSI \n",
+    "          MARTINS, I/PIGOSSI, L\n\n",
+    "       4. ANASTASIA ZOLOTAREVA / MARIANA DRAZIC \n",
+    "          ZOLOTAREVA, A/DRAZIC, M\n\n",
+    "       5. ALICIA HERRERO LINANA / VALERIYA STRAKHOVA \n",
+    "          HERRERO LINANA, A/STRAKHOVA, V\n\n",
+    "       6. JULIA RIERA / CAROLINA ALVES \n",
+    "          RIERA, J/ALVES, C\n\n",
+    "       7. ANDREA GAMIZ / EVA VEDDER \n",
+    "          GAMIZ, A/VEDDER, E\n\n",
+    "       8. CAROLE MONNET / SADA NAHIMANA \n",
+    "          MONNET, C/NAHIMANA, S\n\n",
+    "       9. MARTINA COLMEGNA / TINA SMITH \n",
+    "          COLMEGNA, M/SMITH, T\n\n",
+    "       10. REBECA PEREIRA / JAZMIN ORTENZI \n",
+    "           PEREIRA, R/ORTENZI, J\n\n",
+    "       11. MARIAN GOMEZ PEZUELA CANO / LUISINA GIOVANNINI \n",
+    "           GOMEZ PEZUELA CANO, M/GIOVANNINI, L\n\n",
+    "04:24  CHENNAI SINGLES draw    \n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/draws\n\n",
+    "       Players added to the draw in CHENNAI SINGLES:    \n\n",
+    "       1. TATJANA MARIA \n",
+    "          MARIA, T\n\n",
+    "       2. CAGLA BUYUKAKCAY \n",
+    "          BUYUKAKCAY, C\n\n",
+    "       3. ARINA RODIONOVA \n",
+    "          RODIONOVA, A\n\n",
+    "       4. DALILA JAKUPOVIC \n",
+    "          JAKUPOVIC, D\n\n",
+    "       5. KATARZYNA KAWA \n",
+    "          KAWA, K\n\n",
+    "       6. STORM HUNTER \n",
+    "          HUNTER, S\n\n",
+    "       7. DONNA VEKIC \n",
+    "          VEKIC, D\n\n",
+    "       8. CAROLINE WERNER \n",
+    "          WERNER, C\n\n",
+    "       9. ASTRA SHARMA \n",
+    "          SHARMA, A\n\n",
+    "       10. NINA STOJANOVIC \n",
+    "           STOJANOVIC, N\n\n",
+    "       11. LIZETTE CABRERA \n",
+    "           CABRERA, L\n\n",
+    "       12. NAO HIBINO \n",
+    "           HIBINO, N\n\n",
+    "       13. LEOLIA JEANJEAN \n",
+    "           JEANJEAN, L\n\n",
+    "       14. KIMBERLY BIRRELL \n",
+    "           BIRRELL, K\n\n",
+    "       15. LUCIA BRONZETTI \n",
+    "           BRONZETTI, L\n\n",
+    "       16. LUCREZIA STEFANINI \n",
+    "           STEFANINI, L\n\n",
+    "       17. ARIANNE HARTONO \n",
+    "           HARTONO, A\n\n",
+    "       18. KARMAN THANDI \n",
+    "           THANDI, K\n\n",
+    "       19. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       20. LULU SUN \n",
+    "           SUN, L\n\n",
+    "       21. MAI HONTAMA \n",
+    "           HONTAMA, M\n\n",
+    "       22. MEI YAMAGUCHI \n",
+    "           YAMAGUCHI, M\n\n",
+    "       23. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       24. SAKI IMAMURA \n",
+    "           IMAMURA, S\n\n",
+    "       25. ZEYNEP SONMEZ \n",
+    "           SONMEZ, Z\n\n",
+    "       26. DIANE PARRY \n",
+    "           PARRY, D\n\n",
+    "       27. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       28. PRISKA NUGROHO \n",
+    "           NUGROHO, P\n\n",
+    "       29. JANICE TJEN \n",
+    "           TJEN, J\n\n",
+    "       30. MARIA TIMOFEEVA \n",
+    "           TIMOFEEVA, M\n\n",
+    "       31. ALINA CHARAEVA \n",
+    "           CHARAEVA, A\n\n",
+    "       32. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       33. LINDA FRUHVIRTOVA \n",
+    "           FRUHVIRTOVA, L\n\n",
+    "       34. LANLANA TARARUDEE \n",
+    "           TARARUDEE, L\n\n",
+    "       35. NIKOLA BARTUNKOVA \n",
+    "           BARTUNKOVA, N\n\n",
+    "       36. POLINA IATCENKO \n",
+    "           IATCENKO, P\n\n",
+    "       37. TATIANA PROZOROVA \n",
+    "           PROZOROVA, T\n\n",
+    "04:24  CHENNAI DOUBLES draw    \n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/draws\n\n",
+    "       Players added to the draw in CHENNAI DOUBLES:    \n\n",
+    "       1. NIKA RADISIC / DALILA JAKUPOVIC \n",
+    "          RADISIC, N/JAKUPOVIC, D\n\n",
+    "       2. SHRIVALLI BHAMIDIPATY / ANKITA RAINA \n",
+    "          BHAMIDIPATY, S/RAINA, A\n\n",
+    "       3. MONICA NICULESCU / STORM HUNTER \n",
+    "          NICULESCU, M/HUNTER, S\n\n",
+    "       4. JESSICA FAILLA / HIROKO KUWATA \n",
+    "          FAILLA, J/KUWATA, H\n\n",
+    "       5. RIYA BHATIA / RUTUJA BHOSALE \n",
+    "          BHATIA, R/BHOSALE, R\n\n",
+    "       6. EDEN SILVA / AMINA ANSHBA \n",
+    "          SILVA, E/ANSHBA, A\n\n",
+    "       7. PRARTHANA THOMBARE / ARIANNE HARTONO \n",
+    "          THOMBARE, P/HARTONO, A\n\n",
+    "       8. MADELEINE BROOKS / SAKI IMAMURA \n",
+    "          BROOKS, M/IMAMURA, S\n\n",
+    "       9. SOFYA LANSERE / PRISKA NUGROHO \n",
+    "          LANSERE, S/NUGROHO, P\n\n",
+    "       10. ALDILA SUTJIADI / JANICE TJEN \n",
+    "           SUTJIADI, A/TJEN, J\n\n",
+    "       11. EKATERINA YASHINA / TATIANA PROZOROVA \n",
+    "           YASHINA, E/PROZOROVA, T\n\n"
   ],
   "sits": {
     "ROME": [
@@ -29369,7 +29867,7 @@
           "players": []
         }
       ],
-      "2025-10-22"
+      "2025-10-23"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -29463,7 +29961,363 @@
           "players": []
         }
       ],
-      "2025-10-22"
+      "2025-10-23"
+    ],
+    "HONG-KONG": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        41,
+        {
+          "players": [
+            "JIA-JING LU",
+            "ANASTASIJA SEVASTOVA",
+            "AJLA TOMLJANOVIC",
+            "ZARINA DIYAS",
+            "YAFAN WANG",
+            "ALIAKSANDRA SASNOVICH",
+            "MARIA SAKKARI",
+            "HARUKA KAJI",
+            "KATIE BOULTER",
+            "KYOKA OKAMURA",
+            "JAQUELINE  CRISTIAN",
+            "SOFIA KENIN",
+            "DALMA GALFI",
+            "CRISTINA BUCSA",
+            "MADDISON INGLIS",
+            "YE-XIN MA",
+            "XIAODI YOU",
+            "ANASTASIA KULIKOVA",
+            "EMILY APPLETON",
+            "ANNA KALINSKAYA",
+            "EMILIANA ARANGO",
+            "EN-SHUO LIANG",
+            "SUZAN LAMENS",
+            "EVA LYS",
+            "VARVARA GRACHEVA",
+            "KAMILLA RAKHIMOVA",
+            "XIYU WANG",
+            "HIMENO SAKATSUME",
+            "MCCARTNEY KESSLER",
+            "LEYLAH FERNANDEZ",
+            "MOYUKA UCHIJIMA",
+            "VERONIKA ERJAVEC",
+            "HINA INOUE",
+            "LEA MA",
+            "TALIA GIBSON",
+            "ASHLYN KRUEGER",
+            "ERIKA ANDREEVA",
+            "ALEXANDRA EALA",
+            "MAYA JOINT",
+            "VICTORIA MBOKO",
+            "MIHO KURAMOCHI"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "FANG-HSIEN WU / ERI HOZUMI",
+            "NADIIA KICHENOK / MAKOTO NINOMIYA",
+            "NADIIA KOLB / MARYNA KOLB",
+            "SHUKO AOYAMA / CRISTINA BUCSA",
+            "YAFAN WANG / XINYU JIANG",
+            "PEANGTARN PLIPUECH / MOMOKO KOBORI",
+            "EMILY APPLETON / QIANHUI TANG",
+            "SHUO FENG / EN-SHUO LIANG",
+            "EUDICE CHONG / HONG YI CODY WONG",
+            "SABRINA SANTAMARIA / MOYUKA UCHIJIMA",
+            "HAO-CHING CHAN / ALEXANDRA EALA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "JIUJIANG": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "LAURA SIEGEMUND",
+            "VIKTORIJA GOLUBIC",
+            "LIN ZHU",
+            "YULIA PUTINTSEVA",
+            "CHLOE PAQUET",
+            "TAMARA KORPATSCH",
+            "REBECCA SRAMKOVA",
+            "WUSHUANG ZHENG",
+            "ENA SHIBAHARA",
+            "XINYU GAO",
+            "ANNA BONDAR",
+            "HANYU GUO",
+            "CLAIRE LIU",
+            "ANNA BLINKOVA",
+            "YUE YUAN",
+            "KAJA JUVAN",
+            "YULIIA STARODUBTSEVA",
+            "CAMILA OSORIO",
+            "ALYCIA PARKS",
+            "ANN LI",
+            "ZHUOXUAN BAI",
+            "ANASTASIA ZAKHAROVA",
+            "KATIE VOLYNETS",
+            "ELISABETTA COCCIARETTO",
+            "SIJIA WEI",
+            "DARYA ASTAKHOVA",
+            "POLINA KUDERMETOVA",
+            "ALIONA FALEI",
+            "CAROL YOUNG SUH LEE",
+            "HAN SHI",
+            "DOMINIKA SALKOVA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "ELLA SEIDEL",
+            "ELENA PRIDANKINA",
+            "TIANTSOA RAKOTOMANGA RAJAONAH",
+            "ALINA KORNEEVA",
+            "LILLI TAGGER"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "EKATERINA OVCHARENKO / EMILY WEBLEY-SMITH",
+            "KATARZYNA PITER / KRISTINA MLADENOVIC",
+            "ELIXANE LECHEMIA / ALICIA BARNETT",
+            "MANA AYUKAWA / KANAKO MORISAKI",
+            "ISABELLE HAVERLAG / MAIA LUMSDEN",
+            "WUSHUANG ZHENG / QIU YU YE",
+            "I-HSUAN CHO / YI-TSEN CHO",
+            "ANNA BLINKOVA / POLINA KUDERMETOVA",
+            "ALINA KORNEEVA / DOMINIKA SALKOVA",
+            "QUINN GLEASON / ELENA PRIDANKINA",
+            "YU-YUN LI / ZONGYU LI"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "CALI-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "POLONA HERCOG",
+            "EKATERINE GORGODZE",
+            "DESPINA PAPAMICHAIL",
+            "MARTINA TREVISAN",
+            "GABRIELA CE",
+            "LAURA PIGOSSI",
+            "NICOLE FOSSA HUERGO",
+            "MAYAR SHERIF",
+            "VALERIYA STRAKHOVA",
+            "CAROLINA ALVES",
+            "GABRIELA LEE",
+            "JULIA GRABHER",
+            "MARTINA COLMEGNA",
+            "JESSICA PIERI",
+            "KATARINA JOKIC",
+            "HANNA CHANG",
+            "ALICIA HERRERO LINANA",
+            "MARTINA OKALOVA",
+            "EVA VEDDER",
+            "SADA NAHIMANA",
+            "MAJA CHWALINSKA",
+            "SIMONA WALTERT",
+            "PANNA UDVARDY",
+            "CAROLE MONNET",
+            "LEYRE ROMERO GORMAZ",
+            "TINA SMITH",
+            "SINJA KRAUS",
+            "OLEKSANDRA OLIYNYKOVA",
+            "JAZMIN ORTENZI",
+            "JULIA RIERA",
+            "ANNA ROGERS",
+            "SELENA JANICIJEVIC",
+            "TARA WUERTH",
+            "BARBORA PALICOVA",
+            "SARA BEJLEK",
+            "LUISINA GIOVANNINI"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "NICOLE FOSSA HUERGO / EKATERINE GORGODZE",
+            "MARIA PAULINA PEREZ GARCIA / YULIANA LIZARAZO",
+            "INGRID MARTINS / LAURA PIGOSSI",
+            "ANASTASIA ZOLOTAREVA / MARIANA DRAZIC",
+            "ALICIA HERRERO LINANA / VALERIYA STRAKHOVA",
+            "JULIA RIERA / CAROLINA ALVES",
+            "ANDREA GAMIZ / EVA VEDDER",
+            "CAROLE MONNET / SADA NAHIMANA",
+            "MARTINA COLMEGNA / TINA SMITH",
+            "REBECA PEREIRA / JAZMIN ORTENZI",
+            "MARIAN GOMEZ PEZUELA CANO / LUISINA GIOVANNINI"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "CHENNAI": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "TATJANA MARIA",
+            "CAGLA BUYUKAKCAY",
+            "ARINA RODIONOVA",
+            "DALILA JAKUPOVIC",
+            "KATARZYNA KAWA",
+            "STORM HUNTER",
+            "DONNA VEKIC",
+            "CAROLINE WERNER",
+            "ASTRA SHARMA",
+            "NINA STOJANOVIC",
+            "LIZETTE CABRERA",
+            "NAO HIBINO",
+            "LEOLIA JEANJEAN",
+            "KIMBERLY BIRRELL",
+            "LUCIA BRONZETTI",
+            "LUCREZIA STEFANINI",
+            "ARIANNE HARTONO",
+            "KARMAN THANDI",
+            "FRANCESCA JONES",
+            "LULU SUN",
+            "MAI HONTAMA",
+            "MEI YAMAGUCHI",
+            "JOANNA GARLAND",
+            "SAKI IMAMURA",
+            "ZEYNEP SONMEZ",
+            "DIANE PARRY",
+            "ELINA AVANESYAN",
+            "PRISKA NUGROHO",
+            "JANICE TJEN",
+            "MARIA TIMOFEEVA",
+            "ALINA CHARAEVA",
+            "DARJA SEMENISTAJA",
+            "LINDA FRUHVIRTOVA",
+            "LANLANA TARARUDEE",
+            "NIKOLA BARTUNKOVA",
+            "POLINA IATCENKO",
+            "TATIANA PROZOROVA"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "NIKA RADISIC / DALILA JAKUPOVIC",
+            "SHRIVALLI BHAMIDIPATY / ANKITA RAINA",
+            "MONICA NICULESCU / STORM HUNTER",
+            "JESSICA FAILLA / HIROKO KUWATA",
+            "RIYA BHATIA / RUTUJA BHOSALE",
+            "EDEN SILVA / AMINA ANSHBA",
+            "PRARTHANA THOMBARE / ARIANNE HARTONO",
+            "MADELEINE BROOKS / SAKI IMAMURA",
+            "SOFYA LANSERE / PRISKA NUGROHO",
+            "ALDILA SUTJIADI / JANICE TJEN",
+            "EKATERINA YASHINA / TATIANA PROZOROVA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -29486,7 +30340,23 @@
     [
       "FLORIANOPOLIS-125",
       2094
+    ],
+    [
+      "HONG-KONG",
+      1074
+    ],
+    [
+      "JIUJIANG",
+      1077
+    ],
+    [
+      "CALI-125",
+      1110
+    ],
+    [
+      "CHENNAI",
+      1148
     ]
   ],
-  "old_day": 22
+  "old_day": 23
 }
