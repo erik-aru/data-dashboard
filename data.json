@@ -22624,7 +22624,12 @@
     "           Yashina, E\n\n",
     "       16. Priska Nugroho \n",
     "           Nugroho, P\n\n",
-    "12:44  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n"
+    "12:44  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n",
+    "20:22  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/order-of-play\n\n",
+    "20:22  change in CHENNAI QUALS \u2605   \n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/draws\n\n",
+    "       Players added to the draw in CHENNAI QUALS:    \n\n",
+    "       Players removed from the draw in CHENNAI QUALS:    \n\n",
+    "       1. Nao Hibino \n\n"
   ],
   "sits": {
     "ROME": [
@@ -29903,7 +29908,7 @@
           "players": []
         }
       ],
-      "2025-10-24"
+      "2025-10-25"
     ],
     "QUERETARO-125": [
       [
@@ -30404,10 +30409,9 @@
     "CHENNAI": [
       [
         0,
-        16,
+        15,
         {
           "players": [
-            "Nao Hibino",
             "Thasaporn Naklo",
             "Riya Bhatia",
             "Caroline Werner",
