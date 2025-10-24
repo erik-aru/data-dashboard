@@ -22499,7 +22499,9 @@
     "           YASHINA, E/PROZOROVA, T\n\n",
     "12:45  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2025/order-of-play\n\n",
     "12:45  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2025/order-of-play\n\n",
-    "20:22  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/order-of-play\n\n"
+    "20:22  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2025/order-of-play\n\n",
+    "04:24  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n",
+    "04:24  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -29870,7 +29872,7 @@
           "players": []
         }
       ],
-      "2025-10-23"
+      "2025-10-24"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -29964,7 +29966,7 @@
           "players": []
         }
       ],
-      "2025-10-23"
+      "2025-10-24"
     ],
     "HONG-KONG": [
       [
@@ -30361,5 +30363,5 @@
       1148
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
