@@ -22629,7 +22629,14 @@
     "20:22  change in CHENNAI QUALS \u2605   \n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/draws\n\n",
     "       Players added to the draw in CHENNAI QUALS:    \n\n",
     "       Players removed from the draw in CHENNAI QUALS:    \n\n",
-    "       1. Nao Hibino \n\n"
+    "       1. Nao Hibino \n\n",
+    "04:23  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n",
+    "04:23  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n",
+    "04:23  change in HONG-KONG QUALS \u2605   \n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2025/draws\n\n       Players added to the draw in HONG-KONG QUALS:    \n\n",
+    "       1. Amy Zhu \n",
+    "          Zhu, A\n\n",
+    "       Players removed from the draw in HONG-KONG QUALS:    \n\n",
+    "       1. En-Shuo Liang \n\n"
   ],
   "sits": {
     "ROME": [
@@ -30000,7 +30007,7 @@
           "players": []
         }
       ],
-      "2025-10-24"
+      "2025-10-25"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -30094,7 +30101,7 @@
           "players": []
         }
       ],
-      "2025-10-24"
+      "2025-10-25"
     ],
     "HONG-KONG": [
       [
@@ -30117,7 +30124,7 @@
             "Ye-Xin Ma",
             "Yuyao Li",
             "Nadiya Kolb",
-            "En-Shuo Liang",
+            "Amy Zhu",
             "Haruka Kaji",
             "Kallista Liu",
             "Kristiana Sidorova",
@@ -30549,5 +30556,5 @@
       1148
     ]
   ],
-  "old_day": 24
+  "old_day": 25
 }
