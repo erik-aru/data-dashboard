@@ -23063,7 +23063,81 @@
     "           Leon, S\n\n",
     "       14. Noelia Zeballos \n",
     "           Zeballos, N\n\n",
-    "04:23  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/order-of-play\n\n"
+    "04:23  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/order-of-play\n\n",
+    "12:38  change in HONG-KONG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2025/draws\n\n",
+    "       Players added to the draw in HONG-KONG SINGLES:    \n\n",
+    "       1. Maddison Inglis \n",
+    "          Inglis, M\n\n",
+    "       2. Ye-Xin Ma \n",
+    "          Ma, Y\n\n",
+    "       3. Himeno Sakatsume \n",
+    "          Sakatsume, H\n\n",
+    "       4. Viktoria Morvayova \n",
+    "          Morvayova, V\n\n",
+    "       5. Momoko Kobori \n",
+    "          Kobori, M\n\n",
+    "       6. Kristiana Sidorova \n",
+    "          Sidorova, K\n\n",
+    "12:38  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2025/order-of-play\n\n",
+    "12:38  change in JIUJIANG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/draws\n\n",
+    "       Players added to the draw in JIUJIANG SINGLES:    \n\n",
+    "       1. Hanyu Guo \n",
+    "          Guo, H\n\n",
+    "       2. Aliona Falei \n",
+    "          Falei, A\n\n",
+    "       3. Chloe Paquet \n",
+    "          Paquet, C\n\n",
+    "       4. Elena Pridankina \n",
+    "          Pridankina, E\n\n",
+    "       5. Rina Saigo \n",
+    "          Saigo, R\n\n",
+    "12:38  change in JIUJIANG DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/draws\n\n",
+    "       Players added to the draw in JIUJIANG DOUBLES:    \n\n",
+    "       1. Yifan Xu / Zhaoxuan Yang \n",
+    "          Xu, Y/Yang, Z\n\n",
+    "       2. Carol Young Suh Lee / Tiantsoa Rakotomanga Rajaonah \n",
+    "          Lee, C/Rakotomanga Rajaonah, T\n\n",
+    "       3. Qiu Yu Ye / Wushuang Zheng \n",
+    "          Ye, Q/Zheng, W\n\n",
+    "       4. Alina Korneeva / Dominika Salkova \n",
+    "          Korneeva, A/Salkova, D\n\n",
+    "       5. Quinn Gleason / Elena Pridankina \n",
+    "          Gleason, Q/Pridankina, E\n\n",
+    "       6. Yu-Yun Li / Zongyu Li \n",
+    "          Li, Y/Li, Z\n\n",
+    "       7. Han Shi / Xinxin Yao \n",
+    "          Shi, H/Yao, X\n\n",
+    "       8. Zhuoxuan Bai / Yujia Huang \n",
+    "          Bai, Z/Huang, Y\n\n",
+    "       9. Alicia Barnett / Elixane Lechemia \n",
+    "          Barnett, A/Lechemia, E\n\n",
+    "       10. Mana Ayukawa / Kanako Morisaki \n",
+    "           Ayukawa, M/Morisaki, K\n\n",
+    "       11. Anna Blinkova / Polina Kudermetova \n",
+    "           Blinkova, A/Kudermetova, P\n\n",
+    "       12. Isabelle Haverlag / Maia Lumsden \n",
+    "           Haverlag, I/Lumsden, M\n\n",
+    "       13. Yanan Hou / Chenting Zhu \n",
+    "           Hou, Y/Zhu, C\n\n",
+    "       14. Ekaterina Ovcharenko / Emily Webley-Smith \n",
+    "           Ovcharenko, E/Webley-Smith, E\n\n",
+    "       15. I-Hsuan Cho / Yi-Tsen Cho \n",
+    "           Cho, I/Cho, Y\n\n",
+    "       16. Kristina Mladenovic / Katarzyna Piter \n",
+    "           Mladenovic, K/Piter, K\n\n",
+    "       Players removed from the draw in JIUJIANG DOUBLES:    \n\n",
+    "       1. EKATERINA OVCHARENKO / EMILY WEBLEY-SMITH \n\n",
+    "       2. KATARZYNA PITER / KRISTINA MLADENOVIC \n\n",
+    "       3. ELIXANE LECHEMIA / ALICIA BARNETT \n\n",
+    "       4. MANA AYUKAWA / KANAKO MORISAKI \n\n",
+    "       5. ISABELLE HAVERLAG / MAIA LUMSDEN \n\n",
+    "       6. WUSHUANG ZHENG / QIU YU YE \n\n",
+    "       7. I-HSUAN CHO / YI-TSEN CHO \n\n",
+    "       8. ANNA BLINKOVA / POLINA KUDERMETOVA \n\n",
+    "       9. ALINA KORNEEVA / DOMINIKA SALKOVA \n\n",
+    "       10. QUINN GLEASON / ELENA PRIDANKINA \n\n",
+    "       11. YU-YUN LI / ZONGYU LI \n\n",
+    "12:38  OOP in JIUJIANG appeared \u2605\n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -30565,19 +30639,23 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Belinda Bencic",
             "Aliaksandra Sasnovich",
+            "Maddison Inglis",
             "Yafan Wang",
             "Cristina Bucsa",
+            "Ye-Xin Ma",
             "Moyuka Uchijima",
             "Emiliana Arango",
             "Sofia Kenin",
+            "Himeno Sakatsume",
             "Eudice Chong",
             "Suzan Lamens",
             "Hong Yi Cody Wong",
+            "Viktoria Morvayova",
             "Anastasija Sevastova",
             "Maya Joint",
             "Anna Kalinskaya",
@@ -30590,7 +30668,9 @@
             "Victoria Mboko",
             "Sorana Cirstea",
             "Dalma Galfi",
+            "Momoko Kobori",
             "Ajla Tomljanovic",
+            "Kristiana Sidorova",
             "Eva Lys",
             "Xiyu Wang",
             "Leylah Fernandez"
@@ -30635,7 +30715,7 @@
           "players": []
         }
       ],
-      "2025-10-26"
+      "2025-10-27"
     ],
     "JIUJIANG": [
       [
@@ -30664,13 +30744,15 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Ann Li",
             "Zhuoxuan Bai",
+            "Hanyu Guo",
             "Alina Korneeva",
             "Dominika Salkova",
+            "Aliona Falei",
             "Ena Shibahara",
             "Anastasia Zakharova",
             "Alycia Parks",
@@ -30678,6 +30760,7 @@
             "Kaja Juvan",
             "Claire Liu",
             "Anna Blinkova",
+            "Chloe Paquet",
             "Sijia Wei",
             "Anna Bondar",
             "Camila Osorio",
@@ -30693,26 +30776,33 @@
             "Wushuang Zheng",
             "Yuliia Starodubtseva",
             "Yue Yuan",
+            "Elena Pridankina",
+            "Rina Saigo",
             "Viktorija Golubic"
           ]
         }
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "EKATERINA OVCHARENKO / EMILY WEBLEY-SMITH",
-            "KATARZYNA PITER / KRISTINA MLADENOVIC",
-            "ELIXANE LECHEMIA / ALICIA BARNETT",
-            "MANA AYUKAWA / KANAKO MORISAKI",
-            "ISABELLE HAVERLAG / MAIA LUMSDEN",
-            "WUSHUANG ZHENG / QIU YU YE",
-            "I-HSUAN CHO / YI-TSEN CHO",
-            "ANNA BLINKOVA / POLINA KUDERMETOVA",
-            "ALINA KORNEEVA / DOMINIKA SALKOVA",
-            "QUINN GLEASON / ELENA PRIDANKINA",
-            "YU-YUN LI / ZONGYU LI"
+            "Yifan Xu / Zhaoxuan Yang",
+            "Carol Young Suh Lee / Tiantsoa Rakotomanga Rajaonah",
+            "Qiu Yu Ye / Wushuang Zheng",
+            "Alina Korneeva / Dominika Salkova",
+            "Quinn Gleason / Elena Pridankina",
+            "Yu-Yun Li / Zongyu Li",
+            "Han Shi / Xinxin Yao",
+            "Zhuoxuan Bai / Yujia Huang",
+            "Alicia Barnett / Elixane Lechemia",
+            "Mana Ayukawa / Kanako Morisaki",
+            "Anna Blinkova / Polina Kudermetova",
+            "Isabelle Haverlag / Maia Lumsden",
+            "Yanan Hou / Chenting Zhu",
+            "Ekaterina Ovcharenko / Emily Webley-Smith",
+            "I-Hsuan Cho / Yi-Tsen Cho",
+            "Kristina Mladenovic / Katarzyna Piter"
           ]
         }
       ],
@@ -30730,7 +30820,7 @@
           "players": []
         }
       ],
-      "2025-10-26"
+      "2025-10-27"
     ],
     "CALI-125": [
       [
