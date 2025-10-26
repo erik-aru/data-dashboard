@@ -23030,7 +23030,40 @@
     "       9. SOFYA LANSERE / PRISKA NUGROHO \n\n",
     "       10. ALDILA SUTJIADI / JANICE TJEN \n\n",
     "       11. EKATERINA YASHINA / TATIANA PROZOROVA \n\n",
-    "20:21  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n"
+    "20:21  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n",
+    "04:23  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2025/order-of-play\n\n",
+    "04:23  OOP in FLORIANOPOLIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2094/FLORIANOPOLIS-125/2025/order-of-play\n\n",
+    "04:23  CALI-125 QUALS draw    \n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/draws\n\n",
+    "       Players added to the draw in CALI-125 QUALS:    \n\n",
+    "       1. Katarina Jokic \n",
+    "          Jokic, K\n\n",
+    "       2. Isabella Ascencio Jaramillo \n",
+    "          Ascencio Jaramillo, I\n\n",
+    "       3. Antonia Vergara Rivera \n",
+    "          Vergara Rivera, A\n\n",
+    "       4. Anastasia Zolotareva \n",
+    "          Zolotareva, A\n\n",
+    "       5. Rebeca Pereira \n",
+    "          Pereira, R\n\n",
+    "       6. Gergana Topalova \n",
+    "          Topalova, G\n\n",
+    "       7. Martina Okalova \n",
+    "          Okalova, M\n\n",
+    "       8. Maria Jose Sanchez Uribe \n",
+    "          Sanchez Uribe, M\n\n",
+    "       9. Maria Isabel Suarez \n",
+    "          Suarez, M\n\n",
+    "       10. Carla Markus \n",
+    "           Markus, C\n\n",
+    "       11. Ana Candiotto \n",
+    "           Candiotto, A\n\n",
+    "       12. Mariana Isabel Higuita Barraza \n",
+    "           Higuita Barraza, M\n\n",
+    "       13. Sabastiani Leon \n",
+    "           Leon, S\n\n",
+    "       14. Noelia Zeballos \n",
+    "           Zeballos, N\n\n",
+    "04:23  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -30401,7 +30434,7 @@
           "players": []
         }
       ],
-      "2025-10-25"
+      "2025-10-26"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -30495,7 +30528,7 @@
           "players": []
         }
       ],
-      "2025-10-25"
+      "2025-10-26"
     ],
     "HONG-KONG": [
       [
@@ -30702,9 +30735,24 @@
     "CALI-125": [
       [
         0,
-        0,
+        14,
         {
-          "players": []
+          "players": [
+            "Katarina Jokic",
+            "Isabella Ascencio Jaramillo",
+            "Antonia Vergara Rivera",
+            "Anastasia Zolotareva",
+            "Rebeca Pereira",
+            "Gergana Topalova",
+            "Martina Okalova",
+            "Maria Jose Sanchez Uribe",
+            "Maria Isabel Suarez",
+            "Carla Markus",
+            "Ana Candiotto",
+            "Mariana Isabel Higuita Barraza",
+            "Sabastiani Leon",
+            "Noelia Zeballos"
+          ]
         }
       ],
       [
@@ -30785,7 +30833,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-10-26"
     ],
     "CHENNAI": [
       [
@@ -30925,5 +30973,5 @@
       1148
     ]
   ],
-  "old_day": 25
+  "old_day": 26
 }
