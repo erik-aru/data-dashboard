@@ -1,115 +1,5 @@
 {
   "kuits": {
-    "GUANGZHOU": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "TOKYO": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "ROVERETO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "QUERETARO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "FLORIANOPOLIS-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "HONG-KONG": [
       [
         0,
@@ -23295,7 +23185,8 @@
     "       Players removed from the draw in CHENNAI SINGLES:    \n\n",
     "       1. Lucrezia Stefanini \n\n",
     "       2. Lulu Sun \n\n",
-    "20:21  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n"
+    "20:21  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n",
+    "04:30  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31075,7 +30966,7 @@
           "players": []
         }
       ],
-      "2025-10-26"
+      "2025-10-27"
     ],
     "CHENNAI": [
       [
@@ -31184,26 +31075,6 @@
   },
   "torns": [
     [
-      "GUANGZHOU",
-      1023
-    ],
-    [
-      "TOKYO",
-      1056
-    ],
-    [
-      "ROVERETO-125",
-      1140
-    ],
-    [
-      "QUERETARO-125",
-      1145
-    ],
-    [
-      "FLORIANOPOLIS-125",
-      2094
-    ],
-    [
       "HONG-KONG",
       1074
     ],
@@ -31220,5 +31091,5 @@
       1148
     ]
   ],
-  "old_day": 26
+  "old_day": 27
 }
