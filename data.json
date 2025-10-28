@@ -23234,7 +23234,44 @@
     "          Markus, C\n\n",
     "04:24  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/order-of-play\n\n",
     "12:43  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2025/order-of-play\n\n",
-    "12:43  OOP in JIUJIANG appeared \u2605\n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/order-of-play\n\n"
+    "12:43  OOP in JIUJIANG appeared \u2605\n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/order-of-play\n\n",
+    "20:24  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n",
+    "20:24  NEW draw in WTA-FINALS SINGLES \u2605    \n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/draws\n\n",
+    "       Players added to the draw in WTA-FINALS SINGLES:    \n\n",
+    "       1. Aryna Sabalenka \n",
+    "          Sabalenka, A\n\n",
+    "       2. Coco Gauff \n",
+    "          Gauff, C\n\n",
+    "       3. Jessica Pegula \n",
+    "          Pegula, J\n\n",
+    "       4. Jasmine Paolini \n",
+    "          Paolini, J\n\n",
+    "       5. Iga Swiatek \n",
+    "          Swiatek, I\n\n",
+    "       6. Amanda Anisimova \n",
+    "          Anisimova, A\n\n",
+    "       7. Elena Rybakina \n",
+    "          Rybakina, E\n\n",
+    "       8. Madison Keys \n",
+    "          Keys, M\n\n",
+    "20:24  NEW draw in WTA-FINALS DOUBLES \u2605    \n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/draws\n\n",
+    "       Players added to the draw in WTA-FINALS DOUBLES:    \n\n",
+    "       1. Sara Errani / Jasmine Paolini \n",
+    "          Errani, S/Paolini, J\n\n",
+    "       2. Veronika Kudermetova / Elise Mertens \n",
+    "          Kudermetova, V/Mertens, E\n\n",
+    "       3. Su-Wei Hsieh / Jelena Ostapenko \n",
+    "          Hsieh, S/Ostapenko, J\n\n",
+    "       4. Asia Muhammad / Demi Schuurs \n",
+    "          Muhammad, A/Schuurs, D\n\n",
+    "       5. Katerina Siniakova / Taylor Townsend \n",
+    "          Siniakova, K/Townsend, T\n\n",
+    "       6. Gabriela Dabrowski / Erin Routliffe \n",
+    "          Dabrowski, G/Routliffe, E\n\n",
+    "       7. Mirra Andreeva / Diana Shnaider \n",
+    "          Andreeva, M/Shnaider, D\n\n",
+    "       8. Timea Babos / Luisa Stefani \n",
+    "          Babos, T/Stefani, L\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31121,7 +31158,7 @@
           "players": []
         }
       ],
-      "2025-10-28"
+      "2025-10-29"
     ],
     "WTA-FINALS": [
       [
@@ -31133,16 +31170,34 @@
       ],
       [
         1,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Aryna Sabalenka",
+            "Coco Gauff",
+            "Jessica Pegula",
+            "Jasmine Paolini",
+            "Iga Swiatek",
+            "Amanda Anisimova",
+            "Elena Rybakina",
+            "Madison Keys"
+          ]
         }
       ],
       [
         2,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Sara Errani / Jasmine Paolini",
+            "Veronika Kudermetova / Elise Mertens",
+            "Su-Wei Hsieh / Jelena Ostapenko",
+            "Asia Muhammad / Demi Schuurs",
+            "Katerina Siniakova / Taylor Townsend",
+            "Gabriela Dabrowski / Erin Routliffe",
+            "Mirra Andreeva / Diana Shnaider",
+            "Timea Babos / Luisa Stefani"
+          ]
         }
       ],
       [
