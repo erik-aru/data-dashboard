@@ -87,6 +87,28 @@
         0,
         "none"
       ]
+    ],
+    "WTA-FINALS": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -23197,7 +23219,20 @@
     "20:20  change in CALI-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/draws\n\n",
     "       Players added to the draw in CALI-125 SINGLES:    \n\n",
     "       Players removed from the draw in CALI-125 SINGLES:    \n\n",
-    "       1. Carole Monnet \n\n"
+    "       1. Carole Monnet \n\n",
+    "04:24  CALI-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/draws\n\n",
+    "       Players added to the draw in CALI-125 SINGLES:    \n\n",
+    "       1. Noelia Zeballos \n",
+    "          Zeballos, N\n\n",
+    "       2. Antonia Vergara Rivera \n",
+    "          Vergara Rivera, A\n\n",
+    "       3. Ana Candiotto \n",
+    "          Candiotto, A\n\n",
+    "       4. Anastasia Zolotareva \n",
+    "          Zolotareva, A\n\n",
+    "       5. Carla Markus \n",
+    "          Markus, C\n\n",
+    "04:24  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -30906,7 +30941,7 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Sara Bejlek",
@@ -30915,24 +30950,29 @@
             "Laura Pigossi",
             "Jessica Pieri",
             "Alicia Herrero Linana",
+            "Noelia Zeballos",
             "Julia Riera",
             "Panna Udvardy",
+            "Antonia Vergara Rivera",
             "Yuliana Lizarazo",
             "Maria Paulina Perez Garcia",
             "Despina Papamichail",
             "Valentina Mediorreal Arias",
+            "Ana Candiotto",
             "Varvara Lepchenko",
             "Sinja Kraus",
             "Luisina Giovannini",
             "Tina Smith",
             "Polona Hercog",
             "Nicole Fossa Huergo",
+            "Anastasia Zolotareva",
             "Selena Janicijevic",
             "Leyre Romero Gormaz",
             "Oleksandra Oliynykova",
             "Ekaterine Gorgodze",
             "Maria Torres Murcia",
             "Jazmin Ortenzi",
+            "Carla Markus",
             "Gabriela Lee",
             "Hanna Chang",
             "Julia Grabher"
@@ -30975,7 +31015,7 @@
           "players": []
         }
       ],
-      "2025-10-27"
+      "2025-10-28"
     ],
     "CHENNAI": [
       [
@@ -31080,6 +31120,44 @@
         }
       ],
       "2025-10-28"
+    ],
+    "WTA-FINALS": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        2,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -31098,7 +31176,11 @@
     [
       "CHENNAI",
       1148
+    ],
+    [
+      "WTA-FINALS",
+      808
     ]
   ],
-  "old_day": 27
+  "old_day": 28
 }
