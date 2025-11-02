@@ -44,28 +44,6 @@
         "none"
       ]
     ],
-    "CALI-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CHENNAI": [
       [
         0,
@@ -23456,7 +23434,8 @@
     "04:22  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/order-of-play\n\n",
     "12:38  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2025/order-of-play\n\n",
     "12:38  OOP in JIUJIANG appeared \u2605\n       https://www.wtatennis.com/tournament/1077/JIUJIANG/2025/order-of-play\n\n",
-    "20:19  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n"
+    "20:19  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2025/order-of-play\n\n",
+    "04:24  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31399,7 +31378,7 @@
           "players": []
         }
       ],
-      "2025-11-02"
+      "2025-11-03"
     ],
     "AUSTIN-125": [
       [
@@ -31547,10 +31526,6 @@
       1077
     ],
     [
-      "CALI-125",
-      1110
-    ],
-    [
       "CHENNAI",
       1148
     ],
@@ -31567,5 +31542,5 @@
       1151
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
