@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "HONG-KONG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "JIUJIANG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "CHENNAI": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "WTA-FINALS": [
       [
         0,
@@ -23539,7 +23473,108 @@
     "       7. Ana Candiotto \n",
     "          Candiotto, A\n\n",
     "       8. Maria Urrutia \n",
-    "          Urrutia, M\n\n"
+    "          Urrutia, M\n\n",
+    "04:29  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/order-of-play\n\n",
+    "04:29  AUSTIN-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/draws\n\n",
+    "       Players added to the draw in AUSTIN-125 SINGLES:    \n\n",
+    "       1. Iva Jovic \n",
+    "          Jovic, I\n\n",
+    "       2. Anna-Lena Friedsam \n",
+    "          Friedsam, A\n\n",
+    "       3. Cadence Brace \n",
+    "          Brace, C\n\n",
+    "       4. Anastasia Gasanova \n",
+    "          Gasanova, A\n\n",
+    "       5. Iryna Shymanovich \n",
+    "          Shymanovich, I\n\n",
+    "       6. Kayla Cross \n",
+    "          Cross, K\n\n",
+    "       7. Mary Stoiana \n",
+    "          Stoiana, M\n\n",
+    "       8. Darja Vidmanova \n",
+    "          Vidmanova, D\n\n",
+    "       9. Caroline Dolehide \n",
+    "          Dolehide, C\n\n",
+    "       10. Marina Stakusic \n",
+    "           Stakusic, M\n\n",
+    "       11. Jennifer Jackson \n",
+    "           Jackson, J\n\n",
+    "       12. Varvara Lepchenko \n",
+    "           Lepchenko, V\n\n",
+    "       13. Louisa Chirico \n",
+    "           Chirico, L\n\n",
+    "       14. Petra Marcinko \n",
+    "           Marcinko, P\n\n",
+    "       15. Arantxa Rus \n",
+    "           Rus, A\n\n",
+    "       16. Anna Rogers \n",
+    "           Rogers, A\n\n",
+    "       17. Elizabeth Mandlik \n",
+    "           Mandlik, E\n\n",
+    "       18. Mai Hontama \n",
+    "           Hontama, M\n\n",
+    "       19. Hina Inoue \n",
+    "           Inoue, H\n\n",
+    "       20. Renata Zarazua \n",
+    "           Zarazua, R\n\n",
+    "       21. Whitney Osuigwe \n",
+    "           Osuigwe, W\n\n",
+    "       22. Anouk Koevermans \n",
+    "           Koevermans, A\n\n",
+    "       23. Alana Smith \n",
+    "           Smith, A\n\n",
+    "       24. Carmen Andreea Herea \n",
+    "           Herea, C\n\n",
+    "       25. Himeno Sakatsume \n",
+    "           Sakatsume, H\n\n",
+    "       26. Julie Belgraver \n",
+    "           Belgraver, J\n\n",
+    "       27. Malaika Rapolu \n",
+    "           Rapolu, M\n\n",
+    "       28. Alycia Parks \n",
+    "           Parks, A\n\n",
+    "       Players removed from the draw in AUSTIN-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n\n",
+    "       2. ARANTXA RUS \n\n",
+    "       3. AJLA TOMLJANOVIC \n\n",
+    "       4. ANNA-LENA FRIEDSAM \n\n",
+    "       5. KATIE BOULTER \n\n",
+    "       6. LOUISA CHIRICO \n\n",
+    "       7. RENATA ZARAZUA \n\n",
+    "       8. IRYNA SHYMANOVICH \n\n",
+    "       9. CAROLINE DOLEHIDE \n\n",
+    "       10. KAYLA DAY \n\n",
+    "       11. CARSON BRANSTINE \n\n",
+    "       12. CATY MCNALLY \n\n",
+    "       13. ALYCIA PARKS \n\n",
+    "       14. WHITNEY OSUIGWE \n\n",
+    "       15. PEYTON STEARNS \n\n",
+    "       16. ANOUK KOEVERMANS \n\n",
+    "       17. DARJA VIDMANOVA \n\n",
+    "       18. DARJA SEMENISTAJA \n\n",
+    "       19. MARINA STAKUSIC \n\n",
+    "       20. PETRA MARCINKO \n\n",
+    "       21. HANNE VANDEWINKEL \n\n",
+    "04:29  AUSTIN-125 QUALS draw    \n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/draws\n\n",
+    "       Players added to the draw in AUSTIN-125 QUALS:    \n\n",
+    "       1. Claire Liu \n",
+    "          Liu, C\n\n",
+    "       2. Eszter Meri \n",
+    "          Meri, E\n\n",
+    "       3. Lia Karatancheva \n",
+    "          Karatancheva, L\n\n",
+    "       4. Mary Lewis \n",
+    "          Lewis, M\n\n",
+    "       5. Vivian Wolff \n",
+    "          Wolff, V\n\n",
+    "       6. Maria Kozyreva \n",
+    "          Kozyreva, M\n\n",
+    "       7. Emily Appleton \n",
+    "          Appleton, E\n\n",
+    "       8. Christasha McNeil \n",
+    "          McNeil, C\n\n",
+    "04:29  OOP in AUSTIN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/order-of-play\n\n",
+    "04:29  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31482,42 +31517,58 @@
           "players": []
         }
       ],
-      "2025-11-03"
+      "2025-11-04"
     ],
     "AUSTIN-125": [
       [
         0,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Claire Liu",
+            "Eszter Meri",
+            "Lia Karatancheva",
+            "Mary Lewis",
+            "Vivian Wolff",
+            "Maria Kozyreva",
+            "Emily Appleton",
+            "Christasha McNeil"
+          ]
         }
       ],
       [
         1,
-        21,
+        28,
         {
           "players": [
-            "VARVARA LEPCHENKO",
-            "ARANTXA RUS",
-            "AJLA TOMLJANOVIC",
-            "ANNA-LENA FRIEDSAM",
-            "KATIE BOULTER",
-            "LOUISA CHIRICO",
-            "RENATA ZARAZUA",
-            "IRYNA SHYMANOVICH",
-            "CAROLINE DOLEHIDE",
-            "KAYLA DAY",
-            "CARSON BRANSTINE",
-            "CATY MCNALLY",
-            "ALYCIA PARKS",
-            "WHITNEY OSUIGWE",
-            "PEYTON STEARNS",
-            "ANOUK KOEVERMANS",
-            "DARJA VIDMANOVA",
-            "DARJA SEMENISTAJA",
-            "MARINA STAKUSIC",
-            "PETRA MARCINKO",
-            "HANNE VANDEWINKEL"
+            "Iva Jovic",
+            "Anna-Lena Friedsam",
+            "Cadence Brace",
+            "Anastasia Gasanova",
+            "Iryna Shymanovich",
+            "Kayla Cross",
+            "Mary Stoiana",
+            "Darja Vidmanova",
+            "Caroline Dolehide",
+            "Marina Stakusic",
+            "Jennifer Jackson",
+            "Varvara Lepchenko",
+            "Louisa Chirico",
+            "Petra Marcinko",
+            "Arantxa Rus",
+            "Anna Rogers",
+            "Elizabeth Mandlik",
+            "Mai Hontama",
+            "Hina Inoue",
+            "Renata Zarazua",
+            "Whitney Osuigwe",
+            "Anouk Koevermans",
+            "Alana Smith",
+            "Carmen Andreea Herea",
+            "Himeno Sakatsume",
+            "Julie Belgraver",
+            "Malaika Rapolu",
+            "Alycia Parks"
           ]
         }
       ],
@@ -31547,7 +31598,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-11-03"
     ],
     "TUCUMAN-125": [
       [
@@ -31627,22 +31678,10 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-11-03"
     ]
   },
   "torns": [
-    [
-      "HONG-KONG",
-      1074
-    ],
-    [
-      "JIUJIANG",
-      1077
-    ],
-    [
-      "CHENNAI",
-      1148
-    ],
     [
       "WTA-FINALS",
       808
@@ -31656,5 +31695,5 @@
       1151
     ]
   ],
-  "old_day": 2
+  "old_day": 3
 }
