@@ -23597,7 +23597,57 @@
     "          Topalova, G\n\n",
     "04:24  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/order-of-play\n\n",
     "04:24  OOP in AUSTIN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/order-of-play\n\n",
-    "04:24  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n"
+    "04:24  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n",
+    "20:24  change in AUSTIN-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/draws\n\n",
+    "       Players added to the draw in AUSTIN-125 DOUBLES:    \n\n",
+    "       1. Maria Kozyreva / Iryna Shymanovich \n",
+    "          Kozyreva, M/Shymanovich, I\n\n",
+    "       2. Catherine Harrison / Alana Smith \n",
+    "          Harrison, C/Smith, A\n\n",
+    "       3. Elizabeth Mandlik / Renata Zarazua \n",
+    "          Mandlik, E/Zarazua, R\n\n",
+    "       4. Anna-Lena Friedsam / Arantxa Rus \n",
+    "          Friedsam, A/Rus, A\n\n",
+    "       5. Jennifer Jackson / Mary Lewis \n",
+    "          Jackson, J/Lewis, M\n\n",
+    "       6. Carmen Corley / Ivana Corley \n",
+    "          Corley, C/Corley, I\n\n",
+    "       7. Louisa Chirico / Claire Liu \n",
+    "          Chirico, L/Liu, C\n\n",
+    "       8. Emily Appleton / Kayla Cross \n",
+    "          Appleton, E/Cross, K\n\n",
+    "       Players removed from the draw in AUSTIN-125 DOUBLES:    \n\n",
+    "       1. MARIA KOZYREVA / IRYNA SHYMANOVICH \n\n",
+    "       2. CATHERINE HARRISON / ALANA SMITH \n\n",
+    "       3. QUINN GLEASON / EMILY APPLETON \n\n",
+    "       4. IVANA CORLEY / CARMEN CORLEY \n\n",
+    "20:24  change in TUCUMAN-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/draws\n\n       Players added to the draw in TUCUMAN-125 SINGLES:    \n\n",
+    "       1. Gabriela Ce \n",
+    "          Ce, G\n\n",
+    "       Players removed from the draw in TUCUMAN-125 SINGLES:    \n\n",
+    "       1. Paula Ormaechea \n\n",
+    "20:24  change in TUCUMAN-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/draws\n\n",
+    "       Players added to the draw in TUCUMAN-125 DOUBLES:    \n\n",
+    "       1. Nicole Fossa Huergo / Ekaterine Gorgodze \n",
+    "          Fossa Huergo, N/Gorgodze, E\n\n",
+    "       2. Lian Tran / Anastasia Zolotareva \n",
+    "          Tran, L/Zolotareva, A\n\n",
+    "       3. Jessica Pieri / Tina Smith \n",
+    "          Pieri, J/Smith, T\n\n",
+    "       4. Jazmin Ortenzi / Julia Riera \n",
+    "          Ortenzi, J/Riera, J\n\n",
+    "       5. Carole Monnet / Laura Pigossi \n",
+    "          Monnet, C/Pigossi, L\n\n",
+    "       6. Carla Markus / Maria Urrutia \n",
+    "          Markus, C/Urrutia, M\n\n",
+    "       7. Luisina Giovannini / Marian Gomez Pezuela Cano \n",
+    "          Giovannini, L/Gomez Pezuela Cano, M\n\n",
+    "       8. Alicia Herrero Linana / Valeriya Strakhova \n",
+    "          Herrero Linana, A/Strakhova, V\n\n",
+    "       Players removed from the draw in TUCUMAN-125 DOUBLES:    \n\n",
+    "       1. JULIA RIERA / DESPINA PAPAMICHAIL \n\n",
+    "       2. EKATERINE GORGODZE / NICOLE FOSSA HUERGO \n\n",
+    "       3. LIAN TRAN / ANASTASIA ZOLOTAREVA \n\n"
   ],
   "sits": {
     "ROME": [
@@ -31601,13 +31651,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "MARIA KOZYREVA / IRYNA SHYMANOVICH",
-            "CATHERINE HARRISON / ALANA SMITH",
-            "QUINN GLEASON / EMILY APPLETON",
-            "IVANA CORLEY / CARMEN CORLEY"
+            "Maria Kozyreva / Iryna Shymanovich",
+            "Catherine Harrison / Alana Smith",
+            "Elizabeth Mandlik / Renata Zarazua",
+            "Anna-Lena Friedsam / Arantxa Rus",
+            "Jennifer Jackson / Mary Lewis",
+            "Carmen Corley / Ivana Corley",
+            "Louisa Chirico / Claire Liu",
+            "Emily Appleton / Kayla Cross"
           ]
         }
       ],
@@ -31677,7 +31731,7 @@
             "Gergana Topalova",
             "Valeriya Strakhova",
             "Julia Riera",
-            "Paula Ormaechea",
+            "Gabriela Ce",
             "Nicole Fossa Huergo",
             "Martina Capurro Taborda",
             "Simona Waltert"
@@ -31686,12 +31740,17 @@
       ],
       [
         2,
-        3,
+        8,
         {
           "players": [
-            "JULIA RIERA / DESPINA PAPAMICHAIL",
-            "EKATERINE GORGODZE / NICOLE FOSSA HUERGO",
-            "LIAN TRAN / ANASTASIA ZOLOTAREVA"
+            "Nicole Fossa Huergo / Ekaterine Gorgodze",
+            "Lian Tran / Anastasia Zolotareva",
+            "Jessica Pieri / Tina Smith",
+            "Jazmin Ortenzi / Julia Riera",
+            "Carole Monnet / Laura Pigossi",
+            "Carla Markus / Maria Urrutia",
+            "Luisina Giovannini / Marian Gomez Pezuela Cano",
+            "Alicia Herrero Linana / Valeriya Strakhova"
           ]
         }
       ],
