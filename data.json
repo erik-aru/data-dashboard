@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "WTA-FINALS": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "AUSTIN-125": [
       [
         0,
@@ -23658,7 +23636,9 @@
     "04:24  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n",
     "20:21  OOP in AUSTIN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/order-of-play\n\n",
     "04:23  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/order-of-play\n\n",
-    "04:23  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n"
+    "04:23  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n",
+    "04:24  OOP in AUSTIN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/order-of-play\n\n",
+    "04:24  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31690,7 +31670,7 @@
           "players": []
         }
       ],
-      "2025-11-08"
+      "2025-11-09"
     ],
     "TUCUMAN-125": [
       [
@@ -31779,14 +31759,10 @@
           "players": []
         }
       ],
-      "2025-11-08"
+      "2025-11-09"
     ]
   },
   "torns": [
-    [
-      "WTA-FINALS",
-      808
-    ],
     [
       "AUSTIN-125",
       1132
@@ -31796,5 +31772,5 @@
       1151
     ]
   ],
-  "old_day": 8
+  "old_day": 9
 }
