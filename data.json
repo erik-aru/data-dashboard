@@ -1,50 +1,5 @@
 {
-  "kuits": {
-    "AUSTIN-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "TUCUMAN-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ]
-  },
+  "kuits": {},
   "messages": [
     "12:00  ROME SINGLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
     "12:00  ROME DOUBLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
@@ -31762,15 +31717,6 @@
       "2025-11-09"
     ]
   },
-  "torns": [
-    [
-      "AUSTIN-125",
-      1132
-    ],
-    [
-      "TUCUMAN-125",
-      1151
-    ]
-  ],
-  "old_day": 9
+  "torns": [],
+  "old_day": 10
 }
