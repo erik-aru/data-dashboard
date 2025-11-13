@@ -1,5 +1,28 @@
 {
-  "kuits": {},
+  "kuits": {
+    "COLINA-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ]
+  },
   "messages": [
     "12:00  ROME SINGLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
     "12:00  ROME DOUBLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
@@ -23593,7 +23616,89 @@
     "04:23  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2025/order-of-play\n\n",
     "04:23  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n",
     "04:24  OOP in AUSTIN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1132/AUSTIN-125/2025/order-of-play\n\n",
-    "04:24  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n"
+    "04:24  OOP in TUCUMAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1151/TUCUMAN-125/2025/order-of-play\n\n",
+    "04:27  COLINA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/draws\n\n",
+    "       Players added to the draw in COLINA-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. DESPINA PAPAMICHAIL \n",
+    "          PAPAMICHAIL, D\n\n",
+    "       3. ANA SOFIA S\u00c1NCHEZ \n",
+    "          S\u00c1NCHEZ, A\n\n",
+    "       4. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       5. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       6. CAROLINA ALVES \n",
+    "          ALVES, C\n\n",
+    "       7. LEOLIA JEANJEAN \n",
+    "          JEANJEAN, L\n\n",
+    "       8. JESSICA PIERI \n",
+    "          PIERI, J\n\n",
+    "       9. IRENE BURILLO \n",
+    "          BURILLO, I\n\n",
+    "       10. MARIA LOURDES CARLE \n",
+    "           CARLE, M\n\n",
+    "       11. MIRIAM BULGARU \n",
+    "           BULGARU, M\n\n",
+    "       12. CLAIRE LIU \n",
+    "           LIU, C\n\n",
+    "       13. EVA VEDDER \n",
+    "           VEDDER, E\n\n",
+    "       14. SADA NAHIMANA \n",
+    "           NAHIMANA, S\n\n",
+    "       15. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       16. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       17. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       18. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       19. ELIZABETH MANDLIK \n",
+    "           MANDLIK, E\n\n",
+    "       20. OLEKSANDRA OLIYNYKOVA \n",
+    "           OLIYNYKOVA, O\n\n",
+    "       21. JAZMIN ORTENZI \n",
+    "           ORTENZI, J\n\n",
+    "       22. JULIA RIERA \n",
+    "           RIERA, J\n\n",
+    "       23. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       24. VERONIKA ERJAVEC \n",
+    "           ERJAVEC, V\n\n",
+    "       25. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "       26. LUISINA GIOVANNINI \n",
+    "           GIOVANNINI, L\n\n",
+    "       27. AYANA AKLI \n",
+    "           AKLI, A\n\n",
+    "       28. LAURA SAMSON \n",
+    "           SAMSON, L\n\n",
+    "04:27  COLINA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/draws\n\n",
+    "       Players added to the draw in COLINA-125 DOUBLES:    \n\n",
+    "       1. NICOLE FOSSA HUERGO / VARVARA LEPCHENKO \n",
+    "          FOSSA HUERGO, N/LEPCHENKO, V\n\n",
+    "       2. JULIA RIERA / CAROLINA ALVES \n",
+    "          RIERA, J/ALVES, C\n\n",
+    "       3. AYANA AKLI / RIYA BHATIA \n",
+    "          AKLI, A/BHATIA, R\n\n",
+    "       4. VALERIYA STRAKHOVA / LEOLIA JEANJEAN \n",
+    "          STRAKHOVA, V/JEANJEAN, L\n\n",
+    "       5. REBECA PEREIRA / KATARINA JOKIC \n",
+    "          PEREIRA, R/JOKIC, K\n\n",
+    "       6. LAURA PIGOSSI / ALICIA HERRERO LINANA \n",
+    "          PIGOSSI, L/HERRERO LINANA, A\n\n",
+    "       7. MARIAN GOMEZ PEZUELA CANO / EVA VEDDER \n",
+    "          GOMEZ PEZUELA CANO, M/VEDDER, E\n\n",
+    "       8. MARIA PAULINA PEREZ GARCIA / JAZMIN ORTENZI \n",
+    "          PEREZ GARCIA, M/ORTENZI, J\n\n",
+    "       9. LUISINA GIOVANNINI / JIMAR GERALD GONZALEZ \n",
+    "          GIOVANNINI, L/GERALD GONZALEZ, J\n\n",
+    "       10. ALLURA ZAMARRIPA / MARIBELLA ZAMARRIPA \n",
+    "           ZAMARRIPA, A/ZAMARRIPA, M\n\n",
+    "       11. FERNANDA LABRANA / ANTONIA VERGARA RIVERA \n",
+    "           LABRANA, F/VERGARA RIVERA, A\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31715,8 +31820,92 @@
         }
       ],
       "2025-11-09"
+    ],
+    "COLINA-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        28,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "DESPINA PAPAMICHAIL",
+            "ANA SOFIA S\u00c1NCHEZ",
+            "LAURA PIGOSSI",
+            "MAYAR SHERIF",
+            "CAROLINA ALVES",
+            "LEOLIA JEANJEAN",
+            "JESSICA PIERI",
+            "IRENE BURILLO",
+            "MARIA LOURDES CARLE",
+            "MIRIAM BULGARU",
+            "CLAIRE LIU",
+            "EVA VEDDER",
+            "SADA NAHIMANA",
+            "MAJA CHWALINSKA",
+            "SIMONA WALTERT",
+            "PANNA UDVARDY",
+            "CAROLE MONNET",
+            "ELIZABETH MANDLIK",
+            "OLEKSANDRA OLIYNYKOVA",
+            "JAZMIN ORTENZI",
+            "JULIA RIERA",
+            "ELINA AVANESYAN",
+            "VERONIKA ERJAVEC",
+            "SARA BEJLEK",
+            "LUISINA GIOVANNINI",
+            "AYANA AKLI",
+            "LAURA SAMSON"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "NICOLE FOSSA HUERGO / VARVARA LEPCHENKO",
+            "JULIA RIERA / CAROLINA ALVES",
+            "AYANA AKLI / RIYA BHATIA",
+            "VALERIYA STRAKHOVA / LEOLIA JEANJEAN",
+            "REBECA PEREIRA / KATARINA JOKIC",
+            "LAURA PIGOSSI / ALICIA HERRERO LINANA",
+            "MARIAN GOMEZ PEZUELA CANO / EVA VEDDER",
+            "MARIA PAULINA PEREZ GARCIA / JAZMIN ORTENZI",
+            "LUISINA GIOVANNINI / JIMAR GERALD GONZALEZ",
+            "ALLURA ZAMARRIPA / MARIBELLA ZAMARRIPA",
+            "FERNANDA LABRANA / ANTONIA VERGARA RIVERA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
-  "torns": [],
-  "old_day": 12
+  "torns": [
+    [
+      "COLINA-125",
+      2076
+    ]
+  ],
+  "old_day": 13
 }
