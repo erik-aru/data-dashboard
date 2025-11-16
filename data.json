@@ -23803,7 +23803,54 @@
     "       7. Diletta Cherubini \n",
     "          Cherubini, D\n\n",
     "       8. Eryn Cayetano \n",
-    "          Cayetano, E\n\n"
+    "          Cayetano, E\n\n",
+    "20:21  change in COLINA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/draws\n\n",
+    "       Players added to the draw in COLINA-125 DOUBLES:    \n\n",
+    "       1. Alicia Herrero Linana / Laura Pigossi \n",
+    "          Herrero Linana, A/Pigossi, L\n\n",
+    "       2. Laura Samson / Noelia Zeballos \n",
+    "          Samson, L/Zeballos, N\n\n",
+    "       3. Katarina Jokic / Rebeca Pereira \n",
+    "          Jokic, K/Pereira, R\n\n",
+    "       4. Carolina Alves / Julia Riera \n",
+    "          Alves, C/Riera, J\n\n",
+    "       5. Maria Lourdes Carle / Sara Sorribes Tormo \n",
+    "          Carle, M/Sorribes Tormo, S\n\n",
+    "       6. Marian Gomez Pezuela Cano / Eva Vedder \n",
+    "          Gomez Pezuela Cano, M/Vedder, E\n\n",
+    "       7. Carole Monnet / Sada Nahimana \n",
+    "          Monnet, C/Nahimana, S\n\n",
+    "       8. Allura Zamarripa / Maribella Zamarripa \n",
+    "          Zamarripa, A/Zamarripa, M\n\n",
+    "       9. Gabriela Ce / Martina Colmegna \n",
+    "          Ce, G/Colmegna, M\n\n",
+    "       10. Fernanda Labrana / Antonia Vergara Rivera \n",
+    "           Labrana, F/Vergara Rivera, A\n\n",
+    "       11. Jazmin Ortenzi / Maria Paulina Perez Garcia \n",
+    "           Ortenzi, J/Perez Garcia, M\n\n",
+    "       12. Leolia Jeanjean / Valeriya Strakhova \n",
+    "           Jeanjean, L/Strakhova, V\n\n",
+    "       13. Eryn Cayetano / Julieta Pareja \n",
+    "           Cayetano, E/Pareja, J\n\n",
+    "       14. Nicole Fossa Huergo / Varvara Lepchenko \n",
+    "           Fossa Huergo, N/Lepchenko, V\n\n",
+    "       15. Jimar Gerald Gonzalez / Luisina Giovannini \n",
+    "           Gerald Gonzalez, J/Giovannini, L\n\n",
+    "       16. Ayana Akli / Riya Bhatia \n",
+    "           Akli, A/Bhatia, R\n\n",
+    "       Players removed from the draw in COLINA-125 DOUBLES:    \n\n",
+    "       1. NICOLE FOSSA HUERGO / VARVARA LEPCHENKO \n\n",
+    "       2. JULIA RIERA / CAROLINA ALVES \n\n",
+    "       3. AYANA AKLI / RIYA BHATIA \n\n",
+    "       4. VALERIYA STRAKHOVA / LEOLIA JEANJEAN \n\n",
+    "       5. REBECA PEREIRA / KATARINA JOKIC \n\n",
+    "       6. LAURA PIGOSSI / ALICIA HERRERO LINANA \n\n",
+    "       7. MARIAN GOMEZ PEZUELA CANO / EVA VEDDER \n\n",
+    "       8. MARIA PAULINA PEREZ GARCIA / JAZMIN ORTENZI \n\n",
+    "       9. LUISINA GIOVANNINI / JIMAR GERALD GONZALEZ \n\n",
+    "       10. ALLURA ZAMARRIPA / MARIBELLA ZAMARRIPA \n\n",
+    "       11. FERNANDA LABRANA / ANTONIA VERGARA RIVERA \n\n",
+    "20:21  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31981,20 +32028,25 @@
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "NICOLE FOSSA HUERGO / VARVARA LEPCHENKO",
-            "JULIA RIERA / CAROLINA ALVES",
-            "AYANA AKLI / RIYA BHATIA",
-            "VALERIYA STRAKHOVA / LEOLIA JEANJEAN",
-            "REBECA PEREIRA / KATARINA JOKIC",
-            "LAURA PIGOSSI / ALICIA HERRERO LINANA",
-            "MARIAN GOMEZ PEZUELA CANO / EVA VEDDER",
-            "MARIA PAULINA PEREZ GARCIA / JAZMIN ORTENZI",
-            "LUISINA GIOVANNINI / JIMAR GERALD GONZALEZ",
-            "ALLURA ZAMARRIPA / MARIBELLA ZAMARRIPA",
-            "FERNANDA LABRANA / ANTONIA VERGARA RIVERA"
+            "Alicia Herrero Linana / Laura Pigossi",
+            "Laura Samson / Noelia Zeballos",
+            "Katarina Jokic / Rebeca Pereira",
+            "Carolina Alves / Julia Riera",
+            "Maria Lourdes Carle / Sara Sorribes Tormo",
+            "Marian Gomez Pezuela Cano / Eva Vedder",
+            "Carole Monnet / Sada Nahimana",
+            "Allura Zamarripa / Maribella Zamarripa",
+            "Gabriela Ce / Martina Colmegna",
+            "Fernanda Labrana / Antonia Vergara Rivera",
+            "Jazmin Ortenzi / Maria Paulina Perez Garcia",
+            "Leolia Jeanjean / Valeriya Strakhova",
+            "Eryn Cayetano / Julieta Pareja",
+            "Nicole Fossa Huergo / Varvara Lepchenko",
+            "Jimar Gerald Gonzalez / Luisina Giovannini",
+            "Ayana Akli / Riya Bhatia"
           ]
         }
       ],
@@ -32012,7 +32064,7 @@
           "players": []
         }
       ],
-      "2025-11-16"
+      "2025-11-17"
     ]
   },
   "torns": [
