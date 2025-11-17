@@ -23850,7 +23850,17 @@
     "       9. LUISINA GIOVANNINI / JIMAR GERALD GONZALEZ \n\n",
     "       10. ALLURA ZAMARRIPA / MARIBELLA ZAMARRIPA \n\n",
     "       11. FERNANDA LABRANA / ANTONIA VERGARA RIVERA \n\n",
-    "20:21  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n"
+    "20:21  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n",
+    "04:27  COLINA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/draws\n\n",
+    "       Players added to the draw in COLINA-125 SINGLES:    \n\n",
+    "       1. Gabriela Ce \n",
+    "          Ce, G\n\n",
+    "       2. Polona Hercog \n",
+    "          Hercog, P\n\n",
+    "       3. Diletta Cherubini \n",
+    "          Cherubini, D\n\n",
+    "       4. Alicia Herrero Linana \n",
+    "          Herrero Linana, A\n\n"
   ],
   "sits": {
     "ROME": [
@@ -31992,12 +32002,13 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Simona Waltert",
             "Laura Samson",
             "Sara Sorribes Tormo",
+            "Gabriela Ce",
             "Carolina Alves",
             "Jessica Pieri",
             "Carole Monnet",
@@ -32005,7 +32016,9 @@
             "Panna Udvardy",
             "Luisina Giovannini",
             "Jazmin Ortenzi",
+            "Polona Hercog",
             "Sada Nahimana",
+            "Diletta Cherubini",
             "Elizabeth Mandlik",
             "Oleksandra Oliynykova",
             "Maja Chwalinska",
@@ -32017,6 +32030,7 @@
             "Julia Riera",
             "Leolia Jeanjean",
             "Maria Lourdes Carle",
+            "Alicia Herrero Linana",
             "Fernanda Labrana",
             "Nicole Fossa Huergo",
             "Miriam Bulgaru",
@@ -32073,5 +32087,5 @@
       2076
     ]
   ],
-  "old_day": 16
+  "old_day": 17
 }
