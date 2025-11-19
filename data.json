@@ -23866,7 +23866,12 @@
     "          Strakhova, V\n\n",
     "       Players removed from the draw in COLINA-125 SINGLES:    \n\n",
     "       1. Simona Waltert \n\n",
-    "20:25  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n"
+    "20:25  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n",
+    "04:26  COLINA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/draws\n\n",
+    "       Players added to the draw in COLINA-125 DOUBLES:    \n\n",
+    "       Players removed from the draw in COLINA-125 DOUBLES:    \n\n",
+    "       1. Carolina Alves / Julia Riera \n\n",
+    "04:26  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -32048,13 +32053,12 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Alicia Herrero Linana / Laura Pigossi",
             "Laura Samson / Noelia Zeballos",
             "Katarina Jokic / Rebeca Pereira",
-            "Carolina Alves / Julia Riera",
             "Maria Lourdes Carle / Sara Sorribes Tormo",
             "Marian Gomez Pezuela Cano / Eva Vedder",
             "Carole Monnet / Sada Nahimana",
@@ -32084,7 +32088,7 @@
           "players": []
         }
       ],
-      "2025-11-18"
+      "2025-11-19"
     ]
   },
   "torns": [
@@ -32093,5 +32097,5 @@
       2076
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
