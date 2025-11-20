@@ -21,6 +21,28 @@
         0,
         "none"
       ]
+    ],
+    "BUENOS-AIRES-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -23871,7 +23893,78 @@
     "       Players added to the draw in COLINA-125 DOUBLES:    \n\n",
     "       Players removed from the draw in COLINA-125 DOUBLES:    \n\n",
     "       1. Carolina Alves / Julia Riera \n\n",
-    "04:26  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n"
+    "04:26  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n",
+    "04:25  COLINA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/draws\n\n",
+    "       Players added to the draw in COLINA-125 DOUBLES:    \n\n",
+    "       1. Carolina Alves / Julia Riera \n",
+    "          Alves, C/Riera, J\n\n",
+    "04:25  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n",
+    "04:25  BUENOS-AIRES-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/draws\n\n",
+    "       Players added to the draw in BUENOS-AIRES-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. POLONA HERCOG \n",
+    "          HERCOG, P\n\n",
+    "       3. DESPINA PAPAMICHAIL \n",
+    "          PAPAMICHAIL, D\n\n",
+    "       4. MARTINA TREVISAN \n",
+    "          TREVISAN, M\n\n",
+    "       5. ANA SOFIA S\u00c1NCHEZ \n",
+    "          S\u00c1NCHEZ, A\n\n",
+    "       6. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       7. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       8. LEOLIA JEANJEAN \n",
+    "          JEANJEAN, L\n\n",
+    "       9. RENATA ZARAZUA \n",
+    "          ZARAZUA, R\n\n",
+    "       10. CAROLINE DOLEHIDE \n",
+    "           DOLEHIDE, C\n\n",
+    "       11. MARIA LOURDES CARLE \n",
+    "           CARLE, M\n\n",
+    "       12. MIRIAM BULGARU \n",
+    "           BULGARU, M\n\n",
+    "       13. CLAIRE LIU \n",
+    "           LIU, C\n\n",
+    "       14. EVA VEDDER \n",
+    "           VEDDER, E\n\n",
+    "       15. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       16. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       17. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       18. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       19. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       20. ELIZABETH MANDLIK \n",
+    "           MANDLIK, E\n\n",
+    "       21. OLEKSANDRA OLIYNYKOVA \n",
+    "           OLIYNYKOVA, O\n\n",
+    "       22. JAZMIN ORTENZI \n",
+    "           ORTENZI, J\n\n",
+    "       23. JULIA RIERA \n",
+    "           RIERA, J\n\n",
+    "       24. VERONIKA ERJAVEC \n",
+    "           ERJAVEC, V\n\n",
+    "       25. ELVINA KALIEVA \n",
+    "           KALIEVA, E\n\n",
+    "       26. SOLANA SIERRA \n",
+    "           SIERRA, S\n\n",
+    "       27. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "04:25  BUENOS-AIRES-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/draws\n\n",
+    "       Players added to the draw in BUENOS-AIRES-125 DOUBLES:    \n\n",
+    "       1. AYANA AKLI / RIYA BHATIA \n",
+    "          AKLI, A/BHATIA, R\n\n",
+    "       2. VALERIYA STRAKHOVA / LEOLIA JEANJEAN \n",
+    "          STRAKHOVA, V/JEANJEAN, L\n\n",
+    "       3. LAURA PIGOSSI / ALICIA HERRERO LINANA \n",
+    "          PIGOSSI, L/HERRERO LINANA, A\n\n",
+    "       4. NICOLE FOSSA HUERGO / LAURA SAMSON \n",
+    "          FOSSA HUERGO, N/SAMSON, L\n\n"
   ],
   "sits": {
     "ROME": [
@@ -32053,12 +32146,13 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Alicia Herrero Linana / Laura Pigossi",
             "Laura Samson / Noelia Zeballos",
             "Katarina Jokic / Rebeca Pereira",
+            "Carolina Alves / Julia Riera",
             "Maria Lourdes Carle / Sara Sorribes Tormo",
             "Marian Gomez Pezuela Cano / Eva Vedder",
             "Carole Monnet / Sada Nahimana",
@@ -32088,14 +32182,89 @@
           "players": []
         }
       ],
-      "2025-11-19"
+      "2025-11-20"
+    ],
+    "BUENOS-AIRES-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        27,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "POLONA HERCOG",
+            "DESPINA PAPAMICHAIL",
+            "MARTINA TREVISAN",
+            "ANA SOFIA S\u00c1NCHEZ",
+            "LAURA PIGOSSI",
+            "MAYAR SHERIF",
+            "LEOLIA JEANJEAN",
+            "RENATA ZARAZUA",
+            "CAROLINE DOLEHIDE",
+            "MARIA LOURDES CARLE",
+            "MIRIAM BULGARU",
+            "CLAIRE LIU",
+            "EVA VEDDER",
+            "MAJA CHWALINSKA",
+            "SIMONA WALTERT",
+            "PANNA UDVARDY",
+            "CAROLE MONNET",
+            "ALYCIA PARKS",
+            "ELIZABETH MANDLIK",
+            "OLEKSANDRA OLIYNYKOVA",
+            "JAZMIN ORTENZI",
+            "JULIA RIERA",
+            "VERONIKA ERJAVEC",
+            "ELVINA KALIEVA",
+            "SOLANA SIERRA",
+            "SARA BEJLEK"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "AYANA AKLI / RIYA BHATIA",
+            "VALERIYA STRAKHOVA / LEOLIA JEANJEAN",
+            "LAURA PIGOSSI / ALICIA HERRERO LINANA",
+            "NICOLE FOSSA HUERGO / LAURA SAMSON"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
     [
       "COLINA-125",
       2076
+    ],
+    [
+      "BUENOS-AIRES-125",
+      2052
     ]
   ],
-  "old_day": 19
+  "old_day": 20
 }
