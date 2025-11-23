@@ -23966,7 +23966,27 @@
     "       4. NICOLE FOSSA HUERGO / LAURA SAMSON \n",
     "          FOSSA HUERGO, N/SAMSON, L\n\n",
     "04:25  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n",
-    "04:24  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n"
+    "04:24  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n",
+    "04:33  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2025/order-of-play\n\n",
+    "04:33  BUENOS-AIRES-125 QUALS draw    \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/draws\n\n",
+    "       Players added to the draw in BUENOS-AIRES-125 QUALS:    \n\n",
+    "       1. Ayana Akli \n",
+    "          Akli, A\n\n",
+    "       2. Maria Urrutia \n",
+    "          Urrutia, M\n\n",
+    "       3. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       4. Sara Sorribes Tormo \n",
+    "          Sorribes Tormo, S\n\n",
+    "       5. Alicia Herrero Linana \n",
+    "          Herrero Linana, A\n\n",
+    "       6. Julia Caffarena \n",
+    "          Caffarena, J\n\n",
+    "       7. Katarina Jokic \n",
+    "          Jokic, K\n\n",
+    "       8. Valeriya Strakhova \n",
+    "          Strakhova, V\n\n",
+    "04:33  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -32184,14 +32204,23 @@
           "players": []
         }
       ],
-      "2025-11-22"
+      "2025-11-23"
     ],
     "BUENOS-AIRES-125": [
       [
         0,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Ayana Akli",
+            "Maria Urrutia",
+            "Nicole Fossa Huergo",
+            "Sara Sorribes Tormo",
+            "Alicia Herrero Linana",
+            "Julia Caffarena",
+            "Katarina Jokic",
+            "Valeriya Strakhova"
+          ]
         }
       ],
       [
@@ -32255,7 +32284,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2025-11-23"
     ]
   },
   "torns": [
@@ -32268,5 +32297,5 @@
       2052
     ]
   ],
-  "old_day": 22
+  "old_day": 23
 }
