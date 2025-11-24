@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "COLINA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "BUENOS-AIRES-125": [
       [
         0,
@@ -24072,7 +24050,18 @@
     "       24. VERONIKA ERJAVEC \n\n",
     "       25. ELVINA KALIEVA \n\n",
     "       26. SOLANA SIERRA \n\n",
-    "       27. SARA BEJLEK \n\n"
+    "       27. SARA BEJLEK \n\n",
+    "04:34  BUENOS-AIRES-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/draws\n\n",
+    "       Players added to the draw in BUENOS-AIRES-125 SINGLES:    \n\n",
+    "       1. Ayana Akli \n",
+    "          Akli, A\n\n",
+    "       2. Katarina Jokic \n",
+    "          Jokic, K\n\n",
+    "       3. Sara Sorribes Tormo \n",
+    "          Sorribes Tormo, S\n\n",
+    "       4. Alicia Herrero Linana \n",
+    "          Herrero Linana, A\n\n",
+    "04:34  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -32311,7 +32300,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Mayar Sherif",
@@ -32319,6 +32308,7 @@
             "Martina Trevisan",
             "Eva Vedder",
             "Despina Papamichail",
+            "Ayana Akli",
             "Candela Vazquez",
             "Caroline Dolehide",
             "Oleksandra Oliynykova",
@@ -32330,8 +32320,11 @@
             "Jessica Pieri",
             "Maja Chwalinska",
             "Maria Lourdes Carle",
+            "Katarina Jokic",
             "Irene Burillo",
             "Miriam Bulgaru",
+            "Sara Sorribes Tormo",
+            "Alicia Herrero Linana",
             "Carolina Alves",
             "Panna Udvardy",
             "Veronika Erjavec",
@@ -32371,18 +32364,14 @@
           "players": []
         }
       ],
-      "2025-11-23"
+      "2025-11-24"
     ]
   },
   "torns": [
-    [
-      "COLINA-125",
-      2076
-    ],
     [
       "BUENOS-AIRES-125",
       2052
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
