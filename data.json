@@ -24062,7 +24062,30 @@
     "       4. Alicia Herrero Linana \n",
     "          Herrero Linana, A\n\n",
     "04:34  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/order-of-play\n\n",
-    "20:25  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/order-of-play\n\n"
+    "20:25  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/order-of-play\n\n",
+    "20:25  change in BUENOS-AIRES-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/draws\n\n",
+    "       Players added to the draw in BUENOS-AIRES-125 DOUBLES:    \n\n",
+    "       1. Alicia Herrero Linana / Laura Pigossi \n",
+    "          Herrero Linana, A/Pigossi, L\n\n",
+    "       2. Varvara Lepchenko / Carole Monnet \n",
+    "          Lepchenko, V/Monnet, C\n\n",
+    "       3. Veronika Erjavec / Panna Udvardy \n",
+    "          Erjavec, V/Udvardy, P\n\n",
+    "       4. Ayana Akli / Riya Bhatia \n",
+    "          Akli, A/Bhatia, R\n\n",
+    "       5. Maria Lourdes Carle / Despina Papamichail \n",
+    "          Carle, M/Papamichail, D\n\n",
+    "       6. Luciana Moyano / Maria Urrutia \n",
+    "          Moyano, L/Urrutia, M\n\n",
+    "       7. Leolia Jeanjean / Valeriya Strakhova \n",
+    "          Jeanjean, L/Strakhova, V\n\n",
+    "       8. Nicole Fossa Huergo / Laura Samson \n",
+    "          Fossa Huergo, N/Samson, L\n\n",
+    "       Players removed from the draw in BUENOS-AIRES-125 DOUBLES:    \n\n",
+    "       1. AYANA AKLI / RIYA BHATIA \n\n",
+    "       2. VALERIYA STRAKHOVA / LEOLIA JEANJEAN \n\n",
+    "       3. LAURA PIGOSSI / ALICIA HERRERO LINANA \n\n",
+    "       4. NICOLE FOSSA HUERGO / LAURA SAMSON \n\n"
   ],
   "sits": {
     "ROME": [
@@ -32341,13 +32364,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "AYANA AKLI / RIYA BHATIA",
-            "VALERIYA STRAKHOVA / LEOLIA JEANJEAN",
-            "LAURA PIGOSSI / ALICIA HERRERO LINANA",
-            "NICOLE FOSSA HUERGO / LAURA SAMSON"
+            "Alicia Herrero Linana / Laura Pigossi",
+            "Varvara Lepchenko / Carole Monnet",
+            "Veronika Erjavec / Panna Udvardy",
+            "Ayana Akli / Riya Bhatia",
+            "Maria Lourdes Carle / Despina Papamichail",
+            "Luciana Moyano / Maria Urrutia",
+            "Leolia Jeanjean / Valeriya Strakhova",
+            "Nicole Fossa Huergo / Laura Samson"
           ]
         }
       ],
