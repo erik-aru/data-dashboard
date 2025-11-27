@@ -21,6 +21,50 @@
         0,
         "none"
       ]
+    ],
+    "QUITO-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "ANGERS-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -24092,7 +24136,139 @@
     "          Nahimana, S/Zolotareva, A\n\n",
     "       Players removed from the draw in BUENOS-AIRES-125 DOUBLES:    \n\n",
     "       1. Leolia Jeanjean / Valeriya Strakhova \n\n",
-    "20:23  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/order-of-play\n\n"
+    "20:23  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2025/order-of-play\n\n",
+    "04:26  QUITO-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1118/QUITO-125/2025/draws\n\n",
+    "       Players added to the draw in QUITO-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. POLONA HERCOG \n",
+    "          HERCOG, P\n\n",
+    "       3. DESPINA PAPAMICHAIL \n",
+    "          PAPAMICHAIL, D\n\n",
+    "       4. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       5. NICOLE FOSSA HUERGO \n",
+    "          FOSSA HUERGO, N\n\n",
+    "       6. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       7. CAROLINA ALVES \n",
+    "          ALVES, C\n\n",
+    "       8. GABRIELA LEE \n",
+    "          LEE, G\n\n",
+    "       9. LEOLIA JEANJEAN \n",
+    "          JEANJEAN, L\n\n",
+    "       10. JESSICA PIERI \n",
+    "           PIERI, J\n\n",
+    "       11. CAROLINE DOLEHIDE \n",
+    "           DOLEHIDE, C\n\n",
+    "       12. MIRIAM BULGARU \n",
+    "           BULGARU, M\n\n",
+    "       13. EVA VEDDER \n",
+    "           VEDDER, E\n\n",
+    "       14. SADA NAHIMANA \n",
+    "           NAHIMANA, S\n\n",
+    "       15. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       16. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       17. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       18. ANASTASIA TIKHONOVA \n",
+    "           TIKHONOVA, A\n\n",
+    "       19. OLEKSANDRA OLIYNYKOVA \n",
+    "           OLIYNYKOVA, O\n\n",
+    "       20. JAZMIN ORTENZI \n",
+    "           ORTENZI, J\n\n",
+    "       21. JULIA RIERA \n",
+    "           RIERA, J\n\n",
+    "       22. VERONIKA ERJAVEC \n",
+    "           ERJAVEC, V\n\n",
+    "       23. ELVINA KALIEVA \n",
+    "           KALIEVA, E\n\n",
+    "       24. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "       25. LUISINA GIOVANNINI \n",
+    "           GIOVANNINI, L\n\n",
+    "       26. AYANA AKLI \n",
+    "           AKLI, A\n\n",
+    "       27. LAURA SAMSON \n",
+    "           SAMSON, L\n\n",
+    "04:26  QUITO-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1118/QUITO-125/2025/draws\n\n",
+    "       Players added to the draw in QUITO-125 DOUBLES:    \n\n",
+    "       1. NICOLE FOSSA HUERGO / MIRIANA TONA \n",
+    "          FOSSA HUERGO, N/TONA, M\n\n",
+    "       2. ANASTASIA TIKHONOVA / VALERIYA STRAKHOVA \n",
+    "          TIKHONOVA, A/STRAKHOVA, V\n\n",
+    "       3. LAURA PIGOSSI / ALICIA HERRERO LINANA \n",
+    "          PIGOSSI, L/HERRERO LINANA, A\n\n",
+    "       4. RIYA BHATIA / AYANA AKLI \n",
+    "          BHATIA, R/AKLI, A\n\n",
+    "04:26  ANGERS-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2056/ANGERS-125/2025/draws\n\n",
+    "       Players added to the draw in ANGERS-125 SINGLES:    \n\n",
+    "       1. SHUAI ZHANG \n",
+    "          ZHANG, S\n\n",
+    "       2. BARBORA KREJCIKOVA \n",
+    "          KREJCIKOVA, B\n\n",
+    "       3. KATIE BOULTER \n",
+    "          BOULTER, K\n\n",
+    "       4. OCEANE DODIN \n",
+    "          DODIN, O\n\n",
+    "       5. TAMARA KORPATSCH \n",
+    "          KORPATSCH, T\n\n",
+    "       6. JULIA GRABHER \n",
+    "          GRABHER, J\n\n",
+    "       7. ELENA-GABRIELA RUSE \n",
+    "          RUSE, E\n\n",
+    "       8. REBEKA MASAROVA \n",
+    "          MASAROVA, R\n\n",
+    "       9. LUCIA BRONZETTI \n",
+    "          BRONZETTI, L\n\n",
+    "       10. KAMILLA RAKHIMOVA \n",
+    "           RAKHIMOVA, K\n\n",
+    "       11. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       12. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       13. ZEYNEP SONMEZ \n",
+    "           SONMEZ, Z\n\n",
+    "       14. ELISABETTA COCCIARETTO \n",
+    "           COCCIARETTO, E\n\n",
+    "       15. ELSA JACQUEMOT \n",
+    "           JACQUEMOT, E\n\n",
+    "       16. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       17. LINDA KLIMOVICOVA \n",
+    "           KLIMOVICOVA, L\n\n",
+    "       18. ALINA CHARAEVA \n",
+    "           CHARAEVA, A\n\n",
+    "       19. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       20. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       21. ANTONIA RUZIC \n",
+    "           RUZIC, A\n\n",
+    "       22. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       23. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       24. NIKOLA BARTUNKOVA \n",
+    "           BARTUNKOVA, N\n\n",
+    "       25. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       26. CLERVIE NGOUNOUE \n",
+    "           NGOUNOUE, C\n\n",
+    "       27. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "04:26  ANGERS-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2056/ANGERS-125/2025/draws\n\n",
+    "       Players added to the draw in ANGERS-125 DOUBLES:    \n\n",
+    "       1. ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS \n",
+    "          MORATELLI, A/CAVALLE-REIMERS, Y\n\n",
+    "       2. ANNA SISKOVA / MAGALI KEMPEN \n",
+    "          SISKOVA, A/KEMPEN, M\n\n",
+    "       3. ISABELLE HAVERLAG / MAIA LUMSDEN \n",
+    "          HAVERLAG, I/LUMSDEN, M\n\n",
+    "       4. JESIKA MALECKOVA / MIRIAM SKOCH \n",
+    "          MALECKOVA, J/SKOCH, M\n\n"
   ],
   "sits": {
     "ROME": [
@@ -32400,13 +32576,163 @@
         }
       ],
       "2025-11-27"
+    ],
+    "QUITO-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        27,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "POLONA HERCOG",
+            "DESPINA PAPAMICHAIL",
+            "LAURA PIGOSSI",
+            "NICOLE FOSSA HUERGO",
+            "MAYAR SHERIF",
+            "CAROLINA ALVES",
+            "GABRIELA LEE",
+            "LEOLIA JEANJEAN",
+            "JESSICA PIERI",
+            "CAROLINE DOLEHIDE",
+            "MIRIAM BULGARU",
+            "EVA VEDDER",
+            "SADA NAHIMANA",
+            "MAJA CHWALINSKA",
+            "PANNA UDVARDY",
+            "CAROLE MONNET",
+            "ANASTASIA TIKHONOVA",
+            "OLEKSANDRA OLIYNYKOVA",
+            "JAZMIN ORTENZI",
+            "JULIA RIERA",
+            "VERONIKA ERJAVEC",
+            "ELVINA KALIEVA",
+            "SARA BEJLEK",
+            "LUISINA GIOVANNINI",
+            "AYANA AKLI",
+            "LAURA SAMSON"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "NICOLE FOSSA HUERGO / MIRIANA TONA",
+            "ANASTASIA TIKHONOVA / VALERIYA STRAKHOVA",
+            "LAURA PIGOSSI / ALICIA HERRERO LINANA",
+            "RIYA BHATIA / AYANA AKLI"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "ANGERS-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        27,
+        {
+          "players": [
+            "SHUAI ZHANG",
+            "BARBORA KREJCIKOVA",
+            "KATIE BOULTER",
+            "OCEANE DODIN",
+            "TAMARA KORPATSCH",
+            "JULIA GRABHER",
+            "ELENA-GABRIELA RUSE",
+            "REBEKA MASAROVA",
+            "LUCIA BRONZETTI",
+            "KAMILLA RAKHIMOVA",
+            "ALYCIA PARKS",
+            "JOANNA GARLAND",
+            "ZEYNEP SONMEZ",
+            "ELISABETTA COCCIARETTO",
+            "ELSA JACQUEMOT",
+            "POLINA KUDERMETOVA",
+            "LINDA KLIMOVICOVA",
+            "ALINA CHARAEVA",
+            "OKSANA SELEKHMETEVA",
+            "DARJA SEMENISTAJA",
+            "ANTONIA RUZIC",
+            "DOMINIKA SALKOVA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "NIKOLA BARTUNKOVA",
+            "SOFIA COSTOULAS",
+            "CLERVIE NGOUNOUE",
+            "TIANTSOA RAKOTOMANGA RAJAONAH"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS",
+            "ANNA SISKOVA / MAGALI KEMPEN",
+            "ISABELLE HAVERLAG / MAIA LUMSDEN",
+            "JESIKA MALECKOVA / MIRIAM SKOCH"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
     [
       "BUENOS-AIRES-125",
       2052
+    ],
+    [
+      "QUITO-125",
+      1118
+    ],
+    [
+      "ANGERS-125",
+      2056
     ]
   ],
-  "old_day": 26
+  "old_day": 27
 }
