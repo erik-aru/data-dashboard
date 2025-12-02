@@ -24486,7 +24486,8 @@
     "          Zolotareva, A\n\n",
     "       4. Martina Colmegna \n",
     "          Colmegna, M\n\n",
-    "20:22  OOP in ANGERS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2056/ANGERS-125/2025/order-of-play\n\n"
+    "20:22  OOP in ANGERS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2056/ANGERS-125/2025/order-of-play\n\n",
+    "04:31  OOP in QUITO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1118/QUITO-125/2025/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -32878,7 +32879,7 @@
           "players": []
         }
       ],
-      "2025-12-01"
+      "2025-12-02"
     ],
     "ANGERS-125": [
       [
@@ -32974,5 +32975,5 @@
       2056
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
