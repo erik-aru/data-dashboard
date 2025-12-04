@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "LIMOGES-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -24544,7 +24566,73 @@
     "       Players added to the draw in ANGERS-125 DOUBLES:    \n\n",
     "       Players removed from the draw in ANGERS-125 DOUBLES:    \n\n",
     "       1. Victoria Jimenez Kasintseva / Alina Korneeva \n\n",
-    "20:26  OOP in ANGERS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2056/ANGERS-125/2025/order-of-play\n\n"
+    "20:26  OOP in ANGERS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2056/ANGERS-125/2025/order-of-play\n\n",
+    "04:32  LIMOGES-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/draws\n\n",
+    "       Players added to the draw in LIMOGES-125 SINGLES:    \n\n",
+    "       1. SHUAI ZHANG \n",
+    "          ZHANG, S\n\n",
+    "       2. NURIA PARRIZAS DIAZ \n",
+    "          PARRIZAS DIAZ, N\n\n",
+    "       3. KATARZYNA KAWA \n",
+    "          KAWA, K\n\n",
+    "       4. BARBORA KREJCIKOVA \n",
+    "          KREJCIKOVA, B\n\n",
+    "       5. JESSIKA PONCHET \n",
+    "          PONCHET, J\n\n",
+    "       6. OCEANE DODIN \n",
+    "          DODIN, O\n\n",
+    "       7. TAMARA KORPATSCH \n",
+    "          KORPATSCH, T\n\n",
+    "       8. JULIA GRABHER \n",
+    "          GRABHER, J\n\n",
+    "       9. ANHELINA KALININA \n",
+    "          KALININA, A\n\n",
+    "       10. CRISTINA BUCSA \n",
+    "           BUCSA, C\n\n",
+    "       11. REBEKA MASAROVA \n",
+    "           MASAROVA, R\n\n",
+    "       12. LUCREZIA STEFANINI \n",
+    "           STEFANINI, L\n\n",
+    "       13. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       14. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       15. ELSA JACQUEMOT \n",
+    "           JACQUEMOT, E\n\n",
+    "       16. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       17. LINDA KLIMOVICOVA \n",
+    "           KLIMOVICOVA, L\n\n",
+    "       18. ALINA CHARAEVA \n",
+    "           CHARAEVA, A\n\n",
+    "       19. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       20. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       21. ANTONIA RUZIC \n",
+    "           RUZIC, A\n\n",
+    "       22. SONAY KARTAL \n",
+    "           KARTAL, S\n\n",
+    "       23. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       24. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       25. CADENCE BRACE \n",
+    "           BRACE, C\n\n",
+    "       26. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "       27. TEODORA KOSTOVIC \n",
+    "           KOSTOVIC, T\n\n",
+    "04:32  LIMOGES-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/draws\n\n",
+    "       Players added to the draw in LIMOGES-125 DOUBLES:    \n\n",
+    "       1. ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS \n",
+    "          MORATELLI, A/CAVALLE-REIMERS, Y\n\n",
+    "       2. ANNA SISKOVA / MAGALI KEMPEN \n",
+    "          SISKOVA, A/KEMPEN, M\n\n",
+    "       3. ISABELLE HAVERLAG / MAIA LUMSDEN \n",
+    "          HAVERLAG, I/LUMSDEN, M\n\n",
+    "       4. JESIKA MALECKOVA / NIKA RADISIC \n",
+    "          MALECKOVA, J/RADISIC, N\n\n"
   ],
   "sits": {
     "ROME": [
@@ -33026,6 +33114,77 @@
         }
       ],
       "2025-12-04"
+    ],
+    "LIMOGES-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        27,
+        {
+          "players": [
+            "SHUAI ZHANG",
+            "NURIA PARRIZAS DIAZ",
+            "KATARZYNA KAWA",
+            "BARBORA KREJCIKOVA",
+            "JESSIKA PONCHET",
+            "OCEANE DODIN",
+            "TAMARA KORPATSCH",
+            "JULIA GRABHER",
+            "ANHELINA KALININA",
+            "CRISTINA BUCSA",
+            "REBEKA MASAROVA",
+            "LUCREZIA STEFANINI",
+            "ALYCIA PARKS",
+            "JOANNA GARLAND",
+            "ELSA JACQUEMOT",
+            "POLINA KUDERMETOVA",
+            "LINDA KLIMOVICOVA",
+            "ALINA CHARAEVA",
+            "OKSANA SELEKHMETEVA",
+            "DARJA SEMENISTAJA",
+            "ANTONIA RUZIC",
+            "SONAY KARTAL",
+            "DOMINIKA SALKOVA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "CADENCE BRACE",
+            "TIANTSOA RAKOTOMANGA RAJAONAH",
+            "TEODORA KOSTOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS",
+            "ANNA SISKOVA / MAGALI KEMPEN",
+            "ISABELLE HAVERLAG / MAIA LUMSDEN",
+            "JESIKA MALECKOVA / NIKA RADISIC"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -33036,7 +33195,11 @@
     [
       "ANGERS-125",
       2056
+    ],
+    [
+      "LIMOGES-125",
+      1072
     ]
   ],
-  "old_day": 3
+  "old_day": 4
 }
