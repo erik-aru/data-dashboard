@@ -24743,7 +24743,30 @@
     "          Bolsova, A\n\n",
     "       8. Anna Siskova \n",
     "          Siskova, A\n\n",
-    "20:22  OOP in LIMOGES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/order-of-play\n\n"
+    "20:22  OOP in LIMOGES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/order-of-play\n\n",
+    "12:40  change in LIMOGES-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/draws\n\n",
+    "       Players added to the draw in LIMOGES-125 DOUBLES:    \n\n",
+    "       1. Cristina Bucsa / Shuai Zhang \n",
+    "          Bucsa, C/Zhang, S\n\n",
+    "       2. Yvonne Cavalle-Reimers / Angelica Moratelli \n",
+    "          Cavalle-Reimers, Y/Moratelli, A\n\n",
+    "       3. Anna-Lena Friedsam / Tiantsoa Rakotomanga Rajaonah \n",
+    "          Friedsam, A/Rakotomanga Rajaonah, T\n\n",
+    "       4. Isabelle Haverlag / Maia Lumsden \n",
+    "          Haverlag, I/Lumsden, M\n\n",
+    "       5. Jesika Maleckova / Nika Radisic \n",
+    "          Maleckova, J/Radisic, N\n\n",
+    "       6. Aliona Bolsova / Tamara Korpatsch \n",
+    "          Bolsova, A/Korpatsch, T\n\n",
+    "       7. Elsa Jacquemot / Jessika Ponchet \n",
+    "          Jacquemot, E/Ponchet, J\n\n",
+    "       8. Magali Kempen / Anna Siskova \n",
+    "          Kempen, M/Siskova, A\n\n",
+    "       Players removed from the draw in LIMOGES-125 DOUBLES:    \n\n",
+    "       1. ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS \n\n",
+    "       2. ANNA SISKOVA / MAGALI KEMPEN \n\n",
+    "       3. ISABELLE HAVERLAG / MAIA LUMSDEN \n\n",
+    "       4. JESIKA MALECKOVA / NIKA RADISIC \n\n"
   ],
   "sits": {
     "ROME": [
@@ -33281,13 +33304,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS",
-            "ANNA SISKOVA / MAGALI KEMPEN",
-            "ISABELLE HAVERLAG / MAIA LUMSDEN",
-            "JESIKA MALECKOVA / NIKA RADISIC"
+            "Cristina Bucsa / Shuai Zhang",
+            "Yvonne Cavalle-Reimers / Angelica Moratelli",
+            "Anna-Lena Friedsam / Tiantsoa Rakotomanga Rajaonah",
+            "Isabelle Haverlag / Maia Lumsden",
+            "Jesika Maleckova / Nika Radisic",
+            "Aliona Bolsova / Tamara Korpatsch",
+            "Elsa Jacquemot / Jessika Ponchet",
+            "Magali Kempen / Anna Siskova"
           ]
         }
       ],
