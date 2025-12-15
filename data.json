@@ -1,28 +1,5 @@
 {
-  "kuits": {
-    "LIMOGES-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ]
-  },
+  "kuits": {},
   "messages": [
     "12:00  ROME SINGLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
     "12:00  ROME DOUBLES draw    \n       https://www.wtatennis.com/tournament/709/ROME/2025/draws\n\n",
@@ -33312,11 +33289,6 @@
       "2025-12-14"
     ]
   },
-  "torns": [
-    [
-      "LIMOGES-125",
-      1072
-    ]
-  ],
-  "old_day": 14
+  "torns": [],
+  "old_day": 15
 }
