@@ -21,6 +21,28 @@
         0,
         "none"
       ]
+    ],
+    "BRISBANE": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -24739,7 +24761,149 @@
     "20:27  OOP in LIMOGES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/order-of-play\n\n",
     "20:26  OOP in LIMOGES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/order-of-play\n\n",
     "20:25  OOP in LIMOGES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/order-of-play\n\n",
-    "04:37  OOP in LIMOGES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/order-of-play\n\n"
+    "04:37  OOP in LIMOGES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1072/LIMOGES-125/2025/order-of-play\n\n",
+    "04:39  BRISBANE SINGLES draw    \n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/draws\n\n",
+    "       Players added to the draw in BRISBANE SINGLES:    \n\n",
+    "       1. TATJANA MARIA \n",
+    "          MARIA, T\n\n",
+    "       2. SHUAI ZHANG \n",
+    "          ZHANG, S\n\n",
+    "       3. SORANA CIRSTEA \n",
+    "          CIRSTEA, S\n\n",
+    "       4. ANASTASIA PAVLYUCHENKOVA \n",
+    "          PAVLYUCHENKOVA, A\n\n",
+    "       5. KAROLINA PLISKOVA \n",
+    "          PLISKOVA, K\n\n",
+    "       6. AJLA TOMLJANOVIC \n",
+    "          TOMLJANOVIC, A\n\n",
+    "       7. JESSICA PEGULA \n",
+    "          PEGULA, J\n\n",
+    "       8. MADISON KEYS \n",
+    "          KEYS, M\n\n",
+    "       9. YULIA PUTINTSEVA \n",
+    "          PUTINTSEVA, Y\n\n",
+    "       10. ALIAKSANDRA SASNOVICH \n",
+    "           SASNOVICH, A\n\n",
+    "       11. EKATERINA ALEXANDROVA \n",
+    "           ALEXANDROVA, E\n\n",
+    "       12. VERONIKA KUDERMETOVA \n",
+    "           KUDERMETOVA, V\n\n",
+    "       13. JELENA OSTAPENKO \n",
+    "           OSTAPENKO, J\n\n",
+    "       14. PAULA BADOSA \n",
+    "           BADOSA, P\n\n",
+    "       15. REBECCA SRAMKOVA \n",
+    "           SRAMKOVA, R\n\n",
+    "       16. MAGDALENA FRECH \n",
+    "           FRECH, M\n\n",
+    "       17. JAQUELINE  CRISTIAN \n",
+    "           CRISTIAN, J\n\n",
+    "       18. ELENA-GABRIELA RUSE \n",
+    "           RUSE, E\n\n",
+    "       19. PRISCILLA HON \n",
+    "           HON, P\n\n",
+    "       20. KIMBERLY BIRRELL \n",
+    "           BIRRELL, K\n\n",
+    "       21. ARYNA SABALENKA \n",
+    "           SABALENKA, A\n\n",
+    "       22. SOFIA KENIN \n",
+    "           KENIN, S\n\n",
+    "       23. MARIE BOUZKOVA \n",
+    "           BOUZKOVA, M\n\n",
+    "       24. CRISTINA BUCSA \n",
+    "           BUCSA, C\n\n",
+    "       25. DARIA KASATKINA \n",
+    "           KASATKINA, D\n\n",
+    "       26. REBEKA MASAROVA \n",
+    "           MASAROVA, R\n\n",
+    "       27. KAROLINA MUCHOVA \n",
+    "           MUCHOVA, K\n\n",
+    "       28. LIUDMILA SAMSONOVA \n",
+    "           SAMSONOVA, L\n\n",
+    "       29. ANNA BONDAR \n",
+    "           BONDAR, A\n\n",
+    "       30. MARKETA VONDROUSOVA \n",
+    "           VONDROUSOVA, M\n\n",
+    "       31. ANNA KALINSKAYA \n",
+    "           KALINSKAYA, A\n\n",
+    "       32. ELENA RYBAKINA \n",
+    "           RYBAKINA, E\n\n",
+    "       33. DAYANA YASTREMSKA \n",
+    "           YASTREMSKA, D\n\n",
+    "       34. ANNA BLINKOVA \n",
+    "           BLINKOVA, A\n\n",
+    "       35. EMILIANA ARANGO \n",
+    "           ARANGO, E\n\n",
+    "       36. ANASTASIA POTAPOVA \n",
+    "           POTAPOVA, A\n\n",
+    "       37. KAMILLA RAKHIMOVA \n",
+    "           RAKHIMOVA, K\n\n",
+    "       38. ANN LI \n",
+    "           LI, A\n\n",
+    "       39. AMANDA ANISIMOVA \n",
+    "           ANISIMOVA, A\n\n",
+    "       40. MARTA KOSTYUK \n",
+    "           KOSTYUK, M\n\n",
+    "       41. MCCARTNEY KESSLER \n",
+    "           KESSLER, M\n\n",
+    "       42. LEYLAH FERNANDEZ \n",
+    "           FERNANDEZ, L\n\n",
+    "       43. ZEYNEP SONMEZ \n",
+    "           SONMEZ, Z\n\n",
+    "       44. HAILEY BAPTISTE \n",
+    "           BAPTISTE, H\n\n",
+    "       45. ANASTASIA ZAKHAROVA \n",
+    "           ZAKHAROVA, A\n\n",
+    "       46. KATIE VOLYNETS \n",
+    "           VOLYNETS, K\n\n",
+    "       47. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       48. CLARA TAUSON \n",
+    "           TAUSON, C\n\n",
+    "       49. ELSA JACQUEMOT \n",
+    "           JACQUEMOT, E\n\n",
+    "       50. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       51. TALIA GIBSON \n",
+    "           GIBSON, T\n\n",
+    "       52. ASHLYN KRUEGER \n",
+    "           KRUEGER, A\n\n",
+    "       53. ANTONIA RUZIC \n",
+    "           RUZIC, A\n\n",
+    "       54. LINDA NOSKOVA \n",
+    "           NOSKOVA, L\n\n",
+    "       55. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       56. DIANA SHNAIDER \n",
+    "           SHNAIDER, D\n\n",
+    "       57. TEREZA VALENTOVA \n",
+    "           VALENTOVA, T\n\n",
+    "       58. MIRRA ANDREEVA \n",
+    "           ANDREEVA, M\n\n",
+    "04:39  BRISBANE DOUBLES draw    \n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/draws\n\n",
+    "       Players added to the draw in BRISBANE DOUBLES:    \n\n",
+    "       1. JELENA OSTAPENKO / SU-WEI HSIEH \n",
+    "          OSTAPENKO, J/HSIEH, S\n\n",
+    "       2. IRINA KHROMACHEVA / ALEXANDRA PANOVA \n",
+    "          KHROMACHEVA, I/PANOVA, A\n\n",
+    "       3. LYUDMYLA KICHENOK / NADIIA KICHENOK \n",
+    "          KICHENOK, L/KICHENOK, N\n\n",
+    "       4. XINYU JIANG / HAO-CHING CHAN \n",
+    "          JIANG, X/CHAN, H\n\n",
+    "       5. ANNA DANILINA / ALEKSANDRA KRUNIC \n",
+    "          DANILINA, A/KRUNIC, A\n\n",
+    "       6. DESIRAE KRAWCZYK / SOFIA KENIN \n",
+    "          KRAWCZYK, D/KENIN, S\n\n",
+    "       7. ELLEN PEREZ / CRISTINA BUCSA \n",
+    "          PEREZ, E/BUCSA, C\n\n",
+    "       8. SHUAI ZHANG / LIUDMILA SAMSONOVA \n",
+    "          ZHANG, S/SAMSONOVA, L\n\n",
+    "       9. MIYU KATO / FANNY STOLLAR \n",
+    "          KATO, M/STOLLAR, F\n\n",
+    "       10. ERI HOZUMI / FANG-HSIEN WU \n",
+    "           HOZUMI, E/WU, F\n\n",
+    "       11. TEREZA MIHALIKOVA / OLIVIA GADECKI \n",
+    "           MIHALIKOVA, T/GADECKI, O\n\n"
   ],
   "sits": {
     "ROME": [
@@ -33348,13 +33512,126 @@
         }
       ],
       "nothing"
+    ],
+    "BRISBANE": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        58,
+        {
+          "players": [
+            "TATJANA MARIA",
+            "SHUAI ZHANG",
+            "SORANA CIRSTEA",
+            "ANASTASIA PAVLYUCHENKOVA",
+            "KAROLINA PLISKOVA",
+            "AJLA TOMLJANOVIC",
+            "JESSICA PEGULA",
+            "MADISON KEYS",
+            "YULIA PUTINTSEVA",
+            "ALIAKSANDRA SASNOVICH",
+            "EKATERINA ALEXANDROVA",
+            "VERONIKA KUDERMETOVA",
+            "JELENA OSTAPENKO",
+            "PAULA BADOSA",
+            "REBECCA SRAMKOVA",
+            "MAGDALENA FRECH",
+            "JAQUELINE  CRISTIAN",
+            "ELENA-GABRIELA RUSE",
+            "PRISCILLA HON",
+            "KIMBERLY BIRRELL",
+            "ARYNA SABALENKA",
+            "SOFIA KENIN",
+            "MARIE BOUZKOVA",
+            "CRISTINA BUCSA",
+            "DARIA KASATKINA",
+            "REBEKA MASAROVA",
+            "KAROLINA MUCHOVA",
+            "LIUDMILA SAMSONOVA",
+            "ANNA BONDAR",
+            "MARKETA VONDROUSOVA",
+            "ANNA KALINSKAYA",
+            "ELENA RYBAKINA",
+            "DAYANA YASTREMSKA",
+            "ANNA BLINKOVA",
+            "EMILIANA ARANGO",
+            "ANASTASIA POTAPOVA",
+            "KAMILLA RAKHIMOVA",
+            "ANN LI",
+            "AMANDA ANISIMOVA",
+            "MARTA KOSTYUK",
+            "MCCARTNEY KESSLER",
+            "LEYLAH FERNANDEZ",
+            "ZEYNEP SONMEZ",
+            "HAILEY BAPTISTE",
+            "ANASTASIA ZAKHAROVA",
+            "KATIE VOLYNETS",
+            "ELINA AVANESYAN",
+            "CLARA TAUSON",
+            "ELSA JACQUEMOT",
+            "OKSANA SELEKHMETEVA",
+            "TALIA GIBSON",
+            "ASHLYN KRUEGER",
+            "ANTONIA RUZIC",
+            "LINDA NOSKOVA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "DIANA SHNAIDER",
+            "TEREZA VALENTOVA",
+            "MIRRA ANDREEVA"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "JELENA OSTAPENKO / SU-WEI HSIEH",
+            "IRINA KHROMACHEVA / ALEXANDRA PANOVA",
+            "LYUDMYLA KICHENOK / NADIIA KICHENOK",
+            "XINYU JIANG / HAO-CHING CHAN",
+            "ANNA DANILINA / ALEKSANDRA KRUNIC",
+            "DESIRAE KRAWCZYK / SOFIA KENIN",
+            "ELLEN PEREZ / CRISTINA BUCSA",
+            "SHUAI ZHANG / LIUDMILA SAMSONOVA",
+            "MIYU KATO / FANNY STOLLAR",
+            "ERI HOZUMI / FANG-HSIEN WU",
+            "TEREZA MIHALIKOVA / OLIVIA GADECKI"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
     [
       "UNITED-CUP",
       2084
+    ],
+    [
+      "BRISBANE",
+      800
     ]
   ],
-  "old_day": 30
+  "old_day": 31
 }
