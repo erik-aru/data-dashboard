@@ -25179,7 +25179,58 @@
     "       10. DARJA VIDMANOVA / MARY STOIANA \n",
     "           VIDMANOVA, D/STOIANA, M\n\n",
     "       11. QUINN GLEASON / ELENA PRIDANKINA \n",
-    "           GLEASON, Q/PRIDANKINA, E\n\n"
+    "           GLEASON, Q/PRIDANKINA, E\n\n",
+    "12:47  NEW draw in BRISBANE QUALS \u2605    \n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/draws\n\n",
+    "       Players added to the draw in BRISBANE QUALS:    \n\n",
+    "       1. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       2. Maria Timofeeva \n",
+    "          Timofeeva, M\n\n",
+    "       3. Viktoriya Tomova \n",
+    "          Tomova, V\n\n",
+    "       4. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       5. Yulia Putintseva \n",
+    "          Putintseva, Y\n\n",
+    "       6. Priscilla Hon \n",
+    "          Hon, P\n\n",
+    "       7. Olivia Gadecki \n",
+    "          Gadecki, O\n\n",
+    "       8. Anastasia Zakharova \n",
+    "          Zakharova, A\n\n",
+    "       9. Rebecca Sramkova \n",
+    "          Sramkova, R\n\n",
+    "       10. Lizette Cabrera \n",
+    "           Cabrera, L\n\n",
+    "       11. Astra Sharma \n",
+    "           Sharma, A\n\n",
+    "       12. Kamilla Rakhimova \n",
+    "           Rakhimova, K\n\n",
+    "       13. Anna Bondar \n",
+    "           Bondar, A\n\n",
+    "       14. Anhelina Kalinina \n",
+    "           Kalinina, A\n\n",
+    "       15. Rebeka Masarova \n",
+    "           Masarova, R\n\n",
+    "       16. Katie Volynets \n",
+    "           Volynets, K\n\n",
+    "       17. Shuai Zhang \n",
+    "           Zhang, S\n\n",
+    "       18. Fiona Ferro \n",
+    "           Ferro, F\n\n",
+    "       19. Taylah Preston \n",
+    "           Preston, T\n\n",
+    "       20. Oksana Selekhmeteva \n",
+    "           Selekhmeteva, O\n\n",
+    "       21. Elena-Gabriela Ruse \n",
+    "           Ruse, E\n\n",
+    "       22. Alana Subasic \n",
+    "           Subasic, A\n\n",
+    "       23. Victoria Jimenez Kasintseva \n",
+    "           Jimenez Kasintseva, V\n\n",
+    "       24. Zeynep Sonmez \n",
+    "           Sonmez, Z\n\n",
+    "12:47  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -33792,9 +33843,34 @@
     "BRISBANE": [
       [
         0,
-        0,
+        24,
         {
-          "players": []
+          "players": [
+            "Antonia Ruzic",
+            "Maria Timofeeva",
+            "Viktoriya Tomova",
+            "Aliaksandra Sasnovich",
+            "Yulia Putintseva",
+            "Priscilla Hon",
+            "Olivia Gadecki",
+            "Anastasia Zakharova",
+            "Rebecca Sramkova",
+            "Lizette Cabrera",
+            "Astra Sharma",
+            "Kamilla Rakhimova",
+            "Anna Bondar",
+            "Anhelina Kalinina",
+            "Rebeka Masarova",
+            "Katie Volynets",
+            "Shuai Zhang",
+            "Fiona Ferro",
+            "Taylah Preston",
+            "Oksana Selekhmeteva",
+            "Elena-Gabriela Ruse",
+            "Alana Subasic",
+            "Victoria Jimenez Kasintseva",
+            "Zeynep Sonmez"
+          ]
         }
       ],
       [
@@ -33896,7 +33972,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-01-02"
     ],
     "AUCKLAND": [
       [
