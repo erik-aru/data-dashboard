@@ -43,6 +43,50 @@
         0,
         "none"
       ]
+    ],
+    "AUCKLAND": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "CANBERRA-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -24903,7 +24947,239 @@
     "       10. ERI HOZUMI / FANG-HSIEN WU \n",
     "           HOZUMI, E/WU, F\n\n",
     "       11. TEREZA MIHALIKOVA / OLIVIA GADECKI \n",
-    "           MIHALIKOVA, T/GADECKI, O\n\n"
+    "           MIHALIKOVA, T/GADECKI, O\n\n",
+    "04:50  AUCKLAND SINGLES draw    \n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/draws\n\n",
+    "       Players added to the draw in AUCKLAND SINGLES:    \n\n",
+    "       1. MAGDA LINETTE \n",
+    "          LINETTE, M\n\n",
+    "       2. ELINA SVITOLINA \n",
+    "          SVITOLINA, E\n\n",
+    "       3. DONNA VEKIC \n",
+    "          VEKIC, D\n\n",
+    "       4. ANNA-LENA FRIEDSAM \n",
+    "          FRIEDSAM, A\n\n",
+    "       5. KATIE BOULTER \n",
+    "          BOULTER, K\n\n",
+    "       6. JESSIKA PONCHET \n",
+    "          PONCHET, J\n\n",
+    "       7. LOUISA CHIRICO \n",
+    "          CHIRICO, L\n\n",
+    "       8. JULIA GRABHER \n",
+    "          GRABHER, J\n\n",
+    "       9. RENATA ZARAZUA \n",
+    "          ZARAZUA, R\n\n",
+    "       10. HANYU GUO \n",
+    "           GUO, H\n\n",
+    "       11. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       12. LULU SUN \n",
+    "           SUN, L\n\n",
+    "       13. YULIIA STARODUBTSEVA \n",
+    "           STARODUBTSEVA, Y\n\n",
+    "       14. EMMA NAVARRO \n",
+    "           NAVARRO, E\n\n",
+    "       15. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       16. CATY MCNALLY \n",
+    "           MCNALLY, C\n\n",
+    "       17. VARVARA GRACHEVA \n",
+    "           GRACHEVA, V\n\n",
+    "       18. CAMILA OSORIO \n",
+    "           OSORIO, C\n\n",
+    "       19. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       20. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       21. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       22. WHITNEY OSUIGWE \n",
+    "           OSUIGWE, W\n\n",
+    "       23. XINYU WANG \n",
+    "           WANG, X\n\n",
+    "       24. ELIZABETH MANDLIK \n",
+    "           MANDLIK, E\n\n",
+    "       25. LEYRE ROMERO GORMAZ \n",
+    "           ROMERO GORMAZ, L\n\n",
+    "       26. SINJA KRAUS \n",
+    "           KRAUS, S\n\n",
+    "       27. PEYTON STEARNS \n",
+    "           STEARNS, P\n\n",
+    "       28. VERONIKA ERJAVEC \n",
+    "           ERJAVEC, V\n\n",
+    "       29. ELISABETTA COCCIARETTO \n",
+    "           COCCIARETTO, E\n\n",
+    "       30. JANICE TJEN \n",
+    "           TJEN, J\n\n",
+    "       31. LINDA KLIMOVICOVA \n",
+    "           KLIMOVICOVA, L\n\n",
+    "       32. ALINA CHARAEVA \n",
+    "           CHARAEVA, A\n\n",
+    "       33. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       34. SONAY KARTAL \n",
+    "           KARTAL, S\n\n",
+    "       35. ALEXANDRA EALA \n",
+    "           EALA, A\n\n",
+    "       36. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "       37. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       38. ELLA SEIDEL \n",
+    "           SEIDEL, E\n\n",
+    "       39. PETRA MARCINKO \n",
+    "           MARCINKO, P\n\n",
+    "       40. KAITLIN QUEVEDO \n",
+    "           QUEVEDO, K\n\n",
+    "       41. LILLI TAGGER \n",
+    "           TAGGER, L\n\n",
+    "       42. IVA JOVIC \n",
+    "           JOVIC, I\n\n",
+    "04:50  AUCKLAND DOUBLES draw    \n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/draws\n\n",
+    "       Players added to the draw in AUCKLAND DOUBLES:    \n\n",
+    "       1. ZHAOXUAN YANG / YIFAN XU \n",
+    "          YANG, Z/XU, Y\n\n",
+    "       2. ERIN ROUTLIFFE / ASIA MUHAMMAD \n",
+    "          ROUTLIFFE, E/MUHAMMAD, A\n\n",
+    "       3. HANYU GUO / KRISTINA MLADENOVIC \n",
+    "          GUO, H/MLADENOVIC, K\n\n",
+    "       4. XINYU WANG / SAISAI ZHENG \n",
+    "          WANG, X/ZHENG, S\n\n",
+    "       5. INGRID MARTINS / LAURA PIGOSSI \n",
+    "          MARTINS, I/PIGOSSI, L\n\n",
+    "       6. ALDILA SUTJIADI / MAKOTO NINOMIYA \n",
+    "          SUTJIADI, A/NINOMIYA, M\n\n",
+    "       7. RENATA ZARAZUA / JESIKA MALECKOVA \n",
+    "          ZARAZUA, R/MALECKOVA, J\n\n",
+    "       8. ANNA SISKOVA / MAGALI KEMPEN \n",
+    "          SISKOVA, A/KEMPEN, M\n\n",
+    "       9. ISABELLE HAVERLAG / MAIA LUMSDEN \n",
+    "          HAVERLAG, I/LUMSDEN, M\n\n",
+    "       10. SABRINA SANTAMARIA / QIANHUI TANG \n",
+    "           SANTAMARIA, S/TANG, Q\n\n",
+    "       11. JANICE TJEN / CATY MCNALLY \n",
+    "           TJEN, J/MCNALLY, C\n\n",
+    "04:50  CANBERRA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/draws\n\n",
+    "       Players added to the draw in CANBERRA-125 SINGLES:    \n\n",
+    "       1. VERA ZVONAREVA \n",
+    "          ZVONAREVA, V\n\n",
+    "       2. MADISON BRENGLE \n",
+    "          BRENGLE, M\n\n",
+    "       3. NURIA PARRIZAS DIAZ \n",
+    "          PARRIZAS DIAZ, N\n\n",
+    "       4. EKATERINE GORGODZE \n",
+    "          GORGODZE, E\n\n",
+    "       5. CAMILLA ROSATELLO \n",
+    "          ROSATELLO, C\n\n",
+    "       6. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       7. TAMARA KORPATSCH \n",
+    "          KORPATSCH, T\n\n",
+    "       8. IRYNA SHYMANOVICH \n",
+    "          SHYMANOVICH, I\n\n",
+    "       9. LUCIA BRONZETTI \n",
+    "          BRONZETTI, L\n\n",
+    "       10. ANASTASIA GASANOVA \n",
+    "           GASANOVA, A\n\n",
+    "       11. ALICE RAME \n",
+    "           RAME, A\n\n",
+    "       12. ENA SHIBAHARA \n",
+    "           SHIBAHARA, E\n\n",
+    "       13. TAMARA ZIDANSEK \n",
+    "           ZIDANSEK, T\n\n",
+    "       14. MIRIAM BULGARU \n",
+    "           BULGARU, M\n\n",
+    "       15. LUCREZIA STEFANINI \n",
+    "           STEFANINI, L\n\n",
+    "       16. DESTANEE AIAVA \n",
+    "           AIAVA, D\n\n",
+    "       17. YUE YUAN \n",
+    "           YUAN, Y\n\n",
+    "       18. CARSON BRANSTINE \n",
+    "           BRANSTINE, C\n\n",
+    "       19. MAI HONTAMA \n",
+    "           HONTAMA, M\n\n",
+    "       20. GUIOMAR MARISTANY ZULETA DE REALES \n",
+    "           MARISTANY ZULETA DE REALES, G\n\n",
+    "       21. SADA NAHIMANA \n",
+    "           NAHIMANA, S\n\n",
+    "       22. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       23. MANON LEONARD \n",
+    "           LEONARD, M\n\n",
+    "       24. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       25. HIMENO SAKATSUME \n",
+    "           SAKATSUME, H\n\n",
+    "       26. DIANE PARRY \n",
+    "           PARRY, D\n\n",
+    "       27. ZHUOXUAN BAI \n",
+    "           BAI, Z\n\n",
+    "       28. MOYUKA UCHIJIMA \n",
+    "           UCHIJIMA, M\n\n",
+    "       29. ELVINA KALIEVA \n",
+    "           KALIEVA, E\n\n",
+    "       30. DARIA SNIGUR \n",
+    "           SNIGUR, D\n\n",
+    "       31. SIJIA WEI \n",
+    "           WEI, S\n\n",
+    "       32. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       33. ANOUK KOEVERMANS \n",
+    "           KOEVERMANS, A\n\n",
+    "       34. DARJA VIDMANOVA \n",
+    "           VIDMANOVA, D\n\n",
+    "       35. SELENA JANICIJEVIC \n",
+    "           JANICIJEVIC, S\n\n",
+    "       36. CAROL YOUNG SUH LEE \n",
+    "           LEE, C\n\n",
+    "       37. MARINA STAKUSIC \n",
+    "           STAKUSIC, M\n\n",
+    "       38. LANLANA TARARUDEE \n",
+    "           TARARUDEE, L\n\n",
+    "       39. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       40. MARY STOIANA \n",
+    "           STOIANA, M\n\n",
+    "       41. NIKOLA BARTUNKOVA \n",
+    "           BARTUNKOVA, N\n\n",
+    "       42. POLINA IATCENKO \n",
+    "           IATCENKO, P\n\n",
+    "       43. TATIANA PROZOROVA \n",
+    "           PROZOROVA, T\n\n",
+    "       44. LOLA RADIVOJEVIC \n",
+    "           RADIVOJEVIC, L\n\n",
+    "       45. ELENA PRIDANKINA \n",
+    "           PRIDANKINA, E\n\n",
+    "       46. HANNE VANDEWINKEL \n",
+    "           VANDEWINKEL, H\n\n",
+    "       47. ALINA KORNEEVA \n",
+    "           KORNEEVA, A\n\n",
+    "       48. TEODORA KOSTOVIC \n",
+    "           KOSTOVIC, T\n\n",
+    "04:50  CANBERRA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/draws\n\n",
+    "       Players added to the draw in CANBERRA-125 DOUBLES:    \n\n",
+    "       1. ENA SHIBAHARA / VERA ZVONAREVA \n",
+    "          SHIBAHARA, E/ZVONAREVA, V\n\n",
+    "       2. CAMILLA ROSATELLO / EKATERINE GORGODZE \n",
+    "          ROSATELLO, C/GORGODZE, E\n\n",
+    "       3. ALEXANDRA OSBORNE / HIROKO KUWATA \n",
+    "          OSBORNE, A/KUWATA, H\n\n",
+    "       4. EN-SHUO LIANG / EUDICE CHONG \n",
+    "          LIANG, E/CHONG, E\n\n",
+    "       5. ELENA MICIC / PETRA HULE \n",
+    "          MICIC, E/HULE, P\n\n",
+    "       6. YI-TSEN CHO / I-HSUAN CHO \n",
+    "          CHO, Y/CHO, I\n\n",
+    "       7. MOMOKO KOBORI / AYANO SHIMIZU \n",
+    "          KOBORI, M/SHIMIZU, A\n\n",
+    "       8. IRYNA SHYMANOVICH / MARIIA KOZYREVA \n",
+    "          SHYMANOVICH, I/KOZYREVA, M\n\n",
+    "       9. LUCIA BRONZETTI / POLINA KUDERMETOVA \n",
+    "          BRONZETTI, L/KUDERMETOVA, P\n\n",
+    "       10. DARJA VIDMANOVA / MARY STOIANA \n",
+    "           VIDMANOVA, D/STOIANA, M\n\n",
+    "       11. QUINN GLEASON / ELENA PRIDANKINA \n",
+    "           GLEASON, Q/PRIDANKINA, E\n\n"
   ],
   "sits": {
     "ROME": [
@@ -33621,6 +33897,198 @@
         }
       ],
       "nothing"
+    ],
+    "AUCKLAND": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        42,
+        {
+          "players": [
+            "MAGDA LINETTE",
+            "ELINA SVITOLINA",
+            "DONNA VEKIC",
+            "ANNA-LENA FRIEDSAM",
+            "KATIE BOULTER",
+            "JESSIKA PONCHET",
+            "LOUISA CHIRICO",
+            "JULIA GRABHER",
+            "RENATA ZARAZUA",
+            "HANYU GUO",
+            "FRANCESCA JONES",
+            "LULU SUN",
+            "YULIIA STARODUBTSEVA",
+            "EMMA NAVARRO",
+            "MAJA CHWALINSKA",
+            "CATY MCNALLY",
+            "VARVARA GRACHEVA",
+            "CAMILA OSORIO",
+            "PANNA UDVARDY",
+            "CAROLE MONNET",
+            "ALYCIA PARKS",
+            "WHITNEY OSUIGWE",
+            "XINYU WANG",
+            "ELIZABETH MANDLIK",
+            "LEYRE ROMERO GORMAZ",
+            "SINJA KRAUS",
+            "PEYTON STEARNS",
+            "VERONIKA ERJAVEC",
+            "ELISABETTA COCCIARETTO",
+            "JANICE TJEN",
+            "LINDA KLIMOVICOVA",
+            "ALINA CHARAEVA",
+            "DARJA SEMENISTAJA",
+            "SONAY KARTAL",
+            "ALEXANDRA EALA",
+            "SARA BEJLEK",
+            "SOFIA COSTOULAS",
+            "ELLA SEIDEL",
+            "PETRA MARCINKO",
+            "KAITLIN QUEVEDO",
+            "LILLI TAGGER",
+            "IVA JOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ZHAOXUAN YANG / YIFAN XU",
+            "ERIN ROUTLIFFE / ASIA MUHAMMAD",
+            "HANYU GUO / KRISTINA MLADENOVIC",
+            "XINYU WANG / SAISAI ZHENG",
+            "INGRID MARTINS / LAURA PIGOSSI",
+            "ALDILA SUTJIADI / MAKOTO NINOMIYA",
+            "RENATA ZARAZUA / JESIKA MALECKOVA",
+            "ANNA SISKOVA / MAGALI KEMPEN",
+            "ISABELLE HAVERLAG / MAIA LUMSDEN",
+            "SABRINA SANTAMARIA / QIANHUI TANG",
+            "JANICE TJEN / CATY MCNALLY"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "CANBERRA-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        48,
+        {
+          "players": [
+            "VERA ZVONAREVA",
+            "MADISON BRENGLE",
+            "NURIA PARRIZAS DIAZ",
+            "EKATERINE GORGODZE",
+            "CAMILLA ROSATELLO",
+            "MAYAR SHERIF",
+            "TAMARA KORPATSCH",
+            "IRYNA SHYMANOVICH",
+            "LUCIA BRONZETTI",
+            "ANASTASIA GASANOVA",
+            "ALICE RAME",
+            "ENA SHIBAHARA",
+            "TAMARA ZIDANSEK",
+            "MIRIAM BULGARU",
+            "LUCREZIA STEFANINI",
+            "DESTANEE AIAVA",
+            "YUE YUAN",
+            "CARSON BRANSTINE",
+            "MAI HONTAMA",
+            "GUIOMAR MARISTANY ZULETA DE REALES",
+            "SADA NAHIMANA",
+            "SIMONA WALTERT",
+            "MANON LEONARD",
+            "JOANNA GARLAND",
+            "HIMENO SAKATSUME",
+            "DIANE PARRY",
+            "ZHUOXUAN BAI",
+            "MOYUKA UCHIJIMA",
+            "ELVINA KALIEVA",
+            "DARIA SNIGUR",
+            "SIJIA WEI",
+            "POLINA KUDERMETOVA",
+            "ANOUK KOEVERMANS",
+            "DARJA VIDMANOVA",
+            "SELENA JANICIJEVIC",
+            "CAROL YOUNG SUH LEE",
+            "MARINA STAKUSIC",
+            "LANLANA TARARUDEE",
+            "DOMINIKA SALKOVA",
+            "MARY STOIANA",
+            "NIKOLA BARTUNKOVA",
+            "POLINA IATCENKO",
+            "TATIANA PROZOROVA",
+            "LOLA RADIVOJEVIC",
+            "ELENA PRIDANKINA",
+            "HANNE VANDEWINKEL",
+            "ALINA KORNEEVA",
+            "TEODORA KOSTOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ENA SHIBAHARA / VERA ZVONAREVA",
+            "CAMILLA ROSATELLO / EKATERINE GORGODZE",
+            "ALEXANDRA OSBORNE / HIROKO KUWATA",
+            "EN-SHUO LIANG / EUDICE CHONG",
+            "ELENA MICIC / PETRA HULE",
+            "YI-TSEN CHO / I-HSUAN CHO",
+            "MOMOKO KOBORI / AYANO SHIMIZU",
+            "IRYNA SHYMANOVICH / MARIIA KOZYREVA",
+            "LUCIA BRONZETTI / POLINA KUDERMETOVA",
+            "DARJA VIDMANOVA / MARY STOIANA",
+            "QUINN GLEASON / ELENA PRIDANKINA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -33631,7 +34099,15 @@
     [
       "BRISBANE",
       800
+    ],
+    [
+      "AUCKLAND",
+      1049
+    ],
+    [
+      "CANBERRA-125",
+      2096
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
