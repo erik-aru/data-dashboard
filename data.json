@@ -25230,7 +25230,57 @@
     "           Jimenez Kasintseva, V\n\n",
     "       24. Zeynep Sonmez \n",
     "           Sonmez, Z\n\n",
-    "12:47  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n"
+    "12:47  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n",
+    "04:42  AUCKLAND QUALS draw    \n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/draws\n\n",
+    "       Players added to the draw in AUCKLAND QUALS:    \n\n",
+    "       1. Darja Semenistaja \n",
+    "          Semenistaja, D\n\n",
+    "       2. Cadence Brace \n",
+    "          Brace, C\n\n",
+    "       3. Louisa Chirico \n",
+    "          Chirico, L\n\n",
+    "       4. Whitney Osuigwe \n",
+    "          Osuigwe, W\n\n",
+    "       5. Veronika Erjavec \n",
+    "          Erjavec, V\n\n",
+    "       6. Aishi Das \n",
+    "          Das, A\n\n",
+    "       7. Elyse Tse \n",
+    "          Tse, E\n\n",
+    "       8. Sofia Costoulas \n",
+    "          Costoulas, S\n\n",
+    "       9. Sinja Kraus \n",
+    "          Kraus, S\n\n",
+    "       10. Anastasija Sevastova \n",
+    "           Sevastova, A\n\n",
+    "       11. Kristina Mladenovic \n",
+    "           Mladenovic, K\n\n",
+    "       12. Anna-Lena Friedsam \n",
+    "           Friedsam, A\n\n",
+    "       13. Yuliia Starodubtseva \n",
+    "           Starodubtseva, Y\n\n",
+    "       14. Jessika Ponchet \n",
+    "           Ponchet, J\n\n",
+    "       15. Laura Pigossi \n",
+    "           Pigossi, L\n\n",
+    "       16. Lilli Tagger \n",
+    "           Tagger, L\n\n",
+    "       17. Leyre Romero Gormaz \n",
+    "           Romero Gormaz, L\n\n",
+    "       18. Gabriela Knutson \n",
+    "           Knutson, G\n\n",
+    "       19. Hanyu Guo \n",
+    "           Guo, H\n\n",
+    "       20. Maja Chwalinska \n",
+    "           Chwalinska, M\n\n",
+    "       21. Kaitlin Quevedo \n",
+    "           Quevedo, K\n\n",
+    "       22. Carole Monnet \n",
+    "           Monnet, C\n\n",
+    "       23. Yeonwoo Ku \n",
+    "           Ku, Y\n\n",
+    "       24. Alina Charaeva \n",
+    "           Charaeva, A\n\n"
   ],
   "sits": {
     "ROME": [
@@ -33977,9 +34027,34 @@
     "AUCKLAND": [
       [
         0,
-        0,
+        24,
         {
-          "players": []
+          "players": [
+            "Darja Semenistaja",
+            "Cadence Brace",
+            "Louisa Chirico",
+            "Whitney Osuigwe",
+            "Veronika Erjavec",
+            "Aishi Das",
+            "Elyse Tse",
+            "Sofia Costoulas",
+            "Sinja Kraus",
+            "Anastasija Sevastova",
+            "Kristina Mladenovic",
+            "Anna-Lena Friedsam",
+            "Yuliia Starodubtseva",
+            "Jessika Ponchet",
+            "Laura Pigossi",
+            "Lilli Tagger",
+            "Leyre Romero Gormaz",
+            "Gabriela Knutson",
+            "Hanyu Guo",
+            "Maja Chwalinska",
+            "Kaitlin Quevedo",
+            "Carole Monnet",
+            "Yeonwoo Ku",
+            "Alina Charaeva"
+          ]
         }
       ],
       [
@@ -34185,5 +34260,5 @@
       2096
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
