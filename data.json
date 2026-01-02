@@ -25280,7 +25280,56 @@
     "       23. Yeonwoo Ku \n",
     "           Ku, Y\n\n",
     "       24. Alina Charaeva \n",
-    "           Charaeva, A\n\n"
+    "           Charaeva, A\n\n",
+    "12:45  OOP in UNITED-CUP appeared \u2605\n       https://www.wtatennis.com/tournament/2084/UNITED-CUP/2026/order-of-play\n\n",
+    "12:45  change in BRISBANE DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/draws\n\n",
+    "       Players added to the draw in BRISBANE DOUBLES:    \n\n",
+    "       1. Su-Wei Hsieh / Jelena Ostapenko \n",
+    "          Hsieh, S/Ostapenko, J\n\n",
+    "       2. Olivia Gadecki / Tereza Mihalikova \n",
+    "          Gadecki, O/Mihalikova, T\n\n",
+    "       3. Eri Hozumi / Fang-Hsien Wu \n",
+    "          Hozumi, E/Wu, F\n\n",
+    "       4. Priscilla Hon / Karolina Muchova \n",
+    "          Hon, P/Muchova, K\n\n",
+    "       5. Irina Khromacheva / Alexandra Panova \n",
+    "          Khromacheva, I/Panova, A\n\n",
+    "       6. Linda Noskova / Clara Tauson \n",
+    "          Noskova, L/Tauson, C\n\n",
+    "       7. Miyu Kato / Fanny Stollar \n",
+    "          Kato, M/Stollar, F\n\n",
+    "       8. Lyudmyla Kichenok / Nadiia Kichenok \n",
+    "          Kichenok, L/Kichenok, N\n\n",
+    "       9. Paula Badosa / Aryna Sabalenka \n",
+    "          Badosa, P/Sabalenka, A\n\n",
+    "       10. Liudmila Samsonova / Shuai Zhang \n",
+    "           Samsonova, L/Zhang, S\n\n",
+    "       11. Kimberly Birrell / Talia Gibson \n",
+    "           Birrell, K/Gibson, T\n\n",
+    "       12. Cristina Bucsa / Ellen Perez \n",
+    "           Bucsa, C/Perez, E\n\n",
+    "       13. Hao-Ching Chan / Xinyu Jiang \n",
+    "           Chan, H/Jiang, X\n\n",
+    "       14. Ekaterina Alexandrova / Mirra Andreeva \n",
+    "           Alexandrova, E/Andreeva, M\n\n",
+    "       15. Sofia Kenin / Desirae Krawczyk \n",
+    "           Kenin, S/Krawczyk, D\n\n",
+    "       16. Anna Danilina / Aleksandra Krunic \n",
+    "           Danilina, A/Krunic, A\n\n",
+    "       Players removed from the draw in BRISBANE DOUBLES:    \n\n",
+    "       1. JELENA OSTAPENKO / SU-WEI HSIEH \n\n",
+    "       2. IRINA KHROMACHEVA / ALEXANDRA PANOVA \n\n",
+    "       3. LYUDMYLA KICHENOK / NADIIA KICHENOK \n\n",
+    "       4. XINYU JIANG / HAO-CHING CHAN \n\n",
+    "       5. ANNA DANILINA / ALEKSANDRA KRUNIC \n\n",
+    "       6. DESIRAE KRAWCZYK / SOFIA KENIN \n\n",
+    "       7. ELLEN PEREZ / CRISTINA BUCSA \n\n",
+    "       8. SHUAI ZHANG / LIUDMILA SAMSONOVA \n\n",
+    "       9. MIYU KATO / FANNY STOLLAR \n\n",
+    "       10. ERI HOZUMI / FANG-HSIEN WU \n\n",
+    "       11. TEREZA MIHALIKOVA / OLIVIA GADECKI \n\n",
+    "12:45  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n",
+    "12:45  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -33888,7 +33937,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-01-02"
     ],
     "BRISBANE": [
       [
@@ -33991,20 +34040,25 @@
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "JELENA OSTAPENKO / SU-WEI HSIEH",
-            "IRINA KHROMACHEVA / ALEXANDRA PANOVA",
-            "LYUDMYLA KICHENOK / NADIIA KICHENOK",
-            "XINYU JIANG / HAO-CHING CHAN",
-            "ANNA DANILINA / ALEKSANDRA KRUNIC",
-            "DESIRAE KRAWCZYK / SOFIA KENIN",
-            "ELLEN PEREZ / CRISTINA BUCSA",
-            "SHUAI ZHANG / LIUDMILA SAMSONOVA",
-            "MIYU KATO / FANNY STOLLAR",
-            "ERI HOZUMI / FANG-HSIEN WU",
-            "TEREZA MIHALIKOVA / OLIVIA GADECKI"
+            "Su-Wei Hsieh / Jelena Ostapenko",
+            "Olivia Gadecki / Tereza Mihalikova",
+            "Eri Hozumi / Fang-Hsien Wu",
+            "Priscilla Hon / Karolina Muchova",
+            "Irina Khromacheva / Alexandra Panova",
+            "Linda Noskova / Clara Tauson",
+            "Miyu Kato / Fanny Stollar",
+            "Lyudmyla Kichenok / Nadiia Kichenok",
+            "Paula Badosa / Aryna Sabalenka",
+            "Liudmila Samsonova / Shuai Zhang",
+            "Kimberly Birrell / Talia Gibson",
+            "Cristina Bucsa / Ellen Perez",
+            "Hao-Ching Chan / Xinyu Jiang",
+            "Ekaterina Alexandrova / Mirra Andreeva",
+            "Sofia Kenin / Desirae Krawczyk",
+            "Anna Danilina / Aleksandra Krunic"
           ]
         }
       ],
@@ -34022,7 +34076,7 @@
           "players": []
         }
       ],
-      "2026-01-02"
+      "2026-01-03"
     ],
     "AUCKLAND": [
       [
@@ -34140,7 +34194,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-01-03"
     ],
     "CANBERRA-125": [
       [
