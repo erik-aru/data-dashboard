@@ -25800,7 +25800,70 @@
     "           Shimizu, A\n\n",
     "       32. Tatiana Prozorova \n",
     "           Prozorova, T\n\n",
-    "12:43  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n"
+    "12:43  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n",
+    "04:50  OOP in UNITED-CUP appeared \u2605\n       https://www.wtatennis.com/tournament/2084/UNITED-CUP/2026/order-of-play\n\n",
+    "04:50  AUCKLAND SINGLES draw    \n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/draws\n\n",
+    "       Players added to the draw in AUCKLAND SINGLES:    \n\n",
+    "       1. Yuliia Starodubtseva \n",
+    "          Starodubtseva, Y\n\n",
+    "       2. Gabriela Knutson \n",
+    "          Knutson, G\n\n",
+    "       3. Sofia Costoulas \n",
+    "          Costoulas, S\n\n",
+    "       4. Whitney Osuigwe \n",
+    "          Osuigwe, W\n\n",
+    "       5. Kaitlin Quevedo \n",
+    "          Quevedo, K\n\n",
+    "       6. Sinja Kraus \n",
+    "          Kraus, S\n\n",
+    "04:50  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n",
+    "04:50  CANBERRA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/draws\n\n",
+    "       Players added to the draw in CANBERRA-125 DOUBLES:    \n\n",
+    "       1. Quinn Gleason / Elena Pridankina \n",
+    "          Gleason, Q/Pridankina, E\n\n",
+    "       2. Roisin Gilheany / Charlotte Kempenaers-Pocz \n",
+    "          Gilheany, R/Kempenaers-Pocz, C\n\n",
+    "       3. Hiroko Kuwata / Alexandra Osborne \n",
+    "          Kuwata, H/Osborne, A\n\n",
+    "       4. Petra Hule / Elena Micic \n",
+    "          Hule, P/Micic, E\n\n",
+    "       5. Eudice Chong / En-Shuo Liang \n",
+    "          Chong, E/Liang, E\n\n",
+    "       6. Lola Radivojevic / Hanne Vandewinkel \n",
+    "          Radivojevic, L/Vandewinkel, H\n\n",
+    "       7. Ena Shibahara / Vera Zvonareva \n",
+    "          Shibahara, E/Zvonareva, V\n\n",
+    "       8. Mary Stoiana / Darja Vidmanova \n",
+    "          Stoiana, M/Vidmanova, D\n\n",
+    "       9. Ekaterine Gorgodze / Camilla Rosatello \n",
+    "          Gorgodze, E/Rosatello, C\n\n",
+    "       10. Elvina Kalieva / Carol Young Suh Lee \n",
+    "           Kalieva, E/Lee, C\n\n",
+    "       11. Guiomar Maristany Zuleta De Reales / Tamara Zidansek \n",
+    "           Maristany Zuleta De Reales, G/Zidansek, T\n\n",
+    "       12. Momoko Kobori / Ayano Shimizu \n",
+    "           Kobori, M/Shimizu, A\n\n",
+    "       13. Anastasia Gasanova / Polina Iatcenko \n",
+    "           Gasanova, A/Iatcenko, P\n\n",
+    "       14. Alina Korneeva / Dominika Salkova \n",
+    "           Korneeva, A/Salkova, D\n\n",
+    "       15. Lucia Bronzetti / Polina Kudermetova \n",
+    "           Bronzetti, L/Kudermetova, P\n\n",
+    "       16. Mariia Kozyreva / Iryna Shymanovich \n",
+    "           Kozyreva, M/Shymanovich, I\n\n",
+    "       Players removed from the draw in CANBERRA-125 DOUBLES:    \n\n",
+    "       1. ENA SHIBAHARA / VERA ZVONAREVA \n\n",
+    "       2. CAMILLA ROSATELLO / EKATERINE GORGODZE \n\n",
+    "       3. ALEXANDRA OSBORNE / HIROKO KUWATA \n\n",
+    "       4. EN-SHUO LIANG / EUDICE CHONG \n\n",
+    "       5. ELENA MICIC / PETRA HULE \n\n",
+    "       6. YI-TSEN CHO / I-HSUAN CHO \n\n",
+    "       7. MOMOKO KOBORI / AYANO SHIMIZU \n\n",
+    "       8. IRYNA SHYMANOVICH / MARIIA KOZYREVA \n\n",
+    "       9. LUCIA BRONZETTI / POLINA KUDERMETOVA \n\n",
+    "       10. DARJA VIDMANOVA / MARY STOIANA \n\n",
+    "       11. QUINN GLEASON / ELENA PRIDANKINA \n\n",
+    "04:50  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -34408,7 +34471,7 @@
           "players": []
         }
       ],
-      "2026-01-03"
+      "2026-01-04"
     ],
     "BRISBANE": [
       [
@@ -34574,19 +34637,24 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Elina Svitolina",
             "Varvara Gracheva",
             "Katie Boulter",
+            "Yuliia Starodubtseva",
             "Monique Barry",
             "Ella Seidel",
             "Sonay Kartal",
             "Janice Tjen",
             "Iva Jovic",
+            "Gabriela Knutson",
             "Panna Udvardy",
             "Sara Bejlek",
+            "Sofia Costoulas",
+            "Whitney Osuigwe",
+            "Kaitlin Quevedo",
             "Peyton Stearns",
             "Magda Linette",
             "Venus Williams",
@@ -34600,6 +34668,7 @@
             "Caty McNally",
             "Sloane Stephens",
             "Renata Zarazua",
+            "Sinja Kraus",
             "Julia Grabher",
             "Francesca Jones",
             "Emma Navarro"
@@ -34644,7 +34713,7 @@
           "players": []
         }
       ],
-      "2026-01-04"
+      "2026-01-05"
     ],
     "CANBERRA-125": [
       [
@@ -34721,20 +34790,25 @@
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "ENA SHIBAHARA / VERA ZVONAREVA",
-            "CAMILLA ROSATELLO / EKATERINE GORGODZE",
-            "ALEXANDRA OSBORNE / HIROKO KUWATA",
-            "EN-SHUO LIANG / EUDICE CHONG",
-            "ELENA MICIC / PETRA HULE",
-            "YI-TSEN CHO / I-HSUAN CHO",
-            "MOMOKO KOBORI / AYANO SHIMIZU",
-            "IRYNA SHYMANOVICH / MARIIA KOZYREVA",
-            "LUCIA BRONZETTI / POLINA KUDERMETOVA",
-            "DARJA VIDMANOVA / MARY STOIANA",
-            "QUINN GLEASON / ELENA PRIDANKINA"
+            "Quinn Gleason / Elena Pridankina",
+            "Roisin Gilheany / Charlotte Kempenaers-Pocz",
+            "Hiroko Kuwata / Alexandra Osborne",
+            "Petra Hule / Elena Micic",
+            "Eudice Chong / En-Shuo Liang",
+            "Lola Radivojevic / Hanne Vandewinkel",
+            "Ena Shibahara / Vera Zvonareva",
+            "Mary Stoiana / Darja Vidmanova",
+            "Ekaterine Gorgodze / Camilla Rosatello",
+            "Elvina Kalieva / Carol Young Suh Lee",
+            "Guiomar Maristany Zuleta De Reales / Tamara Zidansek",
+            "Momoko Kobori / Ayano Shimizu",
+            "Anastasia Gasanova / Polina Iatcenko",
+            "Alina Korneeva / Dominika Salkova",
+            "Lucia Bronzetti / Polina Kudermetova",
+            "Mariia Kozyreva / Iryna Shymanovich"
           ]
         }
       ],
@@ -34752,7 +34826,7 @@
           "players": []
         }
       ],
-      "2026-01-04"
+      "2026-01-05"
     ]
   },
   "torns": [
@@ -34773,5 +34847,5 @@
       2096
     ]
   ],
-  "old_day": 3
+  "old_day": 4
 }
