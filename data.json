@@ -25872,7 +25872,31 @@
     "       Players removed from the draw in BRISBANE SINGLES:    \n\n",
     "       1. Karolina Pliskova \n\n",
     "04:58  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n",
-    "04:58  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n"
+    "04:58  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n",
+    "12:51  change in CANBERRA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/draws\n\n",
+    "       Players added to the draw in CANBERRA-125 SINGLES:    \n\n",
+    "       1. En-Shuo Liang \n",
+    "          Liang, E\n\n",
+    "       2. Tamara Zidansek \n",
+    "          Zidansek, T\n\n",
+    "       3. Polina Iatcenko \n",
+    "          Iatcenko, P\n\n",
+    "       4. Tatiana Prozorova \n",
+    "          Prozorova, T\n\n",
+    "       5. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "       6. Himeno Sakatsume \n",
+    "          Sakatsume, H\n\n",
+    "       7. Elvina Kalieva \n",
+    "          Kalieva, E\n\n",
+    "       8. Ekaterine Gorgodze \n",
+    "          Gorgodze, E\n\n",
+    "12:51  change in CANBERRA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/draws\n\n       Players added to the draw in CANBERRA-125 DOUBLES:    \n\n",
+    "       1. Destanee Aiava / Gabriella Da Silva Fick \n",
+    "          Aiava, D/Da Silva Fick, G\n\n",
+    "       Players removed from the draw in CANBERRA-125 DOUBLES:    \n\n",
+    "       1. Lola Radivojevic / Hanne Vandewinkel \n\n",
+    "12:51  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -34767,31 +34791,39 @@
       ],
       [
         1,
-        24,
+        32,
         {
           "players": [
             "Simona Waltert",
             "Dominika Salkova",
             "Marina Stakusic",
             "Darja Vidmanova",
+            "En-Shuo Liang",
             "Lucrezia Stefanini",
             "Daria Snigur",
             "Tamara Korpatsch",
             "Lucia Bronzetti",
+            "Tamara Zidansek",
             "Lanlana Tararudee",
             "Tina Smith",
+            "Polina Iatcenko",
             "Destanee Aiava",
             "Joanna Garland",
             "Diane Parry",
             "Hanne Vandewinkel",
             "Yue Yuan",
+            "Tatiana Prozorova",
             "Nikola Bartunkova",
             "Lola Radivojevic",
+            "Teodora Kostovic",
             "Alina Korneeva",
             "Polina Kudermetova",
             "Mayar Sherif",
             "Elena Micic",
             "Tahlia Kokkinis",
+            "Himeno Sakatsume",
+            "Elvina Kalieva",
+            "Ekaterine Gorgodze",
             "Madison Brengle",
             "Moyuka Uchijima"
           ]
@@ -34807,7 +34839,7 @@
             "Hiroko Kuwata / Alexandra Osborne",
             "Petra Hule / Elena Micic",
             "Eudice Chong / En-Shuo Liang",
-            "Lola Radivojevic / Hanne Vandewinkel",
+            "Destanee Aiava / Gabriella Da Silva Fick",
             "Ena Shibahara / Vera Zvonareva",
             "Mary Stoiana / Darja Vidmanova",
             "Ekaterine Gorgodze / Camilla Rosatello",
@@ -34835,7 +34867,7 @@
           "players": []
         }
       ],
-      "2026-01-05"
+      "2026-01-06"
     ]
   },
   "torns": [
