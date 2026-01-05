@@ -25864,7 +25864,15 @@
     "       10. DARJA VIDMANOVA / MARY STOIANA \n\n",
     "       11. QUINN GLEASON / ELENA PRIDANKINA \n\n",
     "04:50  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n",
-    "12:43  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n"
+    "12:43  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n",
+    "04:58  OOP in UNITED-CUP appeared \u2605\n       https://www.wtatennis.com/tournament/2084/UNITED-CUP/2026/order-of-play\n\n",
+    "04:58  change in BRISBANE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/draws\n\n       Players added to the draw in BRISBANE SINGLES:    \n\n",
+    "       1. Yulia Putintseva \n",
+    "          Putintseva, Y\n\n",
+    "       Players removed from the draw in BRISBANE SINGLES:    \n\n",
+    "       1. Karolina Pliskova \n\n",
+    "04:58  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n",
+    "04:58  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -34472,7 +34480,7 @@
           "players": []
         }
       ],
-      "2026-01-04"
+      "2026-01-05"
     ],
     "BRISBANE": [
       [
@@ -34555,7 +34563,7 @@
             "Magdalena Frech",
             "Linda Noskova",
             "Marta Kostyuk",
-            "Karolina Pliskova",
+            "Yulia Putintseva",
             "Hailey Baptiste",
             "Kimberly Birrell",
             "Rebecca Sramkova",
@@ -34601,7 +34609,7 @@
           "players": []
         }
       ],
-      "2026-01-05"
+      "2026-01-06"
     ],
     "AUCKLAND": [
       [
@@ -34714,7 +34722,7 @@
           "players": []
         }
       ],
-      "2026-01-05"
+      "2026-01-06"
     ],
     "CANBERRA-125": [
       [
@@ -34848,5 +34856,5 @@
       2096
     ]
   ],
-  "old_day": 4
+  "old_day": 5
 }
