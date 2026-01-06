@@ -25896,7 +25896,13 @@
     "          Aiava, D/Da Silva Fick, G\n\n",
     "       Players removed from the draw in CANBERRA-125 DOUBLES:    \n\n",
     "       1. Lola Radivojevic / Hanne Vandewinkel \n\n",
-    "12:51  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n"
+    "12:51  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n",
+    "04:41  OOP in UNITED-CUP appeared \u2605\n       https://www.wtatennis.com/tournament/2084/UNITED-CUP/2026/order-of-play\n\n",
+    "04:41  change in AUCKLAND DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/draws\n\n       Players added to the draw in AUCKLAND DOUBLES:    \n\n",
+    "       1. Veronika Erjavec / Panna Udvardy \n",
+    "          Erjavec, V/Udvardy, P\n\n",
+    "       Players removed from the draw in AUCKLAND DOUBLES:    \n\n",
+    "       1. Camila Osorio / Peyton Stearns \n\n"
   ],
   "sits": {
     "ROME": [
@@ -34504,7 +34510,7 @@
           "players": []
         }
       ],
-      "2026-01-05"
+      "2026-01-06"
     ],
     "BRISBANE": [
       [
@@ -34723,7 +34729,7 @@
             "Ingrid Martins / Laura Pigossi",
             "Magali Kempen / Anna Siskova",
             "Caty McNally / Janice Tjen",
-            "Camila Osorio / Peyton Stearns",
+            "Veronika Erjavec / Panna Udvardy",
             "Makoto Ninomiya / Aldila Sutjiadi",
             "Sabrina Santamaria / Qianhui Tang",
             "Shuko Aoyama / Magda Linette",
@@ -34888,5 +34894,5 @@
       2096
     ]
   ],
-  "old_day": 5
+  "old_day": 6
 }
