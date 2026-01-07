@@ -25905,7 +25905,9 @@
     "       1. Camila Osorio / Peyton Stearns \n\n",
     "12:50  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n",
     "12:50  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n",
-    "12:50  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n"
+    "12:50  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n",
+    "04:42  OOP in UNITED-CUP appeared \u2605\n       https://www.wtatennis.com/tournament/2084/UNITED-CUP/2026/order-of-play\n\n",
+    "04:42  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -34513,7 +34515,7 @@
           "players": []
         }
       ],
-      "2026-01-06"
+      "2026-01-07"
     ],
     "BRISBANE": [
       [
@@ -34755,7 +34757,7 @@
           "players": []
         }
       ],
-      "2026-01-07"
+      "2026-01-08"
     ],
     "CANBERRA-125": [
       [
@@ -34897,5 +34899,5 @@
       2096
     ]
   ],
-  "old_day": 6
+  "old_day": 7
 }
