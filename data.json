@@ -87,6 +87,50 @@
         0,
         "none"
       ]
+    ],
+    "HOBART": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "ADELAIDE": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -25909,7 +25953,219 @@
     "04:42  OOP in UNITED-CUP appeared \u2605\n       https://www.wtatennis.com/tournament/2084/UNITED-CUP/2026/order-of-play\n\n",
     "04:42  OOP in AUCKLAND appeared \u2605\n       https://www.wtatennis.com/tournament/1049/AUCKLAND/2026/order-of-play\n\n",
     "12:50  OOP in BRISBANE appeared \u2605\n       https://www.wtatennis.com/tournament/800/BRISBANE/2026/order-of-play\n\n",
-    "12:50  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n"
+    "12:50  OOP in CANBERRA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2096/CANBERRA-125/2026/order-of-play\n\n",
+    "04:40  HOBART SINGLES draw    \n       https://www.wtatennis.com/tournament/1050/HOBART/2026/draws\n\n",
+    "       Players added to the draw in HOBART SINGLES:    \n\n",
+    "       1. TATJANA MARIA \n",
+    "          MARIA, T\n\n",
+    "       2. MAGDA LINETTE \n",
+    "          LINETTE, M\n\n",
+    "       3. VIKTORIJA GOLUBIC \n",
+    "          GOLUBIC, V\n\n",
+    "       4. ELISE MERTENS \n",
+    "          MERTENS, E\n\n",
+    "       5. BARBORA KREJCIKOVA \n",
+    "          KREJCIKOVA, B\n\n",
+    "       6. REBECCA SRAMKOVA \n",
+    "          SRAMKOVA, R\n\n",
+    "       7. MAGDALENA FRECH \n",
+    "          FRECH, M\n\n",
+    "       8. JULIA GRABHER \n",
+    "          GRABHER, J\n\n",
+    "       9. RENATA ZARAZUA \n",
+    "          ZARAZUA, R\n\n",
+    "       10. ANNA BONDAR \n",
+    "           BONDAR, A\n\n",
+    "       11. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       12. EMILIANA ARANGO \n",
+    "           ARANGO, E\n\n",
+    "       13. SUZAN LAMENS \n",
+    "           LAMENS, S\n\n",
+    "       14. OLGA DANILOVIC \n",
+    "           DANILOVIC, O\n\n",
+    "       15. CATY MCNALLY \n",
+    "           MCNALLY, C\n\n",
+    "       16. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       17. EVA LYS \n",
+    "           LYS, E\n\n",
+    "       18. VARVARA GRACHEVA \n",
+    "           GRACHEVA, V\n\n",
+    "       19. CAMILA OSORIO \n",
+    "           OSORIO, C\n\n",
+    "       20. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       21. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       22. ANN LI \n",
+    "           LI, A\n\n",
+    "       23. XINYU WANG \n",
+    "           WANG, X\n\n",
+    "       24. MCCARTNEY KESSLER \n",
+    "           KESSLER, M\n\n",
+    "       25. HAILEY BAPTISTE \n",
+    "           BAPTISTE, H\n\n",
+    "       26. MOYUKA UCHIJIMA \n",
+    "           UCHIJIMA, M\n\n",
+    "       27. KATIE VOLYNETS \n",
+    "           VOLYNETS, K\n\n",
+    "       28. PEYTON STEARNS \n",
+    "           STEARNS, P\n\n",
+    "       29. ELISABETTA COCCIARETTO \n",
+    "           COCCIARETTO, E\n\n",
+    "       30. JESSICA BOUZAS MANEIRO \n",
+    "           BOUZAS MANEIRO, J\n\n",
+    "       31. ELSA JACQUEMOT \n",
+    "           JACQUEMOT, E\n\n",
+    "       32. EMMA RADUCANU \n",
+    "           RADUCANU, E\n\n",
+    "       33. JANICE TJEN \n",
+    "           TJEN, J\n\n",
+    "       34. SOLANA SIERRA \n",
+    "           SIERRA, S\n\n",
+    "       35. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       36. ANTONIA RUZIC \n",
+    "           RUZIC, A\n\n",
+    "       37. SONAY KARTAL \n",
+    "           KARTAL, S\n\n",
+    "       38. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "       39. ELLA SEIDEL \n",
+    "           SEIDEL, E\n\n",
+    "       40. PETRA MARCINKO \n",
+    "           MARCINKO, P\n\n",
+    "       41. IVA JOVIC \n",
+    "           JOVIC, I\n\n",
+    "04:40  HOBART DOUBLES draw    \n       https://www.wtatennis.com/tournament/1050/HOBART/2026/draws\n\n",
+    "       Players added to the draw in HOBART DOUBLES:    \n\n",
+    "       1. ZHAOXUAN YANG / YIFAN XU \n",
+    "          YANG, Z/XU, Y\n\n",
+    "       2. MAKOTO NINOMIYA / NADIIA KICHENOK \n",
+    "          NINOMIYA, M/KICHENOK, N\n\n",
+    "       3. XINYU JIANG / HAO-CHING CHAN \n",
+    "          JIANG, X/CHAN, H\n\n",
+    "       4. ALDILA SUTJIADI / GIULIANA OLMOS \n",
+    "          SUTJIADI, A/OLMOS, G\n\n",
+    "       5. FANG-HSIEN WU / ERI HOZUMI \n",
+    "          WU, F/HOZUMI, E\n\n",
+    "       6. ANNA SISKOVA / MAGALI KEMPEN \n",
+    "          SISKOVA, A/KEMPEN, M\n\n",
+    "       7. SABRINA SANTAMARIA / MAIA LUMSDEN \n",
+    "          SANTAMARIA, S/LUMSDEN, M\n\n",
+    "       8. TEREZA MIHALIKOVA / OLIVIA NICHOLLS \n",
+    "          MIHALIKOVA, T/NICHOLLS, O\n\n",
+    "       9. JESIKA MALECKOVA / MIRIAM SKOCH \n",
+    "          MALECKOVA, J/SKOCH, M\n\n",
+    "       10. SHUKO AOYAMA / QIANHUI TANG \n",
+    "           AOYAMA, S/TANG, Q\n\n",
+    "       11. KATARZYNA PITER / JANICE TJEN \n",
+    "           PITER, K/TJEN, J\n\n",
+    "04:40  ADELAIDE SINGLES draw    \n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/draws\n\n",
+    "       Players added to the draw in ADELAIDE SINGLES:    \n\n",
+    "       1. LAURA SIEGEMUND \n",
+    "          SIEGEMUND, L\n\n",
+    "       2. SHUAI ZHANG \n",
+    "          ZHANG, S\n\n",
+    "       3. SORANA CIRSTEA \n",
+    "          CIRSTEA, S\n\n",
+    "       4. ANASTASIA PAVLYUCHENKOVA \n",
+    "          PAVLYUCHENKOVA, A\n\n",
+    "       5. KAROLINA PLISKOVA \n",
+    "          PLISKOVA, K\n\n",
+    "       6. AJLA TOMLJANOVIC \n",
+    "          TOMLJANOVIC, A\n\n",
+    "       7. JESSICA PEGULA \n",
+    "          PEGULA, J\n\n",
+    "       8. MADISON KEYS \n",
+    "          KEYS, M\n\n",
+    "       9. YULIA PUTINTSEVA \n",
+    "          PUTINTSEVA, Y\n\n",
+    "       10. BEATRIZ HADDAD MAIA \n",
+    "           HADDAD MAIA, B\n\n",
+    "       11. MARIA SAKKARI \n",
+    "           SAKKARI, M\n\n",
+    "       12. BELINDA BENCIC \n",
+    "           BENCIC, B\n\n",
+    "       13. EKATERINA ALEXANDROVA \n",
+    "           ALEXANDROVA, E\n\n",
+    "       14. JELENA OSTAPENKO \n",
+    "           OSTAPENKO, J\n\n",
+    "       15. PAULA BADOSA \n",
+    "           BADOSA, P\n\n",
+    "       16. KATERINA SINIAKOVA \n",
+    "           SINIAKOVA, K\n\n",
+    "       17. JAQUELINE  CRISTIAN \n",
+    "           CRISTIAN, J\n\n",
+    "       18. ELENA-GABRIELA RUSE \n",
+    "           RUSE, E\n\n",
+    "       19. SOFIA KENIN \n",
+    "           KENIN, S\n\n",
+    "       20. MARIE BOUZKOVA \n",
+    "           BOUZKOVA, M\n\n",
+    "       21. CRISTINA BUCSA \n",
+    "           BUCSA, C\n\n",
+    "       22. DARIA KASATKINA \n",
+    "           KASATKINA, D\n\n",
+    "       23. LIUDMILA SAMSONOVA \n",
+    "           SAMSONOVA, L\n\n",
+    "       24. MARKETA VONDROUSOVA \n",
+    "           VONDROUSOVA, M\n\n",
+    "       25. ANNA KALINSKAYA \n",
+    "           KALINSKAYA, A\n\n",
+    "       26. DAYANA YASTREMSKA \n",
+    "           YASTREMSKA, D\n\n",
+    "       27. ANNA BLINKOVA \n",
+    "           BLINKOVA, A\n\n",
+    "       28. EMMA NAVARRO \n",
+    "           NAVARRO, E\n\n",
+    "       29. ANASTASIA POTAPOVA \n",
+    "           POTAPOVA, A\n\n",
+    "       30. MARTA KOSTYUK \n",
+    "           KOSTYUK, M\n\n",
+    "       31. LEYLAH FERNANDEZ \n",
+    "           FERNANDEZ, L\n\n",
+    "       32. CLARA TAUSON \n",
+    "           TAUSON, C\n\n",
+    "       33. ASHLYN KRUEGER \n",
+    "           KRUEGER, A\n\n",
+    "       34. LINDA NOSKOVA \n",
+    "           NOSKOVA, L\n\n",
+    "       35. DIANA SHNAIDER \n",
+    "           SHNAIDER, D\n\n",
+    "       36. MAYA JOINT \n",
+    "           JOINT, M\n\n",
+    "       37. TEREZA VALENTOVA \n",
+    "           VALENTOVA, T\n\n",
+    "       38. VICTORIA MBOKO \n",
+    "           MBOKO, V\n\n",
+    "       39. MIRRA ANDREEVA \n",
+    "           ANDREEVA, M\n\n",
+    "04:40  ADELAIDE DOUBLES draw    \n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/draws\n\n",
+    "       Players added to the draw in ADELAIDE DOUBLES:    \n\n",
+    "       1. JELENA OSTAPENKO / SU-WEI HSIEH \n",
+    "          OSTAPENKO, J/HSIEH, S\n\n",
+    "       2. IRINA KHROMACHEVA / ALEXANDRA PANOVA \n",
+    "          KHROMACHEVA, I/PANOVA, A\n\n",
+    "       3. ERIN ROUTLIFFE / ASIA MUHAMMAD \n",
+    "          ROUTLIFFE, E/MUHAMMAD, A\n\n",
+    "       4. ANNA DANILINA / ALEKSANDRA KRUNIC \n",
+    "          DANILINA, A/KRUNIC, A\n\n",
+    "       5. ELLEN PEREZ / DEMI SCHUURS \n",
+    "          PEREZ, E/SCHUURS, D\n\n",
+    "       6. LYUDMYLA KICHENOK / DESIRAE KRAWCZYK \n",
+    "          KICHENOK, L/KRAWCZYK, D\n\n",
+    "       7. SHUAI ZHANG / KATERINA SINIAKOVA \n",
+    "          ZHANG, S/SINIAKOVA, K\n\n",
+    "       8. LAURA SIEGEMUND / SOFIA KENIN \n",
+    "          SIEGEMUND, L/KENIN, S\n\n",
+    "       9. GABRIELA DABROWSKI / LUISA STEFANI \n",
+    "          DABROWSKI, G/STEFANI, L\n\n",
+    "       10. NICOLE MELICHAR-MARTINEZ / CRISTINA BUCSA \n",
+    "           MELICHAR-MARTINEZ, N/BUCSA, C\n\n",
+    "       11. MIYU KATO / FANNY STOLLAR \n",
+    "           KATO, M/STOLLAR, F\n\n"
   ],
   "sits": {
     "ROME": [
@@ -34881,6 +35137,188 @@
         }
       ],
       "2026-01-08"
+    ],
+    "HOBART": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        41,
+        {
+          "players": [
+            "TATJANA MARIA",
+            "MAGDA LINETTE",
+            "VIKTORIJA GOLUBIC",
+            "ELISE MERTENS",
+            "BARBORA KREJCIKOVA",
+            "REBECCA SRAMKOVA",
+            "MAGDALENA FRECH",
+            "JULIA GRABHER",
+            "RENATA ZARAZUA",
+            "ANNA BONDAR",
+            "FRANCESCA JONES",
+            "EMILIANA ARANGO",
+            "SUZAN LAMENS",
+            "OLGA DANILOVIC",
+            "CATY MCNALLY",
+            "SIMONA WALTERT",
+            "EVA LYS",
+            "VARVARA GRACHEVA",
+            "CAMILA OSORIO",
+            "PANNA UDVARDY",
+            "ALYCIA PARKS",
+            "ANN LI",
+            "XINYU WANG",
+            "MCCARTNEY KESSLER",
+            "HAILEY BAPTISTE",
+            "MOYUKA UCHIJIMA",
+            "KATIE VOLYNETS",
+            "PEYTON STEARNS",
+            "ELISABETTA COCCIARETTO",
+            "JESSICA BOUZAS MANEIRO",
+            "ELSA JACQUEMOT",
+            "EMMA RADUCANU",
+            "JANICE TJEN",
+            "SOLANA SIERRA",
+            "OKSANA SELEKHMETEVA",
+            "ANTONIA RUZIC",
+            "SONAY KARTAL",
+            "SARA BEJLEK",
+            "ELLA SEIDEL",
+            "PETRA MARCINKO",
+            "IVA JOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ZHAOXUAN YANG / YIFAN XU",
+            "MAKOTO NINOMIYA / NADIIA KICHENOK",
+            "XINYU JIANG / HAO-CHING CHAN",
+            "ALDILA SUTJIADI / GIULIANA OLMOS",
+            "FANG-HSIEN WU / ERI HOZUMI",
+            "ANNA SISKOVA / MAGALI KEMPEN",
+            "SABRINA SANTAMARIA / MAIA LUMSDEN",
+            "TEREZA MIHALIKOVA / OLIVIA NICHOLLS",
+            "JESIKA MALECKOVA / MIRIAM SKOCH",
+            "SHUKO AOYAMA / QIANHUI TANG",
+            "KATARZYNA PITER / JANICE TJEN"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "ADELAIDE": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        39,
+        {
+          "players": [
+            "LAURA SIEGEMUND",
+            "SHUAI ZHANG",
+            "SORANA CIRSTEA",
+            "ANASTASIA PAVLYUCHENKOVA",
+            "KAROLINA PLISKOVA",
+            "AJLA TOMLJANOVIC",
+            "JESSICA PEGULA",
+            "MADISON KEYS",
+            "YULIA PUTINTSEVA",
+            "BEATRIZ HADDAD MAIA",
+            "MARIA SAKKARI",
+            "BELINDA BENCIC",
+            "EKATERINA ALEXANDROVA",
+            "JELENA OSTAPENKO",
+            "PAULA BADOSA",
+            "KATERINA SINIAKOVA",
+            "JAQUELINE  CRISTIAN",
+            "ELENA-GABRIELA RUSE",
+            "SOFIA KENIN",
+            "MARIE BOUZKOVA",
+            "CRISTINA BUCSA",
+            "DARIA KASATKINA",
+            "LIUDMILA SAMSONOVA",
+            "MARKETA VONDROUSOVA",
+            "ANNA KALINSKAYA",
+            "DAYANA YASTREMSKA",
+            "ANNA BLINKOVA",
+            "EMMA NAVARRO",
+            "ANASTASIA POTAPOVA",
+            "MARTA KOSTYUK",
+            "LEYLAH FERNANDEZ",
+            "CLARA TAUSON",
+            "ASHLYN KRUEGER",
+            "LINDA NOSKOVA",
+            "DIANA SHNAIDER",
+            "MAYA JOINT",
+            "TEREZA VALENTOVA",
+            "VICTORIA MBOKO",
+            "MIRRA ANDREEVA"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "JELENA OSTAPENKO / SU-WEI HSIEH",
+            "IRINA KHROMACHEVA / ALEXANDRA PANOVA",
+            "ERIN ROUTLIFFE / ASIA MUHAMMAD",
+            "ANNA DANILINA / ALEKSANDRA KRUNIC",
+            "ELLEN PEREZ / DEMI SCHUURS",
+            "LYUDMYLA KICHENOK / DESIRAE KRAWCZYK",
+            "SHUAI ZHANG / KATERINA SINIAKOVA",
+            "LAURA SIEGEMUND / SOFIA KENIN",
+            "GABRIELA DABROWSKI / LUISA STEFANI",
+            "NICOLE MELICHAR-MARTINEZ / CRISTINA BUCSA",
+            "MIYU KATO / FANNY STOLLAR"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -34899,7 +35337,15 @@
     [
       "CANBERRA-125",
       2096
+    ],
+    [
+      "HOBART",
+      1050
+    ],
+    [
+      "ADELAIDE",
+      2014
     ]
   ],
-  "old_day": 7
+  "old_day": 8
 }
