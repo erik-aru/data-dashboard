@@ -26568,7 +26568,30 @@
     "       6. Katie Volynets \n",
     "          Volynets, K\n\n",
     "       7. Caty McNally \n",
-    "          McNally, C\n\n"
+    "          McNally, C\n\n",
+    "12:45  OOP in HOBART appeared \u2605\n       https://www.wtatennis.com/tournament/1050/HOBART/2026/order-of-play\n\n",
+    "12:45  change in ADELAIDE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/draws\n\n",
+    "       Players added to the draw in ADELAIDE SINGLES:    \n\n",
+    "       1. Marie Bouzkova \n",
+    "          Bouzkova, M\n\n",
+    "       2. Sorana Cirstea \n",
+    "          Cirstea, S\n\n",
+    "       3. Yulia Putintseva \n",
+    "          Putintseva, Y\n\n",
+    "       4. Dalma Galfi \n",
+    "          Galfi, D\n\n",
+    "       5. Anastasia Potapova \n",
+    "          Potapova, A\n\n",
+    "       6. Jaqueline Cristian \n",
+    "          Cristian, J\n\n",
+    "       7. Elena-Gabriela Ruse \n",
+    "          Ruse, E\n\n",
+    "       8. Tereza Valentova \n",
+    "          Valentova, T\n\n",
+    "       Players removed from the draw in ADELAIDE SINGLES:    \n\n",
+    "       1. Jessica Pegula \n\n",
+    "       2. Marta Kostyuk \n\n",
+    "12:45  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -35652,7 +35675,7 @@
           "players": []
         }
       ],
-      "2026-01-11"
+      "2026-01-12"
     ],
     "ADELAIDE": [
       [
@@ -35689,32 +35712,38 @@
       ],
       [
         1,
-        24,
+        30,
         {
           "players": [
-            "Jessica Pegula",
+            "Mirra Andreeva",
             "Paula Badosa",
+            "Marie Bouzkova",
             "Maya Joint",
             "Sofia Kenin",
             "Ajla Tomljanovic",
             "Clara Tauson",
-            "Mirra Andreeva",
+            "Diana Shnaider",
             "Leylah Fernandez",
+            "Sorana Cirstea",
             "Dayana Yastremska",
-            "Marta Kostyuk",
+            "Yulia Putintseva",
+            "Dalma Galfi",
             "Emerson Jones",
             "Emma Navarro",
             "Liudmila Samsonova",
             "Marketa Vondrousova",
             "Kimberly Birrell",
-            "Diana Shnaider",
+            "Anastasia Potapova",
             "Daria Kasatkina",
             "Maria Sakkari",
+            "Jaqueline Cristian",
             "Ekaterina Alexandrova",
             "Victoria Mboko",
             "Beatriz Haddad Maia",
             "Anna Kalinskaya",
+            "Elena-Gabriela Ruse",
             "Jelena Ostapenko",
+            "Tereza Valentova",
             "Madison Keys"
           ]
         }
@@ -35757,7 +35786,7 @@
           "players": []
         }
       ],
-      "2026-01-11"
+      "2026-01-12"
     ]
   },
   "torns": [
