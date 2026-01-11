@@ -66,28 +66,6 @@
         "none"
       ]
     ],
-    "CANBERRA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "HOBART": [
       [
         0,
@@ -26574,7 +26552,23 @@
     "       9. GABRIELA DABROWSKI / LUISA STEFANI \n\n",
     "       10. NICOLE MELICHAR-MARTINEZ / CRISTINA BUCSA \n\n",
     "       11. MIYU KATO / FANNY STOLLAR \n\n",
-    "12:43  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n"
+    "12:43  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n",
+    "04:49  HOBART SINGLES draw    \n       https://www.wtatennis.com/tournament/1050/HOBART/2026/draws\n\n",
+    "       Players added to the draw in HOBART SINGLES:    \n\n",
+    "       1. Renata Zarazua \n",
+    "          Zarazua, R\n\n",
+    "       2. Oksana Selekhmeteva \n",
+    "          Selekhmeteva, O\n\n",
+    "       3. Ella Seidel \n",
+    "          Seidel, E\n\n",
+    "       4. Ayano Shimizu \n",
+    "          Shimizu, A\n\n",
+    "       5. Elisabetta Cocciaretto \n",
+    "          Cocciaretto, E\n\n",
+    "       6. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       7. Caty McNally \n",
+    "          McNally, C\n\n"
   ],
   "sits": {
     "ROME": [
@@ -35582,7 +35576,7 @@
       ],
       [
         1,
-        25,
+        32,
         {
           "players": [
             "Emma Raducanu",
@@ -35595,16 +35589,23 @@
             "Jessica Bouzas Maneiro",
             "Iva Jovic",
             "Janice Tjen",
+            "Renata Zarazua",
             "Hailey Baptiste",
             "Xinyu Wang",
             "Talia Gibson",
+            "Oksana Selekhmeteva",
             "Magda Linette",
             "Tatjana Maria",
             "Venus Williams",
             "Anna Bondar",
+            "Ella Seidel",
+            "Ayano Shimizu",
+            "Elisabetta Cocciaretto",
+            "Katie Volynets",
             "Ann Li",
             "Emiliana Arango",
             "Antonia Ruzic",
+            "Caty McNally",
             "Solana Sierra",
             "Peyton Stearns",
             "Barbora Krejcikova",
@@ -35773,10 +35774,6 @@
       1049
     ],
     [
-      "CANBERRA-125",
-      2096
-    ],
-    [
       "HOBART",
       1050
     ],
@@ -35785,5 +35782,5 @@
       2014
     ]
   ],
-  "old_day": 10
+  "old_day": 11
 }
