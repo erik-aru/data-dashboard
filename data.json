@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "AUSTRALIAN-OPEN": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -26548,7 +26570,10 @@
     "          Fossa Huergo, N/Galfi, D\n\n",
     "       Players removed from the draw in ADELAIDE DOUBLES:    \n\n",
     "       1. Anastasia Potapova / Vera Zvonareva \n\n",
-    "12:52  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n"
+    "12:52  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n",
+    "12:52  OOP in HOBART appeared \u2605\n       https://www.wtatennis.com/tournament/1050/HOBART/2026/order-of-play\n\n",
+    "12:52  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n",
+    "12:52  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -35632,7 +35657,7 @@
           "players": []
         }
       ],
-      "2026-01-14"
+      "2026-01-15"
     ],
     "ADELAIDE": [
       [
@@ -35743,7 +35768,45 @@
           "players": []
         }
       ],
-      "2026-01-14"
+      "2026-01-15"
+    ],
+    "AUSTRALIAN-OPEN": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        2,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "2026-01-15"
     ]
   },
   "torns": [
@@ -35754,7 +35817,11 @@
     [
       "ADELAIDE",
       2014
+    ],
+    [
+      "AUSTRALIAN-OPEN",
+      901
     ]
   ],
-  "old_day": 13
+  "old_day": 14
 }
