@@ -26837,7 +26837,8 @@
     "       32. Iga Swiatek \n",
     "           Swiatek, I\n\n",
     "12:50  OOP in HOBART appeared \u2605\n       https://www.wtatennis.com/tournament/1050/HOBART/2026/order-of-play\n\n",
-    "12:50  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n"
+    "12:50  OOP in ADELAIDE appeared \u2605\n       https://www.wtatennis.com/tournament/2014/ADELAIDE/2026/order-of-play\n\n",
+    "04:33  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -36199,7 +36200,7 @@
           "players": []
         }
       ],
-      "2026-01-15"
+      "2026-01-18"
     ]
   },
   "torns": [
@@ -36216,5 +36217,5 @@
       901
     ]
   ],
-  "old_day": 16
+  "old_day": 17
 }
