@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "HOBART": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "ADELAIDE": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "AUSTRALIAN-OPEN": [
       [
         0,
@@ -26968,7 +26924,13 @@
     "       63. Maia Lumsden / Qianhui Tang \n",
     "           Lumsden, M/Tang, Q\n\n",
     "       64. Sara Errani / Jasmine Paolini \n",
-    "           Errani, S/Paolini, J\n\n"
+    "           Errani, S/Paolini, J\n\n",
+    "04:42  change in AUSTRALIAN-OPEN SINGLES \u2605   \n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/draws\n\n       Players added to the draw in AUSTRALIAN-OPEN SINGLES:    \n\n",
+    "       1. Taylor Townsend \n",
+    "          Townsend, T\n\n",
+    "       Players removed from the draw in AUSTRALIAN-OPEN SINGLES:    \n\n",
+    "       1. Marketa Vondrousova \n\n",
+    "04:42  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -36217,7 +36179,7 @@
             "Storm Hunter",
             "Jessica Bouzas Maneiro",
             "Hailey Baptiste",
-            "Marketa Vondrousova",
+            "Taylor Townsend",
             "Karolina Muchova",
             "Jaqueline Cristian",
             "Alycia Parks",
@@ -36395,22 +36357,14 @@
           "players": []
         }
       ],
-      "2026-01-18"
+      "2026-01-19"
     ]
   },
   "torns": [
-    [
-      "HOBART",
-      1050
-    ],
-    [
-      "ADELAIDE",
-      2014
-    ],
     [
       "AUSTRALIAN-OPEN",
       901
     ]
   ],
-  "old_day": 17
+  "old_day": 18
 }
