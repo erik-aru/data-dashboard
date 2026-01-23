@@ -27063,7 +27063,30 @@
     "          FOSSA HUERGO, N/SEMENISTAJA, D\n\n",
     "       9. YU-YUN LI / SARA SAITO \n",
     "          LI, Y/SAITO, S\n\n",
-    "04:45  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n"
+    "04:45  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n",
+    "12:52  NEW draw in MANILA-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/draws\n\n",
+    "       Players added to the draw in MANILA-125 QUALS:    \n\n",
+    "       1. Sakura Hosogi \n",
+    "          Hosogi, S\n\n",
+    "       2. Angeline Alcala \n",
+    "          Alcala, A\n\n",
+    "       3. Stefi Marithe Aludo \n",
+    "          Aludo, S\n\n",
+    "       4. Rina Saigo \n",
+    "          Saigo, R\n\n",
+    "       5. Lauraine Jallorina \n",
+    "          Jallorina, L\n\n",
+    "       6. Peangtarn Plipuech \n",
+    "          Plipuech, P\n\n",
+    "       7. Viktoria Morvayova \n",
+    "          Morvayova, V\n\n",
+    "       8. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       9. Miho Kuramochi \n",
+    "          Kuramochi, M\n\n",
+    "       10. Mia Horvit \n",
+    "           Horvit, M\n\n",
+    "12:52  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -36495,9 +36518,20 @@
     "MANILA-125": [
       [
         0,
-        0,
+        10,
         {
-          "players": []
+          "players": [
+            "Sakura Hosogi",
+            "Angeline Alcala",
+            "Stefi Marithe Aludo",
+            "Rina Saigo",
+            "Lauraine Jallorina",
+            "Peangtarn Plipuech",
+            "Viktoria Morvayova",
+            "Nicole Fossa Huergo",
+            "Miho Kuramochi",
+            "Mia Horvit"
+          ]
         }
       ],
       [
@@ -36577,7 +36611,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-01-24"
     ]
   },
   "torns": [
