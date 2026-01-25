@@ -27185,7 +27185,59 @@
     "       36. LUISINA GIOVANNINI \n\n",
     "       37. CAROLYN ANSARI \n\n",
     "       38. SARA SAITO \n\n",
-    "12:45  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n"
+    "12:45  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n",
+    "12:47  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n",
+    "12:47  change in MANILA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/draws\n\n",
+    "       Players added to the draw in MANILA-125 SINGLES:    \n\n",
+    "       1. Viktoria Morvayova \n",
+    "          Morvayova, V\n\n",
+    "       2. Miho Kuramochi \n",
+    "          Kuramochi, M\n\n",
+    "       3. Peangtarn Plipuech \n",
+    "          Plipuech, P\n\n",
+    "       4. Sakura Hosogi \n",
+    "          Hosogi, S\n\n",
+    "12:47  change in MANILA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/draws\n\n",
+    "       Players added to the draw in MANILA-125 DOUBLES:    \n\n",
+    "       1. Quinn Gleason / Sabrina Santamaria \n",
+    "          Gleason, Q/Santamaria, S\n\n",
+    "       2. Hiroko Kuwata / Qiu Yu Ye \n",
+    "          Kuwata, H/Ye, Q\n\n",
+    "       3. Elizabeth Abarquez / Rovie Baulete \n",
+    "          Abarquez, E/Baulete, R\n\n",
+    "       4. Nicole Fossa Huergo / Darja Semenistaja \n",
+    "          Fossa Huergo, N/Semenistaja, D\n\n",
+    "       5. Kaye Ann Emana / Justine Hannah Maneja \n",
+    "          Emana, K/Maneja, J\n\n",
+    "       6. Angeline Alcala / Joanna Victoria Pena \n",
+    "          Alcala, A/Pena, J\n\n",
+    "       7. Yu-Yun Li / Sara Saito \n",
+    "          Li, Y/Saito, S\n\n",
+    "       8. Ye-Xin Ma / Mananchaya Sawangkaew \n",
+    "          Ma, Y/Sawangkaew, M\n\n",
+    "       9. Thasaporn Naklo / Peangtarn Plipuech \n",
+    "          Naklo, T/Plipuech, P\n\n",
+    "       10. Solana Sierra / Lin Zhu \n",
+    "           Sierra, S/Zhu, L\n\n",
+    "       11. I-Hsuan Cho / Yi-Tsen Cho \n",
+    "           Cho, I/Cho, Y\n\n",
+    "       12. Mana Ayukawa / Kanako Morisaki \n",
+    "           Ayukawa, M/Morisaki, K\n\n",
+    "       13. Stefi Marithe Aludo / Tennielle Madis \n",
+    "           Aludo, S/Madis, T\n\n",
+    "       14. Eudice Chong / En-Shuo Liang \n",
+    "           Chong, E/Liang, E\n\n",
+    "       Players removed from the draw in MANILA-125 DOUBLES:    \n\n",
+    "       1. ALDILA SUTJIADI / GIULIANA OLMOS \n\n",
+    "       2. MANA AYUKAWA / KANAKO MORISAKI \n\n",
+    "       3. HIROKO KUWATA / QIU YU YE \n\n",
+    "       4. SABRINA SANTAMARIA / ENA SHIBAHARA \n\n",
+    "       5. WOZUKO MDLULWA / WARONA MDLULWA \n\n",
+    "       6. YI-TSEN CHO / I-HSUAN CHO \n\n",
+    "       7. PEANGTARN PLIPUECH / THASAPORN NAKLO \n\n",
+    "       8. NICOLE FOSSA HUERGO / DARJA SEMENISTAJA \n\n",
+    "       9. YU-YUN LI / SARA SAITO \n\n",
+    "12:47  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -36612,7 +36664,7 @@
           "players": []
         }
       ],
-      "2026-01-25"
+      "2026-01-26"
     ],
     "MANILA-125": [
       [
@@ -36635,7 +36687,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Tatjana Maria",
@@ -36643,6 +36695,7 @@
             "Kaye Ann Emana",
             "Tatiana Prozorova",
             "Sofia Costoulas",
+            "Viktoria Morvayova",
             "Ye-Xin Ma",
             "Darja Semenistaja",
             "Donna Vekic",
@@ -36656,10 +36709,13 @@
             "Simona Waltert",
             "Lanlana Tararudee",
             "Polina Kudermetova",
+            "Miho Kuramochi",
+            "Peangtarn Plipuech",
             "Yuliia Starodubtseva",
             "Joanna Garland",
             "Solana Sierra",
             "Camila Osorio",
+            "Sakura Hosogi",
             "Elizabeth Abarquez",
             "Mai Hontama",
             "Nao Hibino",
@@ -36671,18 +36727,23 @@
       ],
       [
         2,
-        9,
+        14,
         {
           "players": [
-            "ALDILA SUTJIADI / GIULIANA OLMOS",
-            "MANA AYUKAWA / KANAKO MORISAKI",
-            "HIROKO KUWATA / QIU YU YE",
-            "SABRINA SANTAMARIA / ENA SHIBAHARA",
-            "WOZUKO MDLULWA / WARONA MDLULWA",
-            "YI-TSEN CHO / I-HSUAN CHO",
-            "PEANGTARN PLIPUECH / THASAPORN NAKLO",
-            "NICOLE FOSSA HUERGO / DARJA SEMENISTAJA",
-            "YU-YUN LI / SARA SAITO"
+            "Quinn Gleason / Sabrina Santamaria",
+            "Hiroko Kuwata / Qiu Yu Ye",
+            "Elizabeth Abarquez / Rovie Baulete",
+            "Nicole Fossa Huergo / Darja Semenistaja",
+            "Kaye Ann Emana / Justine Hannah Maneja",
+            "Angeline Alcala / Joanna Victoria Pena",
+            "Yu-Yun Li / Sara Saito",
+            "Ye-Xin Ma / Mananchaya Sawangkaew",
+            "Thasaporn Naklo / Peangtarn Plipuech",
+            "Solana Sierra / Lin Zhu",
+            "I-Hsuan Cho / Yi-Tsen Cho",
+            "Mana Ayukawa / Kanako Morisaki",
+            "Stefi Marithe Aludo / Tennielle Madis",
+            "Eudice Chong / En-Shuo Liang"
           ]
         }
       ],
@@ -36700,7 +36761,7 @@
           "players": []
         }
       ],
-      "2026-01-25"
+      "2026-01-26"
     ]
   },
   "torns": [
