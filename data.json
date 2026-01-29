@@ -109,6 +109,28 @@
         0,
         "none"
       ]
+    ],
+    "MUMBAI-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -27593,7 +27615,93 @@
     "          NICHOLLS, O/MIHALIKOVA, T\n\n",
     "       8. STORM HUNTER / MAYA JOINT \n",
     "          HUNTER, S/JOINT, M\n\n",
-    "12:55  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n"
+    "12:55  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n",
+    "05:06  MUMBAI-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/draws\n\n",
+    "       Players added to the draw in MUMBAI-125 SINGLES:    \n\n",
+    "       1. ARANTXA RUS \n",
+    "          RUS, A\n\n",
+    "       2. POLONA HERCOG \n",
+    "          HERCOG, P\n\n",
+    "       3. HARUKA KAJI \n",
+    "          KAJI, H\n\n",
+    "       4. LEOLIA JEANJEAN \n",
+    "          JEANJEAN, L\n\n",
+    "       5. KIMBERLY BIRRELL \n",
+    "          BIRRELL, K\n\n",
+    "       6. VAIDEHEE CHAUDHARI \n",
+    "          CHAUDHARI, V\n\n",
+    "       7. MARINA BASSOLS RIBERA \n",
+    "          BASSOLS RIBERA, M\n\n",
+    "       8. VIKTORIA MORVAYOVA \n",
+    "          MORVAYOVA, V\n\n",
+    "       9. LULU SUN \n",
+    "          SUN, L\n\n",
+    "       10. MAI HONTAMA \n",
+    "           HONTAMA, M\n\n",
+    "       11. ERI SHIMIZU \n",
+    "           SHIMIZU, E\n\n",
+    "       12. MEI YAMAGUCHI \n",
+    "           YAMAGUCHI, M\n\n",
+    "       13. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       14. RINA SAIGO \n",
+    "           SAIGO, R\n\n",
+    "       15. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       16. SOHYUN PARK \n",
+    "           PARK, S\n\n",
+    "       17. MISAKI MATSUDA \n",
+    "           MATSUDA, M\n\n",
+    "       18. MANANCHAYA SAWANGKAEW \n",
+    "           SAWANGKAEW, M\n\n",
+    "       19. DILETTA CHERUBINI \n",
+    "           CHERUBINI, D\n\n",
+    "       20. PRISKA NUGROHO \n",
+    "           NUGROHO, P\n\n",
+    "       21. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       22. FANGRAN TIAN \n",
+    "           TIAN, F\n\n",
+    "       23. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       24. LANLANA TARARUDEE \n",
+    "           TARARUDEE, L\n\n",
+    "       25. TARA WUERTH \n",
+    "           WUERTH, T\n\n",
+    "       26. POLINA IATCENKO \n",
+    "           IATCENKO, P\n\n",
+    "       27. YARA BARTASHEVICH \n",
+    "           BARTASHEVICH, Y\n\n",
+    "       28. TATIANA PROZOROVA \n",
+    "           PROZOROVA, T\n\n",
+    "       29. YASMINE KABBAJ \n",
+    "           KABBAJ, Y\n\n",
+    "       30. HANNE VANDEWINKEL \n",
+    "           VANDEWINKEL, H\n\n",
+    "       31. SAHAJA  YAMALAPALLI \n",
+    "           YAMALAPALLI, S\n\n",
+    "       32. MIHO KURAMOCHI \n",
+    "           KURAMOCHI, M\n\n",
+    "       33. MINGGE XU \n",
+    "           XU, M\n\n",
+    "       34. KRISTIANA SIDOROVA \n",
+    "           SIDOROVA, K\n\n",
+    "       35. LILLI TAGGER \n",
+    "           TAGGER, L\n\n",
+    "       36. ALEVTINA IBRAGIMOVA \n",
+    "           IBRAGIMOVA, A\n\n",
+    "       37. ZUZANNA PAWLIKOWSKA \n",
+    "           PAWLIKOWSKA, Z\n\n",
+    "05:06  MUMBAI-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/draws\n\n",
+    "       Players added to the draw in MUMBAI-125 DOUBLES:    \n\n",
+    "       1. RUTUJA BHOSALE / PEANGTARN PLIPUECH \n",
+    "          BHOSALE, R/PLIPUECH, P\n\n",
+    "       2. NAIMA KARAMOKO / CAROLE MONNET \n",
+    "          KARAMOKO, N/MONNET, C\n\n",
+    "       3. HIROKO KUWATA / SOHYUN PARK \n",
+    "          KUWATA, H/PARK, S\n\n",
+    "       4. PRARTHANA THOMBARE / ALEVTINA IBRAGIMOVA \n",
+    "          THOMBARE, P/IBRAGIMOVA, A\n\n"
   ],
   "sits": {
     "ROME": [
@@ -37374,6 +37482,87 @@
         }
       ],
       "nothing"
+    ],
+    "MUMBAI-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "ARANTXA RUS",
+            "POLONA HERCOG",
+            "HARUKA KAJI",
+            "LEOLIA JEANJEAN",
+            "KIMBERLY BIRRELL",
+            "VAIDEHEE CHAUDHARI",
+            "MARINA BASSOLS RIBERA",
+            "VIKTORIA MORVAYOVA",
+            "LULU SUN",
+            "MAI HONTAMA",
+            "ERI SHIMIZU",
+            "MEI YAMAGUCHI",
+            "CAROLE MONNET",
+            "RINA SAIGO",
+            "JOANNA GARLAND",
+            "SOHYUN PARK",
+            "MISAKI MATSUDA",
+            "MANANCHAYA SAWANGKAEW",
+            "DILETTA CHERUBINI",
+            "PRISKA NUGROHO",
+            "POLINA KUDERMETOVA",
+            "FANGRAN TIAN",
+            "DARJA SEMENISTAJA",
+            "LANLANA TARARUDEE",
+            "TARA WUERTH",
+            "POLINA IATCENKO",
+            "YARA BARTASHEVICH",
+            "TATIANA PROZOROVA",
+            "YASMINE KABBAJ",
+            "HANNE VANDEWINKEL",
+            "SAHAJA  YAMALAPALLI",
+            "MIHO KURAMOCHI",
+            "MINGGE XU",
+            "KRISTIANA SIDOROVA",
+            "LILLI TAGGER",
+            "ALEVTINA IBRAGIMOVA",
+            "ZUZANNA PAWLIKOWSKA"
+          ]
+        }
+      ],
+      [
+        2,
+        4,
+        {
+          "players": [
+            "RUTUJA BHOSALE / PEANGTARN PLIPUECH",
+            "NAIMA KARAMOKO / CAROLE MONNET",
+            "HIROKO KUWATA / SOHYUN PARK",
+            "PRARTHANA THOMBARE / ALEVTINA IBRAGIMOVA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -37396,7 +37585,11 @@
     [
       "ABU-DHABI",
       2088
+    ],
+    [
+      "MUMBAI-125",
+      1100
     ]
   ],
-  "old_day": 28
+  "old_day": 29
 }
