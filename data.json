@@ -27703,7 +27703,77 @@
     "       4. PRARTHANA THOMBARE / ALEVTINA IBRAGIMOVA \n",
     "          THOMBARE, P/IBRAGIMOVA, A\n\n",
     "13:02  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n",
-    "05:09  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n"
+    "05:09  OOP in AUSTRALIAN-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/901/AUSTRALIAN-OPEN/2026/order-of-play\n\n",
+    "13:00  OOP in MANILA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1153/MANILA-125/2026/order-of-play\n\n",
+    "13:00  NEW draw in ABU-DHABI QUALS \u2605    \n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/draws\n\n",
+    "       Players added to the draw in ABU-DHABI QUALS:    \n\n",
+    "       1. Elsa Jacquemot \n",
+    "          Jacquemot, E\n\n",
+    "       2. Chloe Paquet \n",
+    "          Paquet, C\n\n",
+    "       3. Ekaterina Ovcharenko \n",
+    "          Ovcharenko, E\n\n",
+    "       4. Sara Bejlek \n",
+    "          Bejlek, S\n\n",
+    "       5. Sonay Kartal \n",
+    "          Kartal, S\n\n",
+    "       6. Yuliia Starodubtseva \n",
+    "          Starodubtseva, Y\n\n",
+    "       7. Priscilla Hon \n",
+    "          Hon, P\n\n",
+    "       8. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       9. Hailey Baptiste \n",
+    "          Baptiste, H\n\n",
+    "       10. Teodora Kostovic \n",
+    "           Kostovic, T\n\n",
+    "       11. Arina Rodionova \n",
+    "           Rodionova, A\n\n",
+    "       12. Simona Waltert \n",
+    "           Waltert, S\n\n",
+    "       13. Renata Zarazua \n",
+    "           Zarazua, R\n\n",
+    "       14. Vera Zvonareva \n",
+    "           Zvonareva, V\n\n",
+    "       15. Ellen Perez \n",
+    "           Perez, E\n\n",
+    "       16. Oksana Selekhmeteva \n",
+    "           Selekhmeteva, O\n\n",
+    "13:00  NEW draw in MUMBAI-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/draws\n\n",
+    "       Players added to the draw in MUMBAI-125 QUALS:    \n\n",
+    "       1. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       2. Hiroko Kuwata \n",
+    "          Kuwata, H\n\n",
+    "       3. Saumya Vig \n",
+    "          Vig, S\n\n",
+    "       4. Misaki Matsuda \n",
+    "          Matsuda, M\n\n",
+    "       5. Yasmine Kabbaj \n",
+    "          Kabbaj, Y\n\n",
+    "       6. Sonal Patil \n",
+    "          Patil, S\n\n",
+    "       7. Zeel Desai \n",
+    "          Desai, Z\n\n",
+    "       8. Kristiana Sidorova \n",
+    "          Sidorova, K\n\n",
+    "       9. Zuzanna Pawlikowska \n",
+    "          Pawlikowska, Z\n\n",
+    "       10. Parthsarthi Aru Mundhe \n",
+    "           Mundhe, P\n\n",
+    "       11. Naoko Eto \n",
+    "           Eto, N\n\n",
+    "       12. Anastasia Kulikova \n",
+    "           Kulikova, A\n\n",
+    "       13. Yara Bartashevich \n",
+    "           Bartashevich, Y\n\n",
+    "       14. Peangtarn Plipuech \n",
+    "           Plipuech, P\n\n",
+    "       15. Akanksha Nitture \n",
+    "           Nitture, A\n\n",
+    "       16. Ankita Raina \n",
+    "           Raina, A\n\n",
+    "13:00  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -37227,7 +37297,7 @@
           "players": []
         }
       ],
-      "2026-01-30"
+      "2026-01-31"
     ],
     "OSTRAVA": [
       [
@@ -37407,9 +37477,26 @@
     "ABU-DHABI": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Elsa Jacquemot",
+            "Chloe Paquet",
+            "Ekaterina Ovcharenko",
+            "Sara Bejlek",
+            "Sonay Kartal",
+            "Yuliia Starodubtseva",
+            "Priscilla Hon",
+            "Aliaksandra Sasnovich",
+            "Hailey Baptiste",
+            "Teodora Kostovic",
+            "Arina Rodionova",
+            "Simona Waltert",
+            "Renata Zarazua",
+            "Vera Zvonareva",
+            "Ellen Perez",
+            "Oksana Selekhmeteva"
+          ]
         }
       ],
       [
@@ -37488,9 +37575,26 @@
     "MUMBAI-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Nicole Fossa Huergo",
+            "Hiroko Kuwata",
+            "Saumya Vig",
+            "Misaki Matsuda",
+            "Yasmine Kabbaj",
+            "Sonal Patil",
+            "Zeel Desai",
+            "Kristiana Sidorova",
+            "Zuzanna Pawlikowska",
+            "Parthsarthi Aru Mundhe",
+            "Naoko Eto",
+            "Anastasia Kulikova",
+            "Yara Bartashevich",
+            "Peangtarn Plipuech",
+            "Akanksha Nitture",
+            "Ankita Raina"
+          ]
         }
       ],
       [
@@ -37564,7 +37668,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-01-31"
     ]
   },
   "torns": [
