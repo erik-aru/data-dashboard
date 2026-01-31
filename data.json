@@ -28313,7 +28313,56 @@
     "       35. LILLI TAGGER \n\n",
     "       36. ALEVTINA IBRAGIMOVA \n\n",
     "       37. ZUZANNA PAWLIKOWSKA \n\n",
-    "12:52  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n"
+    "12:52  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n",
+    "20:28  OOP in OSTRAVA appeared \u2605\n       https://www.wtatennis.com/tournament/1154/OSTRAVA/2026/order-of-play\n\n",
+    "20:28  change in CLUJ-NAPOCA SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/draws\n\n",
+    "       Players added to the draw in CLUJ-NAPOCA SINGLES:    \n\n",
+    "       Players removed from the draw in CLUJ-NAPOCA SINGLES:    \n\n",
+    "       1. Camila Osorio \n\n",
+    "20:28  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n",
+    "20:28  change in ABU-DHABI DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/draws\n\n",
+    "       Players added to the draw in ABU-DHABI DOUBLES:    \n\n",
+    "       1. Asia Muhammad / Erin Routliffe \n",
+    "          Muhammad, A/Routliffe, E\n\n",
+    "       2. Sofia Kenin / Desirae Krawczyk \n",
+    "          Kenin, S/Krawczyk, D\n\n",
+    "       3. Barbora Krejcikova / Jelena Ostapenko \n",
+    "          Krejcikova, B/Ostapenko, J\n\n",
+    "       4. Liudmila Samsonova / Yifan Xu \n",
+    "          Samsonova, L/Xu, Y\n\n",
+    "       5. Ellen Perez / Demi Schuurs \n",
+    "          Perez, E/Schuurs, D\n\n",
+    "       6. Shuko Aoyama / Vera Zvonareva \n",
+    "          Aoyama, S/Zvonareva, V\n\n",
+    "       7. Ekaterina Alexandrova / Maya Joint \n",
+    "          Alexandrova, E/Joint, M\n\n",
+    "       8. Teodora Kostovic / Dayana Yastremska \n",
+    "          Kostovic, T/Yastremska, D\n\n",
+    "       9. Hao-Ching Chan / Clara Tauson \n",
+    "          Chan, H/Tauson, C\n\n",
+    "       10. Irina Khromacheva / Andreja Klepac \n",
+    "           Khromacheva, I/Klepac, A\n\n",
+    "       11. Darija Jurak Schreiber / Katarzyna Piter \n",
+    "           Jurak Schreiber, D/Piter, K\n\n",
+    "       12. Tereza Mihalikova / Olivia Nicholls \n",
+    "           Mihalikova, T/Nicholls, O\n\n",
+    "       13. Leylah Fernandez / Kristina Mladenovic \n",
+    "           Fernandez, L/Mladenovic, K\n\n",
+    "       14. Alexandra Eala / Janice Tjen \n",
+    "           Eala, A/Tjen, J\n\n",
+    "       15. Lyudmyla Kichenok / Nadiia Kichenok \n",
+    "           Kichenok, L/Kichenok, N\n\n",
+    "       16. Cristina Bucsa / Shuai Zhang \n",
+    "           Bucsa, C/Zhang, S\n\n",
+    "       Players removed from the draw in ABU-DHABI DOUBLES:    \n\n",
+    "       1. DARIJA JURAK SCHREIBER / KATARZYNA PITER \n\n",
+    "       2. ERIN ROUTLIFFE / ASIA MUHAMMAD \n\n",
+    "       3. VERA ZVONAREVA / SHUKO AOYAMA \n\n",
+    "       4. ELLEN PEREZ / DEMI SCHUURS \n\n",
+    "       5. ALEKSANDRA KRUNIC / ANNA DANILINA \n\n",
+    "       6. SHUAI ZHANG / CRISTINA BUCSA \n\n",
+    "       7. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
+    "       8. STORM HUNTER / MAYA JOINT \n\n"
   ],
   "sits": {
     "ROME": [
@@ -37936,7 +37985,7 @@
           "players": []
         }
       ],
-      "2026-01-31"
+      "2026-02-01"
     ],
     "CLUJ-NAPOCA": [
       [
@@ -37965,7 +38014,7 @@
       ],
       [
         1,
-        28,
+        27,
         {
           "players": [
             "Emma Raducanu",
@@ -37994,7 +38043,6 @@
             "Sara Sorribes Tormo",
             "Viktoriya Tomova",
             "Tiantsoa Rakotomanga Rajaonah",
-            "Camila Osorio",
             "Jaqueline Cristian"
           ]
         }
@@ -38037,7 +38085,7 @@
           "players": []
         }
       ],
-      "2026-01-31"
+      "2026-02-01"
     ],
     "ABU-DHABI": [
       [
@@ -38098,17 +38146,25 @@
       ],
       [
         2,
-        8,
+        16,
         {
           "players": [
-            "DARIJA JURAK SCHREIBER / KATARZYNA PITER",
-            "ERIN ROUTLIFFE / ASIA MUHAMMAD",
-            "VERA ZVONAREVA / SHUKO AOYAMA",
-            "ELLEN PEREZ / DEMI SCHUURS",
-            "ALEKSANDRA KRUNIC / ANNA DANILINA",
-            "SHUAI ZHANG / CRISTINA BUCSA",
-            "OLIVIA NICHOLLS / TEREZA MIHALIKOVA",
-            "STORM HUNTER / MAYA JOINT"
+            "Asia Muhammad / Erin Routliffe",
+            "Sofia Kenin / Desirae Krawczyk",
+            "Barbora Krejcikova / Jelena Ostapenko",
+            "Liudmila Samsonova / Yifan Xu",
+            "Ellen Perez / Demi Schuurs",
+            "Shuko Aoyama / Vera Zvonareva",
+            "Ekaterina Alexandrova / Maya Joint",
+            "Teodora Kostovic / Dayana Yastremska",
+            "Hao-Ching Chan / Clara Tauson",
+            "Irina Khromacheva / Andreja Klepac",
+            "Darija Jurak Schreiber / Katarzyna Piter",
+            "Tereza Mihalikova / Olivia Nicholls",
+            "Leylah Fernandez / Kristina Mladenovic",
+            "Alexandra Eala / Janice Tjen",
+            "Lyudmyla Kichenok / Nadiia Kichenok",
+            "Cristina Bucsa / Shuai Zhang"
           ]
         }
       ],
