@@ -28378,7 +28378,31 @@
     "          Plipuech, P\n\n",
     "       6. Zuzanna Pawlikowska \n",
     "          Pawlikowska, Z\n\n",
-    "12:54  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n"
+    "12:54  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n",
+    "20:29  change in OSTRAVA SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1154/OSTRAVA/2026/draws\n\n",
+    "       Players added to the draw in OSTRAVA SINGLES:    \n\n",
+    "       1. Vendula Valdmannova \n",
+    "          Valdmannova, V\n\n",
+    "       2. Mona Barthel \n",
+    "          Barthel, M\n\n",
+    "       3. Fiona Ferro \n",
+    "          Ferro, F\n\n",
+    "       4. Anna Siskova \n",
+    "          Siskova, A\n\n",
+    "20:29  OOP in OSTRAVA appeared \u2605\n       https://www.wtatennis.com/tournament/1154/OSTRAVA/2026/order-of-play\n\n",
+    "20:29  change in CLUJ-NAPOCA SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/draws\n\n",
+    "       Players added to the draw in CLUJ-NAPOCA SINGLES:    \n\n",
+    "       1. Maja Chwalinska \n",
+    "          Chwalinska, M\n\n",
+    "       2. Kaitlin Quevedo \n",
+    "          Quevedo, K\n\n",
+    "       3. Tamara Zidansek \n",
+    "          Zidansek, T\n\n",
+    "       4. Daria Snigur \n",
+    "          Snigur, D\n\n",
+    "       5. Lucrezia Stefanini \n",
+    "          Stefanini, L\n\n",
+    "20:29  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -37931,7 +37955,7 @@
       ],
       [
         1,
-        26,
+        30,
         {
           "players": [
             "Tatjana Maria",
@@ -37942,7 +37966,9 @@
             "Elina Avanesyan",
             "Moyuka Uchijima",
             "Rebecca Sramkova",
+            "Vendula Valdmannova",
             "Linda Fruhvirtova",
+            "Mona Barthel",
             "Lucie Havlickova",
             "Katie Boulter",
             "Sinja Kraus",
@@ -37952,6 +37978,7 @@
             "Diane Parry",
             "Oceane Dodin",
             "Brenda Fruhvirtova",
+            "Fiona Ferro",
             "Nikola Bartunkova",
             "Anna Blinkova",
             "Caty McNally",
@@ -37959,6 +37986,7 @@
             "Dalma Galfi",
             "Tereza Martincova",
             "Tamara Korpatsch",
+            "Anna Siskova",
             "Emiliana Arango"
           ]
         }
@@ -38001,7 +38029,7 @@
           "players": []
         }
       ],
-      "2026-02-01"
+      "2026-02-02"
     ],
     "CLUJ-NAPOCA": [
       [
@@ -38030,17 +38058,19 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Emma Raducanu",
             "Greet Minnen",
             "Elena Ruxandra Bertea",
             "Kaja Juvan",
+            "Maja Chwalinska",
             "Ana Bogdan",
             "Miriam Bulgaru",
             "Olga Danilovic",
             "Xinyu Wang",
+            "Kaitlin Quevedo",
             "Elena-Gabriela Ruse",
             "Rebeka Masarova",
             "Mayar Sherif",
@@ -38052,6 +38082,7 @@
             "Karolina Pliskova",
             "Anastasia Zakharova",
             "Veronika Erjavec",
+            "Tamara Zidansek",
             "Kamilla Rakhimova",
             "Sorana Cirstea",
             "Antonia Ruzic",
@@ -38059,6 +38090,8 @@
             "Sara Sorribes Tormo",
             "Viktoriya Tomova",
             "Tiantsoa Rakotomanga Rajaonah",
+            "Daria Snigur",
+            "Lucrezia Stefanini",
             "Jaqueline Cristian"
           ]
         }
@@ -38101,7 +38134,7 @@
           "players": []
         }
       ],
-      "2026-02-01"
+      "2026-02-02"
     ],
     "ABU-DHABI": [
       [
