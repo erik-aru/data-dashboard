@@ -22,28 +22,6 @@
         "none"
       ]
     ],
-    "MANILA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "OSTRAVA": [
       [
         0,
@@ -28362,7 +28340,12 @@
     "       5. ALEKSANDRA KRUNIC / ANNA DANILINA \n\n",
     "       6. SHUAI ZHANG / CRISTINA BUCSA \n\n",
     "       7. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
-    "       8. STORM HUNTER / MAYA JOINT \n\n"
+    "       8. STORM HUNTER / MAYA JOINT \n\n",
+    "05:22  MUMBAI-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/draws\n\n",
+    "       Players added to the draw in MUMBAI-125 SINGLES:    \n\n",
+    "       Players removed from the draw in MUMBAI-125 SINGLES:    \n\n",
+    "       1. Polina Kudermetova \n\n",
+    "       2. Carole Monnet \n\n"
   ],
   "sits": {
     "ROME": [
@@ -38211,7 +38194,7 @@
       ],
       [
         1,
-        28,
+        26,
         {
           "players": [
             "Lulu Sun",
@@ -38219,10 +38202,9 @@
             "Viktoria Morvayova",
             "Shrivalli Bhamidipaty",
             "Priska Nugroho",
-            "Polina Kudermetova",
+            "Tatiana Prozorova",
             "Leolia Jeanjean",
             "Vaidehee Chaudhari",
-            "Tatiana Prozorova",
             "Miho Kuramochi",
             "Mingge Xu",
             "Sohyun Park",
@@ -38232,7 +38214,6 @@
             "Mei Yamaguchi",
             "Fangran Tian",
             "Rina Saigo",
-            "Carole Monnet",
             "Hanne Vandewinkel",
             "Lilli Tagger",
             "Vaishnavi Adkar",
@@ -38280,10 +38261,6 @@
       901
     ],
     [
-      "MANILA-125",
-      1153
-    ],
-    [
       "OSTRAVA",
       1154
     ],
@@ -38300,5 +38277,5 @@
       1100
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
