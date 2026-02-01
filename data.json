@@ -28345,7 +28345,40 @@
     "       Players added to the draw in MUMBAI-125 SINGLES:    \n\n",
     "       Players removed from the draw in MUMBAI-125 SINGLES:    \n\n",
     "       1. Polina Kudermetova \n\n",
-    "       2. Carole Monnet \n\n"
+    "       2. Carole Monnet \n\n",
+    "12:54  change in ABU-DHABI SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/draws\n\n",
+    "       Players added to the draw in ABU-DHABI SINGLES:    \n\n",
+    "       1. Sonay Kartal \n",
+    "          Kartal, S\n\n",
+    "       2. Sara Bejlek \n",
+    "          Bejlek, S\n\n",
+    "       3. Oksana Selekhmeteva \n",
+    "          Selekhmeteva, O\n\n",
+    "       4. Simona Waltert \n",
+    "          Waltert, S\n\n",
+    "       5. Chloe Paquet \n",
+    "          Paquet, C\n\n",
+    "       6. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       Players removed from the draw in ABU-DHABI SINGLES:    \n\n",
+    "       1. Ajla Tomljanovic \n\n",
+    "       2. Jessica Bouzas Maneiro \n\n",
+    "12:54  OOP in ABU-DHABI appeared \u2605\n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/order-of-play\n\n",
+    "12:54  change in MUMBAI-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/draws\n\n",
+    "       Players added to the draw in MUMBAI-125 SINGLES:    \n\n",
+    "       1. Misaki Matsuda \n",
+    "          Matsuda, M\n\n",
+    "       2. Kristiana Sidorova \n",
+    "          Sidorova, K\n\n",
+    "       3. Nicole Fossa Huergo \n",
+    "          Fossa Huergo, N\n\n",
+    "       4. Yasmine Kabbaj \n",
+    "          Kabbaj, Y\n\n",
+    "       5. Peangtarn Plipuech \n",
+    "          Plipuech, P\n\n",
+    "       6. Zuzanna Pawlikowska \n",
+    "          Pawlikowska, Z\n\n",
+    "12:54  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -38097,18 +38130,22 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Belinda Bencic",
+            "Sonay Kartal",
             "Cristina Bucsa",
             "Ashlyn Krueger",
+            "Sara Bejlek",
+            "Oksana Selekhmeteva",
             "Jelena Ostapenko",
             "Clara Tauson",
             "Daria Kasatkina",
+            "Simona Waltert",
             "McCartney Kessler",
             "Anastasia Pavlyuchenkova",
-            "Ajla Tomljanovic",
+            "Chloe Paquet",
             "Leylah Fernandez",
             "Liudmila Samsonova",
             "Sofia Kenin",
@@ -38118,7 +38155,7 @@
             "Teodora Kostovic",
             "Emma Navarro",
             "Paula Badosa",
-            "Jessica Bouzas Maneiro",
+            "Aliaksandra Sasnovich",
             "Alexandra Eala",
             "Zeynep Sonmez",
             "Dayana Yastremska",
@@ -38165,7 +38202,7 @@
           "players": []
         }
       ],
-      "2026-02-01"
+      "2026-02-02"
     ],
     "MUMBAI-125": [
       [
@@ -38194,17 +38231,20 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Lulu Sun",
+            "Misaki Matsuda",
             "Mananchaya Sawangkaew",
             "Viktoria Morvayova",
             "Shrivalli Bhamidipaty",
+            "Kristiana Sidorova",
             "Priska Nugroho",
             "Tatiana Prozorova",
             "Leolia Jeanjean",
             "Vaidehee Chaudhari",
+            "Nicole Fossa Huergo",
             "Miho Kuramochi",
             "Mingge Xu",
             "Sohyun Park",
@@ -38212,8 +38252,11 @@
             "Lanlana Tararudee",
             "Polina Iatcenko",
             "Mei Yamaguchi",
+            "Yasmine Kabbaj",
+            "Peangtarn Plipuech",
             "Fangran Tian",
             "Rina Saigo",
+            "Zuzanna Pawlikowska",
             "Hanne Vandewinkel",
             "Lilli Tagger",
             "Vaishnavi Adkar",
@@ -38252,7 +38295,7 @@
           "players": []
         }
       ],
-      "2026-02-01"
+      "2026-02-02"
     ]
   },
   "torns": [
