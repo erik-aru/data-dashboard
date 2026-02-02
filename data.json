@@ -28380,7 +28380,14 @@
     "          Snigur, D\n\n",
     "       5. Lucrezia Stefanini \n",
     "          Stefanini, L\n\n",
-    "20:29  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n"
+    "20:29  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n",
+    "13:04  OOP in ABU-DHABI appeared \u2605\n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/order-of-play\n\n",
+    "13:04  change in MUMBAI-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/draws\n\n       Players added to the draw in MUMBAI-125 SINGLES:    \n\n",
+    "       1. Ankita Raina \n",
+    "          Raina, A\n\n",
+    "       Players removed from the draw in MUMBAI-125 SINGLES:    \n\n",
+    "       1. Lulu Sun \n\n",
+    "13:04  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -38213,7 +38220,7 @@
           "players": []
         }
       ],
-      "2026-02-02"
+      "2026-02-03"
     ],
     "MUMBAI-125": [
       [
@@ -38245,7 +38252,7 @@
         32,
         {
           "players": [
-            "Lulu Sun",
+            "Ankita Raina",
             "Misaki Matsuda",
             "Mananchaya Sawangkaew",
             "Viktoria Morvayova",
@@ -38306,7 +38313,7 @@
           "players": []
         }
       ],
-      "2026-02-02"
+      "2026-02-03"
     ]
   },
   "torns": [
