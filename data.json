@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "AUSTRALIAN-OPEN": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "OSTRAVA": [
       [
         0,
@@ -38333,10 +38311,6 @@
   },
   "torns": [
     [
-      "AUSTRALIAN-OPEN",
-      901
-    ],
-    [
       "OSTRAVA",
       1154
     ],
@@ -38353,5 +38327,5 @@
       1100
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
