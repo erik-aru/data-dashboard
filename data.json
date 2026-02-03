@@ -28387,7 +28387,9 @@
     "          Raina, A\n\n",
     "       Players removed from the draw in MUMBAI-125 SINGLES:    \n\n",
     "       1. Lulu Sun \n\n",
-    "13:04  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n"
+    "13:04  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n",
+    "05:15  OOP in OSTRAVA appeared \u2605\n       https://www.wtatennis.com/tournament/1154/OSTRAVA/2026/order-of-play\n\n",
+    "05:15  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -38014,7 +38016,7 @@
           "players": []
         }
       ],
-      "2026-02-02"
+      "2026-02-03"
     ],
     "CLUJ-NAPOCA": [
       [
@@ -38119,7 +38121,7 @@
           "players": []
         }
       ],
-      "2026-02-02"
+      "2026-02-03"
     ],
     "ABU-DHABI": [
       [
@@ -38334,5 +38336,5 @@
       1100
     ]
   ],
-  "old_day": 2
+  "old_day": 3
 }
