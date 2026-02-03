@@ -28389,7 +28389,32 @@
     "       1. Lulu Sun \n\n",
     "13:04  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n",
     "05:15  OOP in OSTRAVA appeared \u2605\n       https://www.wtatennis.com/tournament/1154/OSTRAVA/2026/order-of-play\n\n",
-    "05:15  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n"
+    "05:15  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n",
+    "13:05  OOP in ABU-DHABI appeared \u2605\n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/order-of-play\n\n",
+    "13:05  change in MUMBAI-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/draws\n\n",
+    "       Players added to the draw in MUMBAI-125 DOUBLES:    \n\n",
+    "       1. Rutuja Bhosale / Peangtarn Plipuech \n",
+    "          Bhosale, R/Plipuech, P\n\n",
+    "       2. Nicole Fossa Huergo / Mananchaya Sawangkaew \n",
+    "          Fossa Huergo, N/Sawangkaew, M\n\n",
+    "       3. Zuzanna Pawlikowska / Darja Semenistaja \n",
+    "          Pawlikowska, Z/Semenistaja, D\n\n",
+    "       4. Hiroko Kuwata / Sohyun Park \n",
+    "          Kuwata, H/Park, S\n\n",
+    "       5. Leolia Jeanjean / Naima Karamoko \n",
+    "          Jeanjean, L/Karamoko, N\n\n",
+    "       6. Shrivalli Bhamidipaty / Ankita Raina \n",
+    "          Bhamidipaty, S/Raina, A\n\n",
+    "       7. Alevtina Ibragimova / Prarthana Thombare \n",
+    "          Ibragimova, A/Thombare, P\n\n",
+    "       8. Polina Iatcenko / Elena Pridankina \n",
+    "          Iatcenko, P/Pridankina, E\n\n",
+    "       Players removed from the draw in MUMBAI-125 DOUBLES:    \n\n",
+    "       1. RUTUJA BHOSALE / PEANGTARN PLIPUECH \n\n",
+    "       2. NAIMA KARAMOKO / CAROLE MONNET \n\n",
+    "       3. HIROKO KUWATA / SOHYUN PARK \n\n",
+    "       4. PRARTHANA THOMBARE / ALEVTINA IBRAGIMOVA \n\n",
+    "13:05  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -38222,7 +38247,7 @@
           "players": []
         }
       ],
-      "2026-02-03"
+      "2026-02-04"
     ],
     "MUMBAI-125": [
       [
@@ -38291,13 +38316,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "RUTUJA BHOSALE / PEANGTARN PLIPUECH",
-            "NAIMA KARAMOKO / CAROLE MONNET",
-            "HIROKO KUWATA / SOHYUN PARK",
-            "PRARTHANA THOMBARE / ALEVTINA IBRAGIMOVA"
+            "Rutuja Bhosale / Peangtarn Plipuech",
+            "Nicole Fossa Huergo / Mananchaya Sawangkaew",
+            "Zuzanna Pawlikowska / Darja Semenistaja",
+            "Hiroko Kuwata / Sohyun Park",
+            "Leolia Jeanjean / Naima Karamoko",
+            "Shrivalli Bhamidipaty / Ankita Raina",
+            "Alevtina Ibragimova / Prarthana Thombare",
+            "Polina Iatcenko / Elena Pridankina"
           ]
         }
       ],
@@ -38315,7 +38344,7 @@
           "players": []
         }
       ],
-      "2026-02-03"
+      "2026-02-04"
     ]
   },
   "torns": [
