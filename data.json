@@ -28759,7 +28759,78 @@
     "       10. ESTELLE CASCINO / SHUO FENG \n",
     "           CASCINO, E/FENG, S\n\n",
     "       11. IVANA CORLEY / CARMEN CORLEY \n",
-    "           CORLEY, I/CORLEY, C\n\n"
+    "           CORLEY, I/CORLEY, C\n\n",
+    "20:36  OOP in OSTRAVA appeared \u2605\n       https://www.wtatennis.com/tournament/1154/OSTRAVA/2026/order-of-play\n\n",
+    "20:36  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n",
+    "20:36  OOP in ABU-DHABI appeared \u2605\n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/order-of-play\n\n",
+    "20:36  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n",
+    "20:36  NEW draw in DOHA QUALS \u2605    \n       https://www.wtatennis.com/tournament/1003/DOHA/2026/draws\n\n",
+    "       Players added to the draw in DOHA QUALS:    \n\n",
+    "       1. Tereza Valentova \n",
+    "          Valentova, T\n\n",
+    "       2. Arina Rodionova \n",
+    "          Rodionova, A\n\n",
+    "       3. Katarzyna Kawa \n",
+    "          Kawa, K\n\n",
+    "       4. Ella Seidel \n",
+    "          Seidel, E\n\n",
+    "       5. Elisabetta Cocciaretto \n",
+    "          Cocciaretto, E\n\n",
+    "       6. Ekaterine Gorgodze \n",
+    "          Gorgodze, E\n\n",
+    "       7. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       8. Varvara Gracheva \n",
+    "          Gracheva, V\n\n",
+    "       9. Hailey Baptiste \n",
+    "          Baptiste, H\n\n",
+    "       10. Storm Hunter \n",
+    "           Hunter, S\n\n",
+    "       11. Priscilla Hon \n",
+    "           Hon, P\n\n",
+    "       12. Camila Osorio \n",
+    "           Osorio, C\n\n",
+    "       13. Magdalena Frech \n",
+    "           Frech, M\n\n",
+    "       14. Berfu Cengiz \n",
+    "           Cengiz, B\n\n",
+    "       15. Vera Zvonareva \n",
+    "           Zvonareva, V\n\n",
+    "       16. Shuai Zhang \n",
+    "           Zhang, S\n\n",
+    "       17. Sonay Kartal \n",
+    "           Kartal, S\n\n",
+    "       18. Simona Waltert \n",
+    "           Waltert, S\n\n",
+    "       19. Renata Zarazua \n",
+    "           Zarazua, R\n\n",
+    "       20. Kimberly Birrell \n",
+    "           Birrell, K\n\n",
+    "       21. Solana Sierra \n",
+    "           Sierra, S\n\n",
+    "       22. Hind Al-Mudahka \n",
+    "           Al-Mudahka, H\n\n",
+    "       23. Rebeka Masarova \n",
+    "           Masarova, R\n\n",
+    "       24. Alycia Parks \n",
+    "           Parks, A\n\n",
+    "       25. Antonia Ruzic \n",
+    "           Ruzic, A\n\n",
+    "       26. Yuliia Starodubtseva \n",
+    "           Starodubtseva, Y\n\n",
+    "       27. Moyuka Uchijima \n",
+    "           Uchijima, M\n\n",
+    "       28. Rebecca Sramkova \n",
+    "           Sramkova, R\n\n",
+    "       29. Beatriz Haddad Maia \n",
+    "           Haddad Maia, B\n\n",
+    "       30. Mubaraka Al-Naimi \n",
+    "           Al-Naimi, M\n\n",
+    "       31. Anastasia Zakharova \n",
+    "           Zakharova, A\n\n",
+    "       32. Julia Grabher \n",
+    "           Grabher, J\n\n",
+    "20:36  OOP in DOHA appeared \u2605\n       https://www.wtatennis.com/tournament/1003/DOHA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -38386,7 +38457,7 @@
           "players": []
         }
       ],
-      "2026-02-05"
+      "2026-02-06"
     ],
     "CLUJ-NAPOCA": [
       [
@@ -38491,7 +38562,7 @@
           "players": []
         }
       ],
-      "2026-02-05"
+      "2026-02-06"
     ],
     "ABU-DHABI": [
       [
@@ -38592,7 +38663,7 @@
           "players": []
         }
       ],
-      "2026-02-05"
+      "2026-02-06"
     ],
     "MUMBAI-125": [
       [
@@ -38689,14 +38760,47 @@
           "players": []
         }
       ],
-      "2026-02-05"
+      "2026-02-06"
     ],
     "DOHA": [
       [
         0,
-        0,
+        32,
         {
-          "players": []
+          "players": [
+            "Tereza Valentova",
+            "Arina Rodionova",
+            "Katarzyna Kawa",
+            "Ella Seidel",
+            "Elisabetta Cocciaretto",
+            "Ekaterine Gorgodze",
+            "Aliaksandra Sasnovich",
+            "Varvara Gracheva",
+            "Hailey Baptiste",
+            "Storm Hunter",
+            "Priscilla Hon",
+            "Camila Osorio",
+            "Magdalena Frech",
+            "Berfu Cengiz",
+            "Vera Zvonareva",
+            "Shuai Zhang",
+            "Sonay Kartal",
+            "Simona Waltert",
+            "Renata Zarazua",
+            "Kimberly Birrell",
+            "Solana Sierra",
+            "Hind Al-Mudahka",
+            "Rebeka Masarova",
+            "Alycia Parks",
+            "Antonia Ruzic",
+            "Yuliia Starodubtseva",
+            "Moyuka Uchijima",
+            "Rebecca Sramkova",
+            "Beatriz Haddad Maia",
+            "Mubaraka Al-Naimi",
+            "Anastasia Zakharova",
+            "Julia Grabher"
+          ]
         }
       ],
       [
@@ -38822,7 +38926,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-02-06"
     ],
     "OEIRAS-125-INDOOR-#1": [
       [
