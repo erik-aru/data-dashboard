@@ -109,6 +109,28 @@
         0,
         "none"
       ]
+    ],
+    "OEIRAS-125-INDOOR-#1": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -28637,7 +28659,107 @@
     "13:04  OOP in MUMBAI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1100/MUMBAI-125/2026/order-of-play\n\n",
     "20:36  OOP in OSTRAVA appeared \u2605\n       https://www.wtatennis.com/tournament/1154/OSTRAVA/2026/order-of-play\n\n",
     "20:36  OOP in CLUJ-NAPOCA appeared \u2605\n       https://www.wtatennis.com/tournament/2050/CLUJ-NAPOCA/2026/order-of-play\n\n",
-    "20:36  OOP in ABU-DHABI appeared \u2605\n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/order-of-play\n\n"
+    "20:36  OOP in ABU-DHABI appeared \u2605\n       https://www.wtatennis.com/tournament/2088/ABU-DHABI/2026/order-of-play\n\n",
+    "05:17  OEIRAS-125-INDOOR-#1 SINGLES draw    \n       https://www.wtatennis.com/tournament/1155/OEIRAS-125-INDOOR-#1/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125-INDOOR-#1 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. VIKTORIJA GOLUBIC \n",
+    "          GOLUBIC, V\n\n",
+    "       3. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       4. VIKTORIYA TOMOVA \n",
+    "          TOMOVA, V\n\n",
+    "       5. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       6. ANNA-LENA FRIEDSAM \n",
+    "          FRIEDSAM, A\n\n",
+    "       7. KATIE BOULTER \n",
+    "          BOULTER, K\n\n",
+    "       8. ANHELINA KALININA \n",
+    "          KALININA, A\n\n",
+    "       9. IRYNA SHYMANOVICH \n",
+    "          SHYMANOVICH, I\n\n",
+    "       10. DALMA GALFI \n",
+    "           GALFI, D\n\n",
+    "       11. GREET MINNEN \n",
+    "           MINNEN, G\n\n",
+    "       12. CAROLINE DOLEHIDE \n",
+    "           DOLEHIDE, C\n\n",
+    "       13. XINYU GAO \n",
+    "           GAO, X\n\n",
+    "       14. MIRIAM BULGARU \n",
+    "           BULGARU, M\n\n",
+    "       15. LUCREZIA STEFANINI \n",
+    "           STEFANINI, L\n\n",
+    "       16. YUE YUAN \n",
+    "           YUAN, Y\n\n",
+    "       17. SUZAN LAMENS \n",
+    "           LAMENS, S\n\n",
+    "       18. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       19. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       20. LEYRE ROMERO GORMAZ \n",
+    "           ROMERO GORMAZ, L\n\n",
+    "       21. DIANE PARRY \n",
+    "           PARRY, D\n\n",
+    "       22. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       23. DARIA SNIGUR \n",
+    "           SNIGUR, D\n\n",
+    "       24. MARIA TIMOFEEVA \n",
+    "           TIMOFEEVA, M\n\n",
+    "       25. DARJA VIDMANOVA \n",
+    "           VIDMANOVA, D\n\n",
+    "       26. LINDA KLIMOVICOVA \n",
+    "           KLIMOVICOVA, L\n\n",
+    "       27. MARINA STAKUSIC \n",
+    "           STAKUSIC, M\n\n",
+    "       28. LINDA FRUHVIRTOVA \n",
+    "           FRUHVIRTOVA, L\n\n",
+    "       29. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       30. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       31. NIKOLA BARTUNKOVA \n",
+    "           BARTUNKOVA, N\n\n",
+    "       32. CADENCE BRACE \n",
+    "           BRACE, C\n\n",
+    "       33. LOLA RADIVOJEVIC \n",
+    "           RADIVOJEVIC, L\n\n",
+    "       34. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "       35. ALINA KORNEEVA \n",
+    "           KORNEEVA, A\n\n",
+    "       36. KAITLIN QUEVEDO \n",
+    "           QUEVEDO, K\n\n",
+    "       37. TEODORA KOSTOVIC \n",
+    "           KOSTOVIC, T\n\n",
+    "05:17  OEIRAS-125-INDOOR-#1 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1155/OEIRAS-125-INDOOR-#1/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125-INDOOR-#1 DOUBLES:    \n\n",
+    "       1. NIKA RADISIC / DALILA JAKUPOVIC \n",
+    "          RADISIC, N/JAKUPOVIC, D\n\n",
+    "       2. YVONNE CAVALLE-REIMERS / ANGELICA MORATELLI \n",
+    "          CAVALLE-REIMERS, Y/MORATELLI, A\n\n",
+    "       3. EN-SHUO LIANG / EUDICE CHONG \n",
+    "          LIANG, E/CHONG, E\n\n",
+    "       4. QIANHUI TANG / MAIA LUMSDEN \n",
+    "          TANG, Q/LUMSDEN, M\n\n",
+    "       5. MARIIA KOZYREVA / IRYNA SHYMANOVICH \n",
+    "          KOZYREVA, M/SHYMANOVICH, I\n\n",
+    "       6. YI-TSEN CHO / I-HSUAN CHO \n",
+    "          CHO, Y/CHO, I\n\n",
+    "       7. MAKOTO NINOMIYA / EMILY APPLETON \n",
+    "          NINOMIYA, M/APPLETON, E\n\n",
+    "       8. MATILDE JORGE / FRANCISCA JORGE \n",
+    "          JORGE, M/JORGE, F\n\n",
+    "       9. ANASTASIA DETIUC / MAJA CHWALINSKA \n",
+    "          DETIUC, A/CHWALINSKA, M\n\n",
+    "       10. ESTELLE CASCINO / SHUO FENG \n",
+    "           CASCINO, E/FENG, S\n\n",
+    "       11. IVANA CORLEY / CARMEN CORLEY \n",
+    "           CORLEY, I/CORLEY, C\n\n"
   ],
   "sits": {
     "ROME": [
@@ -38701,6 +38823,94 @@
         }
       ],
       "nothing"
+    ],
+    "OEIRAS-125-INDOOR-#1": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "VIKTORIJA GOLUBIC",
+            "LAURA PIGOSSI",
+            "VIKTORIYA TOMOVA",
+            "MAYAR SHERIF",
+            "ANNA-LENA FRIEDSAM",
+            "KATIE BOULTER",
+            "ANHELINA KALININA",
+            "IRYNA SHYMANOVICH",
+            "DALMA GALFI",
+            "GREET MINNEN",
+            "CAROLINE DOLEHIDE",
+            "XINYU GAO",
+            "MIRIAM BULGARU",
+            "LUCREZIA STEFANINI",
+            "YUE YUAN",
+            "SUZAN LAMENS",
+            "MAJA CHWALINSKA",
+            "CAROLE MONNET",
+            "LEYRE ROMERO GORMAZ",
+            "DIANE PARRY",
+            "ELINA AVANESYAN",
+            "DARIA SNIGUR",
+            "MARIA TIMOFEEVA",
+            "DARJA VIDMANOVA",
+            "LINDA KLIMOVICOVA",
+            "MARINA STAKUSIC",
+            "LINDA FRUHVIRTOVA",
+            "DOMINIKA SALKOVA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "NIKOLA BARTUNKOVA",
+            "CADENCE BRACE",
+            "LOLA RADIVOJEVIC",
+            "TIANTSOA RAKOTOMANGA RAJAONAH",
+            "ALINA KORNEEVA",
+            "KAITLIN QUEVEDO",
+            "TEODORA KOSTOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "NIKA RADISIC / DALILA JAKUPOVIC",
+            "YVONNE CAVALLE-REIMERS / ANGELICA MORATELLI",
+            "EN-SHUO LIANG / EUDICE CHONG",
+            "QIANHUI TANG / MAIA LUMSDEN",
+            "MARIIA KOZYREVA / IRYNA SHYMANOVICH",
+            "YI-TSEN CHO / I-HSUAN CHO",
+            "MAKOTO NINOMIYA / EMILY APPLETON",
+            "MATILDE JORGE / FRANCISCA JORGE",
+            "ANASTASIA DETIUC / MAJA CHWALINSKA",
+            "ESTELLE CASCINO / SHUO FENG",
+            "IVANA CORLEY / CARMEN CORLEY"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -38723,7 +38933,11 @@
     [
       "DOHA",
       1003
+    ],
+    [
+      "OEIRAS-125-INDOOR-#1",
+      1155
     ]
   ],
-  "old_day": 4
+  "old_day": 5
 }
