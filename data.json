@@ -29215,7 +29215,21 @@
     "       9. ANASTASIA DETIUC / MAJA CHWALINSKA \n\n",
     "       10. ESTELLE CASCINO / SHUO FENG \n\n",
     "       11. IVANA CORLEY / CARMEN CORLEY \n\n",
-    "20:30  OOP in OEIRAS-125-INDOOR-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1155/OEIRAS-125-INDOOR-#1/2026/order-of-play\n\n"
+    "20:30  OOP in OEIRAS-125-INDOOR-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1155/OEIRAS-125-INDOOR-#1/2026/order-of-play\n\n",
+    "20:41  OOP in DOHA appeared \u2605\n       https://www.wtatennis.com/tournament/1003/DOHA/2026/order-of-play\n\n",
+    "20:41  change in OEIRAS-125-INDOOR-#1 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1155/OEIRAS-125-INDOOR-#1/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125-INDOOR-#1 SINGLES:    \n\n",
+    "       1. Varvara Lepchenko \n",
+    "          Lepchenko, V\n\n",
+    "       2. Dalila Jakupovic \n",
+    "          Jakupovic, D\n\n",
+    "       3. Nuria Parrizas Diaz \n",
+    "          Parrizas Diaz, N\n\n",
+    "       4. Noma Noha Akugue \n",
+    "          Noha Akugue, N\n\n",
+    "       5. En-Shuo Liang \n",
+    "          Liang, E\n\n",
+    "20:41  OOP in OEIRAS-125-INDOOR-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1155/OEIRAS-125-INDOOR-#1/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -39302,7 +39316,7 @@
           "players": []
         }
       ],
-      "2026-02-09"
+      "2026-02-10"
     ],
     "OEIRAS-125-INDOOR-#1": [
       [
@@ -39331,7 +39345,7 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Viktorija Golubic",
@@ -39339,6 +39353,7 @@
             "Angelina Voloshchuk",
             "Lucrezia Stefanini",
             "Matilde Jorge",
+            "Varvara Lepchenko",
             "Viktoriya Tomova",
             "Kaitlin Quevedo",
             "Victoria Jimenez Kasintseva",
@@ -39347,9 +39362,12 @@
             "Lola Radivojevic",
             "Anna-Lena Friedsam",
             "Alina Korneeva",
+            "Dalila Jakupovic",
             "Greet Minnen",
             "Tiantsoa Rakotomanga Rajaonah",
+            "Nuria Parrizas Diaz",
             "Maja Chwalinska",
+            "Noma Noha Akugue",
             "Iryna Shymanovich",
             "Carole Monnet",
             "Aliona Bolsova",
@@ -39358,6 +39376,7 @@
             "Francisca Jorge",
             "Darja Vidmanova",
             "Gabriela Agra Amorim",
+            "En-Shuo Liang",
             "Anhelina Kalinina",
             "Fiona Crawley",
             "Dalma Galfi"
@@ -39402,7 +39421,7 @@
           "players": []
         }
       ],
-      "2026-02-09"
+      "2026-02-10"
     ]
   },
   "torns": [
