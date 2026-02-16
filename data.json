@@ -30579,7 +30579,35 @@
     "13:08  change in DUBAI DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/718/DUBAI/2026/draws\n\n",
     "       Players added to the draw in DUBAI DOUBLES:    \n\n",
     "       1. Petra Marcinko / Antonia Ruzic \n",
-    "          Marcinko, P/Ruzic, A\n\n"
+    "          Marcinko, P/Ruzic, A\n\n",
+    "20:34  OOP in DUBAI appeared \u2605\n       https://www.wtatennis.com/tournament/718/DUBAI/2026/order-of-play\n\n",
+    "20:34  change in OEIRAS-125-INDOOR-#2 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1156/OEIRAS-125-INDOOR-#2/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125-INDOOR-#2 SINGLES:    \n\n",
+    "       1. Yasmine Mansouri \n",
+    "          Mansouri, Y\n\n",
+    "       2. Dalila Jakupovic \n",
+    "          Jakupovic, D\n\n",
+    "       3. En-Shuo Liang \n",
+    "          Liang, E\n\n",
+    "       4. Naiktha Bains \n",
+    "          Bains, N\n\n",
+    "20:34  OOP in OEIRAS-125-INDOOR-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1156/OEIRAS-125-INDOOR-#2/2026/order-of-play\n\n",
+    "20:34  change in LES-SABLES-D'OLONNE-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1157/LES-SABLES-D'OLONNE-125/2026/draws\n\n       Players added to the draw in LES-SABLES-D'OLONNE-125 SINGLES:    \n\n",
+    "       1. Tiphanie Lemaitre \n",
+    "          Lemaitre, T\n\n",
+    "       Players removed from the draw in LES-SABLES-D'OLONNE-125 SINGLES:    \n\n",
+    "       1. Ksenia Efremova \n\n",
+    "20:34  OOP in LES-SABLES-D'OLONNE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1157/LES-SABLES-D'OLONNE-125/2026/order-of-play\n\n",
+    "20:34  change in MIDLAND-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2051/MIDLAND-125/2026/draws\n\n",
+    "       Players added to the draw in MIDLAND-125 SINGLES:    \n\n",
+    "       1. Sakura Hosogi \n",
+    "          Hosogi, S\n\n",
+    "       2. Shilin Xu \n",
+    "          Xu, S\n\n",
+    "       3. Dalayna Hewitt \n",
+    "          Hewitt, D\n\n",
+    "       4. Lea Ma \n",
+    "          Ma, L\n\n"
   ],
   "sits": {
     "ROME": [
@@ -40928,7 +40956,7 @@
           "players": []
         }
       ],
-      "2026-02-16"
+      "2026-02-17"
     ],
     "OEIRAS-125-INDOOR-#2": [
       [
@@ -40957,7 +40985,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Viktorija Golubic",
@@ -40972,17 +41000,21 @@
             "Anouk Koevermans",
             "Sara Sorribes Tormo",
             "Teodora Kostovic",
+            "Yasmine Mansouri",
             "Matilde Jorge",
             "Francisca Jorge",
             "Linda Klimovicova",
             "Viktoriya Tomova",
+            "Dalila Jakupovic",
             "Anastasia Tikhonova",
+            "En-Shuo Liang",
             "Elina Avanesyan",
             "Angelina Voloshchuk",
             "Carole Monnet",
             "Suzan Lamens",
             "Daria Snigur",
             "Viktoria Hruncakova",
+            "Naiktha Bains",
             "Barbora Palicova",
             "Iryna Shymanovich",
             "Nuria Parrizas Diaz",
@@ -41029,7 +41061,7 @@
           "players": []
         }
       ],
-      "2026-02-16"
+      "2026-02-17"
     ],
     "LES-SABLES-D'OLONNE-125": [
       [
@@ -41063,7 +41095,7 @@
             "Lola Radivojevic",
             "Greet Minnen",
             "Camilla Rosatello",
-            "Ksenia Efremova",
+            "Tiphanie Lemaitre",
             "Mona Barthel",
             "Anna Siskova",
             "Jessika Ponchet",
@@ -41114,7 +41146,7 @@
           "players": []
         }
       ],
-      "2026-02-16"
+      "2026-02-17"
     ],
     "MIDLAND-125": [
       [
@@ -41143,7 +41175,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Ashlyn Krueger",
@@ -41156,22 +41188,26 @@
             "Mary Stoiana",
             "Elvina Kalieva",
             "Anna Rogers",
+            "Sakura Hosogi",
             "Claire Liu",
             "Katarina Jokic",
             "Elizabeth Jones",
             "Hanyu Guo",
             "Louisa Chirico",
             "Alina Charaeva",
+            "Shilin Xu",
             "Lia Karatancheva",
             "Xiaodi You",
             "Carolyn Ansari",
             "Nao Hibino",
+            "Dalayna Hewitt",
             "Whitney Osuigwe",
             "Elizabeth Mandlik",
             "Anna Frey",
             "Elizabeth Coleman",
             "Kayla Day",
             "Gabriela Lee",
+            "Lea Ma",
             "Kanon Sawashiro",
             "Darja Vidmanova"
           ]
