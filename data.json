@@ -30612,7 +30612,33 @@
     "20:40  OOP in DUBAI appeared \u2605\n       https://www.wtatennis.com/tournament/718/DUBAI/2026/order-of-play\n\n",
     "20:40  OOP in OEIRAS-125-INDOOR-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1156/OEIRAS-125-INDOOR-#2/2026/order-of-play\n\n",
     "20:40  OOP in LES-SABLES-D'OLONNE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1157/LES-SABLES-D'OLONNE-125/2026/order-of-play\n\n",
-    "05:23  OOP in MIDLAND-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2051/MIDLAND-125/2026/order-of-play\n\n"
+    "05:23  OOP in MIDLAND-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2051/MIDLAND-125/2026/order-of-play\n\n",
+    "13:09  change in DUBAI DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/718/DUBAI/2026/draws\n\n       Players added to the draw in DUBAI DOUBLES:    \n\n",
+    "       1. Ekaterina Ovcharenko / Ekaterina Yashina \n",
+    "          Ovcharenko, E/Yashina, E\n\n",
+    "       Players removed from the draw in DUBAI DOUBLES:    \n\n",
+    "       1. Su-Wei Hsieh / Jelena Ostapenko \n\n",
+    "13:09  change in LES-SABLES-D'OLONNE-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1157/LES-SABLES-D'OLONNE-125/2026/draws\n\n",
+    "       Players added to the draw in LES-SABLES-D'OLONNE-125 DOUBLES:    \n\n",
+    "       1. Estelle Cascino / Shuo Feng \n",
+    "          Cascino, E/Feng, S\n\n",
+    "       2. Carol Young Suh Lee / Anna Siskova \n",
+    "          Lee, C/Siskova, A\n\n",
+    "       3. Camilla Rosatello / Darja Semenistaja \n",
+    "          Rosatello, C/Semenistaja, D\n\n",
+    "       4. Fiona Ferro / Harmony Tan \n",
+    "          Ferro, F/Tan, H\n\n",
+    "       5. Aliona Bolsova / Irene Burillo \n",
+    "          Bolsova, A/Burillo, I\n\n",
+    "       6. Alicia Barnett / Elixane Lechemia \n",
+    "          Barnett, A/Lechemia, E\n\n",
+    "       7. Madeleine Brooks / Angelica Moratelli \n",
+    "          Brooks, M/Moratelli, A\n\n",
+    "       Players removed from the draw in LES-SABLES-D'OLONNE-125 DOUBLES:    \n\n",
+    "       1. MADELEINE BROOKS / EKATERINE GORGODZE \n\n",
+    "       2. ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS \n\n",
+    "       3. ANNA SISKOVA / JESSIKA PONCHET \n\n",
+    "       4. ESTELLE CASCINO / SHUO FENG \n\n"
   ],
   "sits": {
     "ROME": [
@@ -40923,7 +40949,7 @@
             "Yifan Xu / Zhaoxuan Yang",
             "Andreja Klepac / Katarzyna Piter",
             "Storm Hunter / Katerina Siniakova",
-            "Su-Wei Hsieh / Jelena Ostapenko",
+            "Ekaterina Ovcharenko / Ekaterina Yashina",
             "Darija Jurak Schreiber / Magali Kempen",
             "Hao-Ching Chan / Clara Tauson",
             "Alexandra Panova / Diana Shnaider",
@@ -41127,13 +41153,16 @@
       ],
       [
         2,
-        4,
+        7,
         {
           "players": [
-            "MADELEINE BROOKS / EKATERINE GORGODZE",
-            "ANGELICA MORATELLI / YVONNE CAVALLE-REIMERS",
-            "ANNA SISKOVA / JESSIKA PONCHET",
-            "ESTELLE CASCINO / SHUO FENG"
+            "Estelle Cascino / Shuo Feng",
+            "Carol Young Suh Lee / Anna Siskova",
+            "Camilla Rosatello / Darja Semenistaja",
+            "Fiona Ferro / Harmony Tan",
+            "Aliona Bolsova / Irene Burillo",
+            "Alicia Barnett / Elixane Lechemia",
+            "Madeleine Brooks / Angelica Moratelli"
           ]
         }
       ],
