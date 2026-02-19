@@ -87,6 +87,50 @@
         0,
         "none"
       ]
+    ],
+    "AUSTIN": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "M\u00c9RIDA": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -30641,7 +30685,214 @@
     "       4. ESTELLE CASCINO / SHUO FENG \n\n",
     "20:41  OOP in DUBAI appeared \u2605\n       https://www.wtatennis.com/tournament/718/DUBAI/2026/order-of-play\n\n",
     "20:41  OOP in OEIRAS-125-INDOOR-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1156/OEIRAS-125-INDOOR-#2/2026/order-of-play\n\n",
-    "20:41  OOP in LES-SABLES-D'OLONNE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1157/LES-SABLES-D'OLONNE-125/2026/order-of-play\n\n"
+    "20:41  OOP in LES-SABLES-D'OLONNE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1157/LES-SABLES-D'OLONNE-125/2026/order-of-play\n\n",
+    "05:21  OOP in MIDLAND-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2051/MIDLAND-125/2026/order-of-play\n\n",
+    "05:21  AUSTIN SINGLES draw    \n       https://www.wtatennis.com/tournament/2082/AUSTIN/2026/draws\n\n",
+    "       Players added to the draw in AUSTIN SINGLES:    \n\n",
+    "       1. MADISON BRENGLE \n",
+    "          BRENGLE, M\n\n",
+    "       2. AJLA TOMLJANOVIC \n",
+    "          TOMLJANOVIC, A\n\n",
+    "       3. JESSICA PEGULA \n",
+    "          PEGULA, J\n\n",
+    "       4. TAYLOR TOWNSEND \n",
+    "          TOWNSEND, T\n\n",
+    "       5. REBECCA SRAMKOVA \n",
+    "          SRAMKOVA, R\n\n",
+    "       6. KIMBERLY BIRRELL \n",
+    "          BIRRELL, K\n\n",
+    "       7. DALMA GALFI \n",
+    "          GALFI, D\n\n",
+    "       8. MADDISON INGLIS \n",
+    "          INGLIS, M\n\n",
+    "       9. CAROLINE DOLEHIDE \n",
+    "          DOLEHIDE, C\n\n",
+    "       10. REBEKA MASAROVA \n",
+    "           MASAROVA, R\n\n",
+    "       11. ANNA BONDAR \n",
+    "           BONDAR, A\n\n",
+    "       12. ANNA BLINKOVA \n",
+    "           BLINKOVA, A\n\n",
+    "       13. YUE YUAN \n",
+    "           YUAN, Y\n\n",
+    "       14. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       15. LULU SUN \n",
+    "           SUN, L\n\n",
+    "       16. KAJA JUVAN \n",
+    "           JUVAN, K\n\n",
+    "       17. BIANCA ANDREESCU \n",
+    "           ANDREESCU, B\n\n",
+    "       18. CATY MCNALLY \n",
+    "           MCNALLY, C\n\n",
+    "       19. VARVARA GRACHEVA \n",
+    "           GRACHEVA, V\n\n",
+    "       20. KAMILLA RAKHIMOVA \n",
+    "           RAKHIMOVA, K\n\n",
+    "       21. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       22. WHITNEY OSUIGWE \n",
+    "           OSUIGWE, W\n\n",
+    "       23. XINYU WANG \n",
+    "           WANG, X\n\n",
+    "       24. ELIZABETH MANDLIK \n",
+    "           MANDLIK, E\n\n",
+    "       25. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       26. HIMENO SAKATSUME \n",
+    "           SAKATSUME, H\n\n",
+    "       27. MCCARTNEY KESSLER \n",
+    "           KESSLER, M\n\n",
+    "       28. ANASTASIA ZAKHAROVA \n",
+    "           ZAKHAROVA, A\n\n",
+    "       29. KATIE VOLYNETS \n",
+    "           VOLYNETS, K\n\n",
+    "       30. PEYTON STEARNS \n",
+    "           STEARNS, P\n\n",
+    "       31. ELVINA KALIEVA \n",
+    "           KALIEVA, E\n\n",
+    "       32. DARJA VIDMANOVA \n",
+    "           VIDMANOVA, D\n\n",
+    "       33. SOLANA SIERRA \n",
+    "           SIERRA, S\n\n",
+    "       34. ALINA CHARAEVA \n",
+    "           CHARAEVA, A\n\n",
+    "       35. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       36. ASHLYN KRUEGER \n",
+    "           KRUEGER, A\n\n",
+    "       37. LINDA FRUHVIRTOVA \n",
+    "           FRUHVIRTOVA, L\n\n",
+    "       38. LANLANA TARARUDEE \n",
+    "           TARARUDEE, L\n\n",
+    "       39. NIKOLA BARTUNKOVA \n",
+    "           BARTUNKOVA, N\n\n",
+    "       40. PETRA MARCINKO \n",
+    "           MARCINKO, P\n\n",
+    "       41. IVA JOVIC \n",
+    "           JOVIC, I\n\n",
+    "05:21  AUSTIN DOUBLES draw    \n       https://www.wtatennis.com/tournament/2082/AUSTIN/2026/draws\n\n",
+    "       Players added to the draw in AUSTIN DOUBLES:    \n\n",
+    "       1. XINYU WANG / SAISAI ZHENG \n",
+    "          WANG, X/ZHENG, S\n\n",
+    "       2. STORM HUNTER / TAYLOR TOWNSEND \n",
+    "          HUNTER, S/TOWNSEND, T\n\n",
+    "       3. EN-SHUO LIANG / EUDICE CHONG \n",
+    "          LIANG, E/CHONG, E\n\n",
+    "       4. MANA AYUKAWA / KANAKO MORISAKI \n",
+    "          AYUKAWA, M/MORISAKI, K\n\n",
+    "       5. SHUKO AOYAMA / ENA SHIBAHARA \n",
+    "          AOYAMA, S/SHIBAHARA, E\n\n",
+    "       6. ALEXA GUARACHI / EMILY APPLETON \n",
+    "          GUARACHI, A/APPLETON, E\n\n",
+    "       7. CATHERINE HARRISON / DALAYNA HEWITT \n",
+    "          HARRISON, C/HEWITT, D\n\n",
+    "       8. KIMBERLY BIRRELL / CATY MCNALLY \n",
+    "          BIRRELL, K/MCNALLY, C\n\n",
+    "       9. IVANA CORLEY / CARMEN CORLEY \n",
+    "          CORLEY, I/CORLEY, C\n\n",
+    "       10. YA HSIN LEE / NATSUMI KAWAGUCHI \n",
+    "           LEE, Y/KAWAGUCHI, N\n\n",
+    "       11. ANNA BLINKOVA / PETRA MARCINKO \n",
+    "           BLINKOVA, A/MARCINKO, P\n\n",
+    "05:21  M\u00c9RIDA SINGLES draw    \n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/draws\n\n",
+    "       Players added to the draw in M\u00c9RIDA SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. TATJANA MARIA \n",
+    "          MARIA, T\n\n",
+    "       3. SHUAI ZHANG \n",
+    "          ZHANG, S\n\n",
+    "       4. MAGDA LINETTE \n",
+    "          LINETTE, M\n\n",
+    "       5. ANA SOFIA S\u00c1NCHEZ \n",
+    "          S\u00c1NCHEZ, A\n\n",
+    "       6. HEATHER WATSON \n",
+    "          WATSON, H\n\n",
+    "       7. YULIA PUTINTSEVA \n",
+    "          PUTINTSEVA, Y\n\n",
+    "       8. BEATRIZ HADDAD MAIA \n",
+    "          HADDAD MAIA, B\n\n",
+    "       9. DONNA VEKIC \n",
+    "          VEKIC, D\n\n",
+    "       10. KATIE BOULTER \n",
+    "           BOULTER, K\n\n",
+    "       11. PAULA BADOSA \n",
+    "           BADOSA, P\n\n",
+    "       12. MAGDALENA FRECH \n",
+    "           FRECH, M\n\n",
+    "       13. JAQUELINE  CRISTIAN \n",
+    "           CRISTIAN, J\n\n",
+    "       14. PRISCILLA HON \n",
+    "           HON, P\n\n",
+    "       15. RENATA ZARAZUA \n",
+    "           ZARAZUA, R\n\n",
+    "       16. MARIE BOUZKOVA \n",
+    "           BOUZKOVA, M\n\n",
+    "       17. CRISTINA BUCSA \n",
+    "           BUCSA, C\n\n",
+    "       18. MARIA LOURDES CARLE \n",
+    "           CARLE, M\n\n",
+    "       19. HANYU GUO \n",
+    "           GUO, H\n\n",
+    "       20. EMILIANA ARANGO \n",
+    "           ARANGO, E\n\n",
+    "       21. YULIIA STARODUBTSEVA \n",
+    "           STARODUBTSEVA, Y\n\n",
+    "       22. EMMA NAVARRO \n",
+    "           NAVARRO, E\n\n",
+    "       23. ANASTASIA POTAPOVA \n",
+    "           POTAPOVA, A\n\n",
+    "       24. CAMILA OSORIO \n",
+    "           OSORIO, C\n\n",
+    "       25. ANN LI \n",
+    "           LI, A\n\n",
+    "       26. DIANE PARRY \n",
+    "           PARRY, D\n\n",
+    "       27. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       28. JESSICA BOUZAS MANEIRO \n",
+    "           BOUZAS MANEIRO, J\n\n",
+    "       29. JANICE TJEN \n",
+    "           TJEN, J\n\n",
+    "       30. MARIA TIMOFEEVA \n",
+    "           TIMOFEEVA, M\n\n",
+    "       31. MARINA STAKUSIC \n",
+    "           STAKUSIC, M\n\n",
+    "       32. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       33. CADENCE BRACE \n",
+    "           BRACE, C\n\n",
+    "       34. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       35. DIANA SHNAIDER \n",
+    "           SHNAIDER, D\n\n",
+    "       36. KAYLA CROSS \n",
+    "           CROSS, K\n\n",
+    "05:21  M\u00c9RIDA DOUBLES draw    \n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/draws\n\n",
+    "       Players added to the draw in M\u00c9RIDA DOUBLES:    \n\n",
+    "       1. QIANHUI TANG / YIFAN XU \n",
+    "          TANG, Q/XU, Y\n\n",
+    "       2. IRINA KHROMACHEVA / NICOLE MELICHAR-MARTINEZ \n",
+    "          KHROMACHEVA, I/MELICHAR-MARTINEZ, N\n\n",
+    "       3. NADIIA KICHENOK / MAKOTO NINOMIYA \n",
+    "          KICHENOK, N/NINOMIYA, M\n\n",
+    "       4. GIULIANA OLMOS / ALDILA SUTJIADI \n",
+    "          OLMOS, G/SUTJIADI, A\n\n",
+    "       5. QUINN GLEASON / MAGALI KEMPEN \n",
+    "          GLEASON, Q/KEMPEN, M\n\n",
+    "       6. XINYU JIANG / CRISTINA BUCSA \n",
+    "          JIANG, X/BUCSA, C\n\n",
+    "       7. KRISTINA MLADENOVIC / HANYU GUO \n",
+    "          MLADENOVIC, K/GUO, H\n\n",
+    "       8. SABRINA SANTAMARIA / ANASTASIA DETIUC \n",
+    "          SANTAMARIA, S/DETIUC, A\n\n",
+    "       9. MADELEINE BROOKS / SHUO FENG \n",
+    "          BROOKS, M/FENG, S\n\n",
+    "       10. MAIA LUMSDEN / ISABELLE HAVERLAG \n",
+    "           LUMSDEN, M/HAVERLAG, I\n\n",
+    "       11. KATARZYNA PITER / JANICE TJEN \n",
+    "           PITER, K/TJEN, J\n\n"
   ],
   "sits": {
     "ROME": [
@@ -41287,7 +41538,186 @@
           "players": []
         }
       ],
-      "2026-02-18"
+      "2026-02-19"
+    ],
+    "AUSTIN": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        41,
+        {
+          "players": [
+            "MADISON BRENGLE",
+            "AJLA TOMLJANOVIC",
+            "JESSICA PEGULA",
+            "TAYLOR TOWNSEND",
+            "REBECCA SRAMKOVA",
+            "KIMBERLY BIRRELL",
+            "DALMA GALFI",
+            "MADDISON INGLIS",
+            "CAROLINE DOLEHIDE",
+            "REBEKA MASAROVA",
+            "ANNA BONDAR",
+            "ANNA BLINKOVA",
+            "YUE YUAN",
+            "FRANCESCA JONES",
+            "LULU SUN",
+            "KAJA JUVAN",
+            "BIANCA ANDREESCU",
+            "CATY MCNALLY",
+            "VARVARA GRACHEVA",
+            "KAMILLA RAKHIMOVA",
+            "ALYCIA PARKS",
+            "WHITNEY OSUIGWE",
+            "XINYU WANG",
+            "ELIZABETH MANDLIK",
+            "JOANNA GARLAND",
+            "HIMENO SAKATSUME",
+            "MCCARTNEY KESSLER",
+            "ANASTASIA ZAKHAROVA",
+            "KATIE VOLYNETS",
+            "PEYTON STEARNS",
+            "ELVINA KALIEVA",
+            "DARJA VIDMANOVA",
+            "SOLANA SIERRA",
+            "ALINA CHARAEVA",
+            "OKSANA SELEKHMETEVA",
+            "ASHLYN KRUEGER",
+            "LINDA FRUHVIRTOVA",
+            "LANLANA TARARUDEE",
+            "NIKOLA BARTUNKOVA",
+            "PETRA MARCINKO",
+            "IVA JOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "XINYU WANG / SAISAI ZHENG",
+            "STORM HUNTER / TAYLOR TOWNSEND",
+            "EN-SHUO LIANG / EUDICE CHONG",
+            "MANA AYUKAWA / KANAKO MORISAKI",
+            "SHUKO AOYAMA / ENA SHIBAHARA",
+            "ALEXA GUARACHI / EMILY APPLETON",
+            "CATHERINE HARRISON / DALAYNA HEWITT",
+            "KIMBERLY BIRRELL / CATY MCNALLY",
+            "IVANA CORLEY / CARMEN CORLEY",
+            "YA HSIN LEE / NATSUMI KAWAGUCHI",
+            "ANNA BLINKOVA / PETRA MARCINKO"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "M\u00c9RIDA": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        36,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "TATJANA MARIA",
+            "SHUAI ZHANG",
+            "MAGDA LINETTE",
+            "ANA SOFIA S\u00c1NCHEZ",
+            "HEATHER WATSON",
+            "YULIA PUTINTSEVA",
+            "BEATRIZ HADDAD MAIA",
+            "DONNA VEKIC",
+            "KATIE BOULTER",
+            "PAULA BADOSA",
+            "MAGDALENA FRECH",
+            "JAQUELINE  CRISTIAN",
+            "PRISCILLA HON",
+            "RENATA ZARAZUA",
+            "MARIE BOUZKOVA",
+            "CRISTINA BUCSA",
+            "MARIA LOURDES CARLE",
+            "HANYU GUO",
+            "EMILIANA ARANGO",
+            "YULIIA STARODUBTSEVA",
+            "EMMA NAVARRO",
+            "ANASTASIA POTAPOVA",
+            "CAMILA OSORIO",
+            "ANN LI",
+            "DIANE PARRY",
+            "ELINA AVANESYAN",
+            "JESSICA BOUZAS MANEIRO",
+            "JANICE TJEN",
+            "MARIA TIMOFEEVA",
+            "MARINA STAKUSIC",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "CADENCE BRACE",
+            "SOFIA COSTOULAS",
+            "DIANA SHNAIDER",
+            "KAYLA CROSS"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "QIANHUI TANG / YIFAN XU",
+            "IRINA KHROMACHEVA / NICOLE MELICHAR-MARTINEZ",
+            "NADIIA KICHENOK / MAKOTO NINOMIYA",
+            "GIULIANA OLMOS / ALDILA SUTJIADI",
+            "QUINN GLEASON / MAGALI KEMPEN",
+            "XINYU JIANG / CRISTINA BUCSA",
+            "KRISTINA MLADENOVIC / HANYU GUO",
+            "SABRINA SANTAMARIA / ANASTASIA DETIUC",
+            "MADELEINE BROOKS / SHUO FENG",
+            "MAIA LUMSDEN / ISABELLE HAVERLAG",
+            "KATARZYNA PITER / JANICE TJEN"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -41306,7 +41736,15 @@
     [
       "MIDLAND-125",
       2051
+    ],
+    [
+      "AUSTIN",
+      2082
+    ],
+    [
+      "M\u00c9RIDA",
+      2085
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
