@@ -31124,7 +31124,49 @@
     "           Lemaitre, T\n\n",
     "       24. Maria Lourdes Carle \n",
     "           Carle, M\n\n",
-    "05:06  OOP in M\u00c9RIDA appeared \u2605\n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/order-of-play\n\n"
+    "05:06  OOP in M\u00c9RIDA appeared \u2605\n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/order-of-play\n\n",
+    "20:27  OOP in OEIRAS-125-INDOOR-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1156/OEIRAS-125-INDOOR-#2/2026/order-of-play\n\n",
+    "20:27  OOP in LES-SABLES-D'OLONNE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1157/LES-SABLES-D'OLONNE-125/2026/order-of-play\n\n",
+    "20:27  change in M\u00c9RIDA QUALS \u2605   \n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/draws\n\n       Players added to the draw in M\u00c9RIDA QUALS:    \n\n",
+    "       1. Valeriya Strakhova \n",
+    "          Strakhova, V\n\n",
+    "       Players removed from the draw in M\u00c9RIDA QUALS:    \n\n",
+    "       1. Hanyu Guo \n\n",
+    "20:27  NEW draw in ANTALYA-125-#1 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/draws\n\n",
+    "       Players added to the draw in ANTALYA-125-#1 QUALS:    \n\n",
+    "       1. Iryna Shymanovich \n",
+    "          Shymanovich, I\n\n",
+    "       2. Denislava Glushkova \n",
+    "          Glushkova, D\n\n",
+    "       3. Defne Cirpanli \n",
+    "          Cirpanli, D\n\n",
+    "       4. Katarina Zavatska \n",
+    "          Zavatska, K\n\n",
+    "       5. Carolina Alves \n",
+    "          Alves, C\n\n",
+    "       6. Martina Colmegna \n",
+    "          Colmegna, M\n\n",
+    "       7. Deniz Cakil \n",
+    "          Cakil, D\n\n",
+    "       8. Anastasia Zolotareva \n",
+    "          Zolotareva, A\n\n",
+    "       9. Amarissa Toth \n",
+    "          Toth, A\n\n",
+    "       10. Sofia Shapatava \n",
+    "           Shapatava, S\n\n",
+    "       11. Ikumi Yamazaki \n",
+    "           Yamazaki, I\n\n",
+    "       12. Dalila Spiteri \n",
+    "           Spiteri, D\n\n",
+    "       13. Mia Ristic \n",
+    "           Ristic, M\n\n",
+    "       14. Darya Astakhova \n",
+    "           Astakhova, D\n\n",
+    "       15. Alevtina Ibragimova \n",
+    "           Ibragimova, A\n\n",
+    "       16. Polona Hercog \n",
+    "           Hercog, P\n\n",
+    "20:27  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -41578,7 +41620,7 @@
           "players": []
         }
       ],
-      "2026-02-21"
+      "2026-02-22"
     ],
     "LES-SABLES-D'OLONNE-125": [
       [
@@ -41666,7 +41708,7 @@
           "players": []
         }
       ],
-      "2026-02-21"
+      "2026-02-22"
     ],
     "MIDLAND-125": [
       [
@@ -41906,7 +41948,7 @@
             "Victoria Jimenez Kasintseva",
             "Katarina Jokic",
             "Miriana Tona",
-            "Hanyu Guo",
+            "Valeriya Strakhova",
             "Priscilla Hon",
             "Victoria Rodriguez",
             "Sachia Vickery",
@@ -42004,9 +42046,26 @@
     "ANTALYA-125-#1": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Iryna Shymanovich",
+            "Denislava Glushkova",
+            "Defne Cirpanli",
+            "Katarina Zavatska",
+            "Carolina Alves",
+            "Martina Colmegna",
+            "Deniz Cakil",
+            "Anastasia Zolotareva",
+            "Amarissa Toth",
+            "Sofia Shapatava",
+            "Ikumi Yamazaki",
+            "Dalila Spiteri",
+            "Mia Ristic",
+            "Darya Astakhova",
+            "Alevtina Ibragimova",
+            "Polona Hercog"
+          ]
         }
       ],
       [
@@ -42087,7 +42146,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-02-22"
     ]
   },
   "torns": [
