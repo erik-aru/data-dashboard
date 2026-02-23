@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "OEIRAS-125-INDOOR-#2": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "LES-SABLES-D'OLONNE-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "MIDLAND-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "AUSTIN": [
       [
         0,
@@ -31515,7 +31449,37 @@
     "       35. ELENA PRIDANKINA \n\n",
     "       36. MIA RISTIC \n\n",
     "       37. SARA SAITO \n\n",
-    "20:29  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n"
+    "20:29  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n",
+    "05:26  AUSTIN SINGLES draw    \n       https://www.wtatennis.com/tournament/2082/AUSTIN/2026/draws\n\n",
+    "       Players added to the draw in AUSTIN SINGLES:    \n\n",
+    "       1. Rebeka Masarova \n",
+    "          Masarova, R\n\n",
+    "       2. Elizabeth Mandlik \n",
+    "          Mandlik, E\n\n",
+    "       3. Whitney Osuigwe \n",
+    "          Osuigwe, W\n\n",
+    "       4. Nikola Bartunkova \n",
+    "          Bartunkova, N\n\n",
+    "       5. Claire Liu \n",
+    "          Liu, C\n\n",
+    "       6. Caroline Dolehide \n",
+    "          Dolehide, C\n\n",
+    "05:26  OOP in AUSTIN appeared \u2605\n       https://www.wtatennis.com/tournament/2082/AUSTIN/2026/order-of-play\n\n",
+    "05:26  M\u00c9RIDA SINGLES draw    \n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/draws\n\n",
+    "       Players added to the draw in M\u00c9RIDA SINGLES:    \n\n",
+    "       1. Cadence Brace \n",
+    "          Brace, C\n\n",
+    "       2. Heather Watson \n",
+    "          Watson, H\n\n",
+    "       3. Maria Timofeeva \n",
+    "          Timofeeva, M\n\n",
+    "       4. Victoria Jimenez Kasintseva \n",
+    "          Jimenez Kasintseva, V\n\n",
+    "       5. Varvara Lepchenko \n",
+    "          Lepchenko, V\n\n",
+    "       6. Shuai Zhang \n",
+    "          Zhang, S\n\n",
+    "05:26  OOP in M\u00c9RIDA appeared \u2605\n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -42198,7 +42162,7 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Jessica Pegula",
@@ -42210,7 +42174,11 @@
             "Ashlyn Krueger",
             "Caty McNally",
             "Xinyu Wang",
+            "Rebeka Masarova",
+            "Elizabeth Mandlik",
+            "Whitney Osuigwe",
             "Katie Volynets",
+            "Nikola Bartunkova",
             "Taylor Townsend",
             "Varvara Gracheva",
             "Anna Bondar",
@@ -42218,11 +42186,13 @@
             "Alycia Parks",
             "Oksana Selekhmeteva",
             "Kaja Juvan",
+            "Claire Liu",
             "Francesca Jones",
             "Peyton Stearns",
             "Petra Marcinko",
             "Kimberly Birrell",
             "Lulu Sun",
+            "Caroline Dolehide",
             "Venus Williams",
             "Ajla Tomljanovic",
             "Anna Blinkova",
@@ -42268,7 +42238,7 @@
           "players": []
         }
       ],
-      "2026-02-22"
+      "2026-02-23"
     ],
     "M\u00c9RIDA": [
       [
@@ -42305,7 +42275,7 @@
       ],
       [
         1,
-        22,
+        28,
         {
           "players": [
             "Jasmine Paolini",
@@ -42316,19 +42286,25 @@
             "Camila Osorio",
             "Janice Tjen",
             "Ann Li",
+            "Cadence Brace",
             "Zeynep Sonmez",
             "Cristina Bucsa",
             "Donna Vekic",
             "Marina Stakusic",
             "Dayana Yastremska",
             "Jessica Bouzas Maneiro",
+            "Heather Watson",
             "Magdalena Frech",
+            "Maria Timofeeva",
             "Emiliana Arango",
             "Anastasia Potapova",
             "Marie Bouzkova",
             "Magda Linette",
             "Tatjana Maria",
+            "Victoria Jimenez Kasintseva",
             "Yulia Putintseva",
+            "Varvara Lepchenko",
+            "Shuai Zhang",
             "Emma Navarro"
           ]
         }
@@ -42371,7 +42347,7 @@
           "players": []
         }
       ],
-      "2026-02-22"
+      "2026-02-23"
     ],
     "ANTALYA-125-#1": [
       [
@@ -42472,18 +42448,6 @@
   },
   "torns": [
     [
-      "OEIRAS-125-INDOOR-#2",
-      1156
-    ],
-    [
-      "LES-SABLES-D'OLONNE-125",
-      1157
-    ],
-    [
-      "MIDLAND-125",
-      2051
-    ],
-    [
       "AUSTIN",
       2082
     ],
@@ -42496,5 +42460,5 @@
       1124
     ]
   ],
-  "old_day": 22
+  "old_day": 23
 }
