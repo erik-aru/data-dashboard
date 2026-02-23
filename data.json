@@ -31493,7 +31493,54 @@
     "       5. Katarina Zavatska \n",
     "          Zavatska, K\n\n",
     "       Players removed from the draw in ANTALYA-125-#1 SINGLES:    \n\n",
-    "       1. Miriam Bulgaru \n\n"
+    "       1. Miriam Bulgaru \n\n",
+    "20:46  change in ANTALYA-125-#1 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/draws\n\n",
+    "       Players added to the draw in ANTALYA-125-#1 DOUBLES:    \n\n",
+    "       1. Mariia Kozyreva / Iryna Shymanovich \n",
+    "          Kozyreva, M/Shymanovich, I\n\n",
+    "       2. Dalila Jakupovic / Nika Radisic \n",
+    "          Jakupovic, D/Radisic, N\n\n",
+    "       3. Despina Papamichail / Mayar Sherif \n",
+    "          Papamichail, D/Sherif, M\n\n",
+    "       4. Irina Bara / Ekaterine Gorgodze \n",
+    "          Bara, I/Gorgodze, E\n\n",
+    "       5. Estelle Cascino / Nicole Fossa Huergo \n",
+    "          Cascino, E/Fossa Huergo, N\n\n",
+    "       6. Julia Riera / Leyre Romero Gormaz \n",
+    "          Riera, J/Romero Gormaz, L\n\n",
+    "       7. Lian Tran / Anastasia Zolotareva \n",
+    "          Tran, L/Zolotareva, A\n\n",
+    "       8. Hiroko Kuwata / Qiu Yu Ye \n",
+    "          Kuwata, H/Ye, Q\n\n",
+    "       9. Lucia Bronzetti / Moyuka Uchijima \n",
+    "          Bronzetti, L/Uchijima, M\n\n",
+    "       10. Alicia Barnett / Elixane Lechemia \n",
+    "           Barnett, A/Lechemia, E\n\n",
+    "       11. Ada Kumru / Ipek Oz \n",
+    "           Kumru, A/Oz, I\n\n",
+    "       12. Momoko Kobori / Peangtarn Plipuech \n",
+    "           Kobori, M/Plipuech, P\n\n",
+    "       13. Veronika Erjavec / Panna Udvardy \n",
+    "           Erjavec, V/Udvardy, P\n\n",
+    "       14. Laura Pigossi / Tamara Zidansek \n",
+    "           Pigossi, L/Zidansek, T\n\n",
+    "       15. Carole Monnet / Arantxa Rus \n",
+    "           Monnet, C/Rus, A\n\n",
+    "       16. Jesika Maleckova / Miriam Skoch \n",
+    "           Maleckova, J/Skoch, M\n\n",
+    "       Players removed from the draw in ANTALYA-125-#1 DOUBLES:    \n\n",
+    "       1. EKATERINA OVCHARENKO / EMILY WEBLEY-SMITH \n\n",
+    "       2. CAROLE MONNET / ARANTXA RUS \n\n",
+    "       3. ESTELLE CASCINO / NICOLE FOSSA HUERGO \n\n",
+    "       4. EKATERINE GORGODZE / IRINA BARA \n\n",
+    "       5. MIRIAM SKOCH / JESIKA MALECKOVA \n\n",
+    "       6. DESPINA PAPAMICHAIL / MAYAR SHERIF \n\n",
+    "       7. ELIXANE LECHEMIA / ALICIA BARNETT \n\n",
+    "       8. MARIIA KOZYREVA / IRYNA SHYMANOVICH \n\n",
+    "       9. HIROKO KUWATA / QIU YU YE \n\n",
+    "       10. YI-TSEN CHO / I-HSUAN CHO \n\n",
+    "       11. VERONIKA ERJAVEC / PANNA UDVARDY \n\n",
+    "20:46  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -42430,20 +42477,25 @@
       ],
       [
         2,
-        11,
+        16,
         {
           "players": [
-            "EKATERINA OVCHARENKO / EMILY WEBLEY-SMITH",
-            "CAROLE MONNET / ARANTXA RUS",
-            "ESTELLE CASCINO / NICOLE FOSSA HUERGO",
-            "EKATERINE GORGODZE / IRINA BARA",
-            "MIRIAM SKOCH / JESIKA MALECKOVA",
-            "DESPINA PAPAMICHAIL / MAYAR SHERIF",
-            "ELIXANE LECHEMIA / ALICIA BARNETT",
-            "MARIIA KOZYREVA / IRYNA SHYMANOVICH",
-            "HIROKO KUWATA / QIU YU YE",
-            "YI-TSEN CHO / I-HSUAN CHO",
-            "VERONIKA ERJAVEC / PANNA UDVARDY"
+            "Mariia Kozyreva / Iryna Shymanovich",
+            "Dalila Jakupovic / Nika Radisic",
+            "Despina Papamichail / Mayar Sherif",
+            "Irina Bara / Ekaterine Gorgodze",
+            "Estelle Cascino / Nicole Fossa Huergo",
+            "Julia Riera / Leyre Romero Gormaz",
+            "Lian Tran / Anastasia Zolotareva",
+            "Hiroko Kuwata / Qiu Yu Ye",
+            "Lucia Bronzetti / Moyuka Uchijima",
+            "Alicia Barnett / Elixane Lechemia",
+            "Ada Kumru / Ipek Oz",
+            "Momoko Kobori / Peangtarn Plipuech",
+            "Veronika Erjavec / Panna Udvardy",
+            "Laura Pigossi / Tamara Zidansek",
+            "Carole Monnet / Arantxa Rus",
+            "Jesika Maleckova / Miriam Skoch"
           ]
         }
       ],
@@ -42461,7 +42513,7 @@
           "players": []
         }
       ],
-      "2026-02-23"
+      "2026-02-24"
     ]
   },
   "torns": [
