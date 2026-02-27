@@ -65,6 +65,28 @@
         0,
         "none"
       ]
+    ],
+    "ANTALYA-125-#2": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -31581,7 +31603,109 @@
     "20:38  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n",
     "05:20  OOP in AUSTIN appeared \u2605\n       https://www.wtatennis.com/tournament/2082/AUSTIN/2026/order-of-play\n\n",
     "05:20  OOP in M\u00c9RIDA appeared \u2605\n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/order-of-play\n\n",
-    "20:40  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n"
+    "20:40  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n",
+    "05:15  OOP in AUSTIN appeared \u2605\n       https://www.wtatennis.com/tournament/2082/AUSTIN/2026/order-of-play\n\n",
+    "05:15  OOP in M\u00c9RIDA appeared \u2605\n       https://www.wtatennis.com/tournament/2085/M\u00c9RIDA/2026/order-of-play\n\n",
+    "05:15  ANTALYA-125-#2 SINGLES draw    \n       https://www.wtatennis.com/tournament/1107/ANTALYA-125-#2/2026/draws\n\n",
+    "       Players added to the draw in ANTALYA-125-#2 SINGLES:    \n\n",
+    "       1. ARANTXA RUS \n",
+    "          RUS, A\n\n",
+    "       2. EKATERINE GORGODZE \n",
+    "          GORGODZE, E\n\n",
+    "       3. KATARZYNA KAWA \n",
+    "          KAWA, K\n\n",
+    "       4. DESPINA PAPAMICHAIL \n",
+    "          PAPAMICHAIL, D\n\n",
+    "       5. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       6. ANDREA LAZARO GARCIA \n",
+    "          LAZARO GARCIA, A\n\n",
+    "       7. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       8. CAROLINA ALVES \n",
+    "          ALVES, C\n\n",
+    "       9. CAROLINE WERNER \n",
+    "          WERNER, C\n\n",
+    "       10. JULIA GRABHER \n",
+    "           GRABHER, J\n\n",
+    "       11. ANHELINA KALININA \n",
+    "           KALININA, A\n\n",
+    "       12. IRYNA SHYMANOVICH \n",
+    "           SHYMANOVICH, I\n\n",
+    "       13. LUCIA BRONZETTI \n",
+    "           BRONZETTI, L\n\n",
+    "       14. ANASTASIA GASANOVA \n",
+    "           GASANOVA, A\n\n",
+    "       15. ALICE RAME \n",
+    "           RAME, A\n\n",
+    "       16. TAMARA ZIDANSEK \n",
+    "           ZIDANSEK, T\n\n",
+    "       17. MIRIAM BULGARU \n",
+    "           BULGARU, M\n\n",
+    "       18. MAI HONTAMA \n",
+    "           HONTAMA, M\n\n",
+    "       19. GUIOMAR MARISTANY ZULETA DE REALES \n",
+    "           MARISTANY ZULETA DE REALES, G\n\n",
+    "       20. NURIA BRANCACCIO \n",
+    "           BRANCACCIO, N\n\n",
+    "       21. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       22. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       23. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       24. LEYRE ROMERO GORMAZ \n",
+    "           ROMERO GORMAZ, L\n\n",
+    "       25. OLEKSANDRA OLIYNYKOVA \n",
+    "           OLIYNYKOVA, O\n\n",
+    "       26. MOYUKA UCHIJIMA \n",
+    "           UCHIJIMA, M\n\n",
+    "       27. JULIA RIERA \n",
+    "           RIERA, J\n\n",
+    "       28. ELINA AVANESYAN \n",
+    "           AVANESYAN, E\n\n",
+    "       29. VERONIKA ERJAVEC \n",
+    "           ERJAVEC, V\n\n",
+    "       30. LISA PIGATO \n",
+    "           PIGATO, L\n\n",
+    "       31. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       32. ALINA CHARAEVA \n",
+    "           CHARAEVA, A\n\n",
+    "       33. DOMINIKA SALKOVA \n",
+    "           SALKOVA, D\n\n",
+    "       34. TARA WUERTH \n",
+    "           WUERTH, T\n\n",
+    "       35. ELENA PRIDANKINA \n",
+    "           PRIDANKINA, E\n\n",
+    "       36. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "       37. TEODORA KOSTOVIC \n",
+    "           KOSTOVIC, T\n\n",
+    "05:15  ANTALYA-125-#2 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1107/ANTALYA-125-#2/2026/draws\n\n",
+    "       Players added to the draw in ANTALYA-125-#2 DOUBLES:    \n\n",
+    "       1. ESTELLE CASCINO / NICOLE FOSSA HUERGO \n",
+    "          CASCINO, E/FOSSA HUERGO, N\n\n",
+    "       2. QIANHUI TANG / ANGELICA MORATELLI \n",
+    "          TANG, Q/MORATELLI, A\n\n",
+    "       3. MIRIAM SKOCH / JESIKA MALECKOVA \n",
+    "          SKOCH, M/MALECKOVA, J\n\n",
+    "       4. ELIXANE LECHEMIA / ALICIA BARNETT \n",
+    "          LECHEMIA, E/BARNETT, A\n\n",
+    "       5. MARIIA KOZYREVA / IRYNA SHYMANOVICH \n",
+    "          KOZYREVA, M/SHYMANOVICH, I\n\n",
+    "       6. YI-TSEN CHO / I-HSUAN CHO \n",
+    "          CHO, Y/CHO, I\n\n",
+    "       7. PEANGTARN PLIPUECH / MOMOKO KOBORI \n",
+    "          PLIPUECH, P/KOBORI, M\n\n",
+    "       8. LAURA PIGOSSI / SHUO FENG \n",
+    "          PIGOSSI, L/FENG, S\n\n",
+    "       9. DALILA JAKUPOVIC / NIKA RADISIC \n",
+    "          JAKUPOVIC, D/RADISIC, N\n\n",
+    "       10. ANASTASIA DETIUC / DOMINIKA SALKOVA \n",
+    "           DETIUC, A/SALKOVA, D\n\n",
+    "       11. VERA ZVONAREVA / ELENA PRIDANKINA \n",
+    "           ZVONAREVA, V/PRIDANKINA, E\n\n"
   ],
   "sits": {
     "ROME": [
@@ -42340,7 +42464,7 @@
           "players": []
         }
       ],
-      "2026-02-26"
+      "2026-02-27"
     ],
     "M\u00c9RIDA": [
       [
@@ -42448,7 +42572,7 @@
           "players": []
         }
       ],
-      "2026-02-26"
+      "2026-02-27"
     ],
     "ANTALYA-125-#1": [
       [
@@ -42554,6 +42678,94 @@
         }
       ],
       "2026-02-27"
+    ],
+    "ANTALYA-125-#2": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "ARANTXA RUS",
+            "EKATERINE GORGODZE",
+            "KATARZYNA KAWA",
+            "DESPINA PAPAMICHAIL",
+            "LAURA PIGOSSI",
+            "ANDREA LAZARO GARCIA",
+            "MAYAR SHERIF",
+            "CAROLINA ALVES",
+            "CAROLINE WERNER",
+            "JULIA GRABHER",
+            "ANHELINA KALININA",
+            "IRYNA SHYMANOVICH",
+            "LUCIA BRONZETTI",
+            "ANASTASIA GASANOVA",
+            "ALICE RAME",
+            "TAMARA ZIDANSEK",
+            "MIRIAM BULGARU",
+            "MAI HONTAMA",
+            "GUIOMAR MARISTANY ZULETA DE REALES",
+            "NURIA BRANCACCIO",
+            "MAJA CHWALINSKA",
+            "PANNA UDVARDY",
+            "CAROLE MONNET",
+            "LEYRE ROMERO GORMAZ",
+            "OLEKSANDRA OLIYNYKOVA",
+            "MOYUKA UCHIJIMA",
+            "JULIA RIERA",
+            "ELINA AVANESYAN",
+            "VERONIKA ERJAVEC",
+            "LISA PIGATO",
+            "POLINA KUDERMETOVA",
+            "ALINA CHARAEVA",
+            "DOMINIKA SALKOVA",
+            "TARA WUERTH",
+            "ELENA PRIDANKINA",
+            "TIANTSOA RAKOTOMANGA RAJAONAH",
+            "TEODORA KOSTOVIC"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "ESTELLE CASCINO / NICOLE FOSSA HUERGO",
+            "QIANHUI TANG / ANGELICA MORATELLI",
+            "MIRIAM SKOCH / JESIKA MALECKOVA",
+            "ELIXANE LECHEMIA / ALICIA BARNETT",
+            "MARIIA KOZYREVA / IRYNA SHYMANOVICH",
+            "YI-TSEN CHO / I-HSUAN CHO",
+            "PEANGTARN PLIPUECH / MOMOKO KOBORI",
+            "LAURA PIGOSSI / SHUO FENG",
+            "DALILA JAKUPOVIC / NIKA RADISIC",
+            "ANASTASIA DETIUC / DOMINIKA SALKOVA",
+            "VERA ZVONAREVA / ELENA PRIDANKINA"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -42568,7 +42780,11 @@
     [
       "ANTALYA-125-#1",
       1124
+    ],
+    [
+      "ANTALYA-125-#2",
+      1107
     ]
   ],
-  "old_day": 26
+  "old_day": 27
 }
