@@ -32018,7 +32018,43 @@
     "       23. HAO-CHING CHAN / JANICE TJEN \n",
     "           CHAN, H/TJEN, J\n\n",
     "       24. DIANA SHNAIDER / LINDA NOSKOVA \n",
-    "           SHNAIDER, D/NOSKOVA, L\n\n"
+    "           SHNAIDER, D/NOSKOVA, L\n\n",
+    "20:28  OOP in ANTALYA-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1124/ANTALYA-125-#1/2026/order-of-play\n\n",
+    "20:28  NEW draw in ANTALYA-125-#2 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1107/ANTALYA-125-#2/2026/draws\n\n",
+    "       Players added to the draw in ANTALYA-125-#2 QUALS:    \n\n",
+    "       1. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "       2. Lia Karatancheva \n",
+    "          Karatancheva, L\n\n",
+    "       3. Alevtina Ibragimova \n",
+    "          Ibragimova, A\n\n",
+    "       4. Laura Pigossi \n",
+    "          Pigossi, L\n\n",
+    "       5. Elena Pridankina \n",
+    "          Pridankina, E\n\n",
+    "       6. Ani Amiraghyan \n",
+    "          Amiraghyan, A\n\n",
+    "       7. Mia Ristic \n",
+    "          Ristic, M\n\n",
+    "       8. Mai Hontama \n",
+    "          Hontama, M\n\n",
+    "       9. Lisa Pigato \n",
+    "          Pigato, L\n\n",
+    "       10. Anastasiia Sobolieva \n",
+    "           Sobolieva, A\n\n",
+    "       11. Anastasia Zolotareva \n",
+    "           Zolotareva, A\n\n",
+    "       12. Amarissa Toth \n",
+    "           Toth, A\n\n",
+    "       13. Alice Rame \n",
+    "           Rame, A\n\n",
+    "       14. Berrak Kocak \n",
+    "           Kocak, B\n\n",
+    "       15. Katarina Zavatska \n",
+    "           Zavatska, K\n\n",
+    "       16. Caroline Werner \n",
+    "           Werner, C\n\n",
+    "20:28  OOP in ANTALYA-125-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1107/ANTALYA-125-#2/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -42990,14 +43026,31 @@
           "players": []
         }
       ],
-      "2026-02-28"
+      "2026-03-01"
     ],
     "ANTALYA-125-#2": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Teodora Kostovic",
+            "Lia Karatancheva",
+            "Alevtina Ibragimova",
+            "Laura Pigossi",
+            "Elena Pridankina",
+            "Ani Amiraghyan",
+            "Mia Ristic",
+            "Mai Hontama",
+            "Lisa Pigato",
+            "Anastasiia Sobolieva",
+            "Anastasia Zolotareva",
+            "Amarissa Toth",
+            "Alice Rame",
+            "Berrak Kocak",
+            "Katarina Zavatska",
+            "Caroline Werner"
+          ]
         }
       ],
       [
@@ -43078,7 +43131,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-03-01"
     ],
     "INDIAN-WELLS": [
       [
