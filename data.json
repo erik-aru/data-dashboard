@@ -32883,7 +32883,42 @@
     "           KHROMACHEVA, I/ZAYTSEVA, K\n\n",
     "13:00  OOP in ANTALYA-125-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1107/ANTALYA-125-#2/2026/order-of-play\n\n",
     "05:00  OOP in INDIAN-WELLS appeared \u2605\n       https://www.wtatennis.com/tournament/609/INDIAN-WELLS/2026/order-of-play\n\n",
-    "12:52  OOP in ANTALYA-125-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1107/ANTALYA-125-#2/2026/order-of-play\n\n"
+    "12:52  OOP in ANTALYA-125-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1107/ANTALYA-125-#2/2026/order-of-play\n\n",
+    "20:28  NEW draw in ANTALYA-125-#3 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/draws\n\n",
+    "       Players added to the draw in ANTALYA-125-#3 QUALS:    \n\n",
+    "       1. Teodora Kostovic \n",
+    "          Kostovic, T\n\n",
+    "       2. Nuria Parrizas Diaz \n",
+    "          Parrizas Diaz, N\n\n",
+    "       3. Mia Ristic \n",
+    "          Ristic, M\n\n",
+    "       4. Lisa Pigato \n",
+    "          Pigato, L\n\n",
+    "       5. Anastasia Gasanova \n",
+    "          Gasanova, A\n\n",
+    "       6. Caroline Werner \n",
+    "          Werner, C\n\n",
+    "       7. Irem Kurt \n",
+    "          Kurt, I\n\n",
+    "       8. Mai Hontama \n",
+    "          Hontama, M\n\n",
+    "       9. Carole Monnet \n",
+    "          Monnet, C\n\n",
+    "       10. Selina Atay \n",
+    "           Atay, S\n\n",
+    "       11. Lia Karatancheva \n",
+    "           Karatancheva, L\n\n",
+    "       12. Chloe Paquet \n",
+    "           Paquet, C\n\n",
+    "       13. Julia Riera \n",
+    "           Riera, J\n\n",
+    "       14. Katarina Zavatska \n",
+    "           Zavatska, K\n\n",
+    "       15. Ekaterina Reyngold \n",
+    "           Reyngold, E\n\n",
+    "       16. Elena Pridankina \n",
+    "           Pridankina, E\n\n",
+    "20:28  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -44255,9 +44290,26 @@
     "ANTALYA-125-#3": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Teodora Kostovic",
+            "Nuria Parrizas Diaz",
+            "Mia Ristic",
+            "Lisa Pigato",
+            "Anastasia Gasanova",
+            "Caroline Werner",
+            "Irem Kurt",
+            "Mai Hontama",
+            "Carole Monnet",
+            "Selina Atay",
+            "Lia Karatancheva",
+            "Chloe Paquet",
+            "Julia Riera",
+            "Katarina Zavatska",
+            "Ekaterina Reyngold",
+            "Elena Pridankina"
+          ]
         }
       ],
       [
@@ -44338,7 +44390,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-03-08"
     ]
   },
   "torns": [
