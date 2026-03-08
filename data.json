@@ -32918,7 +32918,13 @@
     "           Reyngold, E\n\n",
     "       16. Elena Pridankina \n",
     "           Pridankina, E\n\n",
-    "20:28  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n"
+    "20:28  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n",
+    "05:10  change in INDIAN-WELLS DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/609/INDIAN-WELLS/2026/draws\n\n       Players added to the draw in INDIAN-WELLS DOUBLES:    \n\n",
+    "       1. Varvara Gracheva / Magda Linette \n",
+    "          Gracheva, V/Linette, M\n\n",
+    "       Players removed from the draw in INDIAN-WELLS DOUBLES:    \n\n",
+    "       1. Storm Hunter / Maya Joint \n\n",
+    "05:10  OOP in INDIAN-WELLS appeared \u2605\n       https://www.wtatennis.com/tournament/609/INDIAN-WELLS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -44177,7 +44183,7 @@
             "Ekaterina Alexandrova / Sofia Kenin",
             "McCartney Kessler / Jessica Pegula",
             "Eri Hozumi / Fang-Hsien Wu",
-            "Storm Hunter / Maya Joint",
+            "Varvara Gracheva / Magda Linette",
             "Ellen Perez / Demi Schuurs",
             "Anna Danilina / Aleksandra Krunic",
             "Sloane Stephens / Donna Vekic",
@@ -44212,7 +44218,7 @@
           "players": []
         }
       ],
-      "2026-03-07"
+      "2026-03-08"
     ],
     "AUSTIN-125-#1": [
       [
@@ -44411,5 +44417,5 @@
       1125
     ]
   ],
-  "old_day": 7
+  "old_day": 8
 }
