@@ -33173,7 +33173,19 @@
     "       9. ANASTASIA DETIUC / DOMINIKA SALKOVA \n\n",
     "       10. NAIMA KARAMOKO / TIANTSOA RAKOTOMANGA RAJAONAH \n\n",
     "       11. IRINA KHROMACHEVA / KSENIA ZAYTSEVA \n\n",
-    "13:08  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n"
+    "13:08  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n",
+    "05:10  OOP in INDIAN-WELLS appeared \u2605\n       https://www.wtatennis.com/tournament/609/INDIAN-WELLS/2026/order-of-play\n\n",
+    "05:10  AUSTIN-125-#1 SINGLES draw    \n       https://www.wtatennis.com/tournament/1161/AUSTIN-125-#1/2026/draws\n\n",
+    "       Players added to the draw in AUSTIN-125-#1 SINGLES:    \n\n",
+    "       1. Lucrezia Stefanini \n",
+    "          Stefanini, L\n\n",
+    "       2. Emerson Jones \n",
+    "          Jones, E\n\n",
+    "       3. Lanlana Tararudee \n",
+    "          Tararudee, L\n\n",
+    "       4. Anastasia Zakharova \n",
+    "          Zakharova, A\n\n",
+    "05:10  OOP in AUSTIN-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1161/AUSTIN-125-#1/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -44467,7 +44479,7 @@
           "players": []
         }
       ],
-      "2026-03-09"
+      "2026-03-10"
     ],
     "AUSTIN-125-#1": [
       [
@@ -44488,13 +44500,14 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Emma Navarro",
             "Lulu Sun",
             "Paula Badosa",
             "Elena-Gabriela Ruse",
+            "Lucrezia Stefanini",
             "Sinja Kraus",
             "Yue Yuan",
             "Oksana Selekhmeteva",
@@ -44503,11 +44516,14 @@
             "Renata Zarazua",
             "Anna Blinkova",
             "Maddison Inglis",
+            "Emerson Jones",
             "Donna Vekic",
             "Petra Marcinko",
             "Caty McNally",
             "Yuliia Starodubtseva",
             "Dalma Galfi",
+            "Lanlana Tararudee",
+            "Anastasia Zakharova",
             "Viktorija Golubic",
             "Linda Fruhvirtova",
             "Beatriz Haddad Maia",
@@ -44548,7 +44564,7 @@
           "players": []
         }
       ],
-      "2026-03-09"
+      "2026-03-10"
     ],
     "ANTALYA-125-#3": [
       [
@@ -44670,5 +44686,5 @@
       1125
     ]
   ],
-  "old_day": 9
+  "old_day": 10
 }
