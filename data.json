@@ -33186,7 +33186,35 @@
     "       4. Anastasia Zakharova \n",
     "          Zakharova, A\n\n",
     "05:10  OOP in AUSTIN-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1161/AUSTIN-125-#1/2026/order-of-play\n\n",
-    "13:05  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n"
+    "13:05  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n",
+    "20:36  change in AUSTIN-125-#1 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1161/AUSTIN-125-#1/2026/draws\n\n       Players added to the draw in AUSTIN-125-#1 SINGLES:    \n\n",
+    "       1. Himeno Sakatsume \n",
+    "          Sakatsume, H\n\n",
+    "       Players removed from the draw in AUSTIN-125-#1 SINGLES:    \n\n",
+    "       1. Katie Volynets \n\n",
+    "20:36  change in AUSTIN-125-#1 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1161/AUSTIN-125-#1/2026/draws\n\n",
+    "       Players added to the draw in AUSTIN-125-#1 DOUBLES:    \n\n",
+    "       1. Tereza Mihalikova / Giuliana Olmos \n",
+    "          Mihalikova, T/Olmos, G\n\n",
+    "       2. Isabelle Haverlag / Sabrina Santamaria \n",
+    "          Haverlag, I/Santamaria, S\n\n",
+    "       3. Shuko Aoyama / Ulrikke Eikeri \n",
+    "          Aoyama, S/Eikeri, U\n\n",
+    "       4. Petra Marcinko / Aldila Sutjiadi \n",
+    "          Marcinko, P/Sutjiadi, A\n\n",
+    "       5. Rutuja Bhosale / Ema Burgic \n",
+    "          Bhosale, R/Burgic, E\n\n",
+    "       6. Eudice Chong / En-Shuo Liang \n",
+    "          Chong, E/Liang, E\n\n",
+    "       7. Ivana Corley / Catherine Harrison \n",
+    "          Corley, I/Harrison, C\n\n",
+    "       8. Hao-Ching Chan / Miyu Kato \n",
+    "          Chan, H/Kato, M\n\n",
+    "       Players removed from the draw in AUSTIN-125-#1 DOUBLES:    \n\n",
+    "       1. DESIRAE KRAWCZYK / LYUDMYLA KICHENOK \n\n",
+    "       2. ULRIKKE EIKERI / SHUKO AOYAMA \n\n",
+    "       3. QUINN GLEASON / ALDILA SUTJIADI \n\n",
+    "       4. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n"
   ],
   "sits": {
     "ROME": [
@@ -44532,7 +44560,7 @@
             "Ella Seidel",
             "Suzan Lamens",
             "Kamilla Rakhimova",
-            "Katie Volynets",
+            "Himeno Sakatsume",
             "Kaja Juvan",
             "Simona Waltert",
             "McCartney Kessler"
@@ -44541,13 +44569,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "DESIRAE KRAWCZYK / LYUDMYLA KICHENOK",
-            "ULRIKKE EIKERI / SHUKO AOYAMA",
-            "QUINN GLEASON / ALDILA SUTJIADI",
-            "OLIVIA NICHOLLS / TEREZA MIHALIKOVA"
+            "Tereza Mihalikova / Giuliana Olmos",
+            "Isabelle Haverlag / Sabrina Santamaria",
+            "Shuko Aoyama / Ulrikke Eikeri",
+            "Petra Marcinko / Aldila Sutjiadi",
+            "Rutuja Bhosale / Ema Burgic",
+            "Eudice Chong / En-Shuo Liang",
+            "Ivana Corley / Catherine Harrison",
+            "Hao-Ching Chan / Miyu Kato"
           ]
         }
       ],
