@@ -33531,7 +33531,9 @@
     "           CHAN, H/TJEN, J\n\n",
     "       24. DIANA SHNAIDER / LINDA NOSKOVA \n",
     "           SHNAIDER, D/NOSKOVA, L\n\n",
-    "13:03  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n"
+    "13:03  OOP in ANTALYA-125-#3 appeared \u2605\n       https://www.wtatennis.com/tournament/1125/ANTALYA-125-#3/2026/order-of-play\n\n",
+    "05:11  OOP in INDIAN-WELLS appeared \u2605\n       https://www.wtatennis.com/tournament/609/INDIAN-WELLS/2026/order-of-play\n\n",
+    "05:11  OOP in AUSTIN-125-#1 appeared \u2605\n       https://www.wtatennis.com/tournament/1161/AUSTIN-125-#1/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -44825,7 +44827,7 @@
           "players": []
         }
       ],
-      "2026-03-13"
+      "2026-03-14"
     ],
     "AUSTIN-125-#1": [
       [
@@ -44914,7 +44916,7 @@
           "players": []
         }
       ],
-      "2026-03-13"
+      "2026-03-14"
     ],
     "ANTALYA-125-#3": [
       [
@@ -45221,5 +45223,5 @@
       902
     ]
   ],
-  "old_day": 13
+  "old_day": 14
 }
