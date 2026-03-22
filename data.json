@@ -34148,7 +34148,34 @@
     "           Detiuc, A\n\n",
     "       16. Amarissa Toth \n",
     "           Toth, A\n\n",
-    "20:29  OOP in DUBROVNIK-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1158/DUBROVNIK-125/2026/order-of-play\n\n"
+    "20:29  OOP in DUBROVNIK-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1158/DUBROVNIK-125/2026/order-of-play\n\n",
+    "12:56  change in DUBROVNIK-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1158/DUBROVNIK-125/2026/draws\n\n",
+    "       Players added to the draw in DUBROVNIK-125 DOUBLES:    \n\n",
+    "       1. Jesika Maleckova / Miriam Skoch \n",
+    "          Maleckova, J/Skoch, M\n\n",
+    "       2. Katarzyna Piter / Mayar Sherif \n",
+    "          Piter, K/Sherif, M\n\n",
+    "       3. Kaitlin Quevedo / Sara Sorribes Tormo \n",
+    "          Quevedo, K/Sorribes Tormo, S\n\n",
+    "       4. Veronika Erjavec / Nika Radisic \n",
+    "          Erjavec, V/Radisic, N\n\n",
+    "       5. Momoko Kobori / Peangtarn Plipuech \n",
+    "          Kobori, M/Plipuech, P\n\n",
+    "       6. Lucija Ciric Bagaric / Ana Konjuh \n",
+    "          Ciric Bagaric, L/Konjuh, A\n\n",
+    "       7. Anastasia Detiuc / Dominika Salkova \n",
+    "          Detiuc, A/Salkova, D\n\n",
+    "       8. Magali Kempen / Elena Pridankina \n",
+    "          Kempen, M/Pridankina, E\n\n",
+    "       Players removed from the draw in DUBROVNIK-125 DOUBLES:    \n\n",
+    "       1. MIRIAM SKOCH / JESIKA MALECKOVA \n\n",
+    "       2. PEANGTARN PLIPUECH / MOMOKO KOBORI \n\n",
+    "       3. ANASTASIA DETIUC / DOMINIKA SALKOVA \n\n",
+    "       4. MAGALI KEMPEN / ELENA PRIDANKINA \n\n",
+    "12:56  change in DUBROVNIK-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/1158/DUBROVNIK-125/2026/draws\n\n",
+    "       Players added to the draw in DUBROVNIK-125 QUALS:    \n\n",
+    "       Players removed from the draw in DUBROVNIK-125 QUALS:    \n\n",
+    "       1. Tyra Caterina Grant \n\n"
   ],
   "sits": {
     "ROME": [
@@ -45858,7 +45885,7 @@
     "DUBROVNIK-125": [
       [
         0,
-        16,
+        15,
         {
           "players": [
             "Noma Noha Akugue",
@@ -45872,7 +45899,6 @@
             "Sada Nahimana",
             "Sara Sorribes Tormo",
             "Ana Petkovic",
-            "Tyra Caterina Grant",
             "Tara Wuerth",
             "Vlada Kozak",
             "Anastasia Detiuc",
@@ -45928,13 +45954,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "MIRIAM SKOCH / JESIKA MALECKOVA",
-            "PEANGTARN PLIPUECH / MOMOKO KOBORI",
-            "ANASTASIA DETIUC / DOMINIKA SALKOVA",
-            "MAGALI KEMPEN / ELENA PRIDANKINA"
+            "Jesika Maleckova / Miriam Skoch",
+            "Katarzyna Piter / Mayar Sherif",
+            "Kaitlin Quevedo / Sara Sorribes Tormo",
+            "Veronika Erjavec / Nika Radisic",
+            "Momoko Kobori / Peangtarn Plipuech",
+            "Lucija Ciric Bagaric / Ana Konjuh",
+            "Anastasia Detiuc / Dominika Salkova",
+            "Magali Kempen / Elena Pridankina"
           ]
         }
       ],
