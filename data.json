@@ -34279,7 +34279,22 @@
     "       37. KAITLIN QUEVEDO \n\n",
     "       38. TEODORA KOSTOVIC \n\n",
     "20:31  OOP in DUBROVNIK-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1158/DUBROVNIK-125/2026/order-of-play\n\n",
-    "05:40  OOP in MIAMI appeared \u2605\n       https://www.wtatennis.com/tournament/902/MIAMI/2026/order-of-play\n\n"
+    "05:40  OOP in MIAMI appeared \u2605\n       https://www.wtatennis.com/tournament/902/MIAMI/2026/order-of-play\n\n",
+    "20:39  change in DUBROVNIK-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1158/DUBROVNIK-125/2026/draws\n\n",
+    "       Players added to the draw in DUBROVNIK-125 SINGLES:    \n\n",
+    "       1. Amarissa Toth \n",
+    "          Toth, A\n\n",
+    "       2. Noma Noha Akugue \n",
+    "          Noha Akugue, N\n\n",
+    "       3. Mia Ristic \n",
+    "          Ristic, M\n\n",
+    "       4. Polona Hercog \n",
+    "          Hercog, P\n\n",
+    "       5. Sara Sorribes Tormo \n",
+    "          Sorribes Tormo, S\n\n",
+    "       Players removed from the draw in DUBROVNIK-125 SINGLES:    \n\n",
+    "       1. Anouk Koevermans \n\n",
+    "20:39  OOP in DUBROVNIK-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1158/DUBROVNIK-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -46012,19 +46027,21 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Petra Marcinko",
             "Teodora Kostovic",
             "Lola Radivojevic",
             "Alina Charaeva",
+            "Amarissa Toth",
             "Andrea Lazaro Garcia",
             "Tena Lukas",
             "Anastasia Pavlyuchenkova",
             "Mayar Sherif",
-            "Anouk Koevermans",
+            "Noma Noha Akugue",
             "Lucija Ciric Bagaric",
+            "Mia Ristic",
             "Leyre Romero Gormaz",
             "Lina Gjorcheska",
             "Yasmine Kabbaj",
@@ -46034,11 +46051,13 @@
             "Nuria Brancaccio",
             "Lisa Pigato",
             "Elena Pridankina",
+            "Polona Hercog",
             "Ana Konjuh",
             "Tamara Korpatsch",
             "Maja Chwalinska",
             "Tamara Zidansek",
             "Tiantsoa Rakotomanga Rajaonah",
+            "Sara Sorribes Tormo",
             "Dominika Salkova",
             "Kaitlin Quevedo",
             "Guiomar Maristany Zuleta De Reales",
@@ -46076,7 +46095,7 @@
           "players": []
         }
       ],
-      "2026-03-23"
+      "2026-03-24"
     ]
   },
   "torns": [
