@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "MIAMI": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "DUBROVNIK-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CHARLESTON": [
       [
         0,
@@ -35045,7 +35001,41 @@
     "20:35  change in CHARLESTON SINGLES \u2605   \n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/draws\n\n",
     "       Players added to the draw in CHARLESTON SINGLES:    \n\n",
     "       Players removed from the draw in CHARLESTON SINGLES:    \n\n",
-    "       1. Magda Linette \n\n"
+    "       1. Magda Linette \n\n",
+    "05:59  CHARLESTON SINGLES draw    \n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/draws\n\n",
+    "       Players added to the draw in CHARLESTON SINGLES:    \n\n",
+    "       1. Polina Kudermetova \n",
+    "          Kudermetova, P\n\n",
+    "       2. Mary Stoiana \n",
+    "          Stoiana, M\n\n",
+    "       3. Kayla Day \n",
+    "          Day, K\n\n",
+    "       4. Viktoriya Tomova \n",
+    "          Tomova, V\n\n",
+    "       5. Donna Vekic \n",
+    "          Vekic, D\n\n",
+    "       6. Darja Vidmanova \n",
+    "          Vidmanova, D\n\n",
+    "       7. Akasha Urhobo \n",
+    "          Urhobo, A\n\n",
+    "       8. Elvina Kalieva \n",
+    "          Kalieva, E\n\n",
+    "05:59  OOP in CHARLESTON appeared \u2605\n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/order-of-play\n\n",
+    "05:59  BOGOTA SINGLES draw    \n       https://www.wtatennis.com/tournament/894/BOGOTA/2026/draws\n\n",
+    "       Players added to the draw in BOGOTA SINGLES:    \n\n",
+    "       1. Ana Sofia S\u00e1nchez \n",
+    "          S\u00e1nchez, A\n\n",
+    "       2. Anastasia Tikhonova \n",
+    "          Tikhonova, A\n\n",
+    "       3. Irene Burillo \n",
+    "          Burillo, I\n\n",
+    "       4. Jazmin Ortenzi \n",
+    "          Ortenzi, J\n\n",
+    "       5. Selena Janicijevic \n",
+    "          Janicijevic, S\n\n",
+    "       6. Lia Karatancheva \n",
+    "          Karatancheva, L\n\n",
+    "05:59  OOP in BOGOTA appeared \u2605\n       https://www.wtatennis.com/tournament/894/BOGOTA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -46883,7 +46873,7 @@
       ],
       [
         1,
-        40,
+        48,
         {
           "players": [
             "Jessica Pegula",
@@ -46893,31 +46883,39 @@
             "Peyton Stearns",
             "Elisabetta Cocciaretto",
             "Leylah Fernandez",
+            "Polina Kudermetova",
             "Oleksandra Oliynykova",
             "Eva Lys",
             "Katie Volynets",
             "Diana Shnaider",
             "Iva Jovic",
             "Alycia Parks",
+            "Mary Stoiana",
             "Bianca Andreescu",
             "Dalma Galfi",
             "Sofia Kenin",
             "Maria Sakkari",
+            "Kayla Day",
             "Paula Badosa",
+            "Viktoriya Tomova",
             "Jennifer Brady",
             "Anna Kalinskaya",
             "Madison Keys",
             "Ajla Tomljanovic",
+            "Donna Vekic",
+            "Darja Vidmanova",
             "Anna Bondar",
             "Magdalena Frech",
             "Sara Bejlek",
             "Solana Sierra",
+            "Akasha Urhobo",
             "Anastasia Zakharova",
             "Dayana Yastremska",
             "Belinda Bencic",
             "Elise Mertens",
             "Ashlyn Krueger",
             "Caty McNally",
+            "Elvina Kalieva",
             "McCartney Kessler",
             "Janice Tjen",
             "Hailey Baptiste",
@@ -46967,7 +46965,7 @@
           "players": []
         }
       ],
-      "2026-03-29"
+      "2026-03-30"
     ],
     "BOGOTA": [
       [
@@ -47004,17 +47002,22 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Marie Bouzkova",
+            "Ana Sofia S\u00e1nchez",
             "Hanne Vandewinkel",
             "Sofia Costoulas",
+            "Anastasia Tikhonova",
             "Despina Papamichail",
             "Darja Semenistaja",
             "Ella Seidel",
             "Camila Osorio",
             "Caroline Dolehide",
+            "Irene Burillo",
+            "Jazmin Ortenzi",
+            "Selena Janicijevic",
             "Julia Riera",
             "Robin Montgomery",
             "Anna Blinkova",
@@ -47030,6 +47033,7 @@
             "Guiomar Maristany Zuleta De Reales",
             "Emiliana Arango",
             "Maria Lourdes Carle",
+            "Lia Karatancheva",
             "Varvara Lepchenko",
             "Tiantsoa Rakotomanga Rajaonah",
             "Jessica Bouzas Maneiro"
@@ -47074,18 +47078,10 @@
           "players": []
         }
       ],
-      "2026-03-29"
+      "2026-03-30"
     ]
   },
   "torns": [
-    [
-      "MIAMI",
-      902
-    ],
-    [
-      "DUBROVNIK-125",
-      1158
-    ],
     [
       "CHARLESTON",
       804
@@ -47095,5 +47091,5 @@
       894
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
