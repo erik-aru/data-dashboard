@@ -35043,7 +35043,8 @@
     "       1. Elise Mertens \n\n",
     "20:48  OOP in CHARLESTON appeared \u2605\n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/order-of-play\n\n",
     "05:44  OOP in BOGOTA appeared \u2605\n       https://www.wtatennis.com/tournament/894/BOGOTA/2026/order-of-play\n\n",
-    "20:45  OOP in CHARLESTON appeared \u2605\n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/order-of-play\n\n"
+    "20:45  OOP in CHARLESTON appeared \u2605\n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/order-of-play\n\n",
+    "05:55  OOP in BOGOTA appeared \u2605\n       https://www.wtatennis.com/tournament/894/BOGOTA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -47086,7 +47087,7 @@
           "players": []
         }
       ],
-      "2026-03-31"
+      "2026-04-01"
     ]
   },
   "torns": [
@@ -47099,5 +47100,5 @@
       894
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
