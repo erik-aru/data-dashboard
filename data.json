@@ -43,6 +43,50 @@
         0,
         "none"
       ]
+    ],
+    "LINZ": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "MADRID-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -35049,7 +35093,201 @@
     "       1. Ekaterine Gorgodze \n",
     "          Gorgodze, E\n\n",
     "       Players removed from the draw in CHARLESTON SINGLES:    \n\n",
-    "       1. Ekaterina Alexandrova \n\n"
+    "       1. Ekaterina Alexandrova \n\n",
+    "05:41  OOP in CHARLESTON appeared \u2605\n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/order-of-play\n\n",
+    "05:41  OOP in BOGOTA appeared \u2605\n       https://www.wtatennis.com/tournament/894/BOGOTA/2026/order-of-play\n\n",
+    "05:41  LINZ SINGLES draw    \n       https://www.wtatennis.com/tournament/528/LINZ/2026/draws\n\n",
+    "       Players added to the draw in LINZ SINGLES:    \n\n",
+    "       1. TATJANA MARIA \n",
+    "          MARIA, T\n\n",
+    "       2. SHUAI ZHANG \n",
+    "          ZHANG, S\n\n",
+    "       3. MADISON BRENGLE \n",
+    "          BRENGLE, M\n\n",
+    "       4. SORANA CIRSTEA \n",
+    "          CIRSTEA, S\n\n",
+    "       5. KAROLINA PLISKOVA \n",
+    "          PLISKOVA, K\n\n",
+    "       6. ALIAKSANDRA SASNOVICH \n",
+    "          SASNOVICH, A\n\n",
+    "       7. BARBORA KREJCIKOVA \n",
+    "          KREJCIKOVA, B\n\n",
+    "       8. DONNA VEKIC \n",
+    "          VEKIC, D\n\n",
+    "       9. EKATERINA ALEXANDROVA \n",
+    "          ALEXANDROVA, E\n\n",
+    "       10. KATIE BOULTER \n",
+    "           BOULTER, K\n\n",
+    "       11. OCEANE DODIN \n",
+    "           DODIN, O\n\n",
+    "       12. TAMARA KORPATSCH \n",
+    "           KORPATSCH, T\n\n",
+    "       13. JELENA OSTAPENKO \n",
+    "           OSTAPENKO, J\n\n",
+    "       14. JULIA GRABHER \n",
+    "           GRABHER, J\n\n",
+    "       15. JAQUELINE  CRISTIAN \n",
+    "           CRISTIAN, J\n\n",
+    "       16. ELENA-GABRIELA RUSE \n",
+    "           RUSE, E\n\n",
+    "       17. DALMA GALFI \n",
+    "           GALFI, D\n\n",
+    "       18. DARIA KASATKINA \n",
+    "           KASATKINA, D\n\n",
+    "       19. LIUDMILA SAMSONOVA \n",
+    "           SAMSONOVA, L\n\n",
+    "       20. MARKETA VONDROUSOVA \n",
+    "           VONDROUSOVA, M\n\n",
+    "       21. DAYANA YASTREMSKA \n",
+    "           YASTREMSKA, D\n\n",
+    "       22. EMMA NAVARRO \n",
+    "           NAVARRO, E\n\n",
+    "       23. ANASTASIA POTAPOVA \n",
+    "           POTAPOVA, A\n\n",
+    "       24. PANNA UDVARDY \n",
+    "           UDVARDY, P\n\n",
+    "       25. ALYCIA PARKS \n",
+    "           PARKS, A\n\n",
+    "       26. ANN LI \n",
+    "           LI, A\n\n",
+    "       27. SINJA KRAUS \n",
+    "           KRAUS, S\n\n",
+    "       28. KATIE VOLYNETS \n",
+    "           VOLYNETS, K\n\n",
+    "       29. CLARA TAUSON \n",
+    "           TAUSON, C\n\n",
+    "       30. EMMA RADUCANU \n",
+    "           RADUCANU, E\n\n",
+    "       31. ALEXANDRA EALA \n",
+    "           EALA, A\n\n",
+    "       32. VICTORIA JIMENEZ KASINTSEVA \n",
+    "           JIMENEZ KASINTSEVA, V\n\n",
+    "       33. SARA BEJLEK \n",
+    "           BEJLEK, S\n\n",
+    "05:41  LINZ DOUBLES draw    \n       https://www.wtatennis.com/tournament/528/LINZ/2026/draws\n\n",
+    "       Players added to the draw in LINZ DOUBLES:    \n\n",
+    "       1. SHUAI ZHANG / SORANA CIRSTEA \n",
+    "          ZHANG, S/CIRSTEA, S\n\n",
+    "       2. IRINA KHROMACHEVA / GIULIANA OLMOS \n",
+    "          KHROMACHEVA, I/OLMOS, G\n\n",
+    "       3. MAIA LUMSDEN / MAKOTO NINOMIYA \n",
+    "          LUMSDEN, M/NINOMIYA, M\n\n",
+    "       4. MIRIAM SKOCH / JESIKA MALECKOVA \n",
+    "          SKOCH, M/MALECKOVA, J\n\n",
+    "       5. ULRIKKE EIKERI / QUINN GLEASON \n",
+    "          EIKERI, U/GLEASON, Q\n\n",
+    "       6. MARIIA KOZYREVA / IRYNA SHYMANOVICH \n",
+    "          KOZYREVA, M/SHYMANOVICH, I\n\n",
+    "       7. MIYU KATO / LIUDMILA SAMSONOVA \n",
+    "          KATO, M/SAMSONOVA, L\n\n",
+    "       8. ALEXANDRA PANOVA / FANG-HSIEN WU \n",
+    "          PANOVA, A/WU, F\n\n",
+    "       9. SABRINA SANTAMARIA / ANASTASIA DETIUC \n",
+    "          SANTAMARIA, S/DETIUC, A\n\n",
+    "       10. ZHAOXUAN YANG / EN-SHUO LIANG \n",
+    "           YANG, Z/LIANG, E\n\n",
+    "       11. HAO-CHING CHAN / CLARA TAUSON \n",
+    "           CHAN, H/TAUSON, C\n\n",
+    "05:41  MADRID-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/draws\n\n",
+    "       Players added to the draw in MADRID-125 SINGLES:    \n\n",
+    "       1. ARANTXA RUS \n",
+    "          RUS, A\n\n",
+    "       2. ANASTASIA PAVLYUCHENKOVA \n",
+    "          PAVLYUCHENKOVA, A\n\n",
+    "       3. DESPINA PAPAMICHAIL \n",
+    "          PAPAMICHAIL, D\n\n",
+    "       4. ANDREA LAZARO GARCIA \n",
+    "          LAZARO GARCIA, A\n\n",
+    "       5. MAYAR SHERIF \n",
+    "          SHERIF, M\n\n",
+    "       6. LINA GJORCHESKA \n",
+    "          GJORCHESKA, L\n\n",
+    "       7. JESSIKA PONCHET \n",
+    "          PONCHET, J\n\n",
+    "       8. CAROLINE WERNER \n",
+    "          WERNER, C\n\n",
+    "       9. FIONA FERRO \n",
+    "          FERRO, F\n\n",
+    "       10. ALIONA BOLSOVA \n",
+    "           BOLSOVA, A\n\n",
+    "       11. IRENE BURILLO \n",
+    "           BURILLO, I\n\n",
+    "       12. MARINA BASSOLS RIBERA \n",
+    "           BASSOLS RIBERA, M\n\n",
+    "       13. ANNA BLINKOVA \n",
+    "           BLINKOVA, A\n\n",
+    "       14. YUE YUAN \n",
+    "           YUAN, Y\n\n",
+    "       15. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       16. EMILIANA ARANGO \n",
+    "           ARANGO, E\n\n",
+    "       17. SUZAN LAMENS \n",
+    "           LAMENS, S\n\n",
+    "       18. YULIIA STARODUBTSEVA \n",
+    "           STARODUBTSEVA, Y\n\n",
+    "       19. NURIA BRANCACCIO \n",
+    "           BRANCACCIO, N\n\n",
+    "       20. SIMONA WALTERT \n",
+    "           WALTERT, S\n\n",
+    "       21. WHITNEY OSUIGWE \n",
+    "           OSUIGWE, W\n\n",
+    "       22. ELIZABETH MANDLIK \n",
+    "           MANDLIK, E\n\n",
+    "       23. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       24. ELVINA KALIEVA \n",
+    "           KALIEVA, E\n\n",
+    "       25. LISA PIGATO \n",
+    "           PIGATO, L\n\n",
+    "       26. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       27. DARJA VIDMANOVA \n",
+    "           VIDMANOVA, D\n\n",
+    "       28. SELENA JANICIJEVIC \n",
+    "           JANICIJEVIC, S\n\n",
+    "       29. OKSANA SELEKHMETEVA \n",
+    "           SELEKHMETEVA, O\n\n",
+    "       30. CAROL YOUNG SUH LEE \n",
+    "           LEE, C\n\n",
+    "       31. ROBIN MONTGOMERY \n",
+    "           MONTGOMERY, R\n\n",
+    "       32. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       33. NIKOLA BARTUNKOVA \n",
+    "           BARTUNKOVA, N\n\n",
+    "       34. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       35. ELENA PRIDANKINA \n",
+    "           PRIDANKINA, E\n\n",
+    "       36. ALINA KORNEEVA \n",
+    "           KORNEEVA, A\n\n",
+    "       37. LAURA SAMSON \n",
+    "           SAMSON, L\n\n",
+    "05:41  MADRID-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/draws\n\n",
+    "       Players added to the draw in MADRID-125 DOUBLES:    \n\n",
+    "       1. NADIIA KOLB / MARIANA DRAZIC \n",
+    "          KOLB, N/DRAZIC, M\n\n",
+    "       2. ARANTXA RUS / MAYAR SHERIF \n",
+    "          RUS, A/SHERIF, M\n\n",
+    "       3. ANGELICA MORATELLI / JESSIKA PONCHET \n",
+    "          MORATELLI, A/PONCHET, J\n\n",
+    "       4. YVONNE CAVALLE-REIMERS / ALIONA BOLSOVA \n",
+    "          CAVALLE-REIMERS, Y/BOLSOVA, A\n\n",
+    "       5. ESTELLE CASCINO / NAIMA KARAMOKO \n",
+    "          CASCINO, E/KARAMOKO, N\n\n",
+    "       6. ELENA PRIDANKINA / IRENE BURILLO \n",
+    "          PRIDANKINA, E/BURILLO, I\n\n",
+    "       7. INGRID MARTINS / EMILY APPLETON \n",
+    "          MARTINS, I/APPLETON, E\n\n",
+    "       8. ANDREA LAZARO GARCIA / MARINA BASSOLS RIBERA \n",
+    "          LAZARO GARCIA, A/BASSOLS RIBERA, M\n\n",
+    "       9. I-HSUAN CHO / YI-TSEN CHO \n",
+    "          CHO, I/CHO, Y\n\n",
+    "       10. ALICIA BARNETT / IVANA SEBESTOVA \n",
+    "           BARNETT, A/SEBESTOVA, I\n\n",
+    "       11. IVANA CORLEY / MADELEINE BROOKS \n",
+    "           CORLEY, I/BROOKS, M\n\n"
   ],
   "sits": {
     "ROME": [
@@ -46979,7 +47217,7 @@
           "players": []
         }
       ],
-      "2026-04-01"
+      "2026-04-02"
     ],
     "BOGOTA": [
       [
@@ -47092,7 +47330,179 @@
           "players": []
         }
       ],
-      "2026-04-01"
+      "2026-04-02"
+    ],
+    "LINZ": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        33,
+        {
+          "players": [
+            "TATJANA MARIA",
+            "SHUAI ZHANG",
+            "MADISON BRENGLE",
+            "SORANA CIRSTEA",
+            "KAROLINA PLISKOVA",
+            "ALIAKSANDRA SASNOVICH",
+            "BARBORA KREJCIKOVA",
+            "DONNA VEKIC",
+            "EKATERINA ALEXANDROVA",
+            "KATIE BOULTER",
+            "OCEANE DODIN",
+            "TAMARA KORPATSCH",
+            "JELENA OSTAPENKO",
+            "JULIA GRABHER",
+            "JAQUELINE  CRISTIAN",
+            "ELENA-GABRIELA RUSE",
+            "DALMA GALFI",
+            "DARIA KASATKINA",
+            "LIUDMILA SAMSONOVA",
+            "MARKETA VONDROUSOVA",
+            "DAYANA YASTREMSKA",
+            "EMMA NAVARRO",
+            "ANASTASIA POTAPOVA",
+            "PANNA UDVARDY",
+            "ALYCIA PARKS",
+            "ANN LI",
+            "SINJA KRAUS",
+            "KATIE VOLYNETS",
+            "CLARA TAUSON",
+            "EMMA RADUCANU",
+            "ALEXANDRA EALA",
+            "VICTORIA JIMENEZ KASINTSEVA",
+            "SARA BEJLEK"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "SHUAI ZHANG / SORANA CIRSTEA",
+            "IRINA KHROMACHEVA / GIULIANA OLMOS",
+            "MAIA LUMSDEN / MAKOTO NINOMIYA",
+            "MIRIAM SKOCH / JESIKA MALECKOVA",
+            "ULRIKKE EIKERI / QUINN GLEASON",
+            "MARIIA KOZYREVA / IRYNA SHYMANOVICH",
+            "MIYU KATO / LIUDMILA SAMSONOVA",
+            "ALEXANDRA PANOVA / FANG-HSIEN WU",
+            "SABRINA SANTAMARIA / ANASTASIA DETIUC",
+            "ZHAOXUAN YANG / EN-SHUO LIANG",
+            "HAO-CHING CHAN / CLARA TAUSON"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "MADRID-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "ARANTXA RUS",
+            "ANASTASIA PAVLYUCHENKOVA",
+            "DESPINA PAPAMICHAIL",
+            "ANDREA LAZARO GARCIA",
+            "MAYAR SHERIF",
+            "LINA GJORCHESKA",
+            "JESSIKA PONCHET",
+            "CAROLINE WERNER",
+            "FIONA FERRO",
+            "ALIONA BOLSOVA",
+            "IRENE BURILLO",
+            "MARINA BASSOLS RIBERA",
+            "ANNA BLINKOVA",
+            "YUE YUAN",
+            "FRANCESCA JONES",
+            "EMILIANA ARANGO",
+            "SUZAN LAMENS",
+            "YULIIA STARODUBTSEVA",
+            "NURIA BRANCACCIO",
+            "SIMONA WALTERT",
+            "WHITNEY OSUIGWE",
+            "ELIZABETH MANDLIK",
+            "JOANNA GARLAND",
+            "ELVINA KALIEVA",
+            "LISA PIGATO",
+            "POLINA KUDERMETOVA",
+            "DARJA VIDMANOVA",
+            "SELENA JANICIJEVIC",
+            "OKSANA SELEKHMETEVA",
+            "CAROL YOUNG SUH LEE",
+            "ROBIN MONTGOMERY",
+            "DARJA SEMENISTAJA",
+            "NIKOLA BARTUNKOVA",
+            "SOFIA COSTOULAS",
+            "ELENA PRIDANKINA",
+            "ALINA KORNEEVA",
+            "LAURA SAMSON"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "NADIIA KOLB / MARIANA DRAZIC",
+            "ARANTXA RUS / MAYAR SHERIF",
+            "ANGELICA MORATELLI / JESSIKA PONCHET",
+            "YVONNE CAVALLE-REIMERS / ALIONA BOLSOVA",
+            "ESTELLE CASCINO / NAIMA KARAMOKO",
+            "ELENA PRIDANKINA / IRENE BURILLO",
+            "INGRID MARTINS / EMILY APPLETON",
+            "ANDREA LAZARO GARCIA / MARINA BASSOLS RIBERA",
+            "I-HSUAN CHO / YI-TSEN CHO",
+            "ALICIA BARNETT / IVANA SEBESTOVA",
+            "IVANA CORLEY / MADELEINE BROOKS"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -47103,7 +47513,15 @@
     [
       "BOGOTA",
       894
+    ],
+    [
+      "LINZ",
+      528
+    ],
+    [
+      "MADRID-125",
+      1164
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
