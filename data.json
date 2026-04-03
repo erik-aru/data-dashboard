@@ -35287,7 +35287,9 @@
     "       10. ALICIA BARNETT / IVANA SEBESTOVA \n",
     "           BARNETT, A/SEBESTOVA, I\n\n",
     "       11. IVANA CORLEY / MADELEINE BROOKS \n",
-    "           CORLEY, I/BROOKS, M\n\n"
+    "           CORLEY, I/BROOKS, M\n\n",
+    "05:42  OOP in CHARLESTON appeared \u2605\n       https://www.wtatennis.com/tournament/804/CHARLESTON/2026/order-of-play\n\n",
+    "05:42  OOP in BOGOTA appeared \u2605\n       https://www.wtatennis.com/tournament/894/BOGOTA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -47217,7 +47219,7 @@
           "players": []
         }
       ],
-      "2026-04-02"
+      "2026-04-03"
     ],
     "BOGOTA": [
       [
@@ -47330,7 +47332,7 @@
           "players": []
         }
       ],
-      "2026-04-02"
+      "2026-04-03"
     ],
     "LINZ": [
       [
@@ -47523,5 +47525,5 @@
       1164
     ]
   ],
-  "old_day": 2
+  "old_day": 3
 }
