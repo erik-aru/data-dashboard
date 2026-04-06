@@ -35597,7 +35597,40 @@
     "       Players added to the draw in MADRID-125 SINGLES:    \n\n",
     "       Players removed from the draw in MADRID-125 SINGLES:    \n\n",
     "       1. Joanna Garland \n\n",
-    "20:36  OOP in MADRID-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/order-of-play\n\n"
+    "20:36  OOP in MADRID-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/order-of-play\n\n",
+    "20:39  change in LINZ SINGLES \u2605   \n       https://www.wtatennis.com/tournament/528/LINZ/2026/draws\n\n",
+    "       Players added to the draw in LINZ SINGLES:    \n\n",
+    "       1. Tamara Korpatsch \n",
+    "          Korpatsch, T\n\n",
+    "       2. Anhelina Kalinina \n",
+    "          Kalinina, A\n\n",
+    "       3. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       4. Donna Vekic \n",
+    "          Vekic, D\n\n",
+    "       5. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       Players removed from the draw in LINZ SINGLES:    \n\n",
+    "       1. Sara Bejlek \n\n",
+    "20:39  OOP in LINZ appeared \u2605\n       https://www.wtatennis.com/tournament/528/LINZ/2026/order-of-play\n\n",
+    "20:39  change in MADRID-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/draws\n\n",
+    "       Players added to the draw in MADRID-125 SINGLES:    \n\n",
+    "       1. Selena Janicijevic \n",
+    "          Janicijevic, S\n\n",
+    "       2. Sara Saito \n",
+    "          Saito, S\n\n",
+    "       3. Elina Avanesyan \n",
+    "          Avanesyan, E\n\n",
+    "       4. Caroline Werner \n",
+    "          Werner, C\n\n",
+    "       5. Polona Hercog \n",
+    "          Hercog, P\n\n",
+    "20:39  change in MADRID-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/draws\n\n       Players added to the draw in MADRID-125 DOUBLES:    \n\n",
+    "       1. Nuria Brancaccio / Lisa Pigato \n",
+    "          Brancaccio, N/Pigato, L\n\n",
+    "       Players removed from the draw in MADRID-125 DOUBLES:    \n\n",
+    "       1. Arantxa Rus / Mayar Sherif \n\n",
+    "20:39  OOP in MADRID-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -47669,7 +47702,7 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Mirra Andreeva",
@@ -47687,14 +47720,18 @@
             "Dayana Yastremska",
             "Ann Li",
             "Jaqueline Cristian",
+            "Tamara Korpatsch",
             "Anastasia Potapova",
             "Shuai Zhang",
             "Paula Badosa",
             "Lilli Tagger",
             "Liudmila Samsonova",
-            "Sara Bejlek",
+            "Anhelina Kalinina",
             "Panna Udvardy",
+            "Katie Volynets",
+            "Donna Vekic",
             "Karolina Pliskova",
+            "Aliaksandra Sasnovich",
             "Ekaterina Alexandrova"
           ]
         }
@@ -47737,7 +47774,7 @@
           "players": []
         }
       ],
-      "2026-04-06"
+      "2026-04-07"
     ],
     "MADRID-125": [
       [
@@ -47766,10 +47803,11 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Oksana Selekhmeteva",
+            "Selena Janicijevic",
             "Arantxa Rus",
             "Carol Young Suh Lee",
             "Nuria Brancaccio",
@@ -47781,17 +47819,21 @@
             "Laura Samson",
             "Elena Pridankina",
             "Lina Gjorcheska",
+            "Sara Saito",
             "Maria Garcia Cid",
             "Alina Korneeva",
             "Francesca Jones",
             "Elizabeth Mandlik",
+            "Elina Avanesyan",
             "Andrea Lazaro Garcia",
             "Ane Mintegi Del Olmo",
             "Irene Burillo",
+            "Caroline Werner",
             "Nikola Bartunkova",
             "Yue Yuan",
             "Carmen Gallardo Guevara",
             "Marina Bassols Ribera",
+            "Polona Hercog",
             "Robin Montgomery",
             "Elvina Kalieva",
             "Whitney Osuigwe",
@@ -47806,7 +47848,7 @@
           "players": [
             "Irene Burillo / Elena Pridankina",
             "Mariana Drazic / Nadiia Kolb",
-            "Arantxa Rus / Mayar Sherif",
+            "Nuria Brancaccio / Lisa Pigato",
             "Yvonne Cavalle-Reimers / Carol Young Suh Lee",
             "I-Hsuan Cho / Yi-Tsen Cho",
             "Angelica Moratelli / Jessika Ponchet",
@@ -47837,7 +47879,7 @@
           "players": []
         }
       ],
-      "2026-04-06"
+      "2026-04-07"
     ]
   },
   "torns": [
