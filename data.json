@@ -36006,7 +36006,95 @@
     "       11. ANASTASIA DETIUC / DOMINIKA SALKOVA \n",
     "           DETIUC, A/SALKOVA, D\n\n",
     "20:53  OOP in LINZ appeared \u2605\n       https://www.wtatennis.com/tournament/528/LINZ/2026/order-of-play\n\n",
-    "20:53  OOP in MADRID-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/order-of-play\n\n"
+    "20:53  OOP in MADRID-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/order-of-play\n\n",
+    "20:40  OOP in LINZ appeared \u2605\n       https://www.wtatennis.com/tournament/528/LINZ/2026/order-of-play\n\n",
+    "20:40  OOP in MADRID-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1164/MADRID-125/2026/order-of-play\n\n",
+    "20:40  NEW draw in STUTTGART QUALS \u2605    \n       https://www.wtatennis.com/tournament/1051/STUTTGART/2026/draws\n\n",
+    "       Players added to the draw in STUTTGART QUALS:    \n\n",
+    "       1. Zeynep Sonmez \n",
+    "          Sonmez, Z\n\n",
+    "       2. Victoria Pohle \n",
+    "          Pohle, V\n\n",
+    "       3. Jule Niemeier \n",
+    "          Niemeier, J\n\n",
+    "       4. Anna-Lena Friedsam \n",
+    "          Friedsam, A\n\n",
+    "       5. Alycia Parks \n",
+    "          Parks, A\n\n",
+    "       6. Eva Bennemann \n",
+    "          Bennemann, E\n\n",
+    "       7. Amandine Hesse \n",
+    "          Hesse, A\n\n",
+    "       8. Viktoriya Tomova \n",
+    "          Tomova, V\n\n",
+    "       9. Victoria Jimenez Kasintseva \n",
+    "          Jimenez Kasintseva, V\n\n",
+    "       10. Vera Zvonareva \n",
+    "           Zvonareva, V\n\n",
+    "       11. Gabriela Knutson \n",
+    "           Knutson, G\n\n",
+    "       12. Carole Monnet \n",
+    "           Monnet, C\n\n",
+    "       13. Aliaksandra Sasnovich \n",
+    "           Sasnovich, A\n\n",
+    "       14. Julia Stusek \n",
+    "           Stusek, J\n\n",
+    "       15. Oceane Dodin \n",
+    "           Dodin, O\n\n",
+    "       16. Kathinka Von Deichmann \n",
+    "           Von Deichmann, K\n\n",
+    "20:40  OOP in STUTTGART appeared \u2605\n       https://www.wtatennis.com/tournament/1051/STUTTGART/2026/order-of-play\n\n",
+    "20:40  NEW draw in ROUEN QUALS \u2605    \n       https://www.wtatennis.com/tournament/2066/ROUEN/2026/draws\n\n",
+    "       Players added to the draw in ROUEN QUALS:    \n\n",
+    "       1. Xinyu Wang \n",
+    "          Wang, X\n\n",
+    "       2. Manon Leonard \n",
+    "          Leonard, M\n\n",
+    "       3. Alice Robbe \n",
+    "          Robbe, A\n\n",
+    "       4. Harmony Tan \n",
+    "          Tan, H\n\n",
+    "       5. Dominika Salkova \n",
+    "          Salkova, D\n\n",
+    "       6. Yasmine Mansouri \n",
+    "          Mansouri, Y\n\n",
+    "       7. Momoko Kobori \n",
+    "          Kobori, M\n\n",
+    "       8. Veronika Podrez \n",
+    "          Podrez, V\n\n",
+    "       9. Alina Charaeva \n",
+    "          Charaeva, A\n\n",
+    "       10. Mina Hodzic \n",
+    "           Hodzic, M\n\n",
+    "       11. Oceane Babel \n",
+    "           Babel, O\n\n",
+    "       12. Jessica Pieri \n",
+    "           Pieri, J\n\n",
+    "       13. Elvina Kalieva \n",
+    "           Kalieva, E\n\n",
+    "       14. Astrid Lew Yan Foon \n",
+    "           Lew Yan Foon, A\n\n",
+    "       15. Mariia Kozyreva \n",
+    "           Kozyreva, M\n\n",
+    "       16. Julie Belgraver \n",
+    "           Belgraver, J\n\n",
+    "       17. Maria Timofeeva \n",
+    "           Timofeeva, M\n\n",
+    "       18. Yara Bartashevich \n",
+    "           Bartashevich, Y\n\n",
+    "       19. Tiphanie Lemaitre \n",
+    "           Lemaitre, T\n\n",
+    "       20. Chloe Paquet \n",
+    "           Paquet, C\n\n",
+    "       21. Iryna Shymanovich \n",
+    "           Shymanovich, I\n\n",
+    "       22. Diana Martynov \n",
+    "           Martynov, D\n\n",
+    "       23. Ekaterina Kazionova \n",
+    "           Kazionova, E\n\n",
+    "       24. Selena Janicijevic \n",
+    "           Janicijevic, S\n\n",
+    "20:40  OOP in ROUEN appeared \u2605\n       https://www.wtatennis.com/tournament/2066/ROUEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -48150,7 +48238,7 @@
           "players": []
         }
       ],
-      "2026-04-10"
+      "2026-04-11"
     ],
     "MADRID-125": [
       [
@@ -48254,14 +48342,31 @@
           "players": []
         }
       ],
-      "2026-04-10"
+      "2026-04-11"
     ],
     "STUTTGART": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Zeynep Sonmez",
+            "Victoria Pohle",
+            "Jule Niemeier",
+            "Anna-Lena Friedsam",
+            "Alycia Parks",
+            "Eva Bennemann",
+            "Amandine Hesse",
+            "Viktoriya Tomova",
+            "Victoria Jimenez Kasintseva",
+            "Vera Zvonareva",
+            "Gabriela Knutson",
+            "Carole Monnet",
+            "Aliaksandra Sasnovich",
+            "Julia Stusek",
+            "Oceane Dodin",
+            "Kathinka Von Deichmann"
+          ]
         }
       ],
       [
@@ -48338,7 +48443,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-04-11"
     ],
     "OEIRAS-125": [
       [
@@ -48431,9 +48536,34 @@
     "ROUEN": [
       [
         0,
-        0,
+        24,
         {
-          "players": []
+          "players": [
+            "Xinyu Wang",
+            "Manon Leonard",
+            "Alice Robbe",
+            "Harmony Tan",
+            "Dominika Salkova",
+            "Yasmine Mansouri",
+            "Momoko Kobori",
+            "Veronika Podrez",
+            "Alina Charaeva",
+            "Mina Hodzic",
+            "Oceane Babel",
+            "Jessica Pieri",
+            "Elvina Kalieva",
+            "Astrid Lew Yan Foon",
+            "Mariia Kozyreva",
+            "Julie Belgraver",
+            "Maria Timofeeva",
+            "Yara Bartashevich",
+            "Tiphanie Lemaitre",
+            "Chloe Paquet",
+            "Iryna Shymanovich",
+            "Diana Martynov",
+            "Ekaterina Kazionova",
+            "Selena Janicijevic"
+          ]
         }
       ],
       [
@@ -48518,7 +48648,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-04-11"
     ]
   },
   "torns": [
