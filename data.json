@@ -36545,7 +36545,20 @@
     "       1. Dominika Salkova \n",
     "          Salkova, D\n\n",
     "       Players removed from the draw in ROUEN SINGLES:    \n\n",
-    "       1. Anastasia Potapova \n\n"
+    "       1. Anastasia Potapova \n\n",
+    "20:57  OOP in STUTTGART appeared \u2605\n       https://www.wtatennis.com/tournament/1051/STUTTGART/2026/order-of-play\n\n",
+    "20:57  change in OEIRAS-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1106/OEIRAS-125/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125 SINGLES:    \n\n",
+    "       1. Elena Ruxandra Bertea \n",
+    "          Bertea, E\n\n",
+    "       2. Carol Young Suh Lee \n",
+    "          Lee, C\n\n",
+    "       3. Anouck Vrancken Peeters \n",
+    "          Vrancken Peeters, A\n\n",
+    "       4. Tessa Johanna Brockmann \n",
+    "          Brockmann, T\n\n",
+    "20:57  OOP in OEIRAS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1106/OEIRAS-125/2026/order-of-play\n\n",
+    "20:57  OOP in ROUEN appeared \u2605\n       https://www.wtatennis.com/tournament/2066/ROUEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -48894,7 +48907,7 @@
           "players": []
         }
       ],
-      "2026-04-13"
+      "2026-04-14"
     ],
     "OEIRAS-125": [
       [
@@ -48923,7 +48936,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Beatriz Haddad Maia",
@@ -48931,9 +48944,11 @@
             "Maja Chwalinska",
             "Kaitlin Quevedo",
             "Rebeka Masarova",
+            "Elena Ruxandra Bertea",
             "Katarzyna Kawa",
             "Simona Waltert",
             "Moyuka Uchijima",
+            "Carol Young Suh Lee",
             "Suzan Lamens",
             "Teodora Kostovic",
             "Anouk Koevermans",
@@ -48945,10 +48960,12 @@
             "Lola Radivojevic",
             "Rebecca Sramkova",
             "Greet Minnen",
+            "Anouck Vrancken Peeters",
             "Nuria Brancaccio",
             "Petra Marcinko",
             "Darja Semenistaja",
             "Leolia Jeanjean",
+            "Tessa Johanna Brockmann",
             "Kristina Mladenovic",
             "Whitney Osuigwe",
             "Darja Vidmanova",
@@ -48995,7 +49012,7 @@
           "players": []
         }
       ],
-      "2026-04-13"
+      "2026-04-14"
     ],
     "ROUEN": [
       [
@@ -49108,7 +49125,7 @@
           "players": []
         }
       ],
-      "2026-04-13"
+      "2026-04-14"
     ]
   },
   "torns": [
