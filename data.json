@@ -65,6 +65,28 @@
         0,
         "none"
       ]
+    ],
+    "OEIRAS-125-OUTDOOR-#2": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -36569,7 +36591,107 @@
     "20:56  OOP in ROUEN appeared \u2605\n       https://www.wtatennis.com/tournament/2066/ROUEN/2026/order-of-play\n\n",
     "20:52  OOP in STUTTGART appeared \u2605\n       https://www.wtatennis.com/tournament/1051/STUTTGART/2026/order-of-play\n\n",
     "20:52  OOP in OEIRAS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1106/OEIRAS-125/2026/order-of-play\n\n",
-    "20:52  OOP in ROUEN appeared \u2605\n       https://www.wtatennis.com/tournament/2066/ROUEN/2026/order-of-play\n\n"
+    "20:52  OOP in ROUEN appeared \u2605\n       https://www.wtatennis.com/tournament/2066/ROUEN/2026/order-of-play\n\n",
+    "06:02  OEIRAS-125-OUTDOOR-#2 SINGLES draw    \n       https://www.wtatennis.com/tournament/1159/OEIRAS-125-OUTDOOR-#2/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125-OUTDOOR-#2 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n",
+    "          LEPCHENKO, V\n\n",
+    "       2. EKATERINE GORGODZE \n",
+    "          GORGODZE, E\n\n",
+    "       3. MONA BARTHEL \n",
+    "          BARTHEL, M\n\n",
+    "       4. STORM HUNTER \n",
+    "          HUNTER, S\n\n",
+    "       5. ANDREA LAZARO GARCIA \n",
+    "          LAZARO GARCIA, A\n\n",
+    "       6. ANNA-LENA FRIEDSAM \n",
+    "          FRIEDSAM, A\n\n",
+    "       7. CAROLINE WERNER \n",
+    "          WERNER, C\n\n",
+    "       8. FIONA FERRO \n",
+    "          FERRO, F\n\n",
+    "       9. IRYNA SHYMANOVICH \n",
+    "          SHYMANOVICH, I\n\n",
+    "       10. JIL TEICHMANN \n",
+    "           TEICHMANN, J\n\n",
+    "       11. GREET MINNEN \n",
+    "           MINNEN, G\n\n",
+    "       12. LUCIA BRONZETTI \n",
+    "           BRONZETTI, L\n\n",
+    "       13. XIAODI YOU \n",
+    "           YOU, X\n\n",
+    "       14. CLAIRE LIU \n",
+    "           LIU, C\n\n",
+    "       15. YUE YUAN \n",
+    "           YUAN, Y\n\n",
+    "       16. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       17. GUIOMAR MARISTANY ZULETA DE REALES \n",
+    "           MARISTANY ZULETA DE REALES, G\n\n",
+    "       18. FRANCISCA JORGE \n",
+    "           JORGE, F\n\n",
+    "       19. BIANCA ANDREESCU \n",
+    "           ANDREESCU, B\n\n",
+    "       20. MAJA CHWALINSKA \n",
+    "           CHWALINSKA, M\n\n",
+    "       21. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       22. WHITNEY OSUIGWE \n",
+    "           OSUIGWE, W\n\n",
+    "       23. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       24. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       25. ANOUK KOEVERMANS \n",
+    "           KOEVERMANS, A\n\n",
+    "       26. LINDA KLIMOVICOVA \n",
+    "           KLIMOVICOVA, L\n\n",
+    "       27. CAROL YOUNG SUH LEE \n",
+    "           LEE, C\n\n",
+    "       28. DARJA SEMENISTAJA \n",
+    "           SEMENISTAJA, D\n\n",
+    "       29. LUCIE HAVLICKOVA \n",
+    "           HAVLICKOVA, L\n\n",
+    "       30. TARA WUERTH \n",
+    "           WUERTH, T\n\n",
+    "       31. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       32. CELINE NAEF \n",
+    "           NAEF, C\n\n",
+    "       33. ELENA PRIDANKINA \n",
+    "           PRIDANKINA, E\n\n",
+    "       34. MIA RISTIC \n",
+    "           RISTIC, M\n\n",
+    "       35. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "       36. ELIZARA YANEVA \n",
+    "           YANEVA, E\n\n",
+    "       37. AYANA AKLI \n",
+    "           AKLI, A\n\n",
+    "06:02  OEIRAS-125-OUTDOOR-#2 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1159/OEIRAS-125-OUTDOOR-#2/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125-OUTDOOR-#2 DOUBLES:    \n\n",
+    "       1. KRISTINA MLADENOVIC / STORM HUNTER \n",
+    "          MLADENOVIC, K/HUNTER, S\n\n",
+    "       2. NICOLE FOSSA HUERGO / EKATERINE GORGODZE \n",
+    "          FOSSA HUERGO, N/GORGODZE, E\n\n",
+    "       3. IRINA BARA / CAROLE MONNET \n",
+    "          BARA, I/MONNET, C\n\n",
+    "       4. RUTUJA BHOSALE / NAIKTHA BAINS \n",
+    "          BHOSALE, R/BAINS, N\n\n",
+    "       5. ALICIA BARNETT / SHUO FENG \n",
+    "          BARNETT, A/FENG, S\n\n",
+    "       6. NAIMA KARAMOKO / DARJA SEMENISTAJA \n",
+    "          KARAMOKO, N/SEMENISTAJA, D\n\n",
+    "       7. I-HSUAN CHO / YI-TSEN CHO \n",
+    "          CHO, I/CHO, Y\n\n",
+    "       8. QIANHUI TANG / ELENA PRIDANKINA \n",
+    "          TANG, Q/PRIDANKINA, E\n\n",
+    "       9. FRANCISCA JORGE / MATILDE JORGE \n",
+    "          JORGE, F/JORGE, M\n\n",
+    "       10. IVANA CORLEY / MADELEINE BROOKS \n",
+    "           CORLEY, I/BROOKS, M\n\n",
+    "       11. MICHAELA BAYERLOVA / VARVARA LEPCHENKO \n",
+    "           BAYERLOVA, M/LEPCHENKO, V\n\n"
   ],
   "sits": {
     "ROME": [
@@ -49137,6 +49259,94 @@
         }
       ],
       "2026-04-16"
+    ],
+    "OEIRAS-125-OUTDOOR-#2": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "VARVARA LEPCHENKO",
+            "EKATERINE GORGODZE",
+            "MONA BARTHEL",
+            "STORM HUNTER",
+            "ANDREA LAZARO GARCIA",
+            "ANNA-LENA FRIEDSAM",
+            "CAROLINE WERNER",
+            "FIONA FERRO",
+            "IRYNA SHYMANOVICH",
+            "JIL TEICHMANN",
+            "GREET MINNEN",
+            "LUCIA BRONZETTI",
+            "XIAODI YOU",
+            "CLAIRE LIU",
+            "YUE YUAN",
+            "FRANCESCA JONES",
+            "GUIOMAR MARISTANY ZULETA DE REALES",
+            "FRANCISCA JORGE",
+            "BIANCA ANDREESCU",
+            "MAJA CHWALINSKA",
+            "CAROLE MONNET",
+            "WHITNEY OSUIGWE",
+            "JOANNA GARLAND",
+            "POLINA KUDERMETOVA",
+            "ANOUK KOEVERMANS",
+            "LINDA KLIMOVICOVA",
+            "CAROL YOUNG SUH LEE",
+            "DARJA SEMENISTAJA",
+            "LUCIE HAVLICKOVA",
+            "TARA WUERTH",
+            "SOFIA COSTOULAS",
+            "CELINE NAEF",
+            "ELENA PRIDANKINA",
+            "MIA RISTIC",
+            "TIANTSOA RAKOTOMANGA RAJAONAH",
+            "ELIZARA YANEVA",
+            "AYANA AKLI"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "KRISTINA MLADENOVIC / STORM HUNTER",
+            "NICOLE FOSSA HUERGO / EKATERINE GORGODZE",
+            "IRINA BARA / CAROLE MONNET",
+            "RUTUJA BHOSALE / NAIKTHA BAINS",
+            "ALICIA BARNETT / SHUO FENG",
+            "NAIMA KARAMOKO / DARJA SEMENISTAJA",
+            "I-HSUAN CHO / YI-TSEN CHO",
+            "QIANHUI TANG / ELENA PRIDANKINA",
+            "FRANCISCA JORGE / MATILDE JORGE",
+            "IVANA CORLEY / MADELEINE BROOKS",
+            "MICHAELA BAYERLOVA / VARVARA LEPCHENKO"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -49151,7 +49361,11 @@
     [
       "ROUEN",
       2066
+    ],
+    [
+      "OEIRAS-125-OUTDOOR-#2",
+      1159
     ]
   ],
-  "old_day": 15
+  "old_day": 16
 }
