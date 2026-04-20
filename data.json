@@ -37511,7 +37511,22 @@
     "       48. Anhelina Kalinina \n",
     "           Kalinina, A\n\n",
     "20:40  OOP in MADRID appeared \u2605\n       https://www.wtatennis.com/tournament/1038/MADRID/2026/order-of-play\n\n",
-    "13:46  OOP in MADRID appeared \u2605\n       https://www.wtatennis.com/tournament/1038/MADRID/2026/order-of-play\n\n"
+    "13:46  OOP in MADRID appeared \u2605\n       https://www.wtatennis.com/tournament/1038/MADRID/2026/order-of-play\n\n",
+    "20:51  change in OEIRAS-125-OUTDOOR-#2 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1159/OEIRAS-125-OUTDOOR-#2/2026/draws\n\n",
+    "       Players added to the draw in OEIRAS-125-OUTDOOR-#2 SINGLES:    \n\n",
+    "       1. Polina Kudermetova \n",
+    "          Kudermetova, P\n\n",
+    "       2. Lucie Havlickova \n",
+    "          Havlickova, L\n\n",
+    "       3. Francesca Curmi \n",
+    "          Curmi, F\n\n",
+    "       4. Alisa Oktiabreva \n",
+    "          Oktiabreva, A\n\n",
+    "20:51  OOP in OEIRAS-125-OUTDOOR-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1159/OEIRAS-125-OUTDOOR-#2/2026/order-of-play\n\n",
+    "20:51  change in MADRID SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1038/MADRID/2026/draws\n\n",
+    "       Players added to the draw in MADRID SINGLES:    \n\n",
+    "       Players removed from the draw in MADRID SINGLES:    \n\n",
+    "       1. Ekaterina Alexandrova \n\n"
   ],
   "sits": {
     "ROME": [
@@ -50107,11 +50122,12 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Francesca Jones",
             "Guiomar Maristany Zuleta De Reales",
+            "Polina Kudermetova",
             "Celine Naef",
             "Matilde Jorge",
             "Lucia Bronzetti",
@@ -50130,12 +50146,15 @@
             "Milana Ivantsiv",
             "Elena Pridankina",
             "Storm Hunter",
+            "Lucie Havlickova",
             "Fiona Ferro",
             "Bianca Andreescu",
             "Andrea Lazaro Garcia",
             "Mona Barthel",
             "Linda Klimovicova",
             "Angelina Voloshchuk",
+            "Francesca Curmi",
+            "Alisa Oktiabreva",
             "Ekaterine Gorgodze",
             "Yue Yuan"
           ]
@@ -50179,7 +50198,7 @@
           "players": []
         }
       ],
-      "2026-04-20"
+      "2026-04-21"
     ],
     "MADRID": [
       [
@@ -50240,7 +50259,7 @@
       ],
       [
         1,
-        84,
+        83,
         {
           "players": [
             "Aryna Sabalenka",
@@ -50300,7 +50319,6 @@
             "Talia Gibson",
             "Emiliana Arango",
             "Janice Tjen",
-            "Maria Sakkari",
             "Liudmila Samsonova",
             "Sorana Cirstea",
             "Elsa Jacquemot",
@@ -50315,7 +50333,7 @@
             "Elise Mertens",
             "Alexandra Eala",
             "Karolina Pliskova",
-            "Ekaterina Alexandrova",
+            "Maria Sakkari",
             "Madison Keys",
             "Shuai Zhang",
             "Eva Lys",
