@@ -38102,7 +38102,44 @@
     "       11. Jessica Pieri \n\n",
     "       12. Eudice Chong \n\n",
     "       13. Daria Kudashova \n\n",
-    "13:08  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2026/order-of-play\n\n"
+    "13:08  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2026/order-of-play\n\n",
+    "20:40  OOP in OEIRAS-125-OUTDOOR-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1159/OEIRAS-125-OUTDOOR-#2/2026/order-of-play\n\n",
+    "20:40  OOP in MADRID appeared \u2605\n       https://www.wtatennis.com/tournament/1038/MADRID/2026/order-of-play\n\n",
+    "20:40  NEW draw in SAINT-MALO-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/2034/SAINT-MALO-125/2026/draws\n\n",
+    "       Players added to the draw in SAINT-MALO-125 QUALS:    \n\n",
+    "       1. Julie Belgraver \n",
+    "          Belgraver, J\n\n",
+    "       2. Astrid Lew Yan Foon \n",
+    "          Lew Yan Foon, A\n\n",
+    "       3. Yara Bartashevich \n",
+    "          Bartashevich, Y\n\n",
+    "       4. Sapfo Sakellaridi \n",
+    "          Sakellaridi, S\n\n",
+    "       5. Ayla Aksu \n",
+    "          Aksu, A\n\n",
+    "       6. Ksenia Zaytseva \n",
+    "          Zaytseva, K\n\n",
+    "       7. Ekaterina Ovcharenko \n",
+    "          Ovcharenko, E\n\n",
+    "       8. Cagla Buyukakcay \n",
+    "          Buyukakcay, C\n\n",
+    "       9. Carolina Alves \n",
+    "          Alves, C\n\n",
+    "       10. Weronika Falkowska \n",
+    "           Falkowska, W\n\n",
+    "       11. Diana Martynov \n",
+    "           Martynov, D\n\n",
+    "       12. Amandine Monnot \n",
+    "           Monnot, A\n\n",
+    "       13. Manon Leonard \n",
+    "           Leonard, M\n\n",
+    "       14. Lucie Nguyen Tan \n",
+    "           Nguyen Tan, L\n\n",
+    "       15. Eleejah Inisan \n",
+    "           Inisan, E\n\n",
+    "       16. Yasmine Kabbaj \n",
+    "           Kabbaj, Y\n\n",
+    "20:40  OOP in SAINT-MALO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2034/SAINT-MALO-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -50774,7 +50811,7 @@
           "players": []
         }
       ],
-      "2026-04-25"
+      "2026-04-26"
     ],
     "MADRID": [
       [
@@ -50991,14 +51028,31 @@
           "players": []
         }
       ],
-      "2026-04-25"
+      "2026-04-26"
     ],
     "SAINT-MALO-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Julie Belgraver",
+            "Astrid Lew Yan Foon",
+            "Yara Bartashevich",
+            "Sapfo Sakellaridi",
+            "Ayla Aksu",
+            "Ksenia Zaytseva",
+            "Ekaterina Ovcharenko",
+            "Cagla Buyukakcay",
+            "Carolina Alves",
+            "Weronika Falkowska",
+            "Diana Martynov",
+            "Amandine Monnot",
+            "Manon Leonard",
+            "Lucie Nguyen Tan",
+            "Eleejah Inisan",
+            "Yasmine Kabbaj"
+          ]
         }
       ],
       [
@@ -51079,7 +51133,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-04-26"
     ],
     "VIC-125": [
       [
