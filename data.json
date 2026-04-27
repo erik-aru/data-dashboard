@@ -38537,7 +38537,34 @@
     "          Panshina, V\n\n",
     "       4. Rada Zolotareva \n",
     "          Zolotareva, R\n\n",
-    "13:59  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2026/order-of-play\n\n"
+    "13:59  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2026/order-of-play\n\n",
+    "21:04  OOP in MADRID appeared \u2605\n       https://www.wtatennis.com/tournament/1038/MADRID/2026/order-of-play\n\n",
+    "21:04  change in SAINT-MALO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2034/SAINT-MALO-125/2026/draws\n\n",
+    "       Players added to the draw in SAINT-MALO-125 SINGLES:    \n\n",
+    "       1. Amandine Monnot \n",
+    "          Monnot, A\n\n",
+    "       2. Yara Bartashevich \n",
+    "          Bartashevich, Y\n\n",
+    "       3. Julie Belgraver \n",
+    "          Belgraver, J\n\n",
+    "       4. Yasmine Kabbaj \n",
+    "          Kabbaj, Y\n\n",
+    "       5. Lucie Nguyen Tan \n",
+    "          Nguyen Tan, L\n\n",
+    "       6. Ayla Aksu \n",
+    "          Aksu, A\n\n",
+    "21:04  OOP in SAINT-MALO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2034/SAINT-MALO-125/2026/order-of-play\n\n",
+    "21:04  change in VIC-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/draws\n\n",
+    "       Players added to the draw in VIC-125 SINGLES:    \n\n",
+    "       1. Laura Pigossi \n",
+    "          Pigossi, L\n\n",
+    "       2. Victoria Bosio \n",
+    "          Bosio, V\n\n",
+    "       3. Caroline Werner \n",
+    "          Werner, C\n\n",
+    "       4. Carlota Martinez Cirez \n",
+    "          Martinez Cirez, C\n\n",
+    "21:04  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -51426,7 +51453,7 @@
           "players": []
         }
       ],
-      "2026-04-27"
+      "2026-04-28"
     ],
     "SAINT-MALO-125": [
       [
@@ -51455,7 +51482,7 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Tereza Valentova",
@@ -51463,15 +51490,19 @@
             "Claire Liu",
             "Alice Rame",
             "Alina Korneeva",
+            "Amandine Monnot",
             "Tiantsoa Rakotomanga Rajaonah",
             "Lilli Tagger",
             "Elsa Jacquemot",
             "Bianca Andreescu",
             "Lulu Sun",
             "Yue Yuan",
+            "Yara Bartashevich",
             "Celine Naef",
+            "Julie Belgraver",
             "Anna Blinkova",
             "Diane Parry",
+            "Yasmine Kabbaj",
             "Jessika Ponchet",
             "Fiona Ferro",
             "Chloe Paquet",
@@ -51480,8 +51511,10 @@
             "Viktorija Golubic",
             "Moyuka Uchijima",
             "Ksenia Efremova",
+            "Lucie Nguyen Tan",
             "Alice Tubello",
             "Sofia Costoulas",
+            "Ayla Aksu",
             "Leolia Jeanjean",
             "Talia Gibson"
           ]
@@ -51525,7 +51558,7 @@
           "players": []
         }
       ],
-      "2026-04-27"
+      "2026-04-28"
     ],
     "VIC-125": [
       [
@@ -51546,7 +51579,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Xinyu Wang",
@@ -51554,9 +51587,11 @@
             "Alina Charaeva",
             "Dalma Galfi",
             "Varvara Lepchenko",
+            "Laura Pigossi",
             "Emiliana Arango",
             "Daria Kasatkina",
             "Antonia Ruzic",
+            "Victoria Bosio",
             "Ajla Tomljanovic",
             "Sara Sorribes Tormo",
             "Ane Mintegi Del Olmo",
@@ -51565,6 +51600,8 @@
             "Kamilla Rakhimova",
             "Oksana Selekhmeteva",
             "Rebecca Sramkova",
+            "Caroline Werner",
+            "Carlota Martinez Cirez",
             "Lucrezia Stefanini",
             "Tamara Korpatsch",
             "Jil Teichmann",
@@ -51606,7 +51643,7 @@
           "players": []
         }
       ],
-      "2026-04-27"
+      "2026-04-28"
     ]
   },
   "torns": [
