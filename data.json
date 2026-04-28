@@ -38564,7 +38564,32 @@
     "          Werner, C\n\n",
     "       4. Carlota Martinez Cirez \n",
     "          Martinez Cirez, C\n\n",
-    "21:04  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n"
+    "21:04  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n",
+    "14:12  OOP in MADRID appeared \u2605\n       https://www.wtatennis.com/tournament/1038/MADRID/2026/order-of-play\n\n",
+    "14:12  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2026/order-of-play\n\n",
+    "14:12  change in VIC-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/draws\n\n",
+    "       Players added to the draw in VIC-125 DOUBLES:    \n\n",
+    "       1. Storm Hunter / Erin Routliffe \n",
+    "          Hunter, S/Routliffe, E\n\n",
+    "       2. Elena Pridankina / Qianhui Tang \n",
+    "          Pridankina, E/Tang, Q\n\n",
+    "       3. Andreja Klepac / Mariia Kozyreva \n",
+    "          Klepac, A/Kozyreva, M\n\n",
+    "       4. Xinyu Wang / Saisai Zheng \n",
+    "          Wang, X/Zheng, S\n\n",
+    "       5. Nicole Fossa Huergo / Makoto Ninomiya \n",
+    "          Fossa Huergo, N/Ninomiya, M\n\n",
+    "       6. Yvonne Cavalle-Reimers / Laura Pigossi \n",
+    "          Cavalle-Reimers, Y/Pigossi, L\n\n",
+    "       7. Marina Bassols Ribera / Aliona Bolsova \n",
+    "          Bassols Ribera, M/Bolsova, A\n\n",
+    "       8. Tereza Mihalikova / Olivia Nicholls \n",
+    "          Mihalikova, T/Nicholls, O\n\n",
+    "       Players removed from the draw in VIC-125 DOUBLES:    \n\n",
+    "       1. NADIIA KICHENOK / MAKOTO NINOMIYA \n\n",
+    "       2. KATARZYNA PITER / MAGALI KEMPEN \n\n",
+    "       3. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
+    "       4. QIANHUI TANG / ELENA PRIDANKINA \n\n"
   ],
   "sits": {
     "ROME": [
@@ -43586,7 +43611,7 @@
           "players": []
         }
       ],
-      "2026-04-28"
+      "2026-04-29"
     ],
     "LJUBLJANA-125": [
       [
@@ -51453,7 +51478,7 @@
           "players": []
         }
       ],
-      "2026-04-28"
+      "2026-04-29"
     ],
     "SAINT-MALO-125": [
       [
@@ -51619,13 +51644,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "NADIIA KICHENOK / MAKOTO NINOMIYA",
-            "KATARZYNA PITER / MAGALI KEMPEN",
-            "OLIVIA NICHOLLS / TEREZA MIHALIKOVA",
-            "QIANHUI TANG / ELENA PRIDANKINA"
+            "Storm Hunter / Erin Routliffe",
+            "Elena Pridankina / Qianhui Tang",
+            "Andreja Klepac / Mariia Kozyreva",
+            "Xinyu Wang / Saisai Zheng",
+            "Nicole Fossa Huergo / Makoto Ninomiya",
+            "Yvonne Cavalle-Reimers / Laura Pigossi",
+            "Marina Bassols Ribera / Aliona Bolsova",
+            "Tereza Mihalikova / Olivia Nicholls"
           ]
         }
       ],
