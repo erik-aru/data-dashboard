@@ -38591,7 +38591,11 @@
     "       3. OLIVIA NICHOLLS / TEREZA MIHALIKOVA \n\n",
     "       4. QIANHUI TANG / ELENA PRIDANKINA \n\n",
     "21:08  OOP in SAINT-MALO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2034/SAINT-MALO-125/2026/order-of-play\n\n",
-    "21:08  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n"
+    "21:08  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n",
+    "06:24  HUZHOU-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2026/draws\n\n",
+    "       Players added to the draw in HUZHOU-125 DOUBLES:    \n\n",
+    "       Players removed from the draw in HUZHOU-125 DOUBLES:    \n\n",
+    "       1. Zhibek Kulambayeva / Ekaterina Reyngold \n\n"
   ],
   "sits": {
     "ROME": [
@@ -43577,13 +43581,12 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Peangtarn Plipuech / Wushuang Zheng",
             "Sofya Lansere / Anastasia Zolotareva",
             "Yiming Dang / Xiaodi You",
-            "Zhibek Kulambayeva / Ekaterina Reyngold",
             "Alevtina Ibragimova / Dalila Jakupovic",
             "Han Shi / Qiu Yu Ye",
             "Yujia Huang / Ye-Xin Ma",
@@ -51695,5 +51698,5 @@
       2081
     ]
   ],
-  "old_day": 28
+  "old_day": 29
 }
