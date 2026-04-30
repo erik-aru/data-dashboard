@@ -87,6 +87,50 @@
         0,
         "none"
       ]
+    ],
+    "ISTANBUL-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
+    ],
+    "JIUJIANG-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -38604,7 +38648,207 @@
     "       Players removed from the draw in SAINT-MALO-125 DOUBLES:    \n\n",
     "       1. Elsa Jacquemot / Tiantsoa Rakotomanga Rajaonah \n\n",
     "21:07  OOP in SAINT-MALO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2034/SAINT-MALO-125/2026/order-of-play\n\n",
-    "21:07  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n"
+    "21:07  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n",
+    "06:28  ISTANBUL-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1160/ISTANBUL-125/2026/draws\n\n",
+    "       Players added to the draw in ISTANBUL-125 SINGLES:    \n\n",
+    "       1. VERA ZVONAREVA \n",
+    "          ZVONAREVA, V\n\n",
+    "       2. EKATERINE GORGODZE \n",
+    "          GORGODZE, E\n\n",
+    "       3. KATARZYNA KAWA \n",
+    "          KAWA, K\n\n",
+    "       4. LAURA PIGOSSI \n",
+    "          PIGOSSI, L\n\n",
+    "       5. DANKA KOVINIC \n",
+    "          KOVINIC, D\n\n",
+    "       6. STORM HUNTER \n",
+    "          HUNTER, S\n\n",
+    "       7. TEREZA MARTINCOVA \n",
+    "          MARTINCOVA, T\n\n",
+    "       8. DONNA VEKIC \n",
+    "          VEKIC, D\n\n",
+    "       9. AYLA AKSU \n",
+    "          AKSU, A\n\n",
+    "       10. KATHERINE SEBOV \n",
+    "           SEBOV, K\n\n",
+    "       11. ANASTASIA GASANOVA \n",
+    "           GASANOVA, A\n\n",
+    "       12. BERFU CENGIZ \n",
+    "           CENGIZ, B\n\n",
+    "       13. TAMARA ZIDANSEK \n",
+    "           ZIDANSEK, T\n\n",
+    "       14. HANYU GUO \n",
+    "           GUO, H\n\n",
+    "       15. CLAIRE LIU \n",
+    "           LIU, C\n\n",
+    "       16. FRANCESCA JONES \n",
+    "           JONES, F\n\n",
+    "       17. KAJA JUVAN \n",
+    "           JUVAN, K\n\n",
+    "       18. GUIOMAR MARISTANY ZULETA DE REALES \n",
+    "           MARISTANY ZULETA DE REALES, G\n\n",
+    "       19. ALICE TUBELLO \n",
+    "           TUBELLO, A\n\n",
+    "       20. CAROLE MONNET \n",
+    "           MONNET, C\n\n",
+    "       21. XIYU WANG \n",
+    "           WANG, X\n\n",
+    "       22. JOANNA GARLAND \n",
+    "           GARLAND, J\n\n",
+    "       23. NOMA NOHA AKUGUE \n",
+    "           NOHA AKUGUE, N\n\n",
+    "       24. MARIA TIMOFEEVA \n",
+    "           TIMOFEEVA, M\n\n",
+    "       25. POLINA KUDERMETOVA \n",
+    "           KUDERMETOVA, P\n\n",
+    "       26. ANOUK KOEVERMANS \n",
+    "           KOEVERMANS, A\n\n",
+    "       27. ALIONA FALEI \n",
+    "           FALEI, A\n\n",
+    "       28. LINDA FRUHVIRTOVA \n",
+    "           FRUHVIRTOVA, L\n\n",
+    "       29. TARA WUERTH \n",
+    "           WUERTH, T\n\n",
+    "       30. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       31. POLINA IATCENKO \n",
+    "           IATCENKO, P\n\n",
+    "       32. TATIANA PROZOROVA \n",
+    "           PROZOROVA, T\n\n",
+    "       33. LOLA RADIVOJEVIC \n",
+    "           RADIVOJEVIC, L\n\n",
+    "       34. ELENA PRIDANKINA \n",
+    "           PRIDANKINA, E\n\n",
+    "       35. MIA RISTIC \n",
+    "           RISTIC, M\n\n",
+    "       36. TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           RAKOTOMANGA RAJAONAH, T\n\n",
+    "       37. ELIZARA YANEVA \n",
+    "           YANEVA, E\n\n",
+    "06:28  ISTANBUL-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1160/ISTANBUL-125/2026/draws\n\n",
+    "       Players added to the draw in ISTANBUL-125 DOUBLES:    \n\n",
+    "       1. LAURA PIGOSSI / MARIIA KOZYREVA \n",
+    "          PIGOSSI, L/KOZYREVA, M\n\n",
+    "       2. NICOLE FOSSA HUERGO / EKATERINE GORGODZE \n",
+    "          FOSSA HUERGO, N/GORGODZE, E\n\n",
+    "       3. ANGELICA MORATELLI / NAIMA KARAMOKO \n",
+    "          MORATELLI, A/KARAMOKO, N\n\n",
+    "       4. IRINA BARA / CAROLE MONNET \n",
+    "          BARA, I/MONNET, C\n\n",
+    "       5. ALICIA BARNETT / SHUO FENG \n",
+    "          BARNETT, A/FENG, S\n\n",
+    "       6. MAGALI KEMPEN / ANASTASIA DETIUC \n",
+    "          KEMPEN, M/DETIUC, A\n\n",
+    "       7. QIANHUI TANG / ELENA PRIDANKINA \n",
+    "          TANG, Q/PRIDANKINA, E\n\n",
+    "       8. YI-TSEN CHO / I-HSUAN CHO \n",
+    "          CHO, Y/CHO, I\n\n",
+    "       9. NIKA RADISIC / DALILA JAKUPOVIC \n",
+    "          RADISIC, N/JAKUPOVIC, D\n\n",
+    "       10. MARIA TIMOFEEVA / POLINA KUDERMETOVA \n",
+    "           TIMOFEEVA, M/KUDERMETOVA, P\n\n",
+    "       11. MADELEINE BROOKS / TIANTSOA RAKOTOMANGA RAJAONAH \n",
+    "           BROOKS, M/RAKOTOMANGA RAJAONAH, T\n\n",
+    "06:28  JIUJIANG-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1165/JIUJIANG-125/2026/draws\n\n",
+    "       Players added to the draw in JIUJIANG-125 SINGLES:    \n\n",
+    "       1. HEATHER WATSON \n",
+    "          WATSON, H\n\n",
+    "       2. LIN ZHU \n",
+    "          ZHU, L\n\n",
+    "       3. HARUKA KAJI \n",
+    "          KAJI, H\n\n",
+    "       4. KYOKA OKAMURA \n",
+    "          OKAMURA, K\n\n",
+    "       5. HARRIET DART \n",
+    "          DART, H\n\n",
+    "       6. LIZETTE CABRERA \n",
+    "          CABRERA, L\n\n",
+    "       7. NAO HIBINO \n",
+    "          HIBINO, N\n\n",
+    "       8. JESSICA PIERI \n",
+    "          PIERI, J\n\n",
+    "       9. YE-XIN MA \n",
+    "          MA, Y\n\n",
+    "       10. XIAODI YOU \n",
+    "           YOU, X\n\n",
+    "       11. DALILA SPITERI \n",
+    "           SPITERI, D\n\n",
+    "       12. YIDI YANG \n",
+    "           YANG, Y\n\n",
+    "       13. VIKTORIA MORVAYOVA \n",
+    "           MORVAYOVA, V\n\n",
+    "       14. MAI HONTAMA \n",
+    "           HONTAMA, M\n\n",
+    "       15. EN-SHUO LIANG \n",
+    "           LIANG, E\n\n",
+    "       16. ERI SHIMIZU \n",
+    "           SHIMIZU, E\n\n",
+    "       17. MEI YAMAGUCHI \n",
+    "           YAMAGUCHI, M\n\n",
+    "       18. SOFYA LANSERE \n",
+    "           LANSERE, S\n\n",
+    "       19. MANANCHAYA SAWANGKAEW \n",
+    "           SAWANGKAEW, M\n\n",
+    "       20. ZHUOXUAN BAI \n",
+    "           BAI, Z\n\n",
+    "       21. SAKURA HOSOGI \n",
+    "           HOSOGI, S\n\n",
+    "       22. EKATERINA REYNGOLD \n",
+    "           REYNGOLD, E\n\n",
+    "       23. SIJIA WEI \n",
+    "           WEI, S\n\n",
+    "       24. ANASTASIA ZOLOTAREVA \n",
+    "           ZOLOTAREVA, A\n\n",
+    "       25. MARIIA TKACHEVA \n",
+    "           TKACHEVA, M\n\n",
+    "       26. PRISKA NUGROHO \n",
+    "           NUGROHO, P\n\n",
+    "       27. AOI ITO \n",
+    "           ITO, A\n\n",
+    "       28. FANGRAN TIAN \n",
+    "           TIAN, F\n\n",
+    "       29. LANLANA TARARUDEE \n",
+    "           TARARUDEE, L\n\n",
+    "       30. HAN SHI \n",
+    "           SHI, H\n\n",
+    "       31. TAYLAH PRESTON \n",
+    "           PRESTON, T\n\n",
+    "       32. ELENA MICIC \n",
+    "           MICIC, E\n\n",
+    "       33. KRISTIANA SIDOROVA \n",
+    "           SIDOROVA, K\n\n",
+    "       34. HAYU KINOSHITA \n",
+    "           KINOSHITA, H\n\n",
+    "       35. SARA SAITO \n",
+    "           SAITO, S\n\n",
+    "       36. ALEVTINA IBRAGIMOVA \n",
+    "           IBRAGIMOVA, A\n\n",
+    "       37. YUFEI REN \n",
+    "           REN, Y\n\n",
+    "06:28  JIUJIANG-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/1165/JIUJIANG-125/2026/draws\n\n",
+    "       Players added to the draw in JIUJIANG-125 DOUBLES:    \n\n",
+    "       1. HEATHER WATSON / HARRIET DART \n",
+    "          WATSON, H/DART, H\n\n",
+    "       2. HIROKO KUWATA / NATSUMI KAWAGUCHI \n",
+    "          KUWATA, H/KAWAGUCHI, N\n\n",
+    "       3. MANA AYUKAWA / KANAKO MORISAKI \n",
+    "          AYUKAWA, M/MORISAKI, K\n\n",
+    "       4. ALEXANDRA OSBORNE / WUSHUANG ZHENG \n",
+    "          OSBORNE, A/ZHENG, W\n\n",
+    "       5. QIU YU YE / YA HSIN LEE \n",
+    "          YE, Q/LEE, Y\n\n",
+    "       6. MOMOKO KOBORI / AYANO SHIMIZU \n",
+    "          KOBORI, M/SHIMIZU, A\n\n",
+    "       7. SOFYA LANSERE / VARVARA PANSHINA \n",
+    "          LANSERE, S/PANSHINA, V\n\n",
+    "       8. HONG YI CODY WONG / EUDICE CHONG \n",
+    "          WONG, H/CHONG, E\n\n",
+    "       9. PRISKA NUGROHO / PEANGTARN PLIPUECH \n",
+    "          NUGROHO, P/PLIPUECH, P\n\n",
+    "       10. ELENA MICIC / ERI SHIMIZU \n",
+    "           MICIC, E/SHIMIZU, E\n\n",
+    "       11. YU-YUN LI / ZONGYU LI \n",
+    "           LI, Y/LI, Z\n\n"
   ],
   "sits": {
     "ROME": [
@@ -51687,6 +51931,182 @@
         }
       ],
       "2026-04-30"
+    ],
+    "ISTANBUL-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "VERA ZVONAREVA",
+            "EKATERINE GORGODZE",
+            "KATARZYNA KAWA",
+            "LAURA PIGOSSI",
+            "DANKA KOVINIC",
+            "STORM HUNTER",
+            "TEREZA MARTINCOVA",
+            "DONNA VEKIC",
+            "AYLA AKSU",
+            "KATHERINE SEBOV",
+            "ANASTASIA GASANOVA",
+            "BERFU CENGIZ",
+            "TAMARA ZIDANSEK",
+            "HANYU GUO",
+            "CLAIRE LIU",
+            "FRANCESCA JONES",
+            "KAJA JUVAN",
+            "GUIOMAR MARISTANY ZULETA DE REALES",
+            "ALICE TUBELLO",
+            "CAROLE MONNET",
+            "XIYU WANG",
+            "JOANNA GARLAND",
+            "NOMA NOHA AKUGUE",
+            "MARIA TIMOFEEVA",
+            "POLINA KUDERMETOVA",
+            "ANOUK KOEVERMANS",
+            "ALIONA FALEI",
+            "LINDA FRUHVIRTOVA",
+            "TARA WUERTH",
+            "SOFIA COSTOULAS",
+            "POLINA IATCENKO",
+            "TATIANA PROZOROVA",
+            "LOLA RADIVOJEVIC",
+            "ELENA PRIDANKINA",
+            "MIA RISTIC",
+            "TIANTSOA RAKOTOMANGA RAJAONAH",
+            "ELIZARA YANEVA"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "LAURA PIGOSSI / MARIIA KOZYREVA",
+            "NICOLE FOSSA HUERGO / EKATERINE GORGODZE",
+            "ANGELICA MORATELLI / NAIMA KARAMOKO",
+            "IRINA BARA / CAROLE MONNET",
+            "ALICIA BARNETT / SHUO FENG",
+            "MAGALI KEMPEN / ANASTASIA DETIUC",
+            "QIANHUI TANG / ELENA PRIDANKINA",
+            "YI-TSEN CHO / I-HSUAN CHO",
+            "NIKA RADISIC / DALILA JAKUPOVIC",
+            "MARIA TIMOFEEVA / POLINA KUDERMETOVA",
+            "MADELEINE BROOKS / TIANTSOA RAKOTOMANGA RAJAONAH"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
+    ],
+    "JIUJIANG-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "HEATHER WATSON",
+            "LIN ZHU",
+            "HARUKA KAJI",
+            "KYOKA OKAMURA",
+            "HARRIET DART",
+            "LIZETTE CABRERA",
+            "NAO HIBINO",
+            "JESSICA PIERI",
+            "YE-XIN MA",
+            "XIAODI YOU",
+            "DALILA SPITERI",
+            "YIDI YANG",
+            "VIKTORIA MORVAYOVA",
+            "MAI HONTAMA",
+            "EN-SHUO LIANG",
+            "ERI SHIMIZU",
+            "MEI YAMAGUCHI",
+            "SOFYA LANSERE",
+            "MANANCHAYA SAWANGKAEW",
+            "ZHUOXUAN BAI",
+            "SAKURA HOSOGI",
+            "EKATERINA REYNGOLD",
+            "SIJIA WEI",
+            "ANASTASIA ZOLOTAREVA",
+            "MARIIA TKACHEVA",
+            "PRISKA NUGROHO",
+            "AOI ITO",
+            "FANGRAN TIAN",
+            "LANLANA TARARUDEE",
+            "HAN SHI",
+            "TAYLAH PRESTON",
+            "ELENA MICIC",
+            "KRISTIANA SIDOROVA",
+            "HAYU KINOSHITA",
+            "SARA SAITO",
+            "ALEVTINA IBRAGIMOVA",
+            "YUFEI REN"
+          ]
+        }
+      ],
+      [
+        2,
+        11,
+        {
+          "players": [
+            "HEATHER WATSON / HARRIET DART",
+            "HIROKO KUWATA / NATSUMI KAWAGUCHI",
+            "MANA AYUKAWA / KANAKO MORISAKI",
+            "ALEXANDRA OSBORNE / WUSHUANG ZHENG",
+            "QIU YU YE / YA HSIN LEE",
+            "MOMOKO KOBORI / AYANO SHIMIZU",
+            "SOFYA LANSERE / VARVARA PANSHINA",
+            "HONG YI CODY WONG / EUDICE CHONG",
+            "PRISKA NUGROHO / PEANGTARN PLIPUECH",
+            "ELENA MICIC / ERI SHIMIZU",
+            "YU-YUN LI / ZONGYU LI"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -51705,7 +52125,15 @@
     [
       "VIC-125",
       2081
+    ],
+    [
+      "ISTANBUL-125",
+      1160
+    ],
+    [
+      "JIUJIANG-125",
+      1165
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
