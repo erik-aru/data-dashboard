@@ -39319,7 +39319,34 @@
     "           Wong, H\n\n",
     "       12. Chengyiyi Yuan \n",
     "           Yuan, C\n\n",
-    "13:22  OOP in JIUJIANG-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1165/JIUJIANG-125/2026/order-of-play\n\n"
+    "13:22  OOP in JIUJIANG-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1165/JIUJIANG-125/2026/order-of-play\n\n",
+    "20:55  OOP in SAINT-MALO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2034/SAINT-MALO-125/2026/order-of-play\n\n",
+    "20:55  OOP in VIC-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2081/VIC-125/2026/order-of-play\n\n",
+    "20:55  NEW draw in ISTANBUL-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1160/ISTANBUL-125/2026/draws\n\n",
+    "       Players added to the draw in ISTANBUL-125 QUALS:    \n\n",
+    "       1. Katherine Sebov \n",
+    "          Sebov, K\n\n",
+    "       2. Dalila Jakupovic \n",
+    "          Jakupovic, D\n\n",
+    "       3. Tereza Martincova \n",
+    "          Martincova, T\n\n",
+    "       4. Minel Naz Kaynak \n",
+    "          Kaynak, M\n\n",
+    "       5. Isabella Shinikova \n",
+    "          Shinikova, I\n\n",
+    "       6. Mia Ristic \n",
+    "          Ristic, M\n\n",
+    "       7. Sude Ulueren \n",
+    "          Ulueren, S\n\n",
+    "       8. Lucia Cortez Llorca \n",
+    "          Cortez Llorca, L\n\n",
+    "       9. Raluka Serban \n",
+    "          Serban, R\n\n",
+    "       10. Defne Cirpanli \n",
+    "           Cirpanli, D\n\n",
+    "       11. Maria Sara Popa \n",
+    "           Popa, M\n\n",
+    "20:55  OOP in ISTANBUL-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1160/ISTANBUL-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -52325,7 +52352,7 @@
           "players": []
         }
       ],
-      "2026-05-01"
+      "2026-05-02"
     ],
     "VIC-125": [
       [
@@ -52414,14 +52441,26 @@
           "players": []
         }
       ],
-      "2026-05-01"
+      "2026-05-02"
     ],
     "ISTANBUL-125": [
       [
         0,
-        0,
+        11,
         {
-          "players": []
+          "players": [
+            "Katherine Sebov",
+            "Dalila Jakupovic",
+            "Tereza Martincova",
+            "Minel Naz Kaynak",
+            "Isabella Shinikova",
+            "Mia Ristic",
+            "Sude Ulueren",
+            "Lucia Cortez Llorca",
+            "Raluka Serban",
+            "Defne Cirpanli",
+            "Maria Sara Popa"
+          ]
         }
       ],
       [
@@ -52502,7 +52541,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-05-02"
     ],
     "JIUJIANG-125": [
       [
