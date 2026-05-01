@@ -39290,7 +39290,36 @@
     "       29. Storm Hunter / Ellen Perez \n\n",
     "       30. Magda Linette / Rebecca Sramkova \n\n",
     "       31. Nicole Melichar-Martinez / Liudmila Samsonova \n\n",
-    "       32. Katerina Siniakova / Shuai Zhang \n\n"
+    "       32. Katerina Siniakova / Shuai Zhang \n\n",
+    "13:22  OOP in MADRID appeared \u2605\n       https://www.wtatennis.com/tournament/1038/MADRID/2026/order-of-play\n\n",
+    "13:22  OOP in HUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1142/HUZHOU-125/2026/order-of-play\n\n",
+    "13:22  NEW draw in JIUJIANG-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1165/JIUJIANG-125/2026/draws\n\n",
+    "       Players added to the draw in JIUJIANG-125 QUALS:    \n\n",
+    "       1. Priska Nugroho \n",
+    "          Nugroho, P\n\n",
+    "       2. Yiming Dang \n",
+    "          Dang, Y\n\n",
+    "       3. Zongyu Li \n",
+    "          Li, Z\n\n",
+    "       4. Carol Zhao \n",
+    "          Zhao, C\n\n",
+    "       5. Peangtarn Plipuech \n",
+    "          Plipuech, P\n\n",
+    "       6. Amy Zhu \n",
+    "          Zhu, A\n\n",
+    "       7. Wushuang Zheng \n",
+    "          Zheng, W\n\n",
+    "       8. Qiu Yu Ye \n",
+    "          Ye, Q\n\n",
+    "       9. Chenting Zhu \n",
+    "          Zhu, C\n\n",
+    "       10. Varvara Panshina \n",
+    "           Panshina, V\n\n",
+    "       11. Hong Yi Cody Wong \n",
+    "           Wong, H\n\n",
+    "       12. Chengyiyi Yuan \n",
+    "           Yuan, C\n\n",
+    "13:22  OOP in JIUJIANG-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1165/JIUJIANG-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -44324,7 +44353,7 @@
           "players": []
         }
       ],
-      "2026-05-01"
+      "2026-05-02"
     ],
     "LJUBLJANA-125": [
       [
@@ -52191,7 +52220,7 @@
           "players": []
         }
       ],
-      "2026-05-01"
+      "2026-05-02"
     ],
     "SAINT-MALO-125": [
       [
@@ -52478,9 +52507,22 @@
     "JIUJIANG-125": [
       [
         0,
-        0,
+        12,
         {
-          "players": []
+          "players": [
+            "Priska Nugroho",
+            "Yiming Dang",
+            "Zongyu Li",
+            "Carol Zhao",
+            "Peangtarn Plipuech",
+            "Amy Zhu",
+            "Wushuang Zheng",
+            "Qiu Yu Ye",
+            "Chenting Zhu",
+            "Varvara Panshina",
+            "Hong Yi Cody Wong",
+            "Chengyiyi Yuan"
+          ]
         }
       ],
       [
@@ -52561,7 +52603,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-05-02"
     ]
   },
   "torns": [
