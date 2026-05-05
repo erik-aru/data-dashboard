@@ -39979,7 +39979,17 @@
     "       115. MIRRA ANDREEVA \n\n",
     "       116. LILLI TAGGER \n\n",
     "       117. IVA JOVIC \n\n",
-    "21:10  OOP in ROME appeared \u2605\n       https://www.wtatennis.com/tournament/709/ROME/2026/order-of-play\n\n"
+    "21:10  OOP in ROME appeared \u2605\n       https://www.wtatennis.com/tournament/709/ROME/2026/order-of-play\n\n",
+    "13:59  change in ISTANBUL-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1160/ISTANBUL-125/2026/draws\n\n       Players added to the draw in ISTANBUL-125 SINGLES:    \n\n",
+    "       1. Mia Ristic \n",
+    "          Ristic, M\n\n",
+    "       Players removed from the draw in ISTANBUL-125 SINGLES:    \n\n",
+    "       1. Elena Pridankina \n\n",
+    "13:59  OOP in JIUJIANG-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1165/JIUJIANG-125/2026/order-of-play\n\n",
+    "13:59  change in ROME SINGLES \u2605   \n       https://www.wtatennis.com/tournament/709/ROME/2026/draws\n\n",
+    "       Players added to the draw in ROME SINGLES:    \n\n",
+    "       Players removed from the draw in ROME SINGLES:    \n\n",
+    "       1. Marta Kostyuk \n\n"
   ],
   "sits": {
     "ROME": [
@@ -40041,7 +40051,7 @@
       ],
       [
         1,
-        84,
+        83,
         {
           "players": [
             "Aryna Sabalenka",
@@ -40079,7 +40089,6 @@
             "Lucia Bronzetti",
             "Iva Jovic",
             "Jasmine Paolini",
-            "Jaqueline Cristian",
             "Beatriz Haddad Maia",
             "Panna Udvardy",
             "Elise Mertens",
@@ -40122,7 +40131,7 @@
             "Sara Bejlek",
             "Karolina Pliskova",
             "Jessica Bouzas Maneiro",
-            "Marta Kostyuk",
+            "Jaqueline Cristian",
             "Xinyu Wang",
             "Alexandra Eala",
             "Magdalena Frech",
@@ -53074,7 +53083,7 @@
             "Berfu Cengiz",
             "Lina Gjorcheska",
             "Xinran Sun",
-            "Elena Pridankina",
+            "Mia Ristic",
             "Sofia Costoulas",
             "Linda Fruhvirtova",
             "Tereza Martincova",
@@ -53242,7 +53251,7 @@
           "players": []
         }
       ],
-      "2026-05-05"
+      "2026-05-06"
     ]
   },
   "torns": [
