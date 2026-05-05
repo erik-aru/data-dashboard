@@ -39989,7 +39989,46 @@
     "13:59  change in ROME SINGLES \u2605   \n       https://www.wtatennis.com/tournament/709/ROME/2026/draws\n\n",
     "       Players added to the draw in ROME SINGLES:    \n\n",
     "       Players removed from the draw in ROME SINGLES:    \n\n",
-    "       1. Marta Kostyuk \n\n"
+    "       1. Marta Kostyuk \n\n",
+    "21:04  change in ISTANBUL-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1160/ISTANBUL-125/2026/draws\n\n       Players added to the draw in ISTANBUL-125 DOUBLES:    \n\n",
+    "       1. Maria Sara Popa / Mia Ristic \n",
+    "          Popa, M/Ristic, M\n\n",
+    "       Players removed from the draw in ISTANBUL-125 DOUBLES:    \n\n",
+    "       1. Sofia Costoulas / Ekaterine Gorgodze \n\n",
+    "21:04  OOP in ISTANBUL-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1160/ISTANBUL-125/2026/order-of-play\n\n",
+    "21:04  change in ROME SINGLES \u2605   \n       https://www.wtatennis.com/tournament/709/ROME/2026/draws\n\n",
+    "       Players added to the draw in ROME SINGLES:    \n\n",
+    "       1. Tamara Korpatsch \n",
+    "          Korpatsch, T\n\n",
+    "       2. Anhelina Kalinina \n",
+    "          Kalinina, A\n\n",
+    "       3. Taylor Townsend \n",
+    "          Townsend, T\n\n",
+    "       4. Leolia Jeanjean \n",
+    "          Jeanjean, L\n\n",
+    "       5. Alina Korneeva \n",
+    "          Korneeva, A\n\n",
+    "       6. Federica Urgesi \n",
+    "          Urgesi, F\n\n",
+    "       7. Rebeka Masarova \n",
+    "          Masarova, R\n\n",
+    "       8. Dalma Galfi \n",
+    "          Galfi, D\n\n",
+    "       9. Anastasia Potapova \n",
+    "          Potapova, A\n\n",
+    "       10. Sinja Kraus \n",
+    "           Kraus, S\n\n",
+    "       11. Noemi Basiletti \n",
+    "           Basiletti, N\n\n",
+    "       12. Ajla Tomljanovic \n",
+    "           Tomljanovic, A\n\n",
+    "       13. Simona Waltert \n",
+    "           Waltert, S\n\n",
+    "       14. Lilli Tagger \n",
+    "           Tagger, L\n\n",
+    "       Players removed from the draw in ROME SINGLES:    \n\n",
+    "       1. Emma Raducanu \n\n",
+    "21:04  OOP in ROME appeared \u2605\n       https://www.wtatennis.com/tournament/709/ROME/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -40051,7 +40090,7 @@
       ],
       [
         1,
-        83,
+        96,
         {
           "players": [
             "Aryna Sabalenka",
@@ -40082,18 +40121,23 @@
             "Yulia Putintseva",
             "Tereza Valentova",
             "Solana Sierra",
-            "Emma Raducanu",
+            "Tamara Korpatsch",
+            "Anhelina Kalinina",
             "Marie Bouzkova",
+            "Taylor Townsend",
             "Nuria Brancaccio",
             "McCartney Kessler",
             "Lucia Bronzetti",
             "Iva Jovic",
             "Jasmine Paolini",
+            "Leolia Jeanjean",
             "Beatriz Haddad Maia",
             "Panna Udvardy",
+            "Alina Korneeva",
             "Elise Mertens",
             "Maya Joint",
             "Viktorija Golubic",
+            "Federica Urgesi",
             "Antonia Ruzic",
             "Kamilla Rakhimova",
             "Mirra Andreeva",
@@ -40101,10 +40145,13 @@
             "Zeynep Sonmez",
             "Jennifer Ruggeri",
             "Oksana Selekhmeteva",
+            "Rebeka Masarova",
             "Leylah Fernandez",
             "Liudmila Samsonova",
             "Ann Li",
             "Shuai Zhang",
+            "Dalma Galfi",
+            "Anastasia Potapova",
             "Karolina Muchova",
             "Naomi Osaka",
             "Katie Boulter",
@@ -40114,11 +40161,15 @@
             "Diana Shnaider",
             "Emma Navarro",
             "Elisabetta Cocciaretto",
+            "Sinja Kraus",
             "Caty McNally",
             "Daria Kasatkina",
             "Iga Swiatek",
             "Elina Svitolina",
+            "Noemi Basiletti",
+            "Ajla Tomljanovic",
             "Yuliia Starodubtseva",
+            "Simona Waltert",
             "Hailey Baptiste",
             "Madison Keys",
             "Peyton Stearns",
@@ -40135,6 +40186,7 @@
             "Xinyu Wang",
             "Alexandra Eala",
             "Magdalena Frech",
+            "Lilli Tagger",
             "Maria Sakkari",
             "Elena Rybakina"
           ]
@@ -40186,7 +40238,7 @@
           "players": []
         }
       ],
-      "2026-05-05"
+      "2026-05-06"
     ],
     "PARMA-125": [
       [
@@ -53120,7 +53172,7 @@
             "Storm Hunter / Erin Routliffe",
             "Irina Bara / Carole Monnet",
             "Dalila Jakupovic / Nika Radisic",
-            "Sofia Costoulas / Ekaterine Gorgodze",
+            "Maria Sara Popa / Mia Ristic",
             "Mariia Kozyreva / Laura Pigossi",
             "Elena Pridankina / Qianhui Tang",
             "Katherine Sebov / Raluka Serban",
@@ -53150,7 +53202,7 @@
           "players": []
         }
       ],
-      "2026-05-05"
+      "2026-05-06"
     ],
     "JIUJIANG-125": [
       [
