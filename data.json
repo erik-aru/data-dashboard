@@ -40659,7 +40659,30 @@
     "       6. Louisa Chirico \n\n",
     "       7. Maddison Inglis \n\n",
     "       8. Jenny Lim \n\n",
-    "20:50  OOP in PARIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2057/PARIS-125/2026/order-of-play\n\n"
+    "20:50  OOP in PARIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2057/PARIS-125/2026/order-of-play\n\n",
+    "21:19  OOP in ROME appeared \u2605\n       https://www.wtatennis.com/tournament/709/ROME/2026/order-of-play\n\n",
+    "21:19  change in PARMA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2041/PARMA-125/2026/draws\n\n",
+    "       Players added to the draw in PARMA-125 SINGLES:    \n\n",
+    "       1. Deborah Chiesa \n",
+    "          Chiesa, D\n\n",
+    "       2. Zhibek Kulambayeva \n",
+    "          Kulambayeva, Z\n\n",
+    "       3. Victoria Bosio \n",
+    "          Bosio, V\n\n",
+    "       4. Susan Bandecchi \n",
+    "          Bandecchi, S\n\n",
+    "21:19  OOP in PARMA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2041/PARMA-125/2026/order-of-play\n\n",
+    "21:19  change in PARIS-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2057/PARIS-125/2026/draws\n\n",
+    "       Players added to the draw in PARIS-125 SINGLES:    \n\n",
+    "       1. Taylah Preston \n",
+    "          Preston, T\n\n",
+    "       2. Veronika Podrez \n",
+    "          Podrez, V\n\n",
+    "       3. Alina Charaeva \n",
+    "          Charaeva, A\n\n",
+    "       4. Tamara Korpatsch \n",
+    "          Korpatsch, T\n\n",
+    "21:19  OOP in PARIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2057/PARIS-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -40877,7 +40900,7 @@
           "players": []
         }
       ],
-      "2026-05-11"
+      "2026-05-12"
     ],
     "PARMA-125": [
       [
@@ -40898,7 +40921,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Lois Boisson",
@@ -40907,9 +40930,11 @@
             "Mayar Sherif",
             "Lisa Pigato",
             "Lucia Bronzetti",
+            "Deborah Chiesa",
             "Camila Osorio",
             "Barbora Krejcikova",
             "Victoria Jimenez Kasintseva",
+            "Zhibek Kulambayeva",
             "Anna-Lena Friedsam",
             "Federica Urgesi",
             "Maja Chwalinska",
@@ -40921,10 +40946,12 @@
             "Moyuka Uchijima",
             "Hanne Vandewinkel",
             "Whitney Osuigwe",
+            "Victoria Bosio",
             "Dayana Yastremska",
             "Alycia Parks",
             "Mary Stoiana",
             "Priscilla Hon",
+            "Susan Bandecchi",
             "Noemi Basiletti",
             "Lilli Tagger",
             "Marta Lombardini",
@@ -40966,7 +40993,7 @@
           "players": []
         }
       ],
-      "2026-05-11"
+      "2026-05-12"
     ],
     "PARIS-125": [
       [
@@ -40987,7 +41014,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Madison Keys",
@@ -41004,16 +41031,20 @@
             "Katie Volynets",
             "Shuai Zhang",
             "Himeno Sakatsume",
+            "Taylah Preston",
             "Yuliia Starodubtseva",
             "McCartney Kessler",
             "Yulia Putintseva",
+            "Veronika Podrez",
             "Sloane Stephens",
             "Beatriz Haddad Maia",
             "Diane Parry",
             "Chloe Paquet",
             "Maya Joint",
             "Sara Bejlek",
+            "Alina Charaeva",
             "Clara Burel",
+            "Tamara Korpatsch",
             "Talia Gibson",
             "Aliaksandra Sasnovich",
             "Anna Blinkova",
@@ -41047,7 +41078,7 @@
           "players": []
         }
       ],
-      "2026-05-11"
+      "2026-05-12"
     ],
     "STRASBOURG": [
       [
