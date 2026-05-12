@@ -40682,7 +40682,30 @@
     "          Charaeva, A\n\n",
     "       4. Tamara Korpatsch \n",
     "          Korpatsch, T\n\n",
-    "21:19  OOP in PARIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2057/PARIS-125/2026/order-of-play\n\n"
+    "21:19  OOP in PARIS-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2057/PARIS-125/2026/order-of-play\n\n",
+    "14:29  change in PARIS-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2057/PARIS-125/2026/draws\n\n",
+    "       Players added to the draw in PARIS-125 DOUBLES:    \n\n",
+    "       1. Lyudmyla Kichenok / Desirae Krawczyk \n",
+    "          Kichenok, L/Krawczyk, D\n\n",
+    "       2. Hanyu Guo / Kristina Mladenovic \n",
+    "          Guo, H/Mladenovic, K\n\n",
+    "       3. Ulrikke Eikeri / Miyu Kato \n",
+    "          Eikeri, U/Kato, M\n\n",
+    "       4. Xinyu Jiang / Yifan Xu \n",
+    "          Jiang, X/Xu, Y\n\n",
+    "       5. Shuko Aoyama / En-Shuo Liang \n",
+    "          Aoyama, S/Liang, E\n\n",
+    "       6. Ksenia Efremova / Tiantsoa Rakotomanga Rajaonah \n",
+    "          Efremova, K/Rakotomanga Rajaonah, T\n\n",
+    "       7. Eri Hozumi / Fang-Hsien Wu \n",
+    "          Hozumi, E/Wu, F\n\n",
+    "       8. Tereza Mihalikova / Olivia Nicholls \n",
+    "          Mihalikova, T/Nicholls, O\n\n",
+    "       Players removed from the draw in PARIS-125 DOUBLES:    \n\n",
+    "       1. HAO-CHING CHAN / MIYU KATO \n\n",
+    "       2. TEREZA MIHALIKOVA / OLIVIA NICHOLLS \n\n",
+    "       3. KRISTINA MLADENOVIC / HANYU GUO \n\n",
+    "       4. SHUKO AOYAMA / EN-SHUO LIANG \n\n"
   ],
   "sits": {
     "ROME": [
@@ -41054,13 +41077,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "HAO-CHING CHAN / MIYU KATO",
-            "TEREZA MIHALIKOVA / OLIVIA NICHOLLS",
-            "KRISTINA MLADENOVIC / HANYU GUO",
-            "SHUKO AOYAMA / EN-SHUO LIANG"
+            "Lyudmyla Kichenok / Desirae Krawczyk",
+            "Hanyu Guo / Kristina Mladenovic",
+            "Ulrikke Eikeri / Miyu Kato",
+            "Xinyu Jiang / Yifan Xu",
+            "Shuko Aoyama / En-Shuo Liang",
+            "Ksenia Efremova / Tiantsoa Rakotomanga Rajaonah",
+            "Eri Hozumi / Fang-Hsien Wu",
+            "Tereza Mihalikova / Olivia Nicholls"
           ]
         }
       ],
