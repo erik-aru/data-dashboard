@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "ROLAND-GARROS": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -54669,7 +54691,11 @@
     [
       "RABAT",
       1005
+    ],
+    [
+      "ROLAND-GARROS",
+      903
     ]
   ],
-  "old_day": 19
+  "old_day": 20
 }
