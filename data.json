@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "STRASBOURG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "RABAT": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "ROLAND-GARROS": [
       [
         0,
@@ -41586,7 +41542,8 @@
     "           Kovinic, D\n\n",
     "       32. Xiyu Wang \n",
     "           Wang, X\n\n",
-    "06:34  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2026/order-of-play\n\n"
+    "06:34  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2026/order-of-play\n\n",
+    "07:21  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -42426,7 +42383,7 @@
           "players": []
         }
       ],
-      "2026-05-24"
+      "2026-05-25"
     ],
     "BIRMINGHAM-125": [
       [
@@ -54872,17 +54829,9 @@
   },
   "torns": [
     [
-      "STRASBOURG",
-      406
-    ],
-    [
-      "RABAT",
-      1005
-    ],
-    [
       "ROLAND-GARROS",
       903
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
