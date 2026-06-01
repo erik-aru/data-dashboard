@@ -42534,7 +42534,8 @@
     "       5. Eva Vedder \n\n",
     "       6. Angela Fita Boluda \n\n",
     "       7. Martina Colmegna \n\n",
-    "21:01  OOP in BARI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2077/BARI-125/2026/order-of-play\n\n"
+    "21:01  OOP in BARI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2077/BARI-125/2026/order-of-play\n\n",
+    "09:27  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -43372,7 +43373,7 @@
           "players": []
         }
       ],
-      "2026-06-01"
+      "2026-06-02"
     ],
     "BIRMINGHAM-125": [
       [
@@ -55820,5 +55821,5 @@
       1090
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
