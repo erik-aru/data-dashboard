@@ -42687,7 +42687,35 @@
     "       7. Tara Wuerth \n\n",
     "       8. Isabel He \n\n",
     "22:32  OOP in MAKARSKA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2026/order-of-play\n\n",
-    "08:38  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2026/order-of-play\n\n"
+    "08:38  OOP in ROLAND-GARROS appeared \u2605\n       https://www.wtatennis.com/tournament/903/ROLAND-GARROS/2026/order-of-play\n\n",
+    "16:35  change in BARI-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2077/BARI-125/2026/draws\n\n",
+    "       Players added to the draw in BARI-125 DOUBLES:    \n\n",
+    "       1. Mariia Kozyreva / Iryna Shymanovich \n",
+    "          Kozyreva, M/Shymanovich, I\n\n",
+    "       2. Sofia Costoulas / Despina Papamichail \n",
+    "          Costoulas, S/Papamichail, D\n\n",
+    "       3. Estelle Cascino / Nika Radisic \n",
+    "          Cascino, E/Radisic, N\n\n",
+    "       4. Ekaterine Gorgodze / Carole Monnet \n",
+    "          Gorgodze, E/Monnet, C\n\n",
+    "       5. Eleonora Alvisi / Nuria Brancaccio \n",
+    "          Alvisi, E/Brancaccio, N\n\n",
+    "       6. Rasheeda McAdoo / Sapfo Sakellaridi \n",
+    "          McAdoo, R/Sakellaridi, S\n\n",
+    "       7. Lucia Bronzetti / Lisa Pigato \n",
+    "          Bronzetti, L/Pigato, L\n\n",
+    "       8. I-Hsuan Cho / Yi-Tsen Cho \n",
+    "          Cho, I/Cho, Y\n\n",
+    "       Players removed from the draw in BARI-125 DOUBLES:    \n\n",
+    "       1. MARIIA KOZYREVA / IRYNA SHYMANOVICH \n\n",
+    "       2. I-HSUAN CHO / YI-TSEN CHO \n\n",
+    "       3. EKATERINE GORGODZE / CAROLE MONNET \n\n",
+    "       4. ESTELLE CASCINO / NIKA RADISIC \n\n",
+    "16:35  OOP in BARI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2077/BARI-125/2026/order-of-play\n\n",
+    "16:35  change in MAKARSKA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1090/MAKARSKA-125/2026/draws\n\n",
+    "       Players added to the draw in MAKARSKA-125 SINGLES:    \n\n",
+    "       Players removed from the draw in MAKARSKA-125 SINGLES:    \n\n",
+    "       1. Polona Hercog \n\n"
   ],
   "sits": {
     "ROME": [
@@ -43699,13 +43727,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "MARIIA KOZYREVA / IRYNA SHYMANOVICH",
-            "I-HSUAN CHO / YI-TSEN CHO",
-            "EKATERINE GORGODZE / CAROLE MONNET",
-            "ESTELLE CASCINO / NIKA RADISIC"
+            "Mariia Kozyreva / Iryna Shymanovich",
+            "Sofia Costoulas / Despina Papamichail",
+            "Estelle Cascino / Nika Radisic",
+            "Ekaterine Gorgodze / Carole Monnet",
+            "Eleonora Alvisi / Nuria Brancaccio",
+            "Rasheeda McAdoo / Sapfo Sakellaridi",
+            "Lucia Bronzetti / Lisa Pigato",
+            "I-Hsuan Cho / Yi-Tsen Cho"
           ]
         }
       ],
@@ -43723,7 +43755,7 @@
           "players": []
         }
       ],
-      "2026-06-02"
+      "2026-06-03"
     ],
     "MAKARSKA-125": [
       [
@@ -43744,14 +43776,13 @@
       ],
       [
         1,
-        28,
+        27,
         {
           "players": [
             "Petra Marcinko",
             "Barbora Palicova",
             "Lucija Ciric Bagaric",
             "Tamara Zidansek",
-            "Polona Hercog",
             "Ana Konjuh",
             "Dominika Salkova",
             "Simona Waltert",
