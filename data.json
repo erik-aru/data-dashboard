@@ -43922,7 +43922,10 @@
     "          Basiletti, N\n\n",
     "       8. Beatrice Ricci \n",
     "          Ricci, B\n\n",
-    "21:06  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n"
+    "21:06  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n",
+    "07:59  OOP in 'S-HERTOGENBOSCH appeared \u2605\n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2026/order-of-play\n\n",
+    "07:59  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/order-of-play\n\n",
+    "07:59  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -45152,7 +45155,7 @@
           "players": []
         }
       ],
-      "2025-06-15"
+      "2026-06-07"
     ],
     "QUEENS": [
       [
@@ -45255,7 +45258,7 @@
           "players": []
         }
       ],
-      "2026-06-06"
+      "2026-06-07"
     ],
     "ILKLEY-125": [
       [
@@ -45357,7 +45360,7 @@
           "players": []
         }
       ],
-      "2025-06-15"
+      "2026-06-07"
     ],
     "GRADO-125": [
       [
@@ -57291,5 +57294,5 @@
       1171
     ]
   ],
-  "old_day": 6
+  "old_day": 7
 }
