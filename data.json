@@ -44060,7 +44060,44 @@
     "       26. TIANTSOA RAKOTOMANGA RAJAONAH \n\n",
     "       27. KAITLIN QUEVEDO \n\n",
     "       28. JELINE VANDROMME \n\n",
-    "       29. LAURA SAMSON \n\n"
+    "       29. LAURA SAMSON \n\n",
+    "21:15  change in 'S-HERTOGENBOSCH SINGLES \u2605   \n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2026/draws\n\n",
+    "       Players added to the draw in 'S-HERTOGENBOSCH SINGLES:    \n\n",
+    "       1. Robin Montgomery \n",
+    "          Montgomery, R\n\n",
+    "       2. Greet Minnen \n",
+    "          Minnen, G\n\n",
+    "       3. Hanne Vandewinkel \n",
+    "          Vandewinkel, H\n\n",
+    "       4. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "21:15  change in QUEENS SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/draws\n\n",
+    "       Players added to the draw in QUEENS SINGLES:    \n\n",
+    "       1. Tatjana Maria \n",
+    "          Maria, T\n\n",
+    "       2. Polina Kudermetova \n",
+    "          Kudermetova, P\n\n",
+    "       3. Maddison Inglis \n",
+    "          Inglis, M\n\n",
+    "       4. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       5. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       6. Shuai Zhang \n",
+    "          Zhang, S\n\n",
+    "21:15  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/order-of-play\n\n",
+    "21:15  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/order-of-play\n\n",
+    "21:15  change in MODENA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/draws\n\n",
+    "       Players added to the draw in MODENA-125 SINGLES:    \n\n",
+    "       1. Noemi Basiletti \n",
+    "          Basiletti, N\n\n",
+    "       2. Tiantsoa Rakotomanga Rajaonah \n",
+    "          Rakotomanga Rajaonah, T\n\n",
+    "       3. Victoria Bosio \n",
+    "          Bosio, V\n\n",
+    "       4. Jazmin Ortenzi \n",
+    "          Ortenzi, J\n\n",
+    "21:15  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -45218,7 +45255,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Ekaterina Alexandrova",
@@ -45226,6 +45263,8 @@
             "Daria Snigur",
             "Paula Badosa",
             "Daria Kasatkina",
+            "Robin Montgomery",
+            "Greet Minnen",
             "Janice Tjen",
             "Emma Navarro",
             "Caty McNally",
@@ -45238,12 +45277,14 @@
             "Barbora Krejcikova",
             "Renata Zarazua",
             "Nikola Bartunkova",
+            "Hanne Vandewinkel",
             "Tamara Korpatsch",
             "Elena-Gabriela Ruse",
             "Bianca Andreescu",
             "Elise Mertens",
             "Anastasia Potapova",
             "Suzan Lamens",
+            "Katie Volynets",
             "Zeynep Sonmez",
             "Magda Linette",
             "Kimberly Birrell",
@@ -45327,11 +45368,12 @@
       ],
       [
         1,
-        22,
+        28,
         {
           "players": [
             "Elena Rybakina",
             "Maria Sakkari",
+            "Tatjana Maria",
             "Qinwen Zheng",
             "Jaqueline Cristian",
             "Katie Boulter",
@@ -45340,14 +45382,19 @@
             "Karolina Pliskova",
             "McCartney Kessler",
             "Marie Bouzkova",
+            "Polina Kudermetova",
             "Mika Stojsavljevic",
             "Marta Kostyuk",
             "Sorana Cirstea",
+            "Maddison Inglis",
             "Emma Raducanu",
+            "Anna Blinkova",
             "Harriet Dart",
             "Liudmila Samsonova",
             "Belinda Bencic",
             "Iva Jovic",
+            "Antonia Ruzic",
+            "Shuai Zhang",
             "Alexandra Eala",
             "Laura Siegemund",
             "Francesca Jones",
@@ -45393,7 +45440,7 @@
           "players": []
         }
       ],
-      "2026-06-07"
+      "2026-06-08"
     ],
     "ILKLEY-125": [
       [
@@ -45500,7 +45547,7 @@
           "players": []
         }
       ],
-      "2026-06-07"
+      "2026-06-08"
     ],
     "GRADO-125": [
       [
@@ -57336,11 +57383,12 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Victoria Jimenez Kasintseva",
             "Jessica Pieri",
+            "Noemi Basiletti",
             "Varvara Lepchenko",
             "Leyre Romero Gormaz",
             "Xiaodi You",
@@ -57351,16 +57399,19 @@
             "Martina Trevisan",
             "Jennifer Ruggeri",
             "Noma Noha Akugue",
+            "Tiantsoa Rakotomanga Rajaonah",
             "Katarzyna Kawa",
             "Lisa Pigato",
             "Tamara Zidansek",
             "Federica Urgesi",
+            "Victoria Bosio",
             "Nuria Brancaccio",
             "Xinyu Gao",
             "Lucia Bronzetti",
             "Andrea Lazaro Garcia",
             "Julia Grabher",
             "Kaitlin Quevedo",
+            "Jazmin Ortenzi",
             "Jeline Vandromme",
             "Angela Fita Boluda",
             "Xiyu Wang",
@@ -57396,7 +57447,7 @@
           "players": []
         }
       ],
-      "2026-06-07"
+      "2026-06-08"
     ]
   },
   "torns": [
