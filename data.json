@@ -44011,7 +44011,23 @@
     "          Ortenzi, J\n\n",
     "21:15  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n",
     "15:55  OOP in 'S-HERTOGENBOSCH appeared \u2605\n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2026/order-of-play\n\n",
-    "15:55  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n"
+    "15:55  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n",
+    "21:50  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/order-of-play\n\n",
+    "21:50  change in ILKLEY-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/draws\n\n",
+    "       Players added to the draw in ILKLEY-125 SINGLES:    \n\n",
+    "       1. Tereza Martincova \n",
+    "          Martincova, T\n\n",
+    "       2. Vendula Valdmannova \n",
+    "          Valdmannova, V\n\n",
+    "       3. Ella McDonald \n",
+    "          McDonald, E\n\n",
+    "       4. Celine Naef \n",
+    "          Naef, C\n\n",
+    "       5. Harmony Tan \n",
+    "          Tan, H\n\n",
+    "       6. Iryna Shymanovich \n",
+    "          Shymanovich, I\n\n",
+    "21:50  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -45354,7 +45370,7 @@
           "players": []
         }
       ],
-      "2026-06-08"
+      "2026-06-09"
     ],
     "ILKLEY-125": [
       [
@@ -45391,11 +45407,12 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Viktorija Golubic",
             "Daniella Britton",
+            "Tereza Martincova",
             "Katie Swan",
             "Alicia Dudeney",
             "Himeno Sakatsume",
@@ -45404,11 +45421,13 @@
             "Darja Vidmanova",
             "Linda Fruhvirtova",
             "Lucrezia Stefanini",
+            "Vendula Valdmannova",
             "Mingge Xu",
             "Elizabeth Mandlik",
             "Emerson Jones",
             "Dalma Galfi",
             "Lulu Sun",
+            "Ella McDonald",
             "Kayla Day",
             "Mary Stoiana",
             "Veronika Podrez",
@@ -45416,9 +45435,12 @@
             "Linda Klimovicova",
             "Sinja Kraus",
             "Alina Korneeva",
+            "Celine Naef",
             "Mananchaya Sawangkaew",
             "Akasha Urhobo",
             "Taylah Preston",
+            "Harmony Tan",
+            "Iryna Shymanovich",
             "Lanlana Tararudee"
           ]
         }
@@ -45461,7 +45483,7 @@
           "players": []
         }
       ],
-      "2026-06-08"
+      "2026-06-09"
     ],
     "GRADO-125": [
       [
