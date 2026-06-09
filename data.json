@@ -44027,7 +44027,43 @@
     "          Tan, H\n\n",
     "       6. Iryna Shymanovich \n",
     "          Shymanovich, I\n\n",
-    "21:50  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/order-of-play\n\n"
+    "21:50  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/order-of-play\n\n",
+    "21:48  change in 'S-HERTOGENBOSCH DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2026/draws\n\n",
+    "       Players added to the draw in 'S-HERTOGENBOSCH DOUBLES:    \n\n",
+    "       Players removed from the draw in 'S-HERTOGENBOSCH DOUBLES:    \n\n",
+    "       1. Sara Bejlek / Daria Kasatkina \n\n",
+    "21:48  OOP in 'S-HERTOGENBOSCH appeared \u2605\n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2026/order-of-play\n\n",
+    "21:48  change in QUEENS SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/draws\n\n       Players added to the draw in QUEENS SINGLES:    \n\n",
+    "       1. Donna Vekic \n",
+    "          Vekic, D\n\n",
+    "       Players removed from the draw in QUEENS SINGLES:    \n\n",
+    "       1. Marta Kostyuk \n\n",
+    "21:48  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/order-of-play\n\n",
+    "21:48  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/order-of-play\n\n",
+    "21:48  change in MODENA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/draws\n\n",
+    "       Players added to the draw in MODENA-125 DOUBLES:    \n\n",
+    "       1. Nicole Fossa Huergo / Nika Radisic \n",
+    "          Fossa Huergo, N/Radisic, N\n\n",
+    "       2. Victoria Jimenez Kasintseva / Xiaodi You \n",
+    "          Jimenez Kasintseva, V/You, X\n\n",
+    "       3. Ekaterine Gorgodze / Naima Karamoko \n",
+    "          Gorgodze, E/Karamoko, N\n\n",
+    "       4. Noemi Basiletti / Giorgia Pedone \n",
+    "          Basiletti, N/Pedone, G\n\n",
+    "       5. Rutuja Bhosale / Estelle Cascino \n",
+    "          Bhosale, R/Cascino, E\n\n",
+    "       6. Yvonne Cavalle-Reimers / Lara Salden \n",
+    "          Cavalle-Reimers, Y/Salden, L\n\n",
+    "       7. Nuria Brancaccio / Lisa Pigato \n",
+    "          Brancaccio, N/Pigato, L\n\n",
+    "       8. I-Hsuan Cho / Yi-Tsen Cho \n",
+    "          Cho, I/Cho, Y\n\n",
+    "       Players removed from the draw in MODENA-125 DOUBLES:    \n\n",
+    "       1. NIKA RADISIC / NICOLE FOSSA HUERGO \n\n",
+    "       2. ESTELLE CASCINO / RUTUJA BHOSALE \n\n",
+    "       3. I-HSUAN CHO / YI-TSEN CHO \n\n",
+    "       4. NAIMA KARAMOKO / DARJA SEMENISTAJA \n\n",
+    "21:48  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -45225,7 +45261,7 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Xinyu Jiang / Yifan Xu",
@@ -45241,7 +45277,6 @@
             "Magali Kempen / Qianhui Tang",
             "Eri Hozumi / Fang-Hsien Wu",
             "Ingrid Neel / Giuliana Olmos",
-            "Sara Bejlek / Daria Kasatkina",
             "Isabelle Haverlag / Maia Lumsden",
             "Aldila Sutjiadi / Janice Tjen"
           ]
@@ -45261,7 +45296,7 @@
           "players": []
         }
       ],
-      "2026-06-09"
+      "2026-06-10"
     ],
     "QUEENS": [
       [
@@ -45314,7 +45349,7 @@
             "Marie Bouzkova",
             "Polina Kudermetova",
             "Mika Stojsavljevic",
-            "Marta Kostyuk",
+            "Donna Vekic",
             "Sorana Cirstea",
             "Maddison Inglis",
             "Emma Raducanu",
@@ -45370,7 +45405,7 @@
           "players": []
         }
       ],
-      "2026-06-09"
+      "2026-06-10"
     ],
     "ILKLEY-125": [
       [
@@ -45483,7 +45518,7 @@
           "players": []
         }
       ],
-      "2026-06-09"
+      "2026-06-10"
     ],
     "GRADO-125": [
       [
@@ -57359,13 +57394,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "NIKA RADISIC / NICOLE FOSSA HUERGO",
-            "ESTELLE CASCINO / RUTUJA BHOSALE",
-            "I-HSUAN CHO / YI-TSEN CHO",
-            "NAIMA KARAMOKO / DARJA SEMENISTAJA"
+            "Nicole Fossa Huergo / Nika Radisic",
+            "Victoria Jimenez Kasintseva / Xiaodi You",
+            "Ekaterine Gorgodze / Naima Karamoko",
+            "Noemi Basiletti / Giorgia Pedone",
+            "Rutuja Bhosale / Estelle Cascino",
+            "Yvonne Cavalle-Reimers / Lara Salden",
+            "Nuria Brancaccio / Lisa Pigato",
+            "I-Hsuan Cho / Yi-Tsen Cho"
           ]
         }
       ],
@@ -57383,7 +57422,7 @@
           "players": []
         }
       ],
-      "2026-06-09"
+      "2026-06-10"
     ]
   },
   "torns": [
