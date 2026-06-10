@@ -44063,7 +44063,25 @@
     "       2. ESTELLE CASCINO / RUTUJA BHOSALE \n\n",
     "       3. I-HSUAN CHO / YI-TSEN CHO \n\n",
     "       4. NAIMA KARAMOKO / DARJA SEMENISTAJA \n\n",
-    "21:48  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n"
+    "21:48  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n",
+    "22:03  change in 'S-HERTOGENBOSCH DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2026/draws\n\n",
+    "       Players added to the draw in 'S-HERTOGENBOSCH DOUBLES:    \n\n",
+    "       1. Panna Udvardy / Renata Zarazua \n",
+    "          Udvardy, P/Zarazua, R\n\n",
+    "22:03  OOP in 'S-HERTOGENBOSCH appeared \u2605\n       https://www.wtatennis.com/tournament/822/'S-HERTOGENBOSCH/2026/order-of-play\n\n",
+    "22:03  change in QUEENS SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/draws\n\n       Players added to the draw in QUEENS SINGLES:    \n\n",
+    "       1. Kamilla Rakhimova \n",
+    "          Rakhimova, K\n\n",
+    "       Players removed from the draw in QUEENS SINGLES:    \n\n",
+    "       1. Belinda Bencic \n\n",
+    "22:03  OOP in QUEENS appeared \u2605\n       https://www.wtatennis.com/tournament/1111/QUEENS/2026/order-of-play\n\n",
+    "22:03  change in ILKLEY-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/draws\n\n       Players added to the draw in ILKLEY-125 DOUBLES:    \n\n",
+    "       1. Katie Swan / Darja Vidmanova \n",
+    "          Swan, K/Vidmanova, D\n\n",
+    "       Players removed from the draw in ILKLEY-125 DOUBLES:    \n\n",
+    "       1. Kayla Day / Mary Stoiana \n\n",
+    "22:03  OOP in ILKLEY-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1127/ILKLEY-125/2026/order-of-play\n\n",
+    "22:03  OOP in MODENA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1171/MODENA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -45261,7 +45279,7 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Xinyu Jiang / Yifan Xu",
@@ -45277,6 +45295,7 @@
             "Magali Kempen / Qianhui Tang",
             "Eri Hozumi / Fang-Hsien Wu",
             "Ingrid Neel / Giuliana Olmos",
+            "Panna Udvardy / Renata Zarazua",
             "Isabelle Haverlag / Maia Lumsden",
             "Aldila Sutjiadi / Janice Tjen"
           ]
@@ -45296,7 +45315,7 @@
           "players": []
         }
       ],
-      "2026-06-10"
+      "2026-06-11"
     ],
     "QUEENS": [
       [
@@ -45356,7 +45375,7 @@
             "Anna Blinkova",
             "Harriet Dart",
             "Liudmila Samsonova",
-            "Belinda Bencic",
+            "Kamilla Rakhimova",
             "Iva Jovic",
             "Antonia Ruzic",
             "Shuai Zhang",
@@ -45405,7 +45424,7 @@
           "players": []
         }
       ],
-      "2026-06-10"
+      "2026-06-11"
     ],
     "ILKLEY-125": [
       [
@@ -45494,7 +45513,7 @@
             "Freya Christie / Eden Silva",
             "Kayla Cross / Ella McDonald",
             "Sinja Kraus / Vendula Valdmannova",
-            "Kayla Day / Mary Stoiana",
+            "Katie Swan / Darja Vidmanova",
             "Ivana Corley / Clervie Ngounoue",
             "Madeleine Brooks / Amelia Rajecki",
             "Catherine Harrison / Alexandra Osborne",
@@ -45518,7 +45537,7 @@
           "players": []
         }
       ],
-      "2026-06-10"
+      "2026-06-11"
     ],
     "GRADO-125": [
       [
@@ -57422,7 +57441,7 @@
           "players": []
         }
       ],
-      "2026-06-10"
+      "2026-06-11"
     ]
   },
   "torns": [
