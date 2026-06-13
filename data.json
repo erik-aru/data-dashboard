@@ -44787,7 +44787,12 @@
     "       17. Varvara Gracheva \n\n",
     "       18. Jodie Burrage \n\n",
     "       19. Anca Todoni \n\n",
-    "21:47  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/order-of-play\n\n"
+    "21:47  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/order-of-play\n\n",
+    "07:50  BERLIN QUALS draw    \n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/draws\n\n",
+    "       Players added to the draw in BERLIN QUALS:    \n\n",
+    "       Players removed from the draw in BERLIN QUALS:    \n\n",
+    "       1. Xinyu Wang \n\n",
+    "       2. Nikola Bartunkova \n\n"
   ],
   "sits": {
     "ROME": [
@@ -46564,10 +46569,9 @@
     "BERLIN": [
       [
         0,
-        24,
+        22,
         {
           "players": [
-            "Xinyu Wang",
             "Dalma Galfi",
             "Tessa Johanna Brockmann",
             "Alycia Parks",
@@ -46587,7 +46591,6 @@
             "Ella Seidel",
             "Lulu Sun",
             "Anhelina Kalinina",
-            "Nikola Bartunkova",
             "Noma Noha Akugue",
             "Mia Pohankova",
             "Tamara Korpatsch"
@@ -58361,5 +58364,5 @@
       2012
     ]
   ],
-  "old_day": 12
+  "old_day": 13
 }
