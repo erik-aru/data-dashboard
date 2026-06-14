@@ -45423,7 +45423,34 @@
     "       1. Lin Zhu \n",
     "          Zhu, L\n\n",
     "       Players removed from the draw in BERLIN QUALS:    \n\n",
-    "       1. Polina Kudermetova \n\n"
+    "       1. Polina Kudermetova \n\n",
+    "21:14  change in NOTTINGHAM SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/draws\n\n",
+    "       Players added to the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       1. Antonia Ruzic \n",
+    "          Ruzic, A\n\n",
+    "       2. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       3. Himeno Sakatsume \n",
+    "          Sakatsume, H\n\n",
+    "       4. Kimberly Birrell \n",
+    "          Birrell, K\n\n",
+    "       5. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       6. Taylah Preston \n",
+    "          Preston, T\n\n",
+    "       7. Viktorija Golubic \n",
+    "          Golubic, V\n\n",
+    "       8. Sofia Kenin \n",
+    "          Kenin, S\n\n",
+    "       9. Zeynep Sonmez \n",
+    "          Sonmez, Z\n\n",
+    "21:14  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/order-of-play\n\n",
+    "21:14  change in BRESCIA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1170/BRESCIA-125/2026/draws\n\n",
+    "       Players added to the draw in BRESCIA-125 SINGLES:    \n\n",
+    "       Players removed from the draw in BRESCIA-125 SINGLES:    \n\n",
+    "       1. Darja Semenistaja \n\n",
+    "21:14  OOP in BRESCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1170/BRESCIA-125/2026/order-of-play\n\n",
+    "21:14  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -47115,12 +47142,13 @@
       ],
       [
         1,
-        23,
+        32,
         {
           "players": [
             "Emma Raducanu",
             "Karolina Pliskova",
             "Caty McNally",
+            "Antonia Ruzic",
             "Talia Gibson",
             "Francesca Jones",
             "Qinwen Zheng",
@@ -47134,12 +47162,20 @@
             "Tatjana Maria",
             "Janice Tjen",
             "McCartney Kessler",
+            "Katie Volynets",
+            "Himeno Sakatsume",
             "Jessica Bouzas Maneiro",
             "Maya Joint",
             "Yuliia Starodubtseva",
             "Sara Bejlek",
             "Emma Navarro",
             "Ann Li",
+            "Kimberly Birrell",
+            "Anna Blinkova",
+            "Taylah Preston",
+            "Viktorija Golubic",
+            "Sofia Kenin",
+            "Zeynep Sonmez",
             "Leylah Fernandez"
           ]
         }
@@ -47181,7 +47217,7 @@
           "players": []
         }
       ],
-      "2026-06-14"
+      "2026-06-15"
     ],
     "BERLIN": [
       [
@@ -47283,7 +47319,7 @@
           "players": []
         }
       ],
-      "2026-06-14"
+      "2026-06-15"
     ],
     "BAD-HOMBURG": [
       [
@@ -58795,7 +58831,7 @@
       ],
       [
         1,
-        28,
+        27,
         {
           "players": [
             "Xiyu Wang",
@@ -58806,7 +58842,6 @@
             "Alessandra Mazzola",
             "Luisina Giovannini",
             "Julia Grabher",
-            "Nuria Brancaccio",
             "Kathinka Von Deichmann",
             "Anastasiia Sobolieva",
             "Danka Kovinic",
@@ -58825,7 +58860,7 @@
             "Fiona Ferro",
             "Kajsa Rinaldo Persson",
             "Ekaterine Gorgodze",
-            "Darja Semenistaja"
+            "Nuria Brancaccio"
           ]
         }
       ],
@@ -58867,7 +58902,7 @@
           "players": []
         }
       ],
-      "2026-06-14"
+      "2026-06-15"
     ],
     "FIGUEIRA-DA-FOZ-125": [
       [
