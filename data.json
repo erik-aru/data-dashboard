@@ -45362,7 +45362,50 @@
     "       Players removed from the draw in BRESCIA-125 SINGLES:    \n\n",
     "       1. Darja Semenistaja \n\n",
     "21:14  OOP in BRESCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1170/BRESCIA-125/2026/order-of-play\n\n",
-    "21:14  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n"
+    "21:14  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n",
+    "17:16  change in NOTTINGHAM SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/draws\n\n       Players added to the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       1. Anna Bondar \n",
+    "          Bondar, A\n\n",
+    "       Players removed from the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       1. Emma Raducanu \n\n",
+    "17:16  change in NOTTINGHAM DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/draws\n\n",
+    "       Players added to the draw in NOTTINGHAM DOUBLES:    \n\n",
+    "       1. Alicia Dudeney / Mimi Xu \n",
+    "          Dudeney, A/Xu, M\n\n",
+    "       2. Leylah Fernandez / Yuliia Starodubtseva \n",
+    "          Fernandez, L/Starodubtseva, Y\n\n",
+    "       Players removed from the draw in NOTTINGHAM DOUBLES:    \n\n",
+    "       1. Alicia Dudeney / Mingge Xu \n\n",
+    "17:16  change in NOTTINGHAM QUALS \u2605   \n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/draws\n\n       Players added to the draw in NOTTINGHAM QUALS:    \n\n",
+    "       1. Mimi Xu \n",
+    "          Xu, M\n\n",
+    "       Players removed from the draw in NOTTINGHAM QUALS:    \n\n",
+    "       1. Mingge Xu \n\n",
+    "17:16  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/order-of-play\n\n",
+    "17:16  change in BRESCIA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1170/BRESCIA-125/2026/draws\n\n",
+    "       Players added to the draw in BRESCIA-125 SINGLES:    \n\n",
+    "       1. Noemi Basiletti \n",
+    "          Basiletti, N\n\n",
+    "       2. Chloe Paquet \n",
+    "          Paquet, C\n\n",
+    "       3. Mia Ristic \n",
+    "          Ristic, M\n\n",
+    "       4. Deborah Chiesa \n",
+    "          Chiesa, D\n\n",
+    "       5. Jennifer Ruggeri \n",
+    "          Ruggeri, J\n\n",
+    "17:16  OOP in BRESCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1170/BRESCIA-125/2026/order-of-play\n\n",
+    "17:16  change in FIGUEIRA-DA-FOZ-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1177/FIGUEIRA-DA-FOZ-125/2026/draws\n\n",
+    "       Players added to the draw in FIGUEIRA-DA-FOZ-125 SINGLES:    \n\n",
+    "       1. Angelina Voloshchuk \n",
+    "          Voloshchuk, A\n\n",
+    "       2. Anastasia Kulikova \n",
+    "          Kulikova, A\n\n",
+    "       3. Allura Zamarripa \n",
+    "          Zamarripa, A\n\n",
+    "       4. Valentina Ryser \n",
+    "          Ryser, V\n\n",
+    "17:16  OOP in FIGUEIRA-DA-FOZ-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1177/FIGUEIRA-DA-FOZ-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -47035,7 +47078,7 @@
             "Yulia Putintseva",
             "Panna Udvardy",
             "Katie Volynets",
-            "Mingge Xu",
+            "Mimi Xu",
             "Kimberly Birrell",
             "Daria Kasatkina",
             "Anna Blinkova",
@@ -47057,7 +47100,7 @@
         32,
         {
           "players": [
-            "Emma Raducanu",
+            "Sara Bejlek",
             "Karolina Pliskova",
             "Caty McNally",
             "Antonia Ruzic",
@@ -47079,7 +47122,7 @@
             "Jessica Bouzas Maneiro",
             "Maya Joint",
             "Yuliia Starodubtseva",
-            "Sara Bejlek",
+            "Anna Bondar",
             "Emma Navarro",
             "Ann Li",
             "Kimberly Birrell",
@@ -47094,11 +47137,11 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Storm Hunter / Caty McNally",
-            "Alicia Dudeney / Mingge Xu",
+            "Alicia Dudeney / Mimi Xu",
             "Harriet Dart / Maia Lumsden",
             "Darija Jurak Schreiber / Antonia Ruzic",
             "Aldila Sutjiadi / Janice Tjen",
@@ -47109,6 +47152,7 @@
             "Elena Pridankina / Qianhui Tang",
             "Alexa Guarachi / Alicja Rosolska",
             "Marie Bouzkova / Alexandra Panova",
+            "Leylah Fernandez / Yuliia Starodubtseva",
             "Eri Hozumi / Fang-Hsien Wu",
             "Eudice Chong / Magali Kempen",
             "Shuko Aoyama / Hao-Ching Chan"
@@ -47129,7 +47173,7 @@
           "players": []
         }
       ],
-      "2026-06-15"
+      "2026-06-16"
     ],
     "BERLIN": [
       [
@@ -58743,7 +58787,7 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Xiyu Wang",
@@ -58751,9 +58795,11 @@
             "Carole Monnet",
             "Martina Trevisan",
             "Darya Astakhova",
+            "Noemi Basiletti",
             "Alessandra Mazzola",
             "Luisina Giovannini",
             "Julia Grabher",
+            "Chloe Paquet",
             "Kathinka Von Deichmann",
             "Anastasiia Sobolieva",
             "Danka Kovinic",
@@ -58762,6 +58808,9 @@
             "Xiaodi You",
             "Tiantsoa Rakotomanga Rajaonah",
             "Yuliana Lizarazo",
+            "Mia Ristic",
+            "Deborah Chiesa",
+            "Jennifer Ruggeri",
             "Elena Ruxandra Bertea",
             "Raluka Serban",
             "Mayar Sherif",
@@ -58814,7 +58863,7 @@
           "players": []
         }
       ],
-      "2026-06-15"
+      "2026-06-16"
     ],
     "FIGUEIRA-DA-FOZ-125": [
       [
@@ -58843,7 +58892,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Alina Korneeva",
@@ -58855,6 +58904,7 @@
             "Yeonwoo Ku",
             "Lucrezia Stefanini",
             "Darja Vidmanova",
+            "Angelina Voloshchuk",
             "Elena Micic",
             "Francisca Jorge",
             "Carolyn Ansari",
@@ -58865,11 +58915,14 @@
             "Vera Zvonareva",
             "Katarina Kuzmova",
             "Viktoria Morvayova",
+            "Anastasia Kulikova",
             "Mai Hontama",
             "Manon Leonard",
             "Alina Charaeva",
             "Jeline Vandromme",
+            "Allura Zamarripa",
             "Kristina Mladenovic",
+            "Valentina Ryser",
             "Ayla Aksu",
             "Ana Sofia S\u00e1nchez",
             "Sachia Vickery",
@@ -58903,7 +58956,7 @@
           "players": []
         }
       ],
-      "2026-06-15"
+      "2026-06-16"
     ]
   },
   "torns": [
