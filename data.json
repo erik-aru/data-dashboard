@@ -45426,7 +45426,41 @@
     "          Lamens, S\n\n",
     "       7. Magdalena Frech \n",
     "          Frech, M\n\n",
-    "22:20  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n"
+    "22:20  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n",
+    "16:56  change in NOTTINGHAM SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/draws\n\n",
+    "       Players added to the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       1. Hannah Klugman \n",
+    "          Klugman, H\n\n",
+    "       2. Alicia Dudeney \n",
+    "          Dudeney, A\n\n",
+    "       Players removed from the draw in NOTTINGHAM SINGLES:    \n\n",
+    "       1. Lois Boisson \n\n",
+    "16:56  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/order-of-play\n\n",
+    "16:56  OOP in BRESCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1170/BRESCIA-125/2026/order-of-play\n\n",
+    "16:56  change in FIGUEIRA-DA-FOZ-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1177/FIGUEIRA-DA-FOZ-125/2026/draws\n\n",
+    "       Players added to the draw in FIGUEIRA-DA-FOZ-125 DOUBLES:    \n\n",
+    "       1. Shuo Feng / Momoko Kobori \n",
+    "          Feng, S/Kobori, M\n\n",
+    "       2. Madeleine Brooks / Alana Smith \n",
+    "          Brooks, M/Smith, A\n\n",
+    "       3. Elena Micic / Kristina Mladenovic \n",
+    "          Micic, E/Mladenovic, K\n\n",
+    "       4. Darja Vidmanova / Allura Zamarripa \n",
+    "          Vidmanova, D/Zamarripa, A\n\n",
+    "       5. Anastasia Kulikova / Angelina Voloshchuk \n",
+    "          Kulikova, A/Voloshchuk, A\n\n",
+    "       6. Matilde Jorge / Martyna Kubka \n",
+    "          Jorge, M/Kubka, M\n\n",
+    "       7. Viktoria Hruncakova / Katarina Kuzmova \n",
+    "          Hruncakova, V/Kuzmova, K\n\n",
+    "       8. Rutuja Bhosale / Estelle Cascino \n",
+    "          Bhosale, R/Cascino, E\n\n",
+    "       Players removed from the draw in FIGUEIRA-DA-FOZ-125 DOUBLES:    \n\n",
+    "       1. ANNA SISKOVA / VIKTORIA HRUNCAKOVA \n\n",
+    "       2. MADELEINE BROOKS / ALANA SMITH \n\n",
+    "       3. SHUO FENG / MOMOKO KOBORI \n\n",
+    "       4. MATILDE JORGE / MARTYNA KUBKA \n\n",
+    "16:56  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -47118,7 +47152,7 @@
       ],
       [
         1,
-        31,
+        32,
         {
           "players": [
             "Sara Bejlek",
@@ -47132,7 +47166,8 @@
             "Marie Bouzkova",
             "Tereza Valentova",
             "Harriet Dart",
-            "Lois Boisson",
+            "Hannah Klugman",
+            "Alicia Dudeney",
             "Dayana Yastremska",
             "Tatjana Maria",
             "Janice Tjen",
@@ -47193,7 +47228,7 @@
           "players": []
         }
       ],
-      "2026-06-16"
+      "2026-06-17"
     ],
     "BERLIN": [
       [
@@ -47302,7 +47337,7 @@
           "players": []
         }
       ],
-      "2026-06-16"
+      "2026-06-17"
     ],
     "BAD-HOMBURG": [
       [
@@ -58890,7 +58925,7 @@
           "players": []
         }
       ],
-      "2026-06-16"
+      "2026-06-17"
     ],
     "FIGUEIRA-DA-FOZ-125": [
       [
@@ -58959,13 +58994,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ANNA SISKOVA / VIKTORIA HRUNCAKOVA",
-            "MADELEINE BROOKS / ALANA SMITH",
-            "SHUO FENG / MOMOKO KOBORI",
-            "MATILDE JORGE / MARTYNA KUBKA"
+            "Shuo Feng / Momoko Kobori",
+            "Madeleine Brooks / Alana Smith",
+            "Elena Micic / Kristina Mladenovic",
+            "Darja Vidmanova / Allura Zamarripa",
+            "Anastasia Kulikova / Angelina Voloshchuk",
+            "Matilde Jorge / Martyna Kubka",
+            "Viktoria Hruncakova / Katarina Kuzmova",
+            "Rutuja Bhosale / Estelle Cascino"
           ]
         }
       ],
