@@ -45805,7 +45805,61 @@
     "       13. Angelica Moratelli / Sabrina Santamaria \n\n",
     "       14. Harriet Dart / Maia Lumsden \n\n",
     "       15. Kamilla Rakhimova / Anna Siskova \n\n",
-    "       16. Eri Hozumi / Aldila Sutjiadi \n\n"
+    "       16. Eri Hozumi / Aldila Sutjiadi \n\n",
+    "15:22  OOP in NOTTINGHAM appeared \u2605\n       https://www.wtatennis.com/tournament/1080/NOTTINGHAM/2026/order-of-play\n\n",
+    "15:22  OOP in BRESCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1170/BRESCIA-125/2026/order-of-play\n\n",
+    "15:22  OOP in FIGUEIRA-DA-FOZ-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1177/FIGUEIRA-DA-FOZ-125/2026/order-of-play\n\n",
+    "15:22  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n",
+    "15:22  change in BAD-HOMBURG QUALS \u2605   \n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2026/draws\n\n       Players added to the draw in BAD-HOMBURG QUALS:    \n\n",
+    "       1. Solana Sierra \n",
+    "          Sierra, S\n\n",
+    "       2. Ella Seidel \n",
+    "          Seidel, E\n\n",
+    "       3. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       4. Yulia Putintseva \n",
+    "          Putintseva, Y\n\n",
+    "       5. Diane Parry \n",
+    "          Parry, D\n\n",
+    "       6. Aoi Ito \n",
+    "          Ito, A\n\n",
+    "       7. Irina-Camelia Begu \n",
+    "          Begu, I\n\n",
+    "       8. Tamara Korpatsch \n",
+    "          Korpatsch, T\n\n",
+    "       9. Shuai Zhang \n",
+    "          Zhang, S\n\n",
+    "       10. Elena-Gabriela Ruse \n",
+    "           Ruse, E\n\n",
+    "       11. Martina Trevisan \n",
+    "           Trevisan, M\n\n",
+    "       12. Taylor Townsend \n",
+    "           Townsend, T\n\n",
+    "       13. Renata Zarazua \n",
+    "           Zarazua, R\n\n",
+    "       14. Mariella Thamm \n",
+    "           Thamm, M\n\n",
+    "       15. Paula Badosa \n",
+    "           Badosa, P\n\n",
+    "       16. Sinja Kraus \n",
+    "           Kraus, S\n\n",
+    "       Players removed from the draw in BAD-HOMBURG QUALS:    \n\n",
+    "       1. Ashlyn Krueger \n\n",
+    "       2. Maria Timofeeva \n\n",
+    "       3. Harmony Tan \n\n",
+    "       4. Katerina Siniakova \n\n",
+    "       5. Olga Danilovic \n\n",
+    "       6. Nastasja Schunk \n\n",
+    "       7. Vitalia Diatchenko \n\n",
+    "       8. Yuliia Starodubtseva \n\n",
+    "       9. Veronika Kudermetova \n\n",
+    "       10. Arantxa Rus \n\n",
+    "       11. Caty McNally \n\n",
+    "       12. Victoria Azarenka \n\n",
+    "       13. Eva Lys \n\n",
+    "       14. Ana Konjuh \n\n",
+    "       15. Sorana Cirstea \n\n",
+    "       16. Ajla Tomljanovic \n\n"
   ],
   "sits": {
     "ROME": [
@@ -47573,7 +47627,7 @@
           "players": []
         }
       ],
-      "2026-06-18"
+      "2026-06-19"
     ],
     "BERLIN": [
       [
@@ -47682,7 +47736,7 @@
           "players": []
         }
       ],
-      "2026-06-18"
+      "2026-06-19"
     ],
     "BAD-HOMBURG": [
       [
@@ -47690,22 +47744,22 @@
         16,
         {
           "players": [
-            "Ashlyn Krueger",
-            "Maria Timofeeva",
-            "Harmony Tan",
-            "Katerina Siniakova",
-            "Olga Danilovic",
-            "Nastasja Schunk",
-            "Vitalia Diatchenko",
-            "Yuliia Starodubtseva",
-            "Veronika Kudermetova",
-            "Arantxa Rus",
-            "Caty McNally",
-            "Victoria Azarenka",
-            "Eva Lys",
-            "Ana Konjuh",
-            "Sorana Cirstea",
-            "Ajla Tomljanovic"
+            "Solana Sierra",
+            "Ella Seidel",
+            "Anna Blinkova",
+            "Yulia Putintseva",
+            "Diane Parry",
+            "Aoi Ito",
+            "Irina-Camelia Begu",
+            "Tamara Korpatsch",
+            "Shuai Zhang",
+            "Elena-Gabriela Ruse",
+            "Martina Trevisan",
+            "Taylor Townsend",
+            "Renata Zarazua",
+            "Mariella Thamm",
+            "Paula Badosa",
+            "Sinja Kraus"
           ]
         }
       ],
@@ -59274,7 +59328,7 @@
           "players": []
         }
       ],
-      "2026-06-18"
+      "2026-06-19"
     ],
     "FIGUEIRA-DA-FOZ-125": [
       [
@@ -59371,7 +59425,7 @@
           "players": []
         }
       ],
-      "2026-06-18"
+      "2026-06-19"
     ]
   },
   "torns": [
@@ -59400,5 +59454,5 @@
       710
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
