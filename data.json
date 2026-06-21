@@ -46225,7 +46225,36 @@
     "14:14  change in EASTBOURNE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/draws\n\n",
     "       Players added to the draw in EASTBOURNE SINGLES:    \n\n",
     "       Players removed from the draw in EASTBOURNE SINGLES:    \n\n",
-    "       1. Viktorija Golubic \n\n"
+    "       1. Viktorija Golubic \n\n",
+    "21:16  OOP in BERLIN appeared \u2605\n       https://www.wtatennis.com/tournament/2012/BERLIN/2026/order-of-play\n\n",
+    "21:16  change in BAD-HOMBURG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2026/draws\n\n",
+    "       Players added to the draw in BAD-HOMBURG SINGLES:    \n\n",
+    "       1. Sinja Kraus \n",
+    "          Kraus, S\n\n",
+    "       2. Elena-Gabriela Ruse \n",
+    "          Ruse, E\n\n",
+    "       3. Irina-Camelia Begu \n",
+    "          Begu, I\n\n",
+    "       4. Solana Sierra \n",
+    "          Sierra, S\n\n",
+    "21:16  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2026/order-of-play\n\n",
+    "21:16  change in EASTBOURNE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/draws\n\n",
+    "       Players added to the draw in EASTBOURNE SINGLES:    \n\n",
+    "       1. Anastasia Zakharova \n",
+    "          Zakharova, A\n\n",
+    "       2. Ajla Tomljanovic \n",
+    "          Tomljanovic, A\n\n",
+    "       3. Zeynep Sonmez \n",
+    "          Sonmez, Z\n\n",
+    "       4. Emiliana Arango \n",
+    "          Arango, E\n\n",
+    "       5. Petra Marcinko \n",
+    "          Marcinko, P\n\n",
+    "       6. Kimberly Birrell \n",
+    "          Birrell, K\n\n",
+    "       7. Daria Snigur \n",
+    "          Snigur, D\n\n",
+    "21:16  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -48102,7 +48131,7 @@
           "players": []
         }
       ],
-      "2026-06-21"
+      "2026-06-22"
     ],
     "BAD-HOMBURG": [
       [
@@ -48131,16 +48160,20 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Iga Swiatek",
             "Eva Lys",
             "Emma Navarro",
+            "Sinja Kraus",
             "Anna Kalinskaya",
+            "Elena-Gabriela Ruse",
             "Linda Noskova",
             "Karolina Muchova",
             "Venus Williams",
+            "Irina-Camelia Begu",
+            "Solana Sierra",
             "Qinwen Zheng",
             "Clara Tauson",
             "Diana Shnaider",
@@ -48199,7 +48232,7 @@
           "players": []
         }
       ],
-      "2026-06-21"
+      "2026-06-22"
     ],
     "EASTBOURNE": [
       [
@@ -48236,29 +48269,36 @@
       ],
       [
         1,
-        25,
+        32,
         {
           "players": [
             "Jasmine Paolini",
             "Tatjana Maria",
             "Yuliia Starodubtseva",
+            "Anastasia Zakharova",
             "Hannah Klugman",
             "Tereza Valentova",
+            "Ajla Tomljanovic",
             "Elisabetta Cocciaretto",
             "Jelena Ostapenko",
             "Francesca Jones",
             "Panna Udvardy",
             "Anna Bondar",
+            "Zeynep Sonmez",
             "Harriet Dart",
             "Sara Bejlek",
             "Laura Siegemund",
             "Janice Tjen",
             "Caty McNally",
             "Maya Joint",
+            "Emiliana Arango",
             "Antonia Ruzic",
+            "Petra Marcinko",
+            "Kimberly Birrell",
             "Barbora Krejcikova",
             "McCartney Kessler",
             "Daria Kasatkina",
+            "Daria Snigur",
             "Anhelina Kalinina",
             "Alicia Dudeney",
             "Jessica Bouzas Maneiro",
@@ -48305,7 +48345,7 @@
           "players": []
         }
       ],
-      "2026-06-21"
+      "2026-06-22"
     ],
     "WIMBLEDON": [
       [
