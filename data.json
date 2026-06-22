@@ -1,93 +1,5 @@
 {
   "kuits": {
-    "NOTTINGHAM": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "BRESCIA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "FIGUEIRA-DA-FOZ-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "BERLIN": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "BAD-HOMBURG": [
       [
         0,
@@ -46254,7 +46166,12 @@
     "          Birrell, K\n\n",
     "       7. Daria Snigur \n",
     "          Snigur, D\n\n",
-    "21:16  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n"
+    "21:16  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n",
+    "09:48  change in BAD-HOMBURG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2026/draws\n\n       Players added to the draw in BAD-HOMBURG SINGLES:    \n\n",
+    "       1. Renata Zarazua \n",
+    "          Zarazua, R\n\n",
+    "       Players removed from the draw in BAD-HOMBURG SINGLES:    \n\n",
+    "       1. Iva Jovic \n\n"
   ],
   "sits": {
     "ROME": [
@@ -48177,7 +48094,7 @@
             "Qinwen Zheng",
             "Clara Tauson",
             "Diana Shnaider",
-            "Iva Jovic",
+            "Renata Zarazua",
             "Xinyu Wang",
             "Katie Boulter",
             "Leylah Fernandez",
@@ -59821,22 +59738,6 @@
   },
   "torns": [
     [
-      "NOTTINGHAM",
-      1080
-    ],
-    [
-      "BRESCIA-125",
-      1170
-    ],
-    [
-      "FIGUEIRA-DA-FOZ-125",
-      1177
-    ],
-    [
-      "BERLIN",
-      2012
-    ],
-    [
       "BAD-HOMBURG",
       2017
     ],
@@ -59845,5 +59746,5 @@
       710
     ]
   ],
-  "old_day": 21
+  "old_day": 22
 }
