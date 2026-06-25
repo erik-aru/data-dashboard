@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "WIMBLEDON": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -46182,7 +46204,8 @@
     "       1. Darija Jurak Schreiber / Antonia Ruzic \n\n",
     "21:43  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n",
     "21:23  OOP in BAD-HOMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2017/BAD-HOMBURG/2026/order-of-play\n\n",
-    "21:23  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n"
+    "21:23  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n",
+    "07:45  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -48505,7 +48528,7 @@
           "players": []
         }
       ],
-      "2025-07-13"
+      "2026-06-25"
     ],
     "NEWPORT-125": [
       [
@@ -59755,7 +59778,11 @@
     [
       "EASTBOURNE",
       710
+    ],
+    [
+      "WIMBLEDON",
+      904
     ]
   ],
-  "old_day": 24
+  "old_day": 25
 }
