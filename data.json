@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "BAD-HOMBURG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "EASTBOURNE": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "WIMBLEDON": [
       [
         0,
@@ -46517,7 +46473,8 @@
     "       56. Gabriela Dabrowski / Erin Routliffe \n\n",
     "       57. Xinyu Wang / Saisai Zheng \n\n",
     "21:20  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n",
-    "21:05  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n"
+    "21:05  OOP in EASTBOURNE appeared \u2605\n       https://www.wtatennis.com/tournament/710/EASTBOURNE/2026/order-of-play\n\n",
+    "07:52  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -48840,7 +48797,7 @@
           "players": []
         }
       ],
-      "2026-06-25"
+      "2026-06-29"
     ],
     "NEWPORT-125": [
       [
@@ -60084,17 +60041,9 @@
   },
   "torns": [
     [
-      "BAD-HOMBURG",
-      2017
-    ],
-    [
-      "EASTBOURNE",
-      710
-    ],
-    [
       "WIMBLEDON",
       904
     ]
   ],
-  "old_day": 27
+  "old_day": 28
 }
