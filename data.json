@@ -47027,7 +47027,32 @@
     "       12. Ekaterina Kazionova \n\n",
     "       13. Sarah Iliev \n\n",
     "       14. Caroline Werner \n\n",
-    "20:59  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n"
+    "20:59  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n",
+    "07:27  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n",
+    "07:27  change in NEWPORT-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/draws\n\n       Players added to the draw in NEWPORT-125 QUALS:    \n\n",
+    "       1. Momoko Kobori \n",
+    "          Kobori, M\n\n",
+    "       2. Mary Lewis \n",
+    "          Lewis, M\n\n",
+    "       3. Sahaja Yamalapalli \n",
+    "          Yamalapalli, S\n\n",
+    "       4. Ekaterina Ovcharenko \n",
+    "          Ovcharenko, E\n\n",
+    "       5. Sydney Jara \n",
+    "          Jara, S\n\n",
+    "       6. Ariana Arseneault \n",
+    "          Arseneault, A\n\n",
+    "       7. Victoria Osuigwe \n",
+    "          Osuigwe, V\n\n",
+    "       Players removed from the draw in NEWPORT-125 QUALS:    \n\n",
+    "       1. Gabriela Lee \n\n",
+    "       2. Haley Giavara \n\n",
+    "       3. Petra Hule \n\n",
+    "       4. Makenna Jones \n\n",
+    "       5. Victoria Hu \n\n",
+    "       6. Olivia Lincer \n\n",
+    "       7. Anna Frey \n\n",
+    "07:27  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -49350,7 +49375,7 @@
           "players": []
         }
       ],
-      "2026-07-05"
+      "2026-07-06"
     ],
     "NEWPORT-125": [
       [
@@ -49358,14 +49383,14 @@
         8,
         {
           "players": [
-            "Gabriela Lee",
-            "Haley Giavara",
-            "Petra Hule",
-            "Makenna Jones",
+            "Momoko Kobori",
+            "Mary Lewis",
+            "Sahaja Yamalapalli",
+            "Ekaterina Ovcharenko",
             "Alana Smith",
-            "Victoria Hu",
-            "Olivia Lincer",
-            "Anna Frey"
+            "Sydney Jara",
+            "Ariana Arseneault",
+            "Victoria Osuigwe"
           ]
         }
       ],
@@ -49440,7 +49465,7 @@
           "players": []
         }
       ],
-      "2025-07-13"
+      "2026-07-05"
     ],
     "BASTAD-125": [
       [
@@ -60595,5 +60620,5 @@
       2071
     ]
   ],
-  "old_day": 4
+  "old_day": 5
 }
