@@ -47424,7 +47424,19 @@
     "       27. KAITLIN QUEVEDO \n\n",
     "       28. TYRA CATERINA GRANT \n\n",
     "21:02  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2026/order-of-play\n\n",
-    "21:02  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n"
+    "21:02  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n",
+    "08:21  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n",
+    "08:21  NEWPORT-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/draws\n\n",
+    "       Players added to the draw in NEWPORT-125 SINGLES:    \n\n",
+    "       1. Ariana Arseneault \n",
+    "          Arseneault, A\n\n",
+    "       2. Alana Smith \n",
+    "          Smith, A\n\n",
+    "       3. Momoko Kobori \n",
+    "          Kobori, M\n\n",
+    "       4. Sahaja Yamalapalli \n",
+    "          Yamalapalli, S\n\n",
+    "08:21  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -49747,7 +49759,7 @@
           "players": []
         }
       ],
-      "2026-07-06"
+      "2026-07-07"
     ],
     "NEWPORT-125": [
       [
@@ -49768,7 +49780,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Darja Vidmanova",
@@ -49780,9 +49792,12 @@
             "Sayaka Ishii",
             "Kayla Cross",
             "Katie Volynets",
+            "Ariana Arseneault",
             "Kylie Collins",
+            "Alana Smith",
             "Sachia Vickery",
             "Reese Brantmeier",
+            "Momoko Kobori",
             "Elizabeth Mandlik",
             "Mananchaya Sawangkaew",
             "Caroline Dolehide",
@@ -49794,6 +49809,7 @@
             "Mary Stoiana",
             "Lucrezia Stefanini",
             "Carol Zhao",
+            "Sahaja Yamalapalli",
             "Anna Rogers",
             "Katherine Sebov",
             "Cadence Brace",
@@ -49839,7 +49855,7 @@
           "players": []
         }
       ],
-      "2026-07-05"
+      "2026-07-06"
     ],
     "BASTAD-125": [
       [
@@ -60994,5 +61010,5 @@
       2071
     ]
   ],
-  "old_day": 5
+  "old_day": 6
 }
