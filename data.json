@@ -47436,7 +47436,19 @@
     "          Kobori, M\n\n",
     "       4. Sahaja Yamalapalli \n",
     "          Yamalapalli, S\n\n",
-    "08:21  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n"
+    "08:21  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n",
+    "15:36  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2026/order-of-play\n\n",
+    "15:36  change in CONTREXEVILLE-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/draws\n\n",
+    "       Players added to the draw in CONTREXEVILLE-125 SINGLES:    \n\n",
+    "       1. Alicia Herrero Linana \n",
+    "          Herrero Linana, A\n\n",
+    "       2. Amandine Monnot \n",
+    "          Monnot, A\n\n",
+    "       3. Diana Martynov \n",
+    "          Martynov, D\n\n",
+    "       4. Yelyzaveta Kotliar \n",
+    "          Kotliar, Y\n\n",
+    "15:36  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -49943,7 +49955,7 @@
           "players": []
         }
       ],
-      "2026-07-06"
+      "2026-07-07"
     ],
     "CONTREXEVILLE-125": [
       [
@@ -49972,18 +49984,20 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Petra Marcinko",
             "Clara Burel",
             "Elina Avanesyan",
+            "Alicia Herrero Linana",
             "Amandine Hesse",
             "Barbora Palicova",
             "Yasmine Kabbaj",
             "Mayar Sherif",
             "Francesca Jones",
             "Alice Rame",
+            "Amandine Monnot",
             "Leolia Jeanjean",
             "Alice Tubello",
             "Yufei Ren",
@@ -49994,6 +50008,8 @@
             "Francesca Curmi",
             "Oceane Dodin",
             "Jeline Vandromme",
+            "Diana Martynov",
+            "Yelyzaveta Kotliar",
             "Oksana Selekhmeteva",
             "Anna Blinkova",
             "Erika Andreeva",
@@ -50032,7 +50048,7 @@
           "players": []
         }
       ],
-      "2026-07-06"
+      "2026-07-07"
     ],
     "ROME-125": [
       [
