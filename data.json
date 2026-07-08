@@ -47454,7 +47454,28 @@
     "14:38  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n",
     "21:25  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n",
     "21:25  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2026/order-of-play\n\n",
-    "06:29  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n"
+    "06:29  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n",
+    "14:12  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2026/order-of-play\n\n",
+    "14:12  change in CONTREXEVILLE-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/draws\n\n",
+    "       Players added to the draw in CONTREXEVILLE-125 DOUBLES:    \n\n",
+    "       1. Yvonne Cavalle-Reimers / Laura Pigossi \n",
+    "          Cavalle-Reimers, Y/Pigossi, L\n\n",
+    "       2. Michaela Bayerlova / Shuo Feng \n",
+    "          Bayerlova, M/Feng, S\n\n",
+    "       3. Alicia Herrero Linana / Alexandra Osborne \n",
+    "          Herrero Linana, A/Osborne, A\n\n",
+    "       4. Irina Bara / Madeleine Brooks \n",
+    "          Bara, I/Brooks, M\n\n",
+    "       5. Maria Lourdes Carle / Oksana Selekhmeteva \n",
+    "          Carle, M/Selekhmeteva, O\n\n",
+    "       6. Estelle Cascino / Nicole Fossa Huergo \n",
+    "          Cascino, E/Fossa Huergo, N\n\n",
+    "       Players removed from the draw in CONTREXEVILLE-125 DOUBLES:    \n\n",
+    "       1. YVONNE CAVALLE-REIMERS / LAURA PIGOSSI \n\n",
+    "       2. ESTELLE CASCINO / NICOLE FOSSA HUERGO \n\n",
+    "       3. MADELEINE BROOKS / IRINA BARA \n\n",
+    "       4. SHUO FENG / DOMINIKA SALKOVA \n\n",
+    "14:12  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -49961,7 +49982,7 @@
           "players": []
         }
       ],
-      "2026-07-08"
+      "2026-07-09"
     ],
     "CONTREXEVILLE-125": [
       [
@@ -50030,13 +50051,15 @@
       ],
       [
         2,
-        4,
+        6,
         {
           "players": [
-            "YVONNE CAVALLE-REIMERS / LAURA PIGOSSI",
-            "ESTELLE CASCINO / NICOLE FOSSA HUERGO",
-            "MADELEINE BROOKS / IRINA BARA",
-            "SHUO FENG / DOMINIKA SALKOVA"
+            "Yvonne Cavalle-Reimers / Laura Pigossi",
+            "Michaela Bayerlova / Shuo Feng",
+            "Alicia Herrero Linana / Alexandra Osborne",
+            "Irina Bara / Madeleine Brooks",
+            "Maria Lourdes Carle / Oksana Selekhmeteva",
+            "Estelle Cascino / Nicole Fossa Huergo"
           ]
         }
       ],
@@ -50054,7 +50077,7 @@
           "players": []
         }
       ],
-      "2026-07-08"
+      "2026-07-09"
     ],
     "ROME-125": [
       [
