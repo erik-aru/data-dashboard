@@ -48129,7 +48129,9 @@
     "       15. Amina Anshba / Aliona Bolsova \n\n",
     "       16. Quinn Gleason / Ingrid Martins \n\n",
     "15:12  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2026/order-of-play\n\n",
-    "15:12  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n"
+    "15:12  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n",
+    "07:37  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n",
+    "07:37  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -50452,7 +50454,7 @@
           "players": []
         }
       ],
-      "2026-07-10"
+      "2026-07-11"
     ],
     "NEWPORT-125": [
       [
@@ -50548,7 +50550,7 @@
           "players": []
         }
       ],
-      "2026-07-09"
+      "2026-07-10"
     ],
     "BASTAD-125": [
       [
@@ -61975,5 +61977,5 @@
       2063
     ]
   ],
-  "old_day": 9
+  "old_day": 10
 }
