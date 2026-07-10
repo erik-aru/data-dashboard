@@ -48132,7 +48132,54 @@
     "15:12  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n",
     "07:37  OOP in WIMBLEDON appeared \u2605\n       https://www.wtatennis.com/tournament/904/WIMBLEDON/2026/order-of-play\n\n",
     "07:37  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n",
-    "14:29  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2026/order-of-play\n\n"
+    "14:29  OOP in BASTAD-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2003/BASTAD-125/2026/order-of-play\n\n",
+    "21:06  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n",
+    "21:06  OOP in CONTREXEVILLE-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2071/CONTREXEVILLE-125/2026/order-of-play\n\n",
+    "21:06  NEW draw in ATHENS QUALS \u2605    \n       https://www.wtatennis.com/tournament/1175/ATHENS/2026/draws\n\n",
+    "       Players added to the draw in ATHENS QUALS:    \n\n",
+    "       1. Lilli Tagger \n",
+    "          Tagger, L\n\n",
+    "       2. Artemis Aslanisvili \n",
+    "          Aslanisvili, A\n\n",
+    "       3. Madison Sieg \n",
+    "          Sieg, M\n\n",
+    "       4. Aoi Ito \n",
+    "          Ito, A\n\n",
+    "       5. Eleni Tsetsou \n",
+    "          Tsetsou, E\n\n",
+    "       6. Yasmine Mansouri \n",
+    "          Mansouri, Y\n\n",
+    "       7. Nao Hibino \n",
+    "          Hibino, N\n\n",
+    "       8. Maria Rentoumi \n",
+    "          Rentoumi, M\n\n",
+    "       9. Miriana Tona \n",
+    "          Tona, M\n\n",
+    "       10. Viktoria Morvayova \n",
+    "           Morvayova, V\n\n",
+    "       11. Franziska Sziedat \n",
+    "           Sziedat, F\n\n",
+    "       12. Qianhui Tang \n",
+    "           Tang, Q\n\n",
+    "       13. Elina Nepliy \n",
+    "           Nepliy, E\n\n",
+    "       14. Elena Micic \n",
+    "           Micic, E\n\n",
+    "       15. Makoto Ninomiya \n",
+    "           Ninomiya, M\n\n",
+    "       16. Alexandra Panagiotidou \n",
+    "           Panagiotidou, A\n\n",
+    "       17. Anastasia Kulikova \n",
+    "           Kulikova, A\n\n",
+    "       18. Mina Hodzic \n",
+    "           Hodzic, M\n\n",
+    "       19. Hao-Ching Chan \n",
+    "           Chan, H\n\n",
+    "       20. Ekaterina Yashina \n",
+    "           Yashina, E\n\n",
+    "       21. Lina Glushko \n",
+    "           Glushko, L\n\n",
+    "21:06  OOP in ATHENS appeared \u2605\n       https://www.wtatennis.com/tournament/1175/ATHENS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -50551,7 +50598,7 @@
           "players": []
         }
       ],
-      "2026-07-10"
+      "2026-07-11"
     ],
     "BASTAD-125": [
       [
@@ -50734,7 +50781,7 @@
           "players": []
         }
       ],
-      "2026-07-10"
+      "2026-07-11"
     ],
     "ROME-125": [
       [
@@ -61850,9 +61897,31 @@
     "ATHENS": [
       [
         0,
-        0,
+        21,
         {
-          "players": []
+          "players": [
+            "Lilli Tagger",
+            "Artemis Aslanisvili",
+            "Madison Sieg",
+            "Aoi Ito",
+            "Eleni Tsetsou",
+            "Yasmine Mansouri",
+            "Nao Hibino",
+            "Maria Rentoumi",
+            "Miriana Tona",
+            "Viktoria Morvayova",
+            "Franziska Sziedat",
+            "Qianhui Tang",
+            "Elina Nepliy",
+            "Elena Micic",
+            "Makoto Ninomiya",
+            "Alexandra Panagiotidou",
+            "Anastasia Kulikova",
+            "Mina Hodzic",
+            "Hao-Ching Chan",
+            "Ekaterina Yashina",
+            "Lina Glushko"
+          ]
         }
       ],
       [
@@ -61937,7 +62006,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-07-11"
     ]
   },
   "torns": [
