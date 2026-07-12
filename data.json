@@ -44,28 +44,6 @@
         "none"
       ]
     ],
-    "BASTAD-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CONTREXEVILLE-125": [
       [
         0,
@@ -48610,7 +48588,8 @@
     "       20. Irene Burillo \n\n",
     "       21. Tina Smith \n\n",
     "       22. Mia Ristic \n\n",
-    "20:50  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2026/order-of-play\n\n"
+    "20:50  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2026/order-of-play\n\n",
+    "06:33  OOP in NEWPORT-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1123/NEWPORT-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -51029,7 +51008,7 @@
           "players": []
         }
       ],
-      "2026-07-11"
+      "2026-07-12"
     ],
     "BASTAD-125": [
       [
@@ -62456,10 +62435,6 @@
       1123
     ],
     [
-      "BASTAD-125",
-      2003
-    ],
-    [
       "CONTREXEVILLE-125",
       2071
     ],
@@ -62484,5 +62459,5 @@
       2063
     ]
   ],
-  "old_day": 11
+  "old_day": 12
 }
