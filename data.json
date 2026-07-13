@@ -48912,7 +48912,45 @@
     "       3. Alessandra Mazzola \n",
     "          Mazzola, A\n\n",
     "       4. Noemi Basiletti \n",
-    "          Basiletti, N\n\n"
+    "          Basiletti, N\n\n",
+    "14:37  change in KITZBHUEL-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1162/KITZBHUEL-125/2026/draws\n\n       Players added to the draw in KITZBHUEL-125 SINGLES:    \n\n",
+    "       1. Barbora Palicova \n",
+    "          Palicova, B\n\n",
+    "       Players removed from the draw in KITZBHUEL-125 SINGLES:    \n\n",
+    "       1. Tatjana Maria \n\n",
+    "14:37  OOP in KITZBHUEL-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1162/KITZBHUEL-125/2026/order-of-play\n\n",
+    "14:37  change in ISTANBUL-125-#2 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1172/ISTANBUL-125-#2/2026/draws\n\n",
+    "       Players added to the draw in ISTANBUL-125-#2 SINGLES:    \n\n",
+    "       1. Isabella Shinikova \n",
+    "          Shinikova, I\n\n",
+    "       2. Daria Khomutsianskaya \n",
+    "          Khomutsianskaya, D\n\n",
+    "       3. Priska Nugroho \n",
+    "          Nugroho, P\n\n",
+    "       4. Weronika Falkowska \n",
+    "          Falkowska, W\n\n",
+    "14:37  OOP in ISTANBUL-125-#2 appeared \u2605\n       https://www.wtatennis.com/tournament/1172/ISTANBUL-125-#2/2026/order-of-play\n\n",
+    "14:37  change in IASI SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2063/IASI/2026/draws\n\n",
+    "       Players added to the draw in IASI SINGLES:    \n\n",
+    "       1. Claire Liu \n",
+    "          Liu, C\n\n",
+    "       2. Ipek Oz \n",
+    "          Oz, I\n\n",
+    "       3. Elena Pridankina \n",
+    "          Pridankina, E\n\n",
+    "       4. Varvara Lepchenko \n",
+    "          Lepchenko, V\n\n",
+    "       5. Ilinca Amariei \n",
+    "          Amariei, I\n\n",
+    "       6. Leyre Romero Gormaz \n",
+    "          Romero Gormaz, L\n\n",
+    "       7. Alevtina Ibragimova \n",
+    "          Ibragimova, A\n\n",
+    "       8. Elina Avanesyan \n",
+    "          Avanesyan, E\n\n",
+    "       Players removed from the draw in IASI SINGLES:    \n\n",
+    "       1. Jaqueline Cristian \n\n",
+    "       2. Leolia Jeanjean \n\n"
   ],
   "sits": {
     "ROME": [
@@ -51853,11 +51891,11 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
-            "Jaqueline Cristian",
-            "Leolia Jeanjean",
+            "Yulia Putintseva",
+            "Claire Liu",
             "Alina Charaeva",
             "Victoria Jimenez Kasintseva",
             "Mayar Sherif",
@@ -51865,20 +51903,26 @@
             "Kaitlin Quevedo",
             "Elena-Gabriela Ruse",
             "Oleksandra Oliynykova",
+            "Ipek Oz",
             "Miriam Bulgaru",
+            "Elena Pridankina",
             "Clara Burel",
-            "Yulia Putintseva",
+            "Varvara Lepchenko",
+            "Ilinca Amariei",
             "Elsa Jacquemot",
             "Panna Udvardy",
+            "Leyre Romero Gormaz",
             "Katarzyna Kawa",
             "Simona Waltert",
             "Dominika Salkova",
+            "Alevtina Ibragimova",
             "Paula Badosa",
             "Anhelina Kalinina",
             "Anna Bondar",
             "Sara Sorribes Tormo",
             "Emiliana Arango",
             "Tamara Zidansek",
+            "Elina Avanesyan",
             "Moyuka Uchijima",
             "Nadia Podoroska",
             "Petra Marcinko"
@@ -62508,7 +62552,7 @@
             "Maria Lourdes Carle",
             "Kathinka Von Deichmann",
             "Martina Colmegna",
-            "Tatjana Maria",
+            "Barbora Palicova",
             "Despina Papamichail",
             "Erika Andreeva",
             "Mia Ristic",
@@ -62550,7 +62594,7 @@
           "players": []
         }
       ],
-      "2026-07-13"
+      "2026-07-14"
     ],
     "ISTANBUL-125-#2": [
       [
@@ -62579,17 +62623,21 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Anastasia Zakharova",
             "Mariia Tkacheva",
             "Alexandra Shubladze",
+            "Isabella Shinikova",
+            "Daria Khomutsianskaya",
+            "Priska Nugroho",
             "Zhuoxuan Bai",
             "Tatiana Prozorova",
             "Hanne Vandewinkel",
             "Carol Young Suh Lee",
             "Deniz Dilek",
+            "Weronika Falkowska",
             "Harmony Tan",
             "Lucie Havlickova",
             "Anastasia Gasanova",
@@ -62650,7 +62698,7 @@
           "players": []
         }
       ],
-      "2026-07-13"
+      "2026-07-14"
     ],
     "ATHENS": [
       [
