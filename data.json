@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "WIMBLEDON": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "NEWPORT-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "CONTREXEVILLE-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "ROME-125": [
       [
         0,
@@ -48968,7 +48902,17 @@
     "       Players removed from the draw in ATHENS SINGLES:    \n\n",
     "       1. Ajla Tomljanovic \n\n",
     "20:51  OOP in ATHENS appeared \u2605\n       https://www.wtatennis.com/tournament/1175/ATHENS/2026/order-of-play\n\n",
-    "20:51  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2026/order-of-play\n\n"
+    "20:51  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2026/order-of-play\n\n",
+    "06:54  ROME-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1130/ROME-125/2026/draws\n\n",
+    "       Players added to the draw in ROME-125 SINGLES:    \n\n",
+    "       1. Elena Malygina \n",
+    "          Malygina, E\n\n",
+    "       2. Yelyzaveta Kotliar \n",
+    "          Kotliar, Y\n\n",
+    "       3. Alessandra Mazzola \n",
+    "          Mazzola, A\n\n",
+    "       4. Noemi Basiletti \n",
+    "          Basiletti, N\n\n"
   ],
   "sits": {
     "ROME": [
@@ -51591,18 +51535,20 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Oksana Selekhmeteva",
             "Elizara Yaneva",
             "Sofya Lansere",
+            "Elena Malygina",
             "Fiona Ferro",
             "Aurora Zantedeschi",
             "Martina Trevisan",
             "Tyra Caterina Grant",
             "Francesca Jones",
             "Dalila Spiteri",
+            "Yelyzaveta Kotliar",
             "Federica Urgesi",
             "Kajsa Rinaldo Persson",
             "Darya Astakhova",
@@ -51614,12 +51560,14 @@
             "Deborah Chiesa",
             "Teodora Kostovic",
             "Jennifer Ruggeri",
+            "Alessandra Mazzola",
             "Lucia Bronzetti",
             "Nuria Brancaccio",
             "Jessica Pieri",
             "Francesca Pace",
             "Eva Vedder",
             "Danka Kovinic",
+            "Noemi Basiletti",
             "Julia Riera",
             "Darja Semenistaja"
           ]
@@ -62817,18 +62765,6 @@
   },
   "torns": [
     [
-      "WIMBLEDON",
-      904
-    ],
-    [
-      "NEWPORT-125",
-      1123
-    ],
-    [
-      "CONTREXEVILLE-125",
-      2071
-    ],
-    [
       "ROME-125",
       1130
     ],
@@ -62849,5 +62785,5 @@
       2063
     ]
   ],
-  "old_day": 12
+  "old_day": 13
 }
