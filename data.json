@@ -48953,7 +48953,30 @@
     "       2. Leolia Jeanjean \n\n",
     "20:57  OOP in ROME-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1130/ROME-125/2026/order-of-play\n\n",
     "20:57  OOP in ATHENS appeared \u2605\n       https://www.wtatennis.com/tournament/1175/ATHENS/2026/order-of-play\n\n",
-    "20:57  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2026/order-of-play\n\n"
+    "20:57  OOP in IASI appeared \u2605\n       https://www.wtatennis.com/tournament/2063/IASI/2026/order-of-play\n\n",
+    "13:47  change in ROME-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1130/ROME-125/2026/draws\n\n",
+    "       Players added to the draw in ROME-125 DOUBLES:    \n\n",
+    "       1. Estelle Cascino / Shuo Feng \n",
+    "          Cascino, E/Feng, S\n\n",
+    "       2. Lucia Bronzetti / Martina Trevisan \n",
+    "          Bronzetti, L/Trevisan, M\n\n",
+    "       3. Lola Radivojevic / Dalila Spiteri \n",
+    "          Radivojevic, L/Spiteri, D\n\n",
+    "       4. Nuria Brancaccio / Tyra Caterina Grant \n",
+    "          Brancaccio, N/Grant, T\n\n",
+    "       5. Naima Karamoko / Darja Semenistaja \n",
+    "          Karamoko, N/Semenistaja, D\n\n",
+    "       6. Rutuja Bhosale / Yu-Yun Li \n",
+    "          Bhosale, R/Li, Y\n\n",
+    "       7. Darya Astakhova / Sofya Lansere \n",
+    "          Astakhova, D/Lansere, S\n\n",
+    "       8. Lucija Ciric Bagaric / Nika Radisic \n",
+    "          Ciric Bagaric, L/Radisic, N\n\n",
+    "       Players removed from the draw in ROME-125 DOUBLES:    \n\n",
+    "       1. ESTELLE CASCINO / SHUO FENG \n\n",
+    "       2. NAIMA KARAMOKO / DARJA SEMENISTAJA \n\n",
+    "       3. NIKA RADISIC / LUCIJA CIRIC BAGARIC \n\n",
+    "       4. RUTUJA BHOSALE / YU-YUN LI \n\n"
   ],
   "sits": {
     "ROME": [
@@ -51616,13 +51639,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ESTELLE CASCINO / SHUO FENG",
-            "NAIMA KARAMOKO / DARJA SEMENISTAJA",
-            "NIKA RADISIC / LUCIJA CIRIC BAGARIC",
-            "RUTUJA BHOSALE / YU-YUN LI"
+            "Estelle Cascino / Shuo Feng",
+            "Lucia Bronzetti / Martina Trevisan",
+            "Lola Radivojevic / Dalila Spiteri",
+            "Nuria Brancaccio / Tyra Caterina Grant",
+            "Naima Karamoko / Darja Semenistaja",
+            "Rutuja Bhosale / Yu-Yun Li",
+            "Darya Astakhova / Sofya Lansere",
+            "Lucija Ciric Bagaric / Nika Radisic"
           ]
         }
       ],
