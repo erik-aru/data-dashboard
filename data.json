@@ -50155,7 +50155,42 @@
     "       38. JULIA AVDEEVA \n\n",
     "       39. VICTORIA JIMENEZ KASINTSEVA \n\n",
     "       40. ELENA PRIDANKINA \n\n",
-    "       41. KAITLIN QUEVEDO \n\n"
+    "       41. KAITLIN QUEVEDO \n\n",
+    "20:51  change in PRAGUE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1082/PRAGUE/2026/draws\n\n",
+    "       Players added to the draw in PRAGUE SINGLES:    \n\n",
+    "       1. Veronika Podrez \n",
+    "          Podrez, V\n\n",
+    "       2. Carol Young Suh Lee \n",
+    "          Lee, C\n\n",
+    "       3. Ayla Aksu \n",
+    "          Aksu, A\n\n",
+    "       4. Sofia Costoulas \n",
+    "          Costoulas, S\n\n",
+    "       5. Mai Hontama \n",
+    "          Hontama, M\n\n",
+    "       6. Xinyu Gao \n",
+    "          Gao, X\n\n",
+    "       7. Dominika Salkova \n",
+    "          Salkova, D\n\n",
+    "       8. Linda Fruhvirtova \n",
+    "          Fruhvirtova, L\n\n",
+    "20:51  change in PRAGUE DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1082/PRAGUE/2026/draws\n\n",
+    "       Players added to the draw in PRAGUE DOUBLES:    \n\n",
+    "       Players removed from the draw in PRAGUE DOUBLES:    \n\n",
+    "       1. Xinyu Jiang / Fang-Hsien Wu \n\n",
+    "20:51  OOP in PRAGUE appeared \u2605\n       https://www.wtatennis.com/tournament/1082/PRAGUE/2026/order-of-play\n\n",
+    "20:51  change in PALERMO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2026/draws\n\n",
+    "       Players added to the draw in PALERMO-125 SINGLES:    \n\n",
+    "       1. Amarissa Toth \n",
+    "          Toth, A\n\n",
+    "       2. Yufei Ren \n",
+    "          Ren, Y\n\n",
+    "       3. Mina Hodzic \n",
+    "          Hodzic, M\n\n",
+    "       4. Noemi Basiletti \n",
+    "          Basiletti, N\n\n",
+    "20:51  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2026/order-of-play\n\n",
+    "20:51  OOP in HAMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2042/HAMBURG/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -53057,7 +53092,7 @@
           "players": []
         }
       ],
-      "2026-07-19"
+      "2026-07-20"
     ],
     "IASI": [
       [
@@ -53308,11 +53343,13 @@
       ],
       [
         1,
-        24,
+        32,
         {
           "players": [
             "Marie Bouzkova",
             "Jessica Bouzas Maneiro",
+            "Veronika Podrez",
+            "Carol Young Suh Lee",
             "Laura Samson",
             "Maya Joint",
             "Eva Lys",
@@ -53321,29 +53358,35 @@
             "Yue Yuan",
             "Jana Kovackova",
             "Lanlana Tararudee",
+            "Ayla Aksu",
+            "Sofia Costoulas",
             "Ella Seidel",
             "Daria Snigur",
             "Diane Parry",
+            "Mai Hontama",
+            "Xinyu Gao",
             "Lilli Tagger",
             "Maria Timofeeva",
             "Aliaksandra Sasnovich",
             "Anna Blinkova",
             "Sara Bejlek",
             "Antonia Ruzic",
+            "Dominika Salkova",
             "Alisa Oktiabreva",
             "Oceane Dodin",
             "Alycia Parks",
             "Lucie Havlickova",
+            "Linda Fruhvirtova",
             "Barbora Krejcikova"
           ]
         }
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
-            "Xinyu Jiang / Fang-Hsien Wu",
+            "Ingrid Martins / Makoto Ninomiya",
             "Nadiia Kichenok / Martyna Kubka",
             "Alena Kovackova / Jana Kovackova",
             "Carmen Corley / Catherine Harrison",
@@ -53355,7 +53398,6 @@
             "Peangtarn Plipuech / Prarthana Thombare",
             "Tereza Krejcova / Denisa Zoldakova",
             "Hao-Ching Chan / Miyu Kato",
-            "Ingrid Martins / Makoto Ninomiya",
             "Lucie Havlickova / Laura Samson",
             "Ya Hsin Lee / Qiu Yu Ye",
             "Ena Shibahara / Vera Zvonareva"
@@ -53376,7 +53418,7 @@
           "players": []
         }
       ],
-      "2026-07-19"
+      "2026-07-20"
     ],
     "PALERMO-125": [
       [
@@ -53405,13 +53447,14 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Francesca Jones",
             "Darya Astakhova",
             "Miriam Bulgaru",
             "Caijsa Hennemann",
+            "Amarissa Toth",
             "Jennifer Ruggeri",
             "Sofya Lansere",
             "Lola Radivojevic",
@@ -53424,9 +53467,12 @@
             "Federica Urgesi",
             "Elizara Yaneva",
             "Fiona Ferro",
+            "Yufei Ren",
             "Lina Gjorcheska",
             "Erika Andreeva",
             "Caroline Werner",
+            "Mina Hodzic",
+            "Noemi Basiletti",
             "Tyra Caterina Grant",
             "Ekaterine Gorgodze",
             "Ane Mintegi Del Olmo",
@@ -53475,7 +53521,7 @@
           "players": []
         }
       ],
-      "2026-07-19"
+      "2026-07-20"
     ],
     "MONTREAL": [
       [
