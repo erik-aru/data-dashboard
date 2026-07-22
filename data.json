@@ -65,6 +65,28 @@
         0,
         "none"
       ]
+    ],
+    "VANCOUVER-125": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -50110,7 +50132,99 @@
     "       Players removed from the draw in PALERMO-125 SINGLES:    \n\n",
     "       1. Tyra Caterina Grant \n\n",
     "21:10  OOP in PALERMO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1131/PALERMO-125/2026/order-of-play\n\n",
-    "21:10  OOP in HAMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2042/HAMBURG/2026/order-of-play\n\n"
+    "21:10  OOP in HAMBURG appeared \u2605\n       https://www.wtatennis.com/tournament/2042/HAMBURG/2026/order-of-play\n\n",
+    "06:29  VANCOUVER-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2064/VANCOUVER-125/2026/draws\n\n",
+    "       Players added to the draw in VANCOUVER-125 SINGLES:    \n\n",
+    "       1. MADISON BRENGLE \n",
+    "          BRENGLE, M\n\n",
+    "       2. JIA-JING LU \n",
+    "          LU, J\n\n",
+    "       3. VALERIA SAVINYKH \n",
+    "          SAVINYKH, V\n\n",
+    "       4. CAROL ZHAO \n",
+    "          ZHAO, C\n\n",
+    "       5. HARUKA KAJI \n",
+    "          KAJI, H\n\n",
+    "       6. KYOKA OKAMURA \n",
+    "          OKAMURA, K\n\n",
+    "       7. HARRIET DART \n",
+    "          DART, H\n\n",
+    "       8. LIZETTE CABRERA \n",
+    "          CABRERA, L\n\n",
+    "       9. NAO HIBINO \n",
+    "          HIBINO, N\n\n",
+    "       10. PRISCILLA HON \n",
+    "           HON, P\n\n",
+    "       11. MADDISON INGLIS \n",
+    "           INGLIS, M\n\n",
+    "       12. GREET MINNEN \n",
+    "           MINNEN, G\n\n",
+    "       13. CAROLINE DOLEHIDE \n",
+    "           DOLEHIDE, C\n\n",
+    "       14. ENA SHIBAHARA \n",
+    "           SHIBAHARA, E\n\n",
+    "       15. KAYLA DAY \n",
+    "           DAY, K\n\n",
+    "       16. HANYU GUO \n",
+    "           GUO, H\n\n",
+    "       17. MARTINA OKALOVA \n",
+    "           OKALOVA, M\n\n",
+    "       18. MAI HONTAMA \n",
+    "           HONTAMA, M\n\n",
+    "       19. EN-SHUO LIANG \n",
+    "           LIANG, E\n\n",
+    "       20. ELIZABETH MANDLIK \n",
+    "           MANDLIK, E\n\n",
+    "       21. HIMENO SAKATSUME \n",
+    "           SAKATSUME, H\n\n",
+    "       22. MANANCHAYA SAWANGKAEW \n",
+    "           SAWANGKAEW, M\n\n",
+    "       23. MOYUKA UCHIJIMA \n",
+    "           UCHIJIMA, M\n\n",
+    "       24. YEONWOO KU \n",
+    "           KU, Y\n\n",
+    "       25. ARIANA ARSENEAULT \n",
+    "           ARSENEAULT, A\n\n",
+    "       26. MADISON SIEG \n",
+    "           SIEG, M\n\n",
+    "       27. SIJIA WEI \n",
+    "           WEI, S\n\n",
+    "       28. MELL REASCO GONZALEZ \n",
+    "           REASCO GONZALEZ, M\n\n",
+    "       29. KATRINA SCOTT \n",
+    "           SCOTT, K\n\n",
+    "       30. LANLANA TARARUDEE \n",
+    "           TARARUDEE, L\n\n",
+    "       31. TAYLAH PRESTON \n",
+    "           PRESTON, T\n\n",
+    "       32. SOFIA COSTOULAS \n",
+    "           COSTOULAS, S\n\n",
+    "       33. ELENA MICIC \n",
+    "           MICIC, E\n\n",
+    "       34. KAYLA CROSS \n",
+    "           CROSS, K\n\n",
+    "       35. MIHO KURAMOCHI \n",
+    "           KURAMOCHI, M\n\n",
+    "       36. HAYU KINOSHITA \n",
+    "           KINOSHITA, H\n\n",
+    "       37. EMERSON JONES \n",
+    "           JONES, E\n\n",
+    "06:29  VANCOUVER-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2064/VANCOUVER-125/2026/draws\n\n",
+    "       Players added to the draw in VANCOUVER-125 DOUBLES:    \n\n",
+    "       1. LIZETTE CABRERA / HIROKO KUWATA \n",
+    "          CABRERA, L/KUWATA, H\n\n",
+    "       2. PRISCILLA HON / HARRIET DART \n",
+    "          HON, P/DART, H\n\n",
+    "       3. ALEXANDRA VAGRAMOV / CAROLINE DOLEHIDE \n",
+    "          VAGRAMOV, A/DOLEHIDE, C\n\n",
+    "       4. ALEXANDRA OSBORNE / HONG YI CODY WONG \n",
+    "          OSBORNE, A/WONG, H\n\n",
+    "       5. KAYLA CROSS / ARIANA ARSENEAULT \n",
+    "          CROSS, K/ARSENEAULT, A\n\n",
+    "       6. ANNA ROGERS / ALLURA ZAMARRIPA \n",
+    "          ROGERS, A/ZAMARRIPA, A\n\n",
+    "       7. MADDISON INGLIS / EMERSON JONES \n",
+    "          INGLIS, M/JONES, E\n\n"
   ],
   "sits": {
     "ROME": [
@@ -63971,6 +64085,90 @@
         }
       ],
       "2026-07-19"
+    ],
+    "VANCOUVER-125": [
+      [
+        0,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        1,
+        37,
+        {
+          "players": [
+            "MADISON BRENGLE",
+            "JIA-JING LU",
+            "VALERIA SAVINYKH",
+            "CAROL ZHAO",
+            "HARUKA KAJI",
+            "KYOKA OKAMURA",
+            "HARRIET DART",
+            "LIZETTE CABRERA",
+            "NAO HIBINO",
+            "PRISCILLA HON",
+            "MADDISON INGLIS",
+            "GREET MINNEN",
+            "CAROLINE DOLEHIDE",
+            "ENA SHIBAHARA",
+            "KAYLA DAY",
+            "HANYU GUO",
+            "MARTINA OKALOVA",
+            "MAI HONTAMA",
+            "EN-SHUO LIANG",
+            "ELIZABETH MANDLIK",
+            "HIMENO SAKATSUME",
+            "MANANCHAYA SAWANGKAEW",
+            "MOYUKA UCHIJIMA",
+            "YEONWOO KU",
+            "ARIANA ARSENEAULT",
+            "MADISON SIEG",
+            "SIJIA WEI",
+            "MELL REASCO GONZALEZ",
+            "KATRINA SCOTT",
+            "LANLANA TARARUDEE",
+            "TAYLAH PRESTON",
+            "SOFIA COSTOULAS",
+            "ELENA MICIC",
+            "KAYLA CROSS",
+            "MIHO KURAMOCHI",
+            "HAYU KINOSHITA",
+            "EMERSON JONES"
+          ]
+        }
+      ],
+      [
+        2,
+        7,
+        {
+          "players": [
+            "LIZETTE CABRERA / HIROKO KUWATA",
+            "PRISCILLA HON / HARRIET DART",
+            "ALEXANDRA VAGRAMOV / CAROLINE DOLEHIDE",
+            "ALEXANDRA OSBORNE / HONG YI CODY WONG",
+            "KAYLA CROSS / ARIANA ARSENEAULT",
+            "ANNA ROGERS / ALLURA ZAMARRIPA",
+            "MADDISON INGLIS / EMERSON JONES"
+          ]
+        }
+      ],
+      [
+        3,
+        0,
+        {
+          "players": []
+        }
+      ],
+      [
+        4,
+        0,
+        {
+          "players": []
+        }
+      ],
+      "nothing"
     ]
   },
   "torns": [
@@ -63985,7 +64183,11 @@
     [
       "HAMBURG",
       2042
+    ],
+    [
+      "VANCOUVER-125",
+      2064
     ]
   ],
-  "old_day": 21
+  "old_day": 22
 }
