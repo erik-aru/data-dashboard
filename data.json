@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "PRAGUE": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "PALERMO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "HAMBURG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "VANCOUVER-125": [
       [
         0,
@@ -51358,7 +51292,33 @@
     "       Players removed from the draw in TARGU-MURES-125 QUALS:    \n\n",
     "       1. Elena Malygina \n\n",
     "20:58  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2026/order-of-play\n\n",
-    "20:58  OOP in TARGU-MURES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1163/TARGU-MURES-125/2026/order-of-play\n\n"
+    "20:58  OOP in TARGU-MURES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1163/TARGU-MURES-125/2026/order-of-play\n\n",
+    "07:33  OOP in VANCOUVER-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2064/VANCOUVER-125/2026/order-of-play\n\n",
+    "07:33  WASHINGTON-DC SINGLES draw    \n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2026/draws\n\n",
+    "       Players added to the draw in WASHINGTON-DC SINGLES:    \n\n",
+    "       1. Rebecca Sramkova \n",
+    "          Sramkova, R\n\n",
+    "       2. Daria Kasatkina \n",
+    "          Kasatkina, D\n\n",
+    "       3. Julieta Pareja \n",
+    "          Pareja, J\n\n",
+    "       4. Polina Kudermetova \n",
+    "          Kudermetova, P\n\n",
+    "07:33  MEMPHIS SINGLES draw    \n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/draws\n\n",
+    "       Players added to the draw in MEMPHIS SINGLES:    \n\n",
+    "       1. Kristina Liutova \n",
+    "          Liutova, K\n\n",
+    "       2. Ye-Xin Ma \n",
+    "          Ma, Y\n\n",
+    "       3. Katherine Sebov \n",
+    "          Sebov, K\n\n",
+    "       4. Tatiana Prozorova \n",
+    "          Prozorova, T\n\n",
+    "       5. Iryna Shymanovich \n",
+    "          Shymanovich, I\n\n",
+    "       6. Storm Hunter \n",
+    "          Hunter, S\n\n",
+    "07:33  OOP in MEMPHIS appeared \u2605\n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -54408,17 +54368,20 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Jessica Pegula",
             "Magdalena Frech",
             "Ann Li",
             "Janice Tjen",
+            "Rebecca Sramkova",
+            "Daria Kasatkina",
             "Anna Kalinskaya",
             "Diana Shnaider",
             "Anastasia Potapova",
             "Venus Williams",
+            "Julieta Pareja",
             "Xinyu Wang",
             "Liudmila Samsonova",
             "Madison Keys",
@@ -54434,6 +54397,7 @@
             "Alexandra Eala",
             "Qinwen Zheng",
             "Cristina Bucsa",
+            "Polina Kudermetova",
             "Elina Svitolina"
           ]
         }
@@ -65313,7 +65277,7 @@
           "players": []
         }
       ],
-      "2026-07-26"
+      "2026-07-27"
     ],
     "TARGU-MURES-125": [
       [
@@ -65446,29 +65410,35 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Ekaterina Alexandrova",
+            "Kristina Liutova",
             "Maya Joint",
             "Whitney Osuigwe",
+            "Ye-Xin Ma",
             "Kimberly Birrell",
             "Xiyu Wang",
             "Caty McNally",
             "Zeynep Sonmez",
             "Cadence Brace",
+            "Katherine Sebov",
             "Elvina Kalieva",
             "Solana Sierra",
+            "Tatiana Prozorova",
             "Mary Stoiana",
             "Peyton Stearns",
             "Yuliia Starodubtseva",
             "Sloane Stephens",
             "Darja Vidmanova",
             "Marina Bassols Ribera",
+            "Iryna Shymanovich",
             "Reese Brantmeier",
             "Katie Volynets",
             "Viktorija Golubic",
             "Camila Osorio",
+            "Storm Hunter",
             "Anastasia Zakharova",
             "Linda Fruhvirtova",
             "Talia Gibson",
@@ -65516,22 +65486,10 @@
           "players": []
         }
       ],
-      "2026-07-26"
+      "2026-07-27"
     ]
   },
   "torns": [
-    [
-      "PRAGUE",
-      1082
-    ],
-    [
-      "PALERMO-125",
-      1131
-    ],
-    [
-      "HAMBURG",
-      2042
-    ],
     [
       "VANCOUVER-125",
       2064
@@ -65549,5 +65507,5 @@
       1167
     ]
   ],
-  "old_day": 26
+  "old_day": 27
 }
