@@ -51336,7 +51336,17 @@
     "06:27  MEMPHIS DOUBLES draw    \n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/draws\n\n",
     "       Players added to the draw in MEMPHIS DOUBLES:    \n\n",
     "       Players removed from the draw in MEMPHIS DOUBLES:    \n\n",
-    "       1. Whitney Osuigwe / Lucrezia Stefanini \n\n"
+    "       1. Whitney Osuigwe / Lucrezia Stefanini \n\n",
+    "14:09  change in VANCOUVER-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2064/VANCOUVER-125/2026/draws\n\n",
+    "       Players added to the draw in VANCOUVER-125 SINGLES:    \n\n",
+    "       1. Miho Kuramochi \n",
+    "          Kuramochi, M\n\n",
+    "       2. Hong Yi Cody Wong \n",
+    "          Wong, H\n\n",
+    "       3. Emma Si Yu Dong \n",
+    "          Dong, E\n\n",
+    "       4. Ellie Schoppe \n",
+    "          Schoppe, E\n\n"
   ],
   "sits": {
     "ROME": [
@@ -65225,10 +65235,11 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Moyuka Uchijima",
+            "Miho Kuramochi",
             "Hayu Kinoshita",
             "Kyoka Okamura",
             "Lizette Cabrera",
@@ -65241,11 +65252,14 @@
             "Caroline Dolehide",
             "Ariana Arseneault",
             "Annabelle Xu",
+            "Hong Yi Cody Wong",
             "Himeno Sakatsume",
             "Harriet Dart",
             "Kayla Cross",
             "Yeonwoo Ku",
+            "Emma Si Yu Dong",
             "Priscilla Hon",
+            "Ellie Schoppe",
             "Haruka Kaji",
             "Taylah Preston",
             "Emerson Jones",
