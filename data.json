@@ -51331,7 +51331,12 @@
     "          Kotliar, Y\n\n",
     "21:11  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2026/order-of-play\n\n",
     "21:11  OOP in TARGU-MURES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1163/TARGU-MURES-125/2026/order-of-play\n\n",
-    "21:11  OOP in MEMPHIS appeared \u2605\n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/order-of-play\n\n"
+    "21:11  OOP in MEMPHIS appeared \u2605\n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/order-of-play\n\n",
+    "06:27  OOP in VANCOUVER-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2064/VANCOUVER-125/2026/order-of-play\n\n",
+    "06:27  MEMPHIS DOUBLES draw    \n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/draws\n\n",
+    "       Players added to the draw in MEMPHIS DOUBLES:    \n\n",
+    "       Players removed from the draw in MEMPHIS DOUBLES:    \n\n",
+    "       1. Whitney Osuigwe / Lucrezia Stefanini \n\n"
   ],
   "sits": {
     "ROME": [
@@ -65290,7 +65295,7 @@
           "players": []
         }
       ],
-      "2026-07-27"
+      "2026-07-28"
     ],
     "TARGU-MURES-125": [
       [
@@ -65467,7 +65472,7 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Storm Hunter / Desirae Krawczyk",
@@ -65478,7 +65483,6 @@
             "Alexa Guarachi / Catherine Harrison",
             "Nika Radisic / Iryna Shymanovich",
             "Sofia Johnson / Aran Teixido Garcia",
-            "Whitney Osuigwe / Lucrezia Stefanini",
             "Carmen Corley / Ivana Corley",
             "I-Hsuan Cho / Yi-Tsen Cho",
             "Lyudmyla Kichenok / Nadiia Kichenok",
@@ -65524,5 +65528,5 @@
       1167
     ]
   ],
-  "old_day": 27
+  "old_day": 28
 }
