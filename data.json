@@ -51897,7 +51897,10 @@
     "       6. Isabelle Haverlag / Martyna Kubka \n\n",
     "       7. Alina Charaeva / Victoria Jimenez Kasintseva \n\n",
     "       8. Yvonne Cavalle-Reimers / Maria Kozyreva \n\n",
-    "21:11  OOP in TARGU-MURES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1163/TARGU-MURES-125/2026/order-of-play\n\n"
+    "21:11  OOP in TARGU-MURES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1163/TARGU-MURES-125/2026/order-of-play\n\n",
+    "06:44  OOP in VANCOUVER-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2064/VANCOUVER-125/2026/order-of-play\n\n",
+    "06:44  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2026/order-of-play\n\n",
+    "06:44  OOP in MEMPHIS appeared \u2605\n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -55019,7 +55022,7 @@
           "players": []
         }
       ],
-      "2026-07-30"
+      "2026-07-31"
     ],
     "PRAGUE": [
       [
@@ -65849,7 +65852,7 @@
           "players": []
         }
       ],
-      "2026-07-30"
+      "2026-07-31"
     ],
     "TARGU-MURES-125": [
       [
@@ -66062,7 +66065,7 @@
           "players": []
         }
       ],
-      "2026-07-30"
+      "2026-07-31"
     ]
   },
   "torns": [
@@ -66091,5 +66094,5 @@
       2087
     ]
   ],
-  "old_day": 30
+  "old_day": 31
 }
