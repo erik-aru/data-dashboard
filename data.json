@@ -52254,7 +52254,10 @@
     "       26. Ariana Arseneault \n\n",
     "       27. Destanee Aiava \n\n",
     "       28. Bernarda Pera \n\n",
-    "       29. Madison Brengle \n\n"
+    "       29. Madison Brengle \n\n",
+    "06:29  OOP in VANCOUVER-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2064/VANCOUVER-125/2026/order-of-play\n\n",
+    "06:29  OOP in MEMPHIS appeared \u2605\n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/order-of-play\n\n",
+    "06:29  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -55768,7 +55771,7 @@
           "players": []
         }
       ],
-      "2025-08-07"
+      "2026-08-01"
     ],
     "WARSAW-125": [
       [
@@ -66186,7 +66189,7 @@
           "players": []
         }
       ],
-      "2026-07-31"
+      "2026-08-01"
     ],
     "TARGU-MURES-125": [
       [
@@ -66399,7 +66402,7 @@
           "players": []
         }
       ],
-      "2026-07-31"
+      "2026-08-01"
     ]
   },
   "torns": [
@@ -66428,5 +66431,5 @@
       2087
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
