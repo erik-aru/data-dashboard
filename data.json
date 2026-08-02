@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "VANCOUVER-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "WASHINGTON-DC": [
       [
         0,
@@ -52384,7 +52362,44 @@
     "       5. Taylah Preston \n\n",
     "       6. Gabriela Knutson \n\n",
     "       7. Valentina Ryser \n\n",
-    "20:53  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n"
+    "20:53  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n",
+    "06:33  OOP in WASHINGTON-DC appeared \u2605\n       https://www.wtatennis.com/tournament/1045/WASHINGTON-DC/2026/order-of-play\n\n",
+    "06:33  OOP in MEMPHIS appeared \u2605\n       https://www.wtatennis.com/tournament/1167/MEMPHIS/2026/order-of-play\n\n",
+    "06:33  MONTREAL SINGLES draw    \n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/draws\n\n",
+    "       Players added to the draw in MONTREAL SINGLES:    \n\n",
+    "       1. Moyuka Uchijima \n",
+    "          Uchijima, M\n\n",
+    "       2. Lucrezia Stefanini \n",
+    "          Stefanini, L\n\n",
+    "       3. Emerson Jones \n",
+    "          Jones, E\n\n",
+    "       4. Lanlana Tararudee \n",
+    "          Tararudee, L\n\n",
+    "       5. Leolia Jeanjean \n",
+    "          Jeanjean, L\n\n",
+    "       6. Rebecca Sramkova \n",
+    "          Sramkova, R\n\n",
+    "       7. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       8. Aoi Ito \n",
+    "          Ito, A\n\n",
+    "       9. Lois Boisson \n",
+    "          Boisson, L\n\n",
+    "       10. Tatjana Maria \n",
+    "           Maria, T\n\n",
+    "       11. Victoria Jimenez Kasintseva \n",
+    "           Jimenez Kasintseva, V\n\n",
+    "       12. Sloane Stephens \n",
+    "           Stephens, S\n\n",
+    "       13. Alina Korneeva \n",
+    "           Korneeva, A\n\n",
+    "       14. Polina Kudermetova \n",
+    "           Kudermetova, P\n\n",
+    "       15. Kayla Day \n",
+    "           Day, K\n\n",
+    "       16. Maya Joint \n",
+    "           Joint, M\n\n",
+    "06:33  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -55506,7 +55521,7 @@
           "players": []
         }
       ],
-      "2026-08-01"
+      "2026-08-02"
     ],
     "PRAGUE": [
       [
@@ -55766,10 +55781,11 @@
       ],
       [
         1,
-        80,
+        96,
         {
           "players": [
             "Aryna Sabalenka",
+            "Moyuka Uchijima",
             "Cristina Bucsa",
             "Yulia Putintseva",
             "Shuai Zhang",
@@ -55777,6 +55793,7 @@
             "Maja Chwalinska",
             "Talia Gibson",
             "Elisabetta Cocciaretto",
+            "Lucrezia Stefanini",
             "Camila Osorio",
             "Ekaterina Alexandrova",
             "Elina Svitolina",
@@ -55788,18 +55805,25 @@
             "Clara Tauson",
             "Nikola Bartunkova",
             "Bianca Andreescu",
+            "Emerson Jones",
+            "Lanlana Tararudee",
             "Amanda Anisimova",
             "Jessica Pegula",
             "Magdalena Frech",
+            "Leolia Jeanjean",
             "Kamilla Rakhimova",
             "Venus Williams",
             "Katerina Siniakova",
             "Anna Kalinskaya",
             "McCartney Kessler",
             "Cadence Brace",
+            "Rebecca Sramkova",
+            "Anna Blinkova",
             "Diana Shnaider",
             "Marta Kostyuk",
+            "Aoi Ito",
             "Katherine Sebov",
+            "Lois Boisson",
             "Antonia Ruzic",
             "Madison Keys",
             "Donna Vekic",
@@ -55809,22 +55833,28 @@
             "Sara Bejlek",
             "Iga Swiatek",
             "Linda Noskova",
+            "Tatjana Maria",
             "Caty McNally",
+            "Victoria Jimenez Kasintseva",
             "Alycia Parks",
             "Alexandra Eala",
             "Marie Bouzkova",
             "Tereza Valentova",
             "Taylor Townsend",
             "Solana Sierra",
+            "Sloane Stephens",
             "Belinda Bencic",
             "Iva Jovic",
             "Carol Zhao",
             "Magda Linette",
+            "Alina Korneeva",
+            "Polina Kudermetova",
             "Emma Navarro",
             "Maria Sakkari",
             "Rebecca Marino",
             "Zeynep Sonmez",
             "Diane Parry",
+            "Kayla Day",
             "Coco Gauff",
             "Mirra Andreeva",
             "Oleksandra Oliynykova",
@@ -55840,6 +55870,7 @@
             "Naomi Osaka",
             "Sorana Cirstea",
             "Yuliia Starodubtseva",
+            "Maya Joint",
             "Janice Tjen",
             "Liudmila Samsonova",
             "Barbora Krejcikova",
@@ -55898,7 +55929,7 @@
           "players": []
         }
       ],
-      "2026-08-01"
+      "2026-08-02"
     ],
     "WARSAW-125": [
       [
@@ -66528,14 +66559,10 @@
           "players": []
         }
       ],
-      "2026-08-01"
+      "2026-08-02"
     ]
   },
   "torns": [
-    [
-      "VANCOUVER-125",
-      2064
-    ],
     [
       "WASHINGTON-DC",
       1045
@@ -66557,5 +66584,5 @@
       2087
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
