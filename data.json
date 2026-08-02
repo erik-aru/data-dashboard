@@ -52399,7 +52399,41 @@
     "           Day, K\n\n",
     "       16. Maya Joint \n",
     "           Joint, M\n\n",
-    "06:33  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n"
+    "06:33  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n",
+    "13:23  change in WARSAW-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/draws\n\n",
+    "       Players added to the draw in WARSAW-125 SINGLES:    \n\n",
+    "       1. Urszula Radwanska \n",
+    "          Radwanska, U\n\n",
+    "       2. Lia Karatancheva \n",
+    "          Karatancheva, L\n\n",
+    "       3. Elena Micic \n",
+    "          Micic, E\n\n",
+    "       4. Alana Smith \n",
+    "          Smith, A\n\n",
+    "13:23  change in WARSAW-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/draws\n\n",
+    "       Players added to the draw in WARSAW-125 DOUBLES:    \n\n",
+    "       1. Estelle Cascino / Nika Radisic \n",
+    "          Cascino, E/Radisic, N\n\n",
+    "       2. Momoko Kobori / Ayano Shimizu \n",
+    "          Kobori, M/Shimizu, A\n\n",
+    "       3. Martyna Kubka / Alicja Rosolska \n",
+    "          Kubka, M/Rosolska, A\n\n",
+    "       4. Yvonne Cavalle-Reimers / Noma Noha Akugue \n",
+    "          Cavalle-Reimers, Y/Noha Akugue, N\n\n",
+    "       5. Weronika Ewald / Daria Gorska \n",
+    "          Ewald, W/Gorska, D\n\n",
+    "       6. Naima Karamoko / Lara Salden \n",
+    "          Karamoko, N/Salden, L\n\n",
+    "       7. Weronika Falkowska / Alana Smith \n",
+    "          Falkowska, W/Smith, A\n\n",
+    "       8. Madeleine Brooks / Isabelle Haverlag \n",
+    "          Brooks, M/Haverlag, I\n\n",
+    "       Players removed from the draw in WARSAW-125 DOUBLES:    \n\n",
+    "       1. LARA SALDEN / NAIMA KARAMOKO \n\n",
+    "       2. ESTELLE CASCINO / NIKA RADISIC \n\n",
+    "       3. MADELEINE BROOKS / ISABELLE HAVERLAG \n\n",
+    "       4. ALICJA ROSOLSKA / MARTYNA KUBKA \n\n",
+    "13:23  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -55950,12 +55984,13 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Elsa Jacquemot",
             "Carol Young Suh Lee",
             "Aliona Falei",
+            "Urszula Radwanska",
             "Amelia Paszun",
             "Weronika Falkowska",
             "Julia Avdeeva",
@@ -55963,8 +55998,10 @@
             "Jeline Vandromme",
             "Vendula Valdmannova",
             "Zuzanna Pawlikowska",
+            "Lia Karatancheva",
             "Viktoria Hruncakova",
             "Susan Bandecchi",
+            "Elena Micic",
             "Veronika Podrez",
             "Teodora Kostovic",
             "Martyna Kubka",
@@ -55972,6 +56009,7 @@
             "Mona Barthel",
             "Linda Klimovicova",
             "Elizara Yaneva",
+            "Alana Smith",
             "Yue Yuan",
             "Katarzyna Kawa",
             "Linda Fruhvirtova",
@@ -55986,13 +56024,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "LARA SALDEN / NAIMA KARAMOKO",
-            "ESTELLE CASCINO / NIKA RADISIC",
-            "MADELEINE BROOKS / ISABELLE HAVERLAG",
-            "ALICJA ROSOLSKA / MARTYNA KUBKA"
+            "Estelle Cascino / Nika Radisic",
+            "Momoko Kobori / Ayano Shimizu",
+            "Martyna Kubka / Alicja Rosolska",
+            "Yvonne Cavalle-Reimers / Noma Noha Akugue",
+            "Weronika Ewald / Daria Gorska",
+            "Naima Karamoko / Lara Salden",
+            "Weronika Falkowska / Alana Smith",
+            "Madeleine Brooks / Isabelle Haverlag"
           ]
         }
       ],
@@ -56010,7 +56052,7 @@
           "players": []
         }
       ],
-      "2026-08-02"
+      "2026-08-03"
     ],
     "CINCINNATI": [
       [
