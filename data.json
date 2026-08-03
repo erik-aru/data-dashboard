@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "WASHINGTON-DC": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "TARGU-MURES-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "MEMPHIS": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "MONTREAL": [
       [
         0,
@@ -52433,7 +52367,8 @@
     "       2. ESTELLE CASCINO / NIKA RADISIC \n\n",
     "       3. MADELEINE BROOKS / ISABELLE HAVERLAG \n\n",
     "       4. ALICJA ROSOLSKA / MARTYNA KUBKA \n\n",
-    "13:23  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n"
+    "13:23  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n",
+    "07:27  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -55963,7 +55898,7 @@
           "players": []
         }
       ],
-      "2026-08-02"
+      "2026-08-03"
     ],
     "WARSAW-125": [
       [
@@ -66606,18 +66541,6 @@
   },
   "torns": [
     [
-      "WASHINGTON-DC",
-      1045
-    ],
-    [
-      "TARGU-MURES-125",
-      1163
-    ],
-    [
-      "MEMPHIS",
-      1167
-    ],
-    [
       "MONTREAL",
       806
     ],
@@ -66626,5 +66549,5 @@
       2087
     ]
   ],
-  "old_day": 2
+  "old_day": 3
 }
