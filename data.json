@@ -52473,7 +52473,8 @@
     "21:10  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n",
     "00:52  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n",
     "00:52  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n",
-    "20:41  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n"
+    "20:41  OOP in WARSAW-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2087/WARSAW-125/2026/order-of-play\n\n",
+    "04:57  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -56011,7 +56012,7 @@
           "players": []
         }
       ],
-      "2026-08-07"
+      "2026-08-08"
     ],
     "WARSAW-125": [
       [
@@ -66662,5 +66663,5 @@
       2087
     ]
   ],
-  "old_day": 7
+  "old_day": 8
 }
