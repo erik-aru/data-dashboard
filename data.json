@@ -53298,7 +53298,9 @@
     "20:45  change in CINCINNATI SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/draws\n\n",
     "       Players added to the draw in CINCINNATI SINGLES:    \n\n",
     "       Players removed from the draw in CINCINNATI SINGLES:    \n\n",
-    "       1. Naomi Osaka \n\n"
+    "       1. Naomi Osaka \n\n",
+    "05:40  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n",
+    "05:40  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -56836,7 +56838,7 @@
           "players": []
         }
       ],
-      "2026-08-12"
+      "2026-08-13"
     ],
     "WARSAW-125": [
       [
@@ -57121,7 +57123,7 @@
           "players": []
         }
       ],
-      "2026-08-12"
+      "2026-08-13"
     ],
     "CLEVELAND": [
       [
@@ -67466,5 +67468,5 @@
       1017
     ]
   ],
-  "old_day": 12
+  "old_day": 13
 }
