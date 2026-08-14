@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "MONTREAL": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CINCINNATI": [
       [
         0,
@@ -53300,7 +53278,36 @@
     "       Players removed from the draw in CINCINNATI SINGLES:    \n\n",
     "       1. Naomi Osaka \n\n",
     "05:40  OOP in MONTREAL appeared \u2605\n       https://www.wtatennis.com/tournament/806/MONTREAL/2026/order-of-play\n\n",
-    "05:40  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n"
+    "05:40  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n",
+    "05:37  CINCINNATI SINGLES draw    \n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/draws\n\n",
+    "       Players added to the draw in CINCINNATI SINGLES:    \n\n",
+    "       1. Lilli Tagger \n",
+    "          Tagger, L\n\n",
+    "       2. Hanne Vandewinkel \n",
+    "          Vandewinkel, H\n\n",
+    "       3. Mananchaya Sawangkaew \n",
+    "          Sawangkaew, M\n\n",
+    "       4. Anna Blinkova \n",
+    "          Blinkova, A\n\n",
+    "       5. Xiyu Wang \n",
+    "          Wang, X\n\n",
+    "       6. Mary Stoiana \n",
+    "          Stoiana, M\n\n",
+    "       7. Kayla Day \n",
+    "          Day, K\n\n",
+    "       8. Lucrezia Stefanini \n",
+    "          Stefanini, L\n\n",
+    "       9. Eva Lys \n",
+    "          Lys, E\n\n",
+    "       10. Sinja Kraus \n",
+    "           Kraus, S\n\n",
+    "       11. Harriet Dart \n",
+    "           Dart, H\n\n",
+    "       12. Alina Charaeva \n",
+    "           Charaeva, A\n\n",
+    "       13. Emiliana Arango \n",
+    "           Arango, E\n\n",
+    "05:37  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -56988,16 +56995,20 @@
       ],
       [
         1,
-        83,
+        96,
         {
           "players": [
             "Aryna Sabalenka",
+            "Lilli Tagger",
             "Talia Gibson",
             "Xinyu Wang",
+            "Hanne Vandewinkel",
             "Donna Vekic",
             "Barbora Krejcikova",
             "Sara Bejlek",
             "Karolina Pliskova",
+            "Mananchaya Sawangkaew",
+            "Anna Blinkova",
             "Ekaterina Alexandrova",
             "Katerina Siniakova",
             "Jessica Bouzas Maneiro",
@@ -57007,21 +57018,27 @@
             "Madison Keys",
             "Leylah Fernandez",
             "Maria Timofeeva",
+            "Xiyu Wang",
+            "Mary Stoiana",
             "Tereza Valentova",
             "Elina Svitolina",
             "Coco Gauff",
             "Yulia Putintseva",
             "Liudmila Samsonova",
             "Shuai Zhang",
+            "Kayla Day",
             "Ann Li",
             "Marie Bouzkova",
             "Elisabetta Cocciaretto",
+            "Lucrezia Stefanini",
             "Maya Joint",
             "Tamara Korpatsch",
             "Iva Jovic",
             "Marta Kostyuk",
             "Sofia Kenin",
+            "Eva Lys",
             "Sloane Stephens",
+            "Sinja Kraus",
             "Anastasia Potapova",
             "Janice Tjen",
             "Alycia Parks",
@@ -57033,6 +57050,7 @@
             "Katie Boulter",
             "Katie Volynets",
             "Peyton Stearns",
+            "Harriet Dart",
             "Clara Tauson",
             "Alexandra Eala",
             "Elena-Gabriela Ruse",
@@ -57042,6 +57060,7 @@
             "Amanda Anisimova",
             "Sorana Cirstea",
             "Nikola Bartunkova",
+            "Alina Charaeva",
             "Caty McNally",
             "McCartney Kessler",
             "Anna Kalinskaya",
@@ -57052,6 +57071,7 @@
             "Petra Marcinko",
             "Jessica Pegula",
             "Iga Swiatek",
+            "Emiliana Arango",
             "Venus Williams",
             "Kamilla Rakhimova",
             "Kimberly Birrell",
@@ -57123,7 +57143,7 @@
           "players": []
         }
       ],
-      "2026-08-13"
+      "2026-08-14"
     ],
     "CLEVELAND": [
       [
@@ -67460,13 +67480,9 @@
   },
   "torns": [
     [
-      "MONTREAL",
-      806
-    ],
-    [
       "CINCINNATI",
       1017
     ]
   ],
-  "old_day": 13
+  "old_day": 14
 }
