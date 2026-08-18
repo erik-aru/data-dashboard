@@ -53401,7 +53401,13 @@
     "       24. ELISE MERTENS / DIANA SHNAIDER \n\n",
     "20:31  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n",
     "20:22  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n",
-    "20:23  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n"
+    "20:23  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n",
+    "04:36  change in CINCINNATI DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/draws\n\n       Players added to the draw in CINCINNATI DOUBLES:    \n\n",
+    "       1. Tamara Korpatsch / Emily Webley-Smith \n",
+    "          Korpatsch, T/Webley-Smith, E\n\n",
+    "       Players removed from the draw in CINCINNATI DOUBLES:    \n\n",
+    "       1. Mirra Andreeva / Sorana Cirstea \n\n",
+    "04:36  OOP in CINCINNATI appeared \u2605\n       https://www.wtatennis.com/tournament/1017/CINCINNATI/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -57222,7 +57228,7 @@
             "Hanyu Guo / Kristina Mladenovic",
             "Elise Mertens / Diana Shnaider",
             "Hao-Ching Chan / Maya Joint",
-            "Mirra Andreeva / Sorana Cirstea",
+            "Tamara Korpatsch / Emily Webley-Smith",
             "Sara Errani / Leylah Fernandez",
             "Storm Hunter / Desirae Krawczyk",
             "Magali Kempen / Alexandra Panova",
@@ -57245,7 +57251,7 @@
           "players": []
         }
       ],
-      "2026-08-17"
+      "2026-08-18"
     ],
     "CLEVELAND": [
       [
@@ -67586,5 +67592,5 @@
       1017
     ]
   ],
-  "old_day": 17
+  "old_day": 18
 }
