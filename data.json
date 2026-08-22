@@ -53771,7 +53771,25 @@
     "       13. Anna Siskova \n\n",
     "       14. Nicole Fossa Huergo \n\n",
     "       15. Elvina Kalieva \n\n",
-    "04:33  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2026/order-of-play\n\n"
+    "04:33  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2026/order-of-play\n\n",
+    "20:23  NEW draw in PHILADELPHIA-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1166/PHILADELPHIA-125/2026/draws\n\n",
+    "       Players added to the draw in PHILADELPHIA-125 QUALS:    \n\n",
+    "       1. Ella Seidel \n",
+    "          Seidel, E\n\n",
+    "       2. Capucine Jauffret \n",
+    "          Jauffret, C\n\n",
+    "       3. Ariana Arseneault \n",
+    "          Arseneault, A\n\n",
+    "       4. Alexandra Osborne \n",
+    "          Osborne, A\n\n",
+    "       5. Ekaterina Ovcharenko \n",
+    "          Ovcharenko, E\n\n",
+    "       6. Esha Velaga \n",
+    "          Velaga, E\n\n",
+    "       7. Jaeda Daniel \n",
+    "          Daniel, J\n\n",
+    "       8. Yiming Dang \n",
+    "          Dang, Y\n\n"
   ],
   "sits": {
     "ROME": [
@@ -67957,9 +67975,18 @@
     "PHILADELPHIA-125": [
       [
         0,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Ella Seidel",
+            "Capucine Jauffret",
+            "Ariana Arseneault",
+            "Alexandra Osborne",
+            "Ekaterina Ovcharenko",
+            "Esha Velaga",
+            "Jaeda Daniel",
+            "Yiming Dang"
+          ]
         }
       ],
       [
