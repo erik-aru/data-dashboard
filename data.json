@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "CINCINNATI": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "MONTERREY": [
       [
         0,
@@ -54025,7 +54003,18 @@
     "       9. ARIANA ARSENEAULT / RAPHAELLE LACASSE \n\n",
     "       10. ANNA ROGERS / ALLURA ZAMARRIPA \n\n",
     "       11. MELL REASCO GONZALEZ / MARIAN GOMEZ PEZUELA CANO \n\n",
-    "20:24  OOP in PHILADELPHIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1166/PHILADELPHIA-125/2026/order-of-play\n\n"
+    "20:24  OOP in PHILADELPHIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1166/PHILADELPHIA-125/2026/order-of-play\n\n",
+    "04:45  MONTERREY SINGLES draw    \n       https://www.wtatennis.com/tournament/1039/MONTERREY/2026/draws\n\n",
+    "       Players added to the draw in MONTERREY SINGLES:    \n\n",
+    "       1. Maria Timofeeva \n",
+    "          Timofeeva, M\n\n",
+    "       2. Anna Bondar \n",
+    "          Bondar, A\n\n",
+    "       3. Darja Vidmanova \n",
+    "          Vidmanova, D\n\n",
+    "       4. Maya Joint \n",
+    "          Joint, M\n\n",
+    "04:45  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -58003,7 +57992,7 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Ekaterina Alexandrova",
@@ -58017,9 +58006,12 @@
             "Alycia Parks",
             "Petra Marcinko",
             "Shuai Zhang",
+            "Maria Timofeeva",
             "Camila Osorio",
             "Ann Li",
             "Cristina Bucsa",
+            "Anna Bondar",
+            "Darja Vidmanova",
             "Kimberly Birrell",
             "Antonia Ruzic",
             "Nikola Bartunkova",
@@ -58029,6 +58021,7 @@
             "Lilli Tagger",
             "Yuliia Starodubtseva",
             "Anhelina Kalinina",
+            "Maya Joint",
             "Elise Mertens"
           ]
         }
@@ -58071,7 +58064,7 @@
           "players": []
         }
       ],
-      "2026-08-23"
+      "2026-08-24"
     ],
     "US-OPEN": [
       [
@@ -68299,10 +68292,6 @@
   },
   "torns": [
     [
-      "CINCINNATI",
-      1017
-    ],
-    [
       "MONTERREY",
       1039
     ],
@@ -68311,5 +68300,5 @@
       1166
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
