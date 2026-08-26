@@ -43,6 +43,28 @@
         0,
         "none"
       ]
+    ],
+    "US-OPEN": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -54022,7 +54044,14 @@
     "       Players removed from the draw in MONTERREY SINGLES:    \n\n",
     "       1. Anhelina Kalinina \n\n",
     "04:39  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2026/order-of-play\n\n",
-    "20:29  OOP in PHILADELPHIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1166/PHILADELPHIA-125/2026/order-of-play\n\n"
+    "20:29  OOP in PHILADELPHIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1166/PHILADELPHIA-125/2026/order-of-play\n\n",
+    "04:40  change in MONTERREY SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1039/MONTERREY/2026/draws\n\n       Players added to the draw in MONTERREY SINGLES:    \n\n",
+    "       1. En-Shuo Liang \n",
+    "          Liang, E\n\n",
+    "       Players removed from the draw in MONTERREY SINGLES:    \n\n",
+    "       1. Anastasia Potapova \n\n",
+    "04:40  OOP in MONTERREY appeared \u2605\n       https://www.wtatennis.com/tournament/1039/MONTERREY/2026/order-of-play\n\n",
+    "04:40  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -58023,7 +58052,7 @@
             "Kimberly Birrell",
             "Antonia Ruzic",
             "Nikola Bartunkova",
-            "Anastasia Potapova",
+            "En-Shuo Liang",
             "Janice Tjen",
             "Dayana Yastremska",
             "Lilli Tagger",
@@ -58072,7 +58101,7 @@
           "players": []
         }
       ],
-      "2026-08-25"
+      "2026-08-26"
     ],
     "US-OPEN": [
       [
@@ -58434,7 +58463,7 @@
           "players": []
         }
       ],
-      "2025-09-06"
+      "2026-08-26"
     ],
     "MONTREUX-125": [
       [
@@ -68306,7 +68335,11 @@
     [
       "PHILADELPHIA-125",
       1166
+    ],
+    [
+      "US-OPEN",
+      905
     ]
   ],
-  "old_day": 25
+  "old_day": 26
 }
