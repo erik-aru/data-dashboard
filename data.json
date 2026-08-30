@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "MONTERREY": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "PHILADELPHIA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "US-OPEN": [
       [
         0,
@@ -54245,7 +54201,8 @@
     "           Sakkari, M\n\n",
     "       30. Robin Montgomery \n",
     "           Montgomery, R\n\n",
-    "10:53  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n"
+    "10:53  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n",
+    "09:48  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -58657,7 +58614,7 @@
           "players": []
         }
       ],
-      "2026-08-30"
+      "2026-08-31"
     ],
     "MONTREUX-125": [
       [
@@ -68523,17 +68480,9 @@
   },
   "torns": [
     [
-      "MONTERREY",
-      1039
-    ],
-    [
-      "PHILADELPHIA-125",
-      1166
-    ],
-    [
       "US-OPEN",
       905
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
