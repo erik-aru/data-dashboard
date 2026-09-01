@@ -54203,7 +54203,13 @@
     "           Montgomery, R\n\n",
     "10:53  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n",
     "09:48  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n",
-    "10:38  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n"
+    "10:38  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n",
+    "09:14  change in US-OPEN SINGLES \u2605   \n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/draws\n\n       Players added to the draw in US-OPEN SINGLES:    \n\n",
+    "       1. Darja Semenistaja \n",
+    "          Semenistaja, D\n\n",
+    "       Players removed from the draw in US-OPEN SINGLES:    \n\n",
+    "       1. Tereza Valentova \n\n",
+    "09:14  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -58470,7 +58476,7 @@
             "Tatjana Maria",
             "Jelena Ostapenko",
             "Anastasia Potapova",
-            "Tereza Valentova",
+            "Darja Semenistaja",
             "Arantxa Rus",
             "Leolia Jeanjean",
             "Lilli Tagger",
@@ -58615,7 +58621,7 @@
           "players": []
         }
       ],
-      "2026-09-01"
+      "2026-09-02"
     ],
     "MONTREUX-125": [
       [
@@ -68485,5 +68491,5 @@
       905
     ]
   ],
-  "old_day": 31
+  "old_day": 1
 }
