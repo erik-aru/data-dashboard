@@ -55189,7 +55189,52 @@
     "          Koike, E\n\n",
     "       8. Laura Valentina Villamil Arias \n",
     "          Villamil Arias, L\n\n",
-    "09:02  OOP in BARRANQUILLA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/order-of-play\n\n"
+    "09:02  OOP in BARRANQUILLA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/order-of-play\n\n",
+    "17:27  change in MONTREUX-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2026/draws\n\n",
+    "       Players added to the draw in MONTREUX-125 SINGLES:    \n\n",
+    "       1. Lucija Ciric Bagaric \n",
+    "          Ciric Bagaric, L\n\n",
+    "       2. Lucie Nguyen Tan \n",
+    "          Nguyen Tan, L\n\n",
+    "       3. Katerina Tsygourova \n",
+    "          Tsygourova, K\n\n",
+    "       4. Martina Trevisan \n",
+    "          Trevisan, M\n\n",
+    "17:27  change in MONTREUX-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2026/draws\n\n",
+    "       Players added to the draw in MONTREUX-125 DOUBLES:    \n\n",
+    "       1. Nicole Fossa Huergo / Lucie Havlickova \n",
+    "          Fossa Huergo, N/Havlickova, L\n\n",
+    "       2. Freya Christie / Eden Silva \n",
+    "          Christie, F/Silva, E\n\n",
+    "       3. Noma Noha Akugue / Anastasiia Sobolieva \n",
+    "          Noha Akugue, N/Sobolieva, A\n\n",
+    "       4. Deborah Chiesa / Naima Karamoko \n",
+    "          Chiesa, D/Karamoko, N\n\n",
+    "       5. Lola Radivojevic / Anastasia Zolotareva \n",
+    "          Radivojevic, L/Zolotareva, A\n\n",
+    "       6. Nuria Brancaccio / Despina Papamichail \n",
+    "          Brancaccio, N/Papamichail, D\n\n",
+    "       7. Lucija Ciric Bagaric / Angelica Moratelli \n",
+    "          Ciric Bagaric, L/Moratelli, A\n\n",
+    "       8. Estelle Cascino / Shuo Feng \n",
+    "          Cascino, E/Feng, S\n\n",
+    "       Players removed from the draw in MONTREUX-125 DOUBLES:    \n\n",
+    "       1. FREYA CHRISTIE / EDEN SILVA \n\n",
+    "       2. ESTELLE CASCINO / SHUO FENG \n\n",
+    "       3. NICOLE FOSSA HUERGO / LUCIE HAVLICKOVA \n\n",
+    "       4. ANGELICA MORATELLI / LUCIJA CIRIC BAGARIC \n\n",
+    "17:27  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2026/order-of-play\n\n",
+    "17:27  change in ANTALYA-125-(ATIK) SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1173/ANTALYA-125-(ATIK)/2026/draws\n\n",
+    "       Players added to the draw in ANTALYA-125-(ATIK) SINGLES:    \n\n",
+    "       1. Ipek Oz \n",
+    "          Oz, I\n\n",
+    "       2. Rositsa Dencheva \n",
+    "          Dencheva, R\n\n",
+    "       3. Samira De Stefano \n",
+    "          De Stefano, S\n\n",
+    "       4. Nastasja Schunk \n",
+    "          Schunk, N\n\n",
+    "17:27  OOP in ANTALYA-125-(ATIK) appeared \u2605\n       https://www.wtatennis.com/tournament/1173/ANTALYA-125-(ATIK)/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -59629,7 +59674,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Simona Waltert",
@@ -59644,6 +59689,7 @@
             "Mona Barthel",
             "Alice Tubello",
             "Barbora Palicova",
+            "Lucija Ciric Bagaric",
             "Gabriella Price",
             "Lucie Havlickova",
             "Lola Radivojevic",
@@ -59651,12 +59697,15 @@
             "Angela Fita Boluda",
             "Mina Hodzic",
             "Anastasiia Sobolieva",
+            "Lucie Nguyen Tan",
             "Alina Granwehr",
             "Denisa Zoldakova",
             "Noma Noha Akugue",
             "Tamara Zidansek",
             "Tessa Johanna Brockmann",
+            "Katerina Tsygourova",
             "Clara Burel",
+            "Martina Trevisan",
             "Jennifer Ruggeri",
             "Guiomar Maristany Zuleta De Reales",
             "Marina Bassols Ribera"
@@ -59665,13 +59714,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "FREYA CHRISTIE / EDEN SILVA",
-            "ESTELLE CASCINO / SHUO FENG",
-            "NICOLE FOSSA HUERGO / LUCIE HAVLICKOVA",
-            "ANGELICA MORATELLI / LUCIJA CIRIC BAGARIC"
+            "Nicole Fossa Huergo / Lucie Havlickova",
+            "Freya Christie / Eden Silva",
+            "Noma Noha Akugue / Anastasiia Sobolieva",
+            "Deborah Chiesa / Naima Karamoko",
+            "Lola Radivojevic / Anastasia Zolotareva",
+            "Nuria Brancaccio / Despina Papamichail",
+            "Lucija Ciric Bagaric / Angelica Moratelli",
+            "Estelle Cascino / Shuo Feng"
           ]
         }
       ],
@@ -59689,7 +59742,7 @@
           "players": []
         }
       ],
-      "2026-09-07"
+      "2026-09-08"
     ],
     "CHANGSHA-125": [
       [
@@ -69487,13 +69540,16 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Francesca Jones",
             "Raluka Serban",
+            "Ipek Oz",
+            "Rositsa Dencheva",
             "Maria Lourdes Carle",
             "Gina Feistel",
+            "Samira De Stefano",
             "Eva Vedder",
             "Lucia Bronzetti",
             "Irene Burillo",
@@ -69513,6 +69569,7 @@
             "Leyre Romero Gormaz",
             "Elena Pridankina",
             "Ane Mintegi Del Olmo",
+            "Nastasja Schunk",
             "Alicia Herrero Linana",
             "Yasmine Kabbaj",
             "Cagla Buyukakcay",
@@ -69559,7 +69616,7 @@
           "players": []
         }
       ],
-      "2026-09-07"
+      "2026-09-08"
     ],
     "BARRANQUILLA-125": [
       [
