@@ -55234,7 +55234,18 @@
     "          De Stefano, S\n\n",
     "       4. Nastasja Schunk \n",
     "          Schunk, N\n\n",
-    "17:27  OOP in ANTALYA-125-(ATIK) appeared \u2605\n       https://www.wtatennis.com/tournament/1173/ANTALYA-125-(ATIK)/2026/order-of-play\n\n"
+    "17:27  OOP in ANTALYA-125-(ATIK) appeared \u2605\n       https://www.wtatennis.com/tournament/1173/ANTALYA-125-(ATIK)/2026/order-of-play\n\n",
+    "22:35  change in BARRANQUILLA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/draws\n\n",
+    "       Players added to the draw in BARRANQUILLA-125 SINGLES:    \n\n",
+    "       1. Carolina Alves \n",
+    "          Alves, C\n\n",
+    "       2. Anna Rogers \n",
+    "          Rogers, A\n\n",
+    "       3. Elsa Jacquemot \n",
+    "          Jacquemot, E\n\n",
+    "       4. Ena Koike \n",
+    "          Koike, E\n\n",
+    "22:35  OOP in BARRANQUILLA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -69637,7 +69648,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Emiliana Arango",
@@ -69645,9 +69656,11 @@
             "Vendula Valdmannova",
             "Carol Young Suh Lee",
             "Leolia Jeanjean",
+            "Carolina Alves",
             "Julieta Pareja",
             "Lucrezia Stefanini",
             "Kaitlin Quevedo",
+            "Anna Rogers",
             "Cadence Brace",
             "Sara Sorribes Tormo",
             "Katrina Scott",
@@ -69657,6 +69670,7 @@
             "Kayla Day",
             "Suzan Lamens",
             "Emanuela Lares",
+            "Elsa Jacquemot",
             "Nao Hibino",
             "Maria Torres Murcia",
             "Anastasia Tikhonova",
@@ -69665,6 +69679,7 @@
             "Julia Riera",
             "Jazmin Ortenzi",
             "Mary Stoiana",
+            "Ena Koike",
             "Nadia Podoroska",
             "Valentina Mediorreal Arias",
             "Anna Blinkova"
@@ -69697,7 +69712,7 @@
           "players": []
         }
       ],
-      "2026-09-07"
+      "2026-09-08"
     ]
   },
   "torns": [
