@@ -55252,7 +55252,31 @@
     "          Cabrera, L\n\n",
     "       Players removed from the draw in BARRANQUILLA-125 SINGLES:    \n\n",
     "       1. Lucrezia Stefanini \n\n",
-    "16:13  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2026/order-of-play\n\n"
+    "16:13  OOP in MONTREUX-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1112/MONTREUX-125/2026/order-of-play\n\n",
+    "22:25  OOP in ANTALYA-125-(ATIK) appeared \u2605\n       https://www.wtatennis.com/tournament/1173/ANTALYA-125-(ATIK)/2026/order-of-play\n\n",
+    "22:25  change in BARRANQUILLA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/draws\n\n",
+    "       Players added to the draw in BARRANQUILLA-125 DOUBLES:    \n\n",
+    "       1. Valeriya Strakhova / Anastasia Tikhonova \n",
+    "          Strakhova, V/Tikhonova, A\n\n",
+    "       2. Elsa Jacquemot / Kaitlin Quevedo \n",
+    "          Jacquemot, E/Quevedo, K\n\n",
+    "       3. Rasheeda McAdoo / Anna Rogers \n",
+    "          McAdoo, R/Rogers, A\n\n",
+    "       4. Alexandra Osborne / Ekaterina Ovcharenko \n",
+    "          Osborne, A/Ovcharenko, E\n\n",
+    "       5. Dominika Salkova / Darja Semenistaja \n",
+    "          Salkova, D/Semenistaja, D\n\n",
+    "       6. Yvonne Cavalle-Reimers / Lara Salden \n",
+    "          Cavalle-Reimers, Y/Salden, L\n\n",
+    "       7. Valentina Mediorreal Arias / Maria Paulina Perez Garcia \n",
+    "          Mediorreal Arias, V/Perez Garcia, M\n\n",
+    "       8. Dalayna Hewitt / Alana Smith \n",
+    "          Hewitt, D/Smith, A\n\n",
+    "       Players removed from the draw in BARRANQUILLA-125 DOUBLES:    \n\n",
+    "       1. LARA SALDEN / YVONNE CAVALLE-REIMERS \n\n",
+    "       2. ALANA SMITH / DALAYNA HEWITT \n\n",
+    "       3. ALEXANDRA OSBORNE / EKATERINA OVCHARENKO \n\n",
+    "       4. RASHEEDA MCADOO / ANNA ROGERS \n\n"
   ],
   "sits": {
     "ROME": [
@@ -69634,7 +69658,7 @@
           "players": []
         }
       ],
-      "2026-09-08"
+      "2026-09-09"
     ],
     "BARRANQUILLA-125": [
       [
@@ -69695,13 +69719,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "LARA SALDEN / YVONNE CAVALLE-REIMERS",
-            "ALANA SMITH / DALAYNA HEWITT",
-            "ALEXANDRA OSBORNE / EKATERINA OVCHARENKO",
-            "RASHEEDA MCADOO / ANNA ROGERS"
+            "Valeriya Strakhova / Anastasia Tikhonova",
+            "Elsa Jacquemot / Kaitlin Quevedo",
+            "Rasheeda McAdoo / Anna Rogers",
+            "Alexandra Osborne / Ekaterina Ovcharenko",
+            "Dominika Salkova / Darja Semenistaja",
+            "Yvonne Cavalle-Reimers / Lara Salden",
+            "Valentina Mediorreal Arias / Maria Paulina Perez Garcia",
+            "Dalayna Hewitt / Alana Smith"
           ]
         }
       ],
