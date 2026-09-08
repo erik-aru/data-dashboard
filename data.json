@@ -55245,7 +55245,13 @@
     "          Jacquemot, E\n\n",
     "       4. Ena Koike \n",
     "          Koike, E\n\n",
-    "22:35  OOP in BARRANQUILLA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/order-of-play\n\n"
+    "22:35  OOP in BARRANQUILLA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/order-of-play\n\n",
+    "08:40  OOP in US-OPEN appeared \u2605\n       https://www.wtatennis.com/tournament/905/US-OPEN/2026/order-of-play\n\n",
+    "08:40  change in BARRANQUILLA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2093/BARRANQUILLA-125/2026/draws\n\n       Players added to the draw in BARRANQUILLA-125 SINGLES:    \n\n",
+    "       1. Lizette Cabrera \n",
+    "          Cabrera, L\n\n",
+    "       Players removed from the draw in BARRANQUILLA-125 SINGLES:    \n\n",
+    "       1. Lucrezia Stefanini \n\n"
   ],
   "sits": {
     "ROME": [
@@ -59656,7 +59662,7 @@
           "players": []
         }
       ],
-      "2026-09-08"
+      "2026-09-09"
     ],
     "MONTREUX-125": [
       [
@@ -69658,7 +69664,7 @@
             "Leolia Jeanjean",
             "Carolina Alves",
             "Julieta Pareja",
-            "Lucrezia Stefanini",
+            "Lizette Cabrera",
             "Kaitlin Quevedo",
             "Anna Rogers",
             "Cadence Brace",
@@ -69733,5 +69739,5 @@
       2093
     ]
   ],
-  "old_day": 7
+  "old_day": 8
 }
