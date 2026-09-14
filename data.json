@@ -56917,7 +56917,45 @@
     "       4. Cadence Brace \n",
     "          Brace, C\n\n",
     "       5. Chloe Paquet \n",
-    "          Paquet, C\n\n"
+    "          Paquet, C\n\n",
+    "17:52  change in CALDAS-DA-RAINHA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2026/draws\n\n",
+    "       Players added to the draw in CALDAS-DA-RAINHA-125 SINGLES:    \n\n",
+    "       1. Kylie Collins \n",
+    "          Collins, K\n\n",
+    "       2. Malaika Rapolu \n",
+    "          Rapolu, M\n\n",
+    "       3. Angelina Voloshchuk \n",
+    "          Voloshchuk, A\n\n",
+    "       4. Elena Malygina \n",
+    "          Malygina, E\n\n",
+    "17:52  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2026/order-of-play\n\n",
+    "17:52  change in SAO-PAULO SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2026/draws\n\n       Players added to the draw in SAO-PAULO SINGLES:    \n\n",
+    "       1. Justina Mikulskyte \n",
+    "          Mikulskyte, J\n\n",
+    "       Players removed from the draw in SAO-PAULO SINGLES:    \n\n",
+    "       1. Leylah Fernandez \n\n",
+    "17:52  change in LJUBLJANA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2026/draws\n\n",
+    "       Players added to the draw in LJUBLJANA-125 SINGLES:    \n\n",
+    "       1. Radka Zelnickova \n",
+    "          Zelnickova, R\n\n",
+    "       2. Martina Colmegna \n",
+    "          Colmegna, M\n\n",
+    "       3. Lea Boskovic \n",
+    "          Boskovic, L\n\n",
+    "       4. Lucija Ciric Bagaric \n",
+    "          Ciric Bagaric, L\n\n",
+    "17:52  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2026/order-of-play\n\n",
+    "17:52  change in VALENCIA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2026/draws\n\n",
+    "       Players added to the draw in VALENCIA-125 SINGLES:    \n\n",
+    "       1. Nastasja Schunk \n",
+    "          Schunk, N\n\n",
+    "       2. Madison Sieg \n",
+    "          Sieg, M\n\n",
+    "       3. Aran Teixido Garcia \n",
+    "          Teixido Garcia, A\n\n",
+    "       4. Joelle Steur \n",
+    "          Steur, J\n\n",
+    "17:52  OOP in VALENCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -58504,10 +58542,12 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Oksana Selekhmeteva",
+            "Nastasja Schunk",
+            "Madison Sieg",
             "Irene Burillo",
             "Alicia Herrero Linana",
             "Lucia Cortez Llorca",
@@ -58524,6 +58564,7 @@
             "Leyre Romero Gormaz",
             "Martina Trevisan",
             "Clara Burel",
+            "Aran Teixido Garcia",
             "Berfu Cengiz",
             "Guiomar Maristany Zuleta De Reales",
             "Eva Bennemann",
@@ -58532,6 +58573,7 @@
             "Carlota Martinez Cirez",
             "Ane Mintegi Del Olmo",
             "Ariana Geerlings",
+            "Joelle Steur",
             "Charo Esquiva Banuls",
             "Francesca Curmi",
             "Veronika Erjavec"
@@ -58564,7 +58606,7 @@
           "players": []
         }
       ],
-      "2026-09-14"
+      "2026-09-15"
     ],
     "NOTTINGHAM": [
       [
@@ -61740,7 +61782,7 @@
         32,
         {
           "players": [
-            "Leylah Fernandez",
+            "Darja Semenistaja",
             "Hayu Kinoshita",
             "Teodora Kostovic",
             "Victoria Luiza Barros",
@@ -61770,7 +61812,7 @@
             "Claire Liu",
             "Jazmin Ortenzi",
             "Chloe Paquet",
-            "Darja Semenistaja",
+            "Justina Mikulskyte",
             "Paula Badosa"
           ]
         }
@@ -61938,14 +61980,16 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Francesca Jones",
             "Alja Senica",
             "Mona Barthel",
+            "Radka Zelnickova",
             "Miriam Bulgaru",
             "Lina Gjorcheska",
+            "Martina Colmegna",
             "Mia Ristic",
             "Lola Radivojevic",
             "Noemi Basiletti",
@@ -61964,10 +62008,12 @@
             "Pia Lovric",
             "Dalma Galfi",
             "Anastasiia Sobolieva",
+            "Lea Boskovic",
             "Giorgia Pedone",
             "Denisa Zoldakova",
             "Weronika Falkowska",
             "Kristina Novak",
+            "Lucija Ciric Bagaric",
             "Laura Samson"
           ]
         }
@@ -62010,7 +62056,7 @@
           "players": []
         }
       ],
-      "2026-09-14"
+      "2026-09-15"
     ],
     "GUADALAJARA-500": [
       [
@@ -62351,19 +62397,21 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Sinja Kraus",
             "Mia Pohankova",
             "Matilde Jorge",
             "Anastasia Gasanova",
+            "Kylie Collins",
             "Katie Swan",
             "Mariia Nozdrachova",
             "Kayla Cross",
             "Noma Noha Akugue",
             "Ayana Akli",
             "Caroline Werner",
+            "Malaika Rapolu",
             "Elena Micic",
             "Anouk Koevermans",
             "Aoi Ito",
@@ -62373,11 +62421,13 @@
             "Erika Andreeva",
             "Viktoria Hruncakova",
             "Kajsa Rinaldo Persson",
+            "Angelina Voloshchuk",
             "Sana Garakani",
             "Lisa Pigato",
             "Jeline Vandromme",
             "Carla Tomai",
             "Ayla Aksu",
+            "Elena Malygina",
             "Francisca Jorge",
             "Xinyu Gao",
             "Katherine Sebov",
@@ -62423,7 +62473,7 @@
           "players": []
         }
       ],
-      "2026-09-14"
+      "2026-09-15"
     ],
     "JINGSHAN-125": [
       [
