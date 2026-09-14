@@ -1,93 +1,5 @@
 {
   "kuits": {
-    "US-OPEN": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "MONTREUX-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "ANTALYA-125-(ATIK)": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "BARRANQUILLA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "GUADALAJARA-500": [
       [
         0,
@@ -56992,7 +56904,20 @@
     "       27. SAMIRA DE STEFANO \n\n",
     "       28. BRENDA FRUHVIRTOVA \n\n",
     "       29. LAURA SAMSON \n\n",
-    "22:11  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2026/order-of-play\n\n"
+    "22:11  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2026/order-of-play\n\n",
+    "09:39  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2026/order-of-play\n\n",
+    "09:39  SAO-PAULO SINGLES draw    \n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2026/draws\n\n",
+    "       Players added to the draw in SAO-PAULO SINGLES:    \n\n",
+    "       1. Hayu Kinoshita \n",
+    "          Kinoshita, H\n\n",
+    "       2. Whitney Osuigwe \n",
+    "          Osuigwe, W\n\n",
+    "       3. Xiaodi You \n",
+    "          You, X\n\n",
+    "       4. Cadence Brace \n",
+    "          Brace, C\n\n",
+    "       5. Chloe Paquet \n",
+    "          Paquet, C\n\n"
   ],
   "sits": {
     "ROME": [
@@ -61812,14 +61737,16 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Leylah Fernandez",
+            "Hayu Kinoshita",
             "Teodora Kostovic",
             "Victoria Luiza Barros",
             "Nauhany Vitoria Leme Da Silva",
             "Astra Sharma",
+            "Whitney Osuigwe",
             "Kaitlin Quevedo",
             "Anna Blinkova",
             "Carol Young Suh Lee",
@@ -61827,6 +61754,7 @@
             "Laura Pigossi",
             "Julia Riera",
             "Elina Avanesyan",
+            "Xiaodi You",
             "Alina Charaeva",
             "Eva Lys",
             "Gabriela Ce",
@@ -61834,12 +61762,14 @@
             "Nadia Podoroska",
             "Suzan Lamens",
             "Carolina Alves",
+            "Cadence Brace",
             "Solana Sierra",
             "Jessica Bouzas Maneiro",
             "Dominika Salkova",
             "Mary Stoiana",
             "Claire Liu",
             "Jazmin Ortenzi",
+            "Chloe Paquet",
             "Darja Semenistaja",
             "Paula Badosa"
           ]
@@ -62181,7 +62111,7 @@
           "players": []
         }
       ],
-      "2026-09-13"
+      "2026-09-14"
     ],
     "SEOUL": [
       [
@@ -71443,22 +71373,6 @@
   },
   "torns": [
     [
-      "US-OPEN",
-      905
-    ],
-    [
-      "MONTREUX-125",
-      1112
-    ],
-    [
-      "ANTALYA-125-(ATIK)",
-      1173
-    ],
-    [
-      "BARRANQUILLA-125",
-      2093
-    ],
-    [
       "GUADALAJARA-500",
       2075
     ],
@@ -71479,5 +71393,5 @@
       2061
     ]
   ],
-  "old_day": 13
+  "old_day": 14
 }
