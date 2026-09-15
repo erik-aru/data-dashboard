@@ -56957,7 +56957,37 @@
     "          Steur, J\n\n",
     "17:52  OOP in VALENCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2026/order-of-play\n\n",
     "22:58  OOP in SAO-PAULO appeared \u2605\n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2026/order-of-play\n\n",
-    "09:15  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2026/order-of-play\n\n"
+    "09:15  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2026/order-of-play\n\n",
+    "16:29  change in CALDAS-DA-RAINHA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2026/draws\n\n       Players added to the draw in CALDAS-DA-RAINHA-125 SINGLES:    \n\n",
+    "       1. Ariana Arseneault \n",
+    "          Arseneault, A\n\n",
+    "       Players removed from the draw in CALDAS-DA-RAINHA-125 SINGLES:    \n\n",
+    "       1. Katie Swan \n\n",
+    "16:29  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2026/order-of-play\n\n",
+    "16:29  change in VALENCIA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2026/draws\n\n",
+    "       Players added to the draw in VALENCIA-125 DOUBLES:    \n\n",
+    "       1. Dalila Jakupovic / Naima Karamoko \n",
+    "          Jakupovic, D/Karamoko, N\n\n",
+    "       2. Lucia Cortez Llorca / Alicia Herrero Linana \n",
+    "          Cortez Llorca, L/Herrero Linana, A\n\n",
+    "       3. Leyre Romero Gormaz / Oksana Selekhmeteva \n",
+    "          Romero Gormaz, L/Selekhmeteva, O\n\n",
+    "       4. Freya Christie / Eden Silva \n",
+    "          Christie, F/Silva, E\n\n",
+    "       5. Despina Papamichail / Eva Vedder \n",
+    "          Papamichail, D/Vedder, E\n\n",
+    "       6. Charo Esquiva Banuls / Aran Teixido Garcia \n",
+    "          Esquiva Banuls, C/Teixido Garcia, A\n\n",
+    "       7. Nuria Brancaccio / Veronika Erjavec \n",
+    "          Brancaccio, N/Erjavec, V\n\n",
+    "       8. Irene Burillo / Nicole Fossa Huergo \n",
+    "          Burillo, I/Fossa Huergo, N\n\n",
+    "       Players removed from the draw in VALENCIA-125 DOUBLES:    \n\n",
+    "       1. FREYA CHRISTIE / EDEN SILVA \n\n",
+    "       2. DALILA JAKUPOVIC / NAIMA KARAMOKO \n\n",
+    "       3. NICOLE FOSSA HUERGO / IRENE BURILLO \n\n",
+    "       4. NURIA BRANCACCIO / VERONIKA ERJAVEC \n\n",
+    "16:29  OOP in VALENCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -58584,13 +58614,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "FREYA CHRISTIE / EDEN SILVA",
-            "DALILA JAKUPOVIC / NAIMA KARAMOKO",
-            "NICOLE FOSSA HUERGO / IRENE BURILLO",
-            "NURIA BRANCACCIO / VERONIKA ERJAVEC"
+            "Dalila Jakupovic / Naima Karamoko",
+            "Lucia Cortez Llorca / Alicia Herrero Linana",
+            "Leyre Romero Gormaz / Oksana Selekhmeteva",
+            "Freya Christie / Eden Silva",
+            "Despina Papamichail / Eva Vedder",
+            "Charo Esquiva Banuls / Aran Teixido Garcia",
+            "Nuria Brancaccio / Veronika Erjavec",
+            "Irene Burillo / Nicole Fossa Huergo"
           ]
         }
       ],
@@ -58608,7 +58642,7 @@
           "players": []
         }
       ],
-      "2026-09-15"
+      "2026-09-16"
     ],
     "NOTTINGHAM": [
       [
@@ -62058,7 +62092,7 @@
           "players": []
         }
       ],
-      "2026-09-15"
+      "2026-09-16"
     ],
     "GUADALAJARA-500": [
       [
@@ -62407,7 +62441,7 @@
             "Matilde Jorge",
             "Anastasia Gasanova",
             "Kylie Collins",
-            "Katie Swan",
+            "Ariana Arseneault",
             "Mariia Nozdrachova",
             "Kayla Cross",
             "Noma Noha Akugue",
