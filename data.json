@@ -57783,7 +57783,46 @@
     "       16. Varvara Gracheva \n\n",
     "       17. Tatiana Prozorova \n\n",
     "       18. Hanna Chang \n\n",
-    "       19. Katie Volynets \n\n"
+    "       19. Katie Volynets \n\n",
+    "15:59  OOP in SAO-PAULO appeared \u2605\n       https://www.wtatennis.com/tournament/1139/SAO-PAULO/2026/order-of-play\n\n",
+    "15:59  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2026/order-of-play\n\n",
+    "15:59  OOP in VALENCIA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2061/VALENCIA-125/2026/order-of-play\n\n",
+    "15:59  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n",
+    "15:59  NEW draw in SINGAPORE QUALS \u2605    \n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/draws\n\n",
+    "       Players added to the draw in SINGAPORE QUALS:    \n\n",
+    "       1. Joanna Garland \n",
+    "          Garland, J\n\n",
+    "       2. Ellen Perez \n",
+    "          Perez, E\n\n",
+    "       3. Nika Radisic \n",
+    "          Radisic, N\n\n",
+    "       4. Viktoria Morvayova \n",
+    "          Morvayova, V\n\n",
+    "       5. Nao Hibino \n",
+    "          Hibino, N\n\n",
+    "       6. Kai Ning Chanya Ng \n",
+    "          Ng, K\n\n",
+    "       7. Aoi Ito \n",
+    "          Ito, A\n\n",
+    "       8. Sofya Lansere \n",
+    "          Lansere, S\n\n",
+    "       9. Mei Yamaguchi \n",
+    "          Yamaguchi, M\n\n",
+    "       10. Ulrikke Eikeri \n",
+    "           Eikeri, U\n\n",
+    "       11. Eva Marie Desvignes \n",
+    "           Desvignes, E\n\n",
+    "       12. Kyoka Okamura \n",
+    "           Okamura, K\n\n",
+    "       13. Anna-Lena Friedsam \n",
+    "           Friedsam, A\n\n",
+    "       14. Desirae Krawczyk \n",
+    "           Krawczyk, D\n\n",
+    "       15. Jiaqi Wang \n",
+    "           Wang, J\n\n",
+    "       16. Anastasia Kulikova \n",
+    "           Kulikova, A\n\n",
+    "15:59  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -59438,7 +59477,7 @@
           "players": []
         }
       ],
-      "2026-09-17"
+      "2026-09-18"
     ],
     "NOTTINGHAM": [
       [
@@ -62688,7 +62727,7 @@
           "players": []
         }
       ],
-      "2026-09-17"
+      "2026-09-18"
     ],
     "HUZHOU-125": [
       [
@@ -62889,7 +62928,7 @@
           "players": []
         }
       ],
-      "2026-09-18"
+      "2026-09-19"
     ],
     "GUADALAJARA-500": [
       [
@@ -63094,7 +63133,7 @@
           "players": []
         }
       ],
-      "2025-09-21"
+      "2026-09-19"
     ],
     "TOLENTINO-125": [
       [
@@ -72251,9 +72290,26 @@
     "SINGAPORE": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Joanna Garland",
+            "Ellen Perez",
+            "Nika Radisic",
+            "Viktoria Morvayova",
+            "Nao Hibino",
+            "Kai Ning Chanya Ng",
+            "Aoi Ito",
+            "Sofya Lansere",
+            "Mei Yamaguchi",
+            "Ulrikke Eikeri",
+            "Eva Marie Desvignes",
+            "Kyoka Okamura",
+            "Anna-Lena Friedsam",
+            "Desirae Krawczyk",
+            "Jiaqi Wang",
+            "Anastasia Kulikova"
+          ]
         }
       ],
       [
@@ -72327,7 +72383,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-09-19"
     ],
     "ANKARA-125": [
       [
