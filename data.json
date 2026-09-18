@@ -57738,7 +57738,52 @@
     "       11. ELENA MICIC / TEODORA KOSTOVIC \n",
     "           MICIC, E/KOSTOVIC, T\n\n",
     "16:27  OOP in LJUBLJANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2044/LJUBLJANA-125/2026/order-of-play\n\n",
-    "22:42  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2026/order-of-play\n\n"
+    "22:42  OOP in CALDAS-DA-RAINHA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1136/CALDAS-DA-RAINHA-125/2026/order-of-play\n\n",
+    "08:51  OOP in GUADALAJARA-500 appeared \u2605\n       https://www.wtatennis.com/tournament/2075/GUADALAJARA-500/2026/order-of-play\n\n",
+    "08:51  SEOUL QUALS draw    \n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/draws\n\n",
+    "       Players added to the draw in SEOUL QUALS:    \n\n",
+    "       1. Tamara Zidansek \n",
+    "          Zidansek, T\n\n",
+    "       2. Xinxin Yao \n",
+    "          Yao, X\n\n",
+    "       3. Priscilla Hon \n",
+    "          Hon, P\n\n",
+    "       4. Alexandra Shubladze \n",
+    "          Shubladze, A\n\n",
+    "       5. Haruka Kaji \n",
+    "          Kaji, H\n\n",
+    "       6. Darya Astakhova \n",
+    "          Astakhova, D\n\n",
+    "       7. Alevtina Ibragimova \n",
+    "          Ibragimova, A\n\n",
+    "       8. Rina Saigo \n",
+    "          Saigo, R\n\n",
+    "       9. Sara Saito \n",
+    "          Saito, S\n\n",
+    "       10. Carol Zhao \n",
+    "           Zhao, C\n\n",
+    "       11. Ye-Xin Ma \n",
+    "           Ma, Y\n\n",
+    "       Players removed from the draw in SEOUL QUALS:    \n\n",
+    "       1. Alycia Parks \n\n",
+    "       2. Chloe Paquet \n\n",
+    "       3. Linda Fruhvirtova \n\n",
+    "       4. Yafan Wang \n\n",
+    "       5. Caty McNally \n\n",
+    "       6. Anna Blinkova \n\n",
+    "       7. Kyoka Okamura \n\n",
+    "       8. Jessika Ponchet \n\n",
+    "       9. Maria Lourdes Carle \n\n",
+    "       10. Katerina Siniakova \n\n",
+    "       11. Astra Sharma \n\n",
+    "       12. Su Jeong Jang \n\n",
+    "       13. Talia Gibson \n\n",
+    "       14. Anastasia Zakharova \n\n",
+    "       15. Ella Seidel \n\n",
+    "       16. Varvara Gracheva \n\n",
+    "       17. Tatiana Prozorova \n\n",
+    "       18. Hanna Chang \n\n",
+    "       19. Katie Volynets \n\n"
   ],
   "sits": {
     "ROME": [
@@ -62945,38 +62990,30 @@
           "players": []
         }
       ],
-      "2026-09-17"
+      "2026-09-18"
     ],
     "SEOUL": [
       [
         0,
-        24,
+        16,
         {
           "players": [
-            "Alycia Parks",
-            "Chloe Paquet",
+            "Tamara Zidansek",
             "Boyoung Jeong",
-            "Linda Fruhvirtova",
-            "En-Shuo Liang",
-            "Eunhye Lee",
-            "Yafan Wang",
-            "Caty McNally",
-            "Anna Blinkova",
-            "Kyoka Okamura",
-            "Jessika Ponchet",
-            "Maria Lourdes Carle",
-            "Katerina Siniakova",
-            "Astra Sharma",
-            "Su Jeong Jang",
-            "Talia Gibson",
-            "Anastasia Zakharova",
+            "Xinxin Yao",
+            "Priscilla Hon",
+            "Alexandra Shubladze",
             "Gaeul Jang",
+            "Haruka Kaji",
+            "Darya Astakhova",
+            "Alevtina Ibragimova",
+            "Rina Saigo",
+            "En-Shuo Liang",
+            "Sara Saito",
             "Mai Hontama",
-            "Ella Seidel",
-            "Varvara Gracheva",
-            "Tatiana Prozorova",
-            "Hanna Chang",
-            "Katie Volynets"
+            "Eunhye Lee",
+            "Carol Zhao",
+            "Ye-Xin Ma"
           ]
         }
       ],
@@ -72423,5 +72460,5 @@
       1178
     ]
   ],
-  "old_day": 17
+  "old_day": 18
 }
