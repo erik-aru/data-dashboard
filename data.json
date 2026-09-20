@@ -1,27 +1,5 @@
 {
   "kuits": {
-    "GUADALAJARA-500": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CALDAS-DA-RAINHA-125": [
       [
         0,
@@ -58231,7 +58209,29 @@
     "       14. Ekaterina Ovcharenko \n\n",
     "       15. Madison Sieg \n\n",
     "       16. Yasmine Mansouri \n\n",
-    "22:12  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n"
+    "22:12  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n",
+    "09:08  SEOUL SINGLES draw    \n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/draws\n\n",
+    "       Players added to the draw in SEOUL SINGLES:    \n\n",
+    "       1. Darya Astakhova \n",
+    "          Astakhova, D\n\n",
+    "       2. Xinxin Yao \n",
+    "          Yao, X\n\n",
+    "       3. Alevtina Ibragimova \n",
+    "          Ibragimova, A\n\n",
+    "       4. Ye-Xin Ma \n",
+    "          Ma, Y\n\n",
+    "09:08  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n",
+    "09:08  SINGAPORE SINGLES draw    \n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/draws\n\n",
+    "       Players added to the draw in SINGAPORE SINGLES:    \n\n",
+    "       1. Kyoka Okamura \n",
+    "          Okamura, K\n\n",
+    "       2. Anna-Lena Friedsam \n",
+    "          Friedsam, A\n\n",
+    "       3. Joanna Garland \n",
+    "          Garland, J\n\n",
+    "       4. Nao Hibino \n",
+    "          Hibino, N\n\n",
+    "09:08  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -63467,7 +63467,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Jelena Ostapenko",
@@ -63476,6 +63476,7 @@
             "Himeno Sakatsume",
             "Alina Korneeva",
             "Mananchaya Sawangkaew",
+            "Darya Astakhova",
             "Magda Linette",
             "Lanlana Tararudee",
             "Moyuka Uchijima",
@@ -63483,11 +63484,13 @@
             "Robin Montgomery",
             "Yue Yuan",
             "Dayeon Back",
+            "Xinxin Yao",
             "Maya Joint",
             "Anna Bondar",
             "Renata Zarazua",
             "Alina Charaeva",
             "Sofia Kenin",
+            "Alevtina Ibragimova",
             "Yeonwoo Ku",
             "Eva Lys",
             "Elena-Gabriela Ruse",
@@ -63496,6 +63499,7 @@
             "Katie Volynets",
             "Elvina Kalieva",
             "Emerson Jones",
+            "Ye-Xin Ma",
             "Tamara Zidansek",
             "Kimberly Birrell"
           ]
@@ -63539,7 +63543,7 @@
           "players": []
         }
       ],
-      "2026-09-20"
+      "2026-09-21"
     ],
     "TOLENTINO-125": [
       [
@@ -72722,7 +72726,7 @@
       ],
       [
         1,
-        24,
+        28,
         {
           "players": [
             "Mirra Andreeva",
@@ -72730,9 +72734,11 @@
             "Aliaksandra Sasnovich",
             "Alycia Parks",
             "Janice Tjen",
+            "Kyoka Okamura",
             "Leylah Fernandez",
             "Elise Mertens",
             "Barbora Krejcikova",
+            "Anna-Lena Friedsam",
             "Vivian Wolff",
             "Oleksandra Oliynykova",
             "Rebecca Sramkova",
@@ -72740,12 +72746,14 @@
             "Donna Vekic",
             "Xinyu Wang",
             "Storm Hunter",
+            "Joanna Garland",
             "Tatiana Prozorova",
             "Sofia Costoulas",
             "Alexandra Eala",
             "Maria Sakkari",
             "Linda Fruhvirtova",
             "Kristina Mladenovic",
+            "Nao Hibino",
             "Talia Gibson",
             "Fiona Ferro",
             "Amanda Anisimova"
@@ -72790,7 +72798,7 @@
           "players": []
         }
       ],
-      "2026-09-20"
+      "2026-09-21"
     ],
     "ANKARA-125": [
       [
@@ -72898,10 +72906,6 @@
   },
   "torns": [
     [
-      "GUADALAJARA-500",
-      2075
-    ],
-    [
       "CALDAS-DA-RAINHA-125",
       1136
     ],
@@ -72938,5 +72942,5 @@
       1178
     ]
   ],
-  "old_day": 19
+  "old_day": 20
 }
