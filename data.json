@@ -1,93 +1,5 @@
 {
   "kuits": {
-    "CALDAS-DA-RAINHA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "SAO-PAULO": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "LJUBLJANA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "VALENCIA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "SEOUL": [
       [
         0,
@@ -58619,7 +58531,17 @@
     "       11. ELENA MICIC / TEODORA KOSTOVIC \n\n",
     "15:38  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n",
     "22:14  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2026/order-of-play\n\n",
-    "22:14  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n"
+    "22:14  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n",
+    "09:43  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n",
+    "09:43  SINGAPORE SINGLES draw    \n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/draws\n\n",
+    "       Players added to the draw in SINGAPORE SINGLES:    \n\n",
+    "       1. Mei Yamaguchi \n",
+    "          Yamaguchi, M\n\n",
+    "09:43  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n",
+    "09:43  ANKARA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/draws\n\n",
+    "       Players added to the draw in ANKARA-125 SINGLES:    \n\n",
+    "       Players removed from the draw in ANKARA-125 SINGLES:    \n\n",
+    "       1. Julia Avdeeva \n\n"
   ],
   "sits": {
     "ROME": [
@@ -63926,7 +63848,7 @@
           "players": []
         }
       ],
-      "2026-09-21"
+      "2026-09-22"
     ],
     "TOLENTINO-125": [
       [
@@ -73099,13 +73021,14 @@
       ],
       [
         1,
-        27,
+        28,
         {
           "players": [
             "Mirra Andreeva",
             "Daria Kasatkina",
             "Aliaksandra Sasnovich",
             "Alycia Parks",
+            "Mei Yamaguchi",
             "Kyoka Okamura",
             "Leylah Fernandez",
             "Elise Mertens",
@@ -73170,7 +73093,7 @@
           "players": []
         }
       ],
-      "2026-09-21"
+      "2026-09-22"
     ],
     "ANKARA-125": [
       [
@@ -73197,7 +73120,7 @@
       ],
       [
         1,
-        28,
+        27,
         {
           "players": [
             "Solana Sierra",
@@ -73215,7 +73138,7 @@
             "Alya Naz Altinel",
             "Han Shi",
             "Yuki Naito",
-            "Julia Avdeeva",
+            "Ayla Aksu",
             "Teodora Kostovic",
             "Carolyn Ansari",
             "Elena Ruxandra Bertea",
@@ -73225,7 +73148,6 @@
             "Julia Riera",
             "Elena Pridankina",
             "Lina Gjorcheska",
-            "Ayla Aksu",
             "Viktoria Hruncakova",
             "Polina Iatcenko"
           ]
@@ -73274,22 +73196,6 @@
   },
   "torns": [
     [
-      "CALDAS-DA-RAINHA-125",
-      1136
-    ],
-    [
-      "SAO-PAULO",
-      1139
-    ],
-    [
-      "LJUBLJANA-125",
-      2044
-    ],
-    [
-      "VALENCIA-125",
-      2061
-    ],
-    [
       "SEOUL",
       1024
     ],
@@ -73310,5 +73216,5 @@
       1178
     ]
   ],
-  "old_day": 20
+  "old_day": 21
 }
