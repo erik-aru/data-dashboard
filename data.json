@@ -58632,7 +58632,13 @@
     "          Falkowska, W\n\n",
     "       5. Ilay Yoruk \n",
     "          Yoruk, I\n\n",
-    "17:58  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n"
+    "17:58  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n",
+    "09:07  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n",
+    "09:07  change in SINGAPORE SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/draws\n\n       Players added to the draw in SINGAPORE SINGLES:    \n\n",
+    "       1. Viktoria Morvayova \n",
+    "          Morvayova, V\n\n",
+    "       Players removed from the draw in SINGAPORE SINGLES:    \n\n",
+    "       1. Amanda Anisimova \n\n"
   ],
   "sits": {
     "ROME": [
@@ -63944,7 +63950,7 @@
           "players": []
         }
       ],
-      "2026-09-22"
+      "2026-09-23"
     ],
     "TOLENTINO-125": [
       [
@@ -73157,7 +73163,7 @@
             "Nao Hibino",
             "Talia Gibson",
             "Fiona Ferro",
-            "Amanda Anisimova"
+            "Viktoria Morvayova"
           ]
         }
       ],
@@ -73327,5 +73333,5 @@
       1178
     ]
   ],
-  "old_day": 21
+  "old_day": 22
 }
