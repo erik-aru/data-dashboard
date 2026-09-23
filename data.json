@@ -58642,7 +58642,13 @@
     "16:29  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n",
     "16:29  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n",
     "16:29  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n",
-    "22:47  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2026/order-of-play\n\n"
+    "22:47  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2026/order-of-play\n\n",
+    "09:08  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n",
+    "09:08  change in SINGAPORE DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/draws\n\n       Players added to the draw in SINGAPORE DOUBLES:    \n\n",
+    "       1. Anna-Lena Friedsam / Aliaksandra Sasnovich \n",
+    "          Friedsam, A/Sasnovich, A\n\n",
+    "       Players removed from the draw in SINGAPORE DOUBLES:    \n\n",
+    "       1. Maja Chwalinska / Barbora Krejcikova \n\n"
   ],
   "sits": {
     "ROME": [
@@ -63954,7 +63960,7 @@
           "players": []
         }
       ],
-      "2026-09-23"
+      "2026-09-24"
     ],
     "TOLENTINO-125": [
       [
@@ -73188,7 +73194,7 @@
             "Sofia Costoulas / Talia Gibson",
             "Ingrid Neel / Giuliana Olmos",
             "Kristina Mladenovic / Alexandra Panova",
-            "Maja Chwalinska / Barbora Krejcikova",
+            "Anna-Lena Friedsam / Aliaksandra Sasnovich",
             "Erin Routliffe / Aldila Sutjiadi",
             "Joanna Garland / Su-Wei Hsieh",
             "Tereza Mihalikova / Olivia Nicholls"
@@ -73337,5 +73343,5 @@
       1178
     ]
   ],
-  "old_day": 22
+  "old_day": 23
 }
