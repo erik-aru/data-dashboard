@@ -58966,7 +58966,8 @@
     "16:41  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2026/order-of-play\n\n",
     "16:41  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n",
     "16:41  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n",
-    "16:41  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n"
+    "16:41  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n",
+    "09:27  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -64278,7 +64279,7 @@
           "players": []
         }
       ],
-      "2026-09-25"
+      "2026-09-26"
     ],
     "TOLENTINO-125": [
       [
@@ -73757,5 +73758,5 @@
       1179
     ]
   ],
-  "old_day": 24
+  "old_day": 25
 }
