@@ -58967,7 +58967,48 @@
     "16:41  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n",
     "16:41  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n",
     "16:41  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n",
-    "09:27  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n"
+    "09:27  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n",
+    "16:46  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n",
+    "16:46  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n",
+    "16:46  change in JINGSHAN-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2026/draws\n\n",
+    "       Players added to the draw in JINGSHAN-125 QUALS:    \n\n",
+    "       1. Priska Nugroho \n",
+    "          Nugroho, P\n\n",
+    "       2. Ekaterina Yashina \n",
+    "          Yashina, E\n\n",
+    "       3. Yujia Huang \n",
+    "          Huang, Y\n\n",
+    "       4. Amelia Rajecki \n",
+    "          Rajecki, A\n\n",
+    "       5. Hiroko Kuwata \n",
+    "          Kuwata, H\n\n",
+    "       6. Nika Radisic \n",
+    "          Radisic, N\n\n",
+    "       7. Chengyiyi Yuan \n",
+    "          Yuan, C\n\n",
+    "       8. Polina Leykina \n",
+    "          Leykina, P\n\n",
+    "       9. Wushuang Zheng \n",
+    "          Zheng, W\n\n",
+    "       10. Kristiana Sidorova \n",
+    "           Sidorova, K\n\n",
+    "       11. Aruzhan Sagandykova \n",
+    "           Sagandykova, A\n\n",
+    "       12. Natsumi Kawaguchi \n",
+    "           Kawaguchi, N\n\n",
+    "       Players removed from the draw in JINGSHAN-125 QUALS:    \n\n",
+    "       1. Ekaterina Reyngold \n\n",
+    "       2. Valeria Savinykh \n\n",
+    "       3. Qiu Yu Ye \n\n",
+    "       4. Lea Ma \n\n",
+    "       5. Fang Ying Xun \n\n",
+    "       6. Lian Tran \n\n",
+    "       7. Fangran Tian \n\n",
+    "       8. Katarina Zavatska \n\n",
+    "       9. Diletta Cherubini \n\n",
+    "       10. Jing-Jing Lu \n\n",
+    "       11. Riya Bhatia \n\n",
+    "16:46  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -64493,23 +64534,24 @@
     "JINGSHAN-125": [
       [
         0,
-        14,
+        15,
         {
           "players": [
-            "Ekaterina Reyngold",
-            "Valeria Savinykh",
-            "Qiu Yu Ye",
-            "Lea Ma",
-            "Fang Ying Xun",
+            "Priska Nugroho",
+            "Ekaterina Yashina",
+            "Yujia Huang",
+            "Amelia Rajecki",
+            "Hiroko Kuwata",
+            "Nika Radisic",
+            "Chengyiyi Yuan",
             "Jiaqi Wang",
             "Ying Zhang",
-            "Lian Tran",
-            "Fangran Tian",
+            "Polina Leykina",
+            "Wushuang Zheng",
+            "Kristiana Sidorova",
+            "Aruzhan Sagandykova",
             "Meiqi Guo",
-            "Katarina Zavatska",
-            "Diletta Cherubini",
-            "Jing-Jing Lu",
-            "Riya Bhatia"
+            "Natsumi Kawaguchi"
           ]
         }
       ],
@@ -64591,7 +64633,7 @@
           "players": []
         }
       ],
-      "2025-09-28"
+      "2026-09-26"
     ],
     "BEIJING": [
       [
@@ -73534,7 +73576,7 @@
           "players": []
         }
       ],
-      "2026-09-25"
+      "2026-09-26"
     ],
     "ANKARA-125": [
       [
@@ -73637,7 +73679,7 @@
           "players": []
         }
       ],
-      "2026-09-25"
+      "2026-09-26"
     ],
     "ADANA-125": [
       [
