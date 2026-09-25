@@ -59008,7 +59008,42 @@
     "       9. Diletta Cherubini \n\n",
     "       10. Jing-Jing Lu \n\n",
     "       11. Riya Bhatia \n\n",
-    "16:46  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2026/order-of-play\n\n"
+    "16:46  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2026/order-of-play\n\n",
+    "23:09  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n",
+    "23:09  NEW draw in ADANA-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/draws\n\n",
+    "       Players added to the draw in ADANA-125 QUALS:    \n\n",
+    "       1. Anna Siskova \n",
+    "          Siskova, A\n\n",
+    "       2. Gina Feistel \n",
+    "          Feistel, G\n\n",
+    "       3. Melis Keser \n",
+    "          Keser, M\n\n",
+    "       4. Elena Ruxandra Bertea \n",
+    "          Bertea, E\n\n",
+    "       5. Viktoria Hruncakova \n",
+    "          Hruncakova, V\n\n",
+    "       6. Jaeda Daniel \n",
+    "          Daniel, J\n\n",
+    "       7. Aysegul Mert \n",
+    "          Mert, A\n\n",
+    "       8. Anastasia Tikhonova \n",
+    "          Tikhonova, A\n\n",
+    "       9. Erika Andreeva \n",
+    "          Andreeva, E\n\n",
+    "       10. Ilay Yoruk \n",
+    "           Yoruk, I\n\n",
+    "       11. Isabella Shinikova \n",
+    "           Shinikova, I\n\n",
+    "       12. Elena Micic \n",
+    "           Micic, E\n\n",
+    "       13. Fiona Crawley \n",
+    "           Crawley, F\n\n",
+    "       14. Adelina Lacinova \n",
+    "           Lacinova, A\n\n",
+    "       15. Piraye Ozdemir \n",
+    "           Ozdemir, P\n\n",
+    "       16. Lois Boisson \n",
+    "           Boisson, L\n\n"
   ],
   "sits": {
     "ROME": [
@@ -61804,7 +61839,7 @@
           "players": []
         }
       ],
-      "2026-09-25"
+      "2026-09-26"
     ],
     "HAMBURG": [
       [
@@ -73684,9 +73719,26 @@
     "ADANA-125": [
       [
         0,
-        0,
+        16,
         {
-          "players": []
+          "players": [
+            "Anna Siskova",
+            "Gina Feistel",
+            "Melis Keser",
+            "Elena Ruxandra Bertea",
+            "Viktoria Hruncakova",
+            "Jaeda Daniel",
+            "Aysegul Mert",
+            "Anastasia Tikhonova",
+            "Erika Andreeva",
+            "Ilay Yoruk",
+            "Isabella Shinikova",
+            "Elena Micic",
+            "Fiona Crawley",
+            "Adelina Lacinova",
+            "Piraye Ozdemir",
+            "Lois Boisson"
+          ]
         }
       ],
       [
