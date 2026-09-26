@@ -59484,7 +59484,16 @@
     "       29. Jaqueline Cristian / Leylah Fernandez \n\n",
     "       30. Lyudmyla Kichenok / Ellen Perez \n\n",
     "       31. Irina Khromacheva / Aldila Sutjiadi \n\n",
-    "       32. Sara Errani / Jasmine Paolini \n\n"
+    "       32. Sara Errani / Jasmine Paolini \n\n",
+    "15:58  OOP in TOLENTINO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1133/TOLENTINO-125/2026/order-of-play\n\n",
+    "15:58  OOP in PORTO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1135/PORTO-125/2026/order-of-play\n\n",
+    "15:58  OOP in SINGAPORE appeared \u2605\n       https://www.wtatennis.com/tournament/1152/SINGAPORE/2026/order-of-play\n\n",
+    "15:58  OOP in ANKARA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1178/ANKARA-125/2026/order-of-play\n\n",
+    "15:58  change in ADANA-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/draws\n\n",
+    "       Players added to the draw in ADANA-125 QUALS:    \n\n",
+    "       Players removed from the draw in ADANA-125 QUALS:    \n\n",
+    "       1. Anna Siskova \n\n",
+    "15:58  OOP in ADANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -62280,7 +62289,7 @@
           "players": []
         }
       ],
-      "2026-09-26"
+      "2026-09-27"
     ],
     "HAMBURG": [
       [
@@ -64900,7 +64909,7 @@
           "players": []
         }
       ],
-      "2026-09-25"
+      "2026-09-27"
     ],
     "CALDAS-DA-RAINHA-125": [
       [
@@ -74066,7 +74075,7 @@
           "players": []
         }
       ],
-      "2026-09-26"
+      "2026-09-27"
     ],
     "ANKARA-125": [
       [
@@ -74169,15 +74178,14 @@
           "players": []
         }
       ],
-      "2026-09-26"
+      "2026-09-27"
     ],
     "ADANA-125": [
       [
         0,
-        16,
+        15,
         {
           "players": [
-            "Anna Siskova",
             "Gina Feistel",
             "Melis Keser",
             "Elena Ruxandra Bertea",
@@ -74274,7 +74282,7 @@
           "players": []
         }
       ],
-      "2026-09-26"
+      "2026-09-27"
     ]
   },
   "torns": [
