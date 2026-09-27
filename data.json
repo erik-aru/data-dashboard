@@ -59493,7 +59493,9 @@
     "       Players added to the draw in ADANA-125 QUALS:    \n\n",
     "       Players removed from the draw in ADANA-125 QUALS:    \n\n",
     "       1. Anna Siskova \n\n",
-    "15:58  OOP in ADANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/order-of-play\n\n"
+    "15:58  OOP in ADANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/order-of-play\n\n",
+    "09:52  OOP in SEOUL appeared \u2605\n       https://www.wtatennis.com/tournament/1024/SEOUL/2026/order-of-play\n\n",
+    "09:52  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -64805,7 +64807,7 @@
           "players": []
         }
       ],
-      "2026-09-26"
+      "2026-09-27"
     ],
     "TOLENTINO-125": [
       [
@@ -65118,7 +65120,7 @@
           "players": []
         }
       ],
-      "2026-09-26"
+      "2026-09-27"
     ],
     "BEIJING": [
       [
@@ -74319,5 +74321,5 @@
       1020
     ]
   ],
-  "old_day": 26
+  "old_day": 27
 }
