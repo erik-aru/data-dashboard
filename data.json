@@ -60139,7 +60139,14 @@
     "       1. Alina Korneeva \n\n",
     "       2. Petra Marcinko \n\n",
     "10:27  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2026/order-of-play\n\n",
-    "17:48  OOP in ADANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/order-of-play\n\n"
+    "17:48  OOP in ADANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/order-of-play\n\n",
+    "10:19  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2026/order-of-play\n\n",
+    "10:19  change in BEIJING SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1020/BEIJING/2026/draws\n\n       Players added to the draw in BEIJING SINGLES:    \n\n",
+    "       1. Yexin Ma \n",
+    "          Ma, Y\n\n",
+    "       Players removed from the draw in BEIJING SINGLES:    \n\n",
+    "       1. Mayar Sherif \n\n",
+    "10:19  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -65764,7 +65771,7 @@
           "players": []
         }
       ],
-      "2026-09-30"
+      "2026-10-01"
     ],
     "BEIJING": [
       [
@@ -65895,7 +65902,7 @@
             "Tamara Korpatsch",
             "Diane Parry",
             "Clara Tauson",
-            "Mayar Sherif",
+            "Yexin Ma",
             "Polina Kudermetova",
             "Oleksandra Oliynykova",
             "Yue Yuan",
@@ -65973,7 +65980,7 @@
           "players": []
         }
       ],
-      "2026-09-30"
+      "2026-10-01"
     ],
     "COSENZA-125": [
       [
@@ -74923,5 +74930,5 @@
       1020
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
