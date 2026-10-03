@@ -60633,7 +60633,18 @@
     "       13. Clervie Ngounoue \n\n",
     "       14. Linda Fruhvirtova \n\n",
     "17:35  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2026/order-of-play\n\n",
-    "23:35  OOP in ADANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/order-of-play\n\n"
+    "23:35  OOP in ADANA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1179/ADANA-125/2026/order-of-play\n\n",
+    "09:42  OOP in JINGSHAN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1143/JINGSHAN-125/2026/order-of-play\n\n",
+    "09:42  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2026/order-of-play\n\n",
+    "09:42  change in SUZHOU-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2026/draws\n\n       Players added to the draw in SUZHOU-125 QUALS:    \n\n",
+    "       1. Rinko Matsuda \n",
+    "          Matsuda, R\n\n",
+    "       2. Wushuang Zheng \n",
+    "          Zheng, W\n\n",
+    "       Players removed from the draw in SUZHOU-125 QUALS:    \n\n",
+    "       1. Darya Astakhova \n\n",
+    "       2. Sofya Lansere \n\n",
+    "09:42  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -66258,7 +66269,7 @@
           "players": []
         }
       ],
-      "2026-10-03"
+      "2026-10-04"
     ],
     "BEIJING": [
       [
@@ -66475,7 +66486,7 @@
           "players": []
         }
       ],
-      "2026-10-03"
+      "2026-10-04"
     ],
     "COSENZA-125": [
       [
@@ -66588,7 +66599,7 @@
         16,
         {
           "players": [
-            "Darya Astakhova",
+            "Rinko Matsuda",
             "Sijia Wei",
             "Priska Nugroho",
             "Kyoka Okamura",
@@ -66600,7 +66611,7 @@
             "Kristiana Sidorova",
             "Yujia Huang",
             "Darya Khamutsianskaya",
-            "Sofya Lansere",
+            "Wushuang Zheng",
             "Yihan Qu",
             "Jia-Jing Lu",
             "Zongyu Li"
@@ -66685,7 +66696,7 @@
           "players": []
         }
       ],
-      "2026-10-03"
+      "2026-10-04"
     ],
     "SAMSUN-125": [
       [
@@ -75433,5 +75444,5 @@
       1149
     ]
   ],
-  "old_day": 2
+  "old_day": 3
 }
