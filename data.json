@@ -1,49 +1,5 @@
 {
   "kuits": {
-    "JINGSHAN-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "ADANA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "BEIJING": [
       [
         0,
@@ -61002,7 +60958,21 @@
     "          Yashina, E\n\n",
     "       Players removed from the draw in SAMSUN-125 QUALS:    \n\n",
     "       1. Zhibek Kulambayeva \n\n",
-    "16:35  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2026/order-of-play\n\n"
+    "16:35  OOP in SAMSUN-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1149/SAMSUN-125/2026/order-of-play\n\n",
+    "11:14  OOP in BEIJING appeared \u2605\n       https://www.wtatennis.com/tournament/1020/BEIJING/2026/order-of-play\n\n",
+    "11:14  SUZHOU-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2026/draws\n\n",
+    "       Players added to the draw in SUZHOU-125 SINGLES:    \n\n",
+    "       1. Wushuang Zheng \n",
+    "          Zheng, W\n\n",
+    "       2. Darya Khamutsianskaya \n",
+    "          Khamutsianskaya, D\n\n",
+    "       3. Han Shi \n",
+    "          Shi, H\n\n",
+    "       4. Kyoka Okamura \n",
+    "          Okamura, K\n\n",
+    "       5. Jia-Jing Lu \n",
+    "          Lu, J\n\n",
+    "11:14  OOP in SUZHOU-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1147/SUZHOU-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -66844,7 +66814,7 @@
           "players": []
         }
       ],
-      "2026-10-05"
+      "2026-10-06"
     ],
     "COSENZA-125": [
       [
@@ -66978,10 +66948,11 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Oleksandra Oliynykova",
+            "Wushuang Zheng",
             "Hanyu Guo",
             "Aliona Falei",
             "Alevtina Ibragimova",
@@ -66990,9 +66961,11 @@
             "Claire Liu",
             "Yulia Putintseva",
             "Yushan Shao",
+            "Darya Khamutsianskaya",
             "Tyra Caterina Grant",
             "Sofia Costoulas",
             "Darya Astakhova",
+            "Han Shi",
             "Renata Zarazua",
             "Moyuka Uchijima",
             "Zhuoxuan Bai",
@@ -67000,6 +66973,7 @@
             "Mai Hontama",
             "Ruien Zhang",
             "Tatiana Prozorova",
+            "Kyoka Okamura",
             "Darja Vidmanova",
             "Mananchaya Sawangkaew",
             "Linda Fruhvirtova",
@@ -67007,6 +66981,7 @@
             "Aliaksandra Sasnovich",
             "Elvina Kalieva",
             "Yexin Ma",
+            "Jia-Jing Lu",
             "Tamara Korpatsch"
           ]
         }
@@ -67049,7 +67024,7 @@
           "players": []
         }
       ],
-      "2026-10-05"
+      "2026-10-06"
     ],
     "SAMSUN-125": [
       [
@@ -75771,14 +75746,6 @@
   },
   "torns": [
     [
-      "JINGSHAN-125",
-      1143
-    ],
-    [
-      "ADANA-125",
-      1179
-    ],
-    [
       "BEIJING",
       1020
     ],
@@ -75791,5 +75758,5 @@
       1149
     ]
   ],
-  "old_day": 4
+  "old_day": 5
 }
