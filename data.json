@@ -62289,7 +62289,36 @@
     "           Cakarevic, S\n\n",
     "       16. Katerina Tsygourova \n",
     "           Tsygourova, K\n\n",
-    "17:04  OOP in LISBON-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/order-of-play\n\n"
+    "17:04  OOP in LISBON-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/order-of-play\n\n",
+    "10:39  WUHAN SINGLES draw    \n       https://www.wtatennis.com/tournament/1075/WUHAN/2026/draws\n\n",
+    "       Players added to the draw in WUHAN SINGLES:    \n\n",
+    "       1. Aoi Ito \n",
+    "          Ito, A\n\n",
+    "       2. Mananchaya Sawangkaew \n",
+    "          Sawangkaew, M\n\n",
+    "       3. Magdalena Frech \n",
+    "          Frech, M\n\n",
+    "       4. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       5. Caty McNally \n",
+    "          McNally, C\n\n",
+    "       6. Yulia Putintseva \n",
+    "          Putintseva, Y\n\n",
+    "       7. Zeynep Sonmez \n",
+    "          Sonmez, Z\n\n",
+    "       8. Han Shi \n",
+    "          Shi, H\n\n",
+    "       9. Daria Kasatkina \n",
+    "          Kasatkina, D\n\n",
+    "       Players removed from the draw in WUHAN SINGLES:    \n\n",
+    "       1. Oleksandra Oliynykova \n\n",
+    "       2. Linda Noskova \n\n",
+    "10:39  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2026/order-of-play\n\n",
+    "10:39  change in LISBON-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/draws\n\n       Players added to the draw in LISBON-125 QUALS:    \n\n",
+    "       1. Mathilde Lollia \n",
+    "          Lollia, M\n\n",
+    "       Players removed from the draw in LISBON-125 QUALS:    \n\n",
+    "       1. Hannah Klugman \n\n"
   ],
   "sits": {
     "ROME": [
@@ -68587,20 +68616,21 @@
       ],
       [
         1,
-        48,
+        55,
         {
           "players": [
             "Aryna Sabalenka",
             "Ann Li",
             "Qinwen Zheng",
             "Janice Tjen",
-            "Oleksandra Oliynykova",
+            "Aoi Ito",
             "Daria Snigur",
             "Elise Mertens",
-            "Belinda Bencic",
+            "Anna Kalinskaya",
             "Shuai Zhang",
             "Diane Parry",
-            "Anna Kalinskaya",
+            "Mananchaya Sawangkaew",
+            "Magdalena Frech",
             "Iga Swiatek",
             "Mirra Andreeva",
             "Dayana Yastremska",
@@ -68620,6 +68650,7 @@
             "Katerina Siniakova",
             "Liudmila Samsonova",
             "Kimberly Birrell",
+            "Katie Volynets",
             "Hanyu Guo",
             "Sorana Cirstea",
             "Jasmine Paolini",
@@ -68628,14 +68659,19 @@
             "Nikola Bartunkova",
             "Anhelina Kalinina",
             "Sonay Kartal",
-            "Linda Noskova",
+            "Belinda Bencic",
             "Karolina Muchova",
+            "Caty McNally",
             "Yuliia Starodubtseva",
+            "Yulia Putintseva",
+            "Zeynep Sonmez",
             "Katie Boulter",
             "Diana Shnaider",
             "Alexandra Eala",
+            "Han Shi",
             "Ekaterina Alexandrova",
             "Leylah Fernandez",
+            "Daria Kasatkina",
             "Jelena Ostapenko",
             "Jessica Pegula"
           ]
@@ -68691,7 +68727,7 @@
           "players": []
         }
       ],
-      "2026-10-11"
+      "2026-10-12"
     ],
     "OSAKA": [
       [
@@ -77058,7 +77094,7 @@
             "Adrienn Nagy",
             "Teresa Franco Dias",
             "Iva Primorac Pavicic",
-            "Hannah Klugman",
+            "Mathilde Lollia",
             "Maria Martinez Vaquero",
             "Pia Lovric",
             "Loes Ebeling Koning",
@@ -77177,5 +77213,5 @@
       1168
     ]
   ],
-  "old_day": 10
+  "old_day": 11
 }
