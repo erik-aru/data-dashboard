@@ -62509,7 +62509,42 @@
     "11:43  MALLORCA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2026/draws\n\n",
     "       Players added to the draw in MALLORCA-125 SINGLES:    \n\n",
     "       Players removed from the draw in MALLORCA-125 SINGLES:    \n\n",
-    "       1. Caijsa Hennemann \n\n"
+    "       1. Caijsa Hennemann \n\n",
+    "21:01  change in MALLORCA-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2026/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 SINGLES:    \n\n",
+    "       1. Aneta Kucmova \n",
+    "          Kucmova, A\n\n",
+    "       2. Lidia Encheva \n",
+    "          Encheva, L\n\n",
+    "       3. Ida Wobker \n",
+    "          Wobker, I\n\n",
+    "       4. Daria Yesypchuk \n",
+    "          Yesypchuk, D\n\n",
+    "       5. Lucie Nguyen Tan \n",
+    "          Nguyen Tan, L\n\n",
+    "21:01  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2026/order-of-play\n\n",
+    "21:01  change in ROVERETO-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2026/draws\n\n",
+    "       Players added to the draw in ROVERETO-125 SINGLES:    \n\n",
+    "       1. Tessa Johanna Brockmann \n",
+    "          Brockmann, T\n\n",
+    "       2. Anouk Koevermans \n",
+    "          Koevermans, A\n\n",
+    "       3. Erika Andreeva \n",
+    "          Andreeva, E\n\n",
+    "       4. Lea Boskovic \n",
+    "          Boskovic, L\n\n",
+    "21:01  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2026/order-of-play\n\n",
+    "21:01  change in LISBON-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/draws\n\n",
+    "       Players added to the draw in LISBON-125 SINGLES:    \n\n",
+    "       1. Mathilde Lollia \n",
+    "          Lollia, M\n\n",
+    "       2. Gina Feistel \n",
+    "          Feistel, G\n\n",
+    "       3. Raluka Serban \n",
+    "          Serban, R\n\n",
+    "       4. Adrienn Nagy \n",
+    "          Nagy, A\n\n",
+    "21:01  OOP in LISBON-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -68693,18 +68728,22 @@
       ],
       [
         1,
-        27,
+        32,
         {
           "players": [
             "Julia Grabher",
             "Deborah Chiesa",
+            "Aneta Kucmova",
+            "Lidia Encheva",
             "Tea Kovacevic",
             "Ariana Geerlings",
             "Lucia Cortez Llorca",
             "Ekaterine Gorgodze",
             "Marina Bassols Ribera",
+            "Ida Wobker",
             "Eva Vedder",
             "Francesca Curmi",
+            "Daria Yesypchuk",
             "Carole Monnet",
             "Jennifer Ruggeri",
             "Elizara Yaneva",
@@ -68720,6 +68759,7 @@
             "Yasmine Kabbaj",
             "Laura Pigossi",
             "Nuria Brancaccio",
+            "Lucie Nguyen Tan",
             "Eva Bennemann",
             "Aran Teixido Garcia",
             "Laura Samson"
@@ -68752,7 +68792,7 @@
           "players": []
         }
       ],
-      "2026-10-12"
+      "2026-10-13"
     ],
     "WUHAN": [
       [
@@ -69684,7 +69724,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Antonia Ruzic",
@@ -69700,6 +69740,7 @@
             "Linda Klimovicova",
             "Lucie Havlickova",
             "Jil Teichmann",
+            "Tessa Johanna Brockmann",
             "Mona Barthel",
             "Lucia Bronzetti",
             "Emiliana Arango",
@@ -69714,6 +69755,9 @@
             "Elisa Visentin",
             "Noemi Basiletti",
             "Viktoria Hruncakova",
+            "Anouk Koevermans",
+            "Erika Andreeva",
+            "Lea Boskovic",
             "Oksana Selekhmeteva"
           ]
         }
@@ -69746,7 +69790,7 @@
           "players": []
         }
       ],
-      "2026-10-12"
+      "2026-10-13"
     ],
     "QUERETARO-125": [
       [
@@ -77289,7 +77333,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Jessica Bouzas Maneiro",
@@ -77301,14 +77345,18 @@
             "Barbora Palicova",
             "Jazmin Ortenzi",
             "Darja Semenistaja",
+            "Mathilde Lollia",
             "Clara Burel",
             "Lina Gjorcheska",
             "Martha Matoula",
             "Giorgia Pedone",
+            "Gina Feistel",
             "Guiomar Maristany Zuleta De Reales",
             "Leyre Romero Gormaz",
             "Alice Rame",
             "Analu Freitas",
+            "Raluka Serban",
+            "Adrienn Nagy",
             "Selena Janicijevic",
             "Aurora Zantedeschi",
             "Fiona Ferro",
@@ -77361,7 +77409,7 @@
           "players": []
         }
       ],
-      "2026-10-12"
+      "2026-10-13"
     ]
   },
   "torns": [
