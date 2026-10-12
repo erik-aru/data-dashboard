@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "BEIJING": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "SUZHOU-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "SAMSUN-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "WUHAN": [
       [
         0,
@@ -62556,7 +62490,26 @@
     "       6. IRENE BURILLO / AURORA ZANTEDESCHI \n\n",
     "       7. ADRIENN NAGY / TENIKA MCGIFFIN \n\n",
     "       8. LISA ZAAR / SARAH VAN EMST \n\n",
-    "23:28  OOP in LISBON-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/order-of-play\n\n"
+    "23:28  OOP in LISBON-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/order-of-play\n\n",
+    "11:43  WUHAN SINGLES draw    \n       https://www.wtatennis.com/tournament/1075/WUHAN/2026/draws\n\n",
+    "       Players added to the draw in WUHAN SINGLES:    \n\n",
+    "       1. Camila Osorio \n",
+    "          Osorio, C\n\n",
+    "       2. Ashlyn Krueger \n",
+    "          Krueger, A\n\n",
+    "       3. Lanlana Tararudee \n",
+    "          Tararudee, L\n\n",
+    "       4. Anna Bondar \n",
+    "          Bondar, A\n\n",
+    "       Players removed from the draw in WUHAN SINGLES:    \n\n",
+    "       1. Qinwen Zheng \n\n",
+    "       2. Anna Kalinskaya \n\n",
+    "       3. Mirra Andreeva \n\n",
+    "11:43  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2026/order-of-play\n\n",
+    "11:43  MALLORCA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2026/draws\n\n",
+    "       Players added to the draw in MALLORCA-125 SINGLES:    \n\n",
+    "       Players removed from the draw in MALLORCA-125 SINGLES:    \n\n",
+    "       1. Caijsa Hennemann \n\n"
   ],
   "sits": {
     "ROME": [
@@ -68740,7 +68693,7 @@
       ],
       [
         1,
-        28,
+        27,
         {
           "players": [
             "Julia Grabher",
@@ -68767,7 +68720,6 @@
             "Yasmine Kabbaj",
             "Laura Pigossi",
             "Nuria Brancaccio",
-            "Caijsa Hennemann",
             "Eva Bennemann",
             "Aran Teixido Garcia",
             "Laura Samson"
@@ -68845,30 +68797,31 @@
       ],
       [
         1,
-        55,
+        56,
         {
           "players": [
             "Aryna Sabalenka",
             "Ann Li",
-            "Qinwen Zheng",
+            "Camila Osorio",
             "Janice Tjen",
             "Aoi Ito",
             "Daria Snigur",
             "Elise Mertens",
-            "Anna Kalinskaya",
+            "Ashlyn Krueger",
             "Shuai Zhang",
             "Diane Parry",
+            "Lanlana Tararudee",
             "Mananchaya Sawangkaew",
             "Magdalena Frech",
             "Iga Swiatek",
-            "Mirra Andreeva",
+            "Iva Jovic",
             "Dayana Yastremska",
             "Cristina Bucsa",
             "Clara Tauson",
             "Marie Bouzkova",
             "Mayar Sherif",
             "Maja Chwalinska",
-            "Iva Jovic",
+            "Anna Bondar",
             "Mia Pohankova",
             "Xiyu Wang",
             "Xinyu Wang",
@@ -68956,7 +68909,7 @@
           "players": []
         }
       ],
-      "2026-10-12"
+      "2026-10-13"
     ],
     "OSAKA": [
       [
@@ -77413,18 +77366,6 @@
   },
   "torns": [
     [
-      "BEIJING",
-      1020
-    ],
-    [
-      "SUZHOU-125",
-      1147
-    ],
-    [
-      "SAMSUN-125",
-      1149
-    ],
-    [
       "WUHAN",
       1075
     ],
@@ -77441,5 +77382,5 @@
       1168
     ]
   ],
-  "old_day": 11
+  "old_day": 12
 }
