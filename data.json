@@ -63063,7 +63063,64 @@
     "       17. Kaja Juvan \n\n",
     "       18. Dalma Galfi \n\n",
     "       19. Taylor Townsend \n\n",
-    "08:48  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2026/order-of-play\n\n"
+    "08:48  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2026/order-of-play\n\n",
+    "16:14  OOP in WUHAN appeared \u2605\n       https://www.wtatennis.com/tournament/1075/WUHAN/2026/order-of-play\n\n",
+    "16:14  OOP in MALLORCA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1128/MALLORCA-125/2026/order-of-play\n\n",
+    "16:14  OOP in LISBON-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1168/LISBON-125/2026/order-of-play\n\n",
+    "16:14  change in NINGBO QUALS \u2605   \n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/draws\n\n       Players added to the draw in NINGBO QUALS:    \n\n",
+    "       1. Daria Snigur \n",
+    "          Snigur, D\n\n",
+    "       2. Yu Jun Lin \n",
+    "          Lin, Y\n\n",
+    "       3. Katie Volynets \n",
+    "          Volynets, K\n\n",
+    "       4. Anastasia Zakharova \n",
+    "          Zakharova, A\n\n",
+    "       5. Mananchaya Sawangkaew \n",
+    "          Sawangkaew, M\n\n",
+    "       6. Anhelina Kalinina \n",
+    "          Kalinina, A\n\n",
+    "       7. Simona Waltert \n",
+    "          Waltert, S\n\n",
+    "       8. Anna Bondar \n",
+    "          Bondar, A\n\n",
+    "       9. Mayar Sherif \n",
+    "          Sherif, M\n\n",
+    "       10. Tatiana Prozorova \n",
+    "           Prozorova, T\n\n",
+    "       11. Dayana Yastremska \n",
+    "           Yastremska, D\n\n",
+    "       12. Magdalena Frech \n",
+    "           Frech, M\n\n",
+    "       13. Han Shi \n",
+    "           Shi, H\n\n",
+    "       14. Jiali Dong \n",
+    "           Dong, J\n\n",
+    "       15. Alina Korneeva \n",
+    "           Korneeva, A\n\n",
+    "       16. Alycia Parks \n",
+    "           Parks, A\n\n",
+    "       17. Jeline Vandromme \n",
+    "           Vandromme, J\n\n",
+    "       Players removed from the draw in NINGBO QUALS:    \n\n",
+    "       1. Tamara Korpatsch \n\n",
+    "       2. Priscilla Hon \n\n",
+    "       3. Maya Joint \n\n",
+    "       4. Ajla Tomljanovic \n\n",
+    "       5. Viktoriya Tomova \n\n",
+    "       6. Antonia Ruzic \n\n",
+    "       7. Tatjana Maria \n\n",
+    "       8. Lilli Tagger \n\n",
+    "       9. Camila Osorio \n\n",
+    "       10. Yidi Yang \n\n",
+    "       11. Saisai Zheng \n\n",
+    "       12. Linda Fruhvirtova \n\n",
+    "       13. Zeynep Sonmez \n\n",
+    "       14. Talia Gibson \n\n",
+    "       15. Lucia Bronzetti \n\n",
+    "       16. Hanyu Guo \n\n",
+    "       17. Meng-Yi Chen \n\n",
+    "16:14  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -69315,7 +69372,7 @@
           "players": []
         }
       ],
-      "2026-10-16"
+      "2026-10-17"
     ],
     "WUHAN": [
       [
@@ -69472,7 +69529,7 @@
           "players": []
         }
       ],
-      "2026-10-16"
+      "2026-10-17"
     ],
     "OSAKA": [
       [
@@ -69849,30 +69906,30 @@
         24,
         {
           "players": [
-            "Yihan Qu",
-            "Tamara Korpatsch",
-            "Yuliia Starodubtseva",
-            "Priscilla Hon",
-            "Maya Joint",
-            "Ajla Tomljanovic",
-            "Viktoriya Tomova",
-            "Antonia Ruzic",
-            "Tatjana Maria",
-            "Aliaksandra Sasnovich",
-            "Lilli Tagger",
-            "Camila Osorio",
-            "Yidi Yang",
-            "Saisai Zheng",
-            "Linda Fruhvirtova",
-            "Zeynep Sonmez",
-            "Yulia Putintseva",
+            "Daria Snigur",
+            "Yu Jun Lin",
             "Katarzyna Kawa",
-            "Talia Gibson",
-            "Lucia Bronzetti",
+            "Katie Volynets",
+            "Yuliia Starodubtseva",
+            "Anastasia Zakharova",
             "Polina Kudermetova",
-            "Hanyu Guo",
-            "Meng-Yi Chen",
-            "Kamilla Rakhimova"
+            "Mananchaya Sawangkaew",
+            "Anhelina Kalinina",
+            "Simona Waltert",
+            "Aliaksandra Sasnovich",
+            "Anna Bondar",
+            "Mayar Sherif",
+            "Tatiana Prozorova",
+            "Dayana Yastremska",
+            "Kamilla Rakhimova",
+            "Magdalena Frech",
+            "Han Shi",
+            "Jiali Dong",
+            "Alina Korneeva",
+            "Alycia Parks",
+            "Jeline Vandromme",
+            "Yihan Qu",
+            "Yulia Putintseva"
           ]
         }
       ],
@@ -69954,7 +70011,7 @@
           "players": []
         }
       ],
-      "2025-10-19"
+      "2026-10-17"
     ],
     "GUANGZHOU": [
       [
@@ -77899,7 +77956,7 @@
           "players": []
         }
       ],
-      "2026-10-16"
+      "2026-10-17"
     ]
   },
   "torns": [
