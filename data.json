@@ -63397,7 +63397,22 @@
     "       36. ALINA KORNEEVA \n\n",
     "       37. IVA JOVIC \n\n",
     "15:09  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n",
-    "21:59  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2026/order-of-play\n\n"
+    "21:59  OOP in ROVERETO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1140/ROVERETO-125/2026/order-of-play\n\n",
+    "08:39  OSAKA SINGLES draw    \n       https://www.wtatennis.com/tournament/405/OSAKA/2026/draws\n\n",
+    "       Players added to the draw in OSAKA SINGLES:    \n\n",
+    "       1. Emerson Jones \n",
+    "          Jones, E\n\n",
+    "       2. Maya Joint \n",
+    "          Joint, M\n\n",
+    "       3. Harriet Dart \n",
+    "          Dart, H\n\n",
+    "       4. Sinja Kraus \n",
+    "          Kraus, S\n\n",
+    "       5. Mary Stoiana \n",
+    "          Stoiana, M\n\n",
+    "       6. Claire Liu \n",
+    "          Liu, C\n\n",
+    "08:39  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -69843,17 +69858,21 @@
       ],
       [
         1,
-        26,
+        32,
         {
           "players": [
             "Ann Li",
+            "Emerson Jones",
+            "Maya Joint",
             "Zeynep Sonmez",
             "Tereza Valentova",
             "Shuai Zhang",
             "Lilli Tagger",
             "Liudmila Samsonova",
             "Talia Gibson",
+            "Harriet Dart",
             "Caty McNally",
+            "Sinja Kraus",
             "Lanlana Tararudee",
             "Kaitlin Quevedo",
             "Ashlyn Krueger",
@@ -69867,8 +69886,10 @@
             "Sonay Kartal",
             "Kimberly Birrell",
             "Oleksandra Oliynykova",
+            "Mary Stoiana",
             "Moyuka Uchijima",
             "Ena Shibahara",
+            "Claire Liu",
             "Magda Linette",
             "Katerina Siniakova",
             "Peyton Stearns"
@@ -69913,7 +69934,7 @@
           "players": []
         }
       ],
-      "2026-10-18"
+      "2026-10-19"
     ],
     "JINAN-125": [
       [
@@ -78245,5 +78266,5 @@
       2092
     ]
   ],
-  "old_day": 17
+  "old_day": 18
 }
