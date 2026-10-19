@@ -1,93 +1,5 @@
 {
   "kuits": {
-    "WUHAN": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "MALLORCA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "ROVERETO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "LISBON-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "OSAKA": [
       [
         0,
@@ -63429,7 +63341,23 @@
     "          Shi, H\n\n",
     "       7. Kamilla Rakhimova \n",
     "          Rakhimova, K\n\n",
-    "15:31  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n"
+    "15:31  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n",
+    "09:40  change in OSAKA SINGLES \u2605   \n       https://www.wtatennis.com/tournament/405/OSAKA/2026/draws\n\n       Players added to the draw in OSAKA SINGLES:    \n\n",
+    "       1. Kayla Day \n",
+    "          Day, K\n\n",
+    "       Players removed from the draw in OSAKA SINGLES:    \n\n",
+    "       1. Sonay Kartal \n\n",
+    "09:40  change in OSAKA DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/405/OSAKA/2026/draws\n\n       Players added to the draw in OSAKA DOUBLES:    \n\n",
+    "       1. Harriet Dart / Heather Watson \n",
+    "          Dart, H/Watson, H\n\n",
+    "       Players removed from the draw in OSAKA DOUBLES:    \n\n",
+    "       1. Ashlyn Krueger / Caty McNally \n\n",
+    "09:40  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2026/order-of-play\n\n",
+    "09:40  change in NINGBO SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/draws\n\n       Players added to the draw in NINGBO SINGLES:    \n\n",
+    "       1. Daria Snigur \n",
+    "          Snigur, D\n\n",
+    "       Players removed from the draw in NINGBO SINGLES:    \n\n",
+    "       1. Maja Chwalinska \n\n"
   ],
   "sits": {
     "ROME": [
@@ -69900,7 +69828,7 @@
             "Mai Hontama",
             "Paula Badosa",
             "Antonia Ruzic",
-            "Sonay Kartal",
+            "Kayla Day",
             "Kimberly Birrell",
             "Oleksandra Oliynykova",
             "Mary Stoiana",
@@ -69929,7 +69857,7 @@
             "Alexa Guarachi / Asia Muhammad",
             "Jesika Maleckova / Miriam Skoch",
             "Claire Liu / Kaitlin Quevedo",
-            "Ashlyn Krueger / Caty McNally",
+            "Harriet Dart / Heather Watson",
             "Momoko Kobori / Ayano Shimizu",
             "Lyudmyla Kichenok / Makoto Ninomiya",
             "Eri Hozumi / Andreja Klepac",
@@ -69951,7 +69879,7 @@
           "players": []
         }
       ],
-      "2026-10-19"
+      "2026-10-20"
     ],
     "JINAN-125": [
       [
@@ -70247,7 +70175,7 @@
             "Cristina Bucsa",
             "Polina Kudermetova",
             "Katarzyna Kawa",
-            "Maja Chwalinska",
+            "Daria Snigur",
             "Jelena Ostapenko",
             "Belinda Bencic",
             "Iva Jovic",
@@ -78262,22 +78190,6 @@
   },
   "torns": [
     [
-      "WUHAN",
-      1075
-    ],
-    [
-      "MALLORCA-125",
-      1128
-    ],
-    [
-      "ROVERETO-125",
-      1140
-    ],
-    [
-      "LISBON-125",
-      1168
-    ],
-    [
       "OSAKA",
       405
     ],
@@ -78290,5 +78202,5 @@
       2092
     ]
   ],
-  "old_day": 18
+  "old_day": 19
 }
