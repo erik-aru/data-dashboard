@@ -63367,7 +63367,21 @@
     "       Players added to the draw in NINGBO DOUBLES:    \n\n",
     "       Players removed from the draw in NINGBO DOUBLES:    \n\n",
     "       1. Anna Bondar / Alina Korneeva \n\n",
-    "18:27  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n"
+    "18:27  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n",
+    "09:14  change in OSAKA SINGLES \u2605   \n       https://www.wtatennis.com/tournament/405/OSAKA/2026/draws\n\n       Players added to the draw in OSAKA SINGLES:    \n\n",
+    "       1. Sofia Kenin \n",
+    "          Kenin, S\n\n",
+    "       Players removed from the draw in OSAKA SINGLES:    \n\n",
+    "       1. Kimberly Birrell \n\n",
+    "09:14  change in NINGBO SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/draws\n\n       Players added to the draw in NINGBO SINGLES:    \n\n",
+    "       1. Anastasia Zakharova \n",
+    "          Zakharova, A\n\n",
+    "       Players removed from the draw in NINGBO SINGLES:    \n\n",
+    "       1. Iga Swiatek \n\n",
+    "09:14  NINGBO DOUBLES draw    \n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/draws\n\n",
+    "       Players added to the draw in NINGBO DOUBLES:    \n\n",
+    "       1. Ekaterine Gorgodze / Yulia Putintseva \n",
+    "          Gorgodze, E/Putintseva, Y\n\n"
   ],
   "sits": {
     "ROME": [
@@ -69839,7 +69853,7 @@
             "Paula Badosa",
             "Antonia Ruzic",
             "Kayla Day",
-            "Kimberly Birrell",
+            "Sofia Kenin",
             "Oleksandra Oliynykova",
             "Mary Stoiana",
             "Moyuka Uchijima",
@@ -70208,18 +70222,19 @@
             "Alycia Parks",
             "Kamilla Rakhimova",
             "Marie Bouzkova",
-            "Iga Swiatek"
+            "Anastasia Zakharova"
           ]
         }
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Cristina Bucsa / Nicole Melichar-Martinez",
             "Sara Errani / Jasmine Paolini",
             "Leylah Fernandez / Marta Kostyuk",
+            "Ekaterine Gorgodze / Yulia Putintseva",
             "Hanyu Guo / Kristina Mladenovic",
             "Shuko Aoyama / En-Shuo Liang",
             "Yihan Qu / Yushan Shao",
@@ -78211,5 +78226,5 @@
       2092
     ]
   ],
-  "old_day": 19
+  "old_day": 20
 }
