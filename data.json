@@ -63387,7 +63387,13 @@
     "       Players added to the draw in NINGBO DOUBLES:    \n\n",
     "       Players removed from the draw in NINGBO DOUBLES:    \n\n",
     "       1. Su-Wei Hsieh / Jelena Ostapenko \n\n",
-    "16:29  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n"
+    "16:29  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n",
+    "09:10  OOP in OSAKA appeared \u2605\n       https://www.wtatennis.com/tournament/405/OSAKA/2026/order-of-play\n\n",
+    "09:10  NINGBO DOUBLES draw    \n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/draws\n\n",
+    "       Players added to the draw in NINGBO DOUBLES:    \n\n",
+    "       1. Qiuyu Ye / Ying Zhang \n",
+    "          Ye, Q/Zhang, Y\n\n",
+    "09:10  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -69909,7 +69915,7 @@
           "players": []
         }
       ],
-      "2026-10-21"
+      "2026-10-22"
     ],
     "JINAN-125": [
       [
@@ -70234,7 +70240,7 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Cristina Bucsa / Nicole Melichar-Martinez",
@@ -70251,7 +70257,8 @@
             "Anna Danilina / Xinyu Jiang",
             "Qianhui Tang / Yifan Xu",
             "Erin Routliffe / Aldila Sutjiadi",
-            "Ulrikke Eikeri / Quinn Gleason"
+            "Ulrikke Eikeri / Quinn Gleason",
+            "Qiuyu Ye / Ying Zhang"
           ]
         }
       ],
@@ -70269,7 +70276,7 @@
           "players": []
         }
       ],
-      "2026-10-21"
+      "2026-10-22"
     ],
     "GUANGZHOU": [
       [
@@ -78231,5 +78238,5 @@
       2092
     ]
   ],
-  "old_day": 20
+  "old_day": 21
 }
