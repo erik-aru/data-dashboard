@@ -64089,7 +64089,65 @@
     "          RIERA, J/CARLE, M\n\n",
     "       4. DARJA SEMENISTAJA / VERONIKA ERJAVEC \n",
     "          SEMENISTAJA, D/ERJAVEC, V\n\n",
-    "16:47  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n"
+    "16:47  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n",
+    "09:09  OOP in NINGBO appeared \u2605\n       https://www.wtatennis.com/tournament/2092/NINGBO/2026/order-of-play\n\n",
+    "09:09  change in TOKYO QUALS \u2605   \n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/draws\n\n       Players added to the draw in TOKYO QUALS:    \n\n",
+    "       1. Xinyu Wang \n",
+    "          Wang, X\n\n",
+    "       2. Tereza Valentova \n",
+    "          Valentova, T\n\n",
+    "       3. Kayla Day \n",
+    "          Day, K\n\n",
+    "       4. Shuai Zhang \n",
+    "          Zhang, S\n\n",
+    "       5. Aoi Ito \n",
+    "          Ito, A\n\n",
+    "       6. Yexin Ma \n",
+    "          Ma, Y\n\n",
+    "       7. Daria Kasatkina \n",
+    "          Kasatkina, D\n\n",
+    "       8. Liudmila Samsonova \n",
+    "          Samsonova, L\n\n",
+    "       9. Heather Watson \n",
+    "          Watson, H\n\n",
+    "       10. Alycia Parks \n",
+    "           Parks, A\n\n",
+    "       11. Shiho Tsujioka \n",
+    "           Tsujioka, S\n\n",
+    "       12. Kamilla Rakhimova \n",
+    "           Rakhimova, K\n\n",
+    "       13. Sayaka Ishii \n",
+    "           Ishii, S\n\n",
+    "       14. Storm Hunter \n",
+    "           Hunter, S\n\n",
+    "       15. Yulia Putintseva \n",
+    "           Putintseva, Y\n\n",
+    "       16. Oleksandra Oliynykova \n",
+    "           Oliynykova, O\n\n",
+    "       17. Mai Hontama \n",
+    "           Hontama, M\n\n",
+    "       18. Maya Joint \n",
+    "           Joint, M\n\n",
+    "       Players removed from the draw in TOKYO QUALS:    \n\n",
+    "       1. Marie Bouzkova \n\n",
+    "       2. Anna Blinkova \n\n",
+    "       3. Eva Lys \n\n",
+    "       4. Sae Noguchi \n\n",
+    "       5. Emiliana Arango \n\n",
+    "       6. Varvara Gracheva \n\n",
+    "       7. Maddison Inglis \n\n",
+    "       8. Hailey Baptiste \n\n",
+    "       9. Ashlyn Krueger \n\n",
+    "       10. Dalma Galfi \n\n",
+    "       11. Nao Hibino \n\n",
+    "       12. Cristina Bucsa \n\n",
+    "       13. Alina Charaeva \n\n",
+    "       14. Himeno Sakatsume \n\n",
+    "       15. Rebecca Sramkova \n\n",
+    "       16. Maria Sakkari \n\n",
+    "       17. Zeynep Sonmez \n\n",
+    "       18. Suzan Lamens \n\n",
+    "09:09  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -70972,7 +71030,7 @@
           "players": []
         }
       ],
-      "2026-10-23"
+      "2026-10-24"
     ],
     "GUANGZHOU": [
       [
@@ -71096,30 +71154,30 @@
         24,
         {
           "players": [
-            "Marie Bouzkova",
+            "Xinyu Wang",
+            "Tereza Valentova",
+            "Kayla Day",
+            "Shuai Zhang",
             "Kimberly Birrell",
-            "Anna Blinkova",
-            "Katie Boulter",
-            "Eva Lys",
-            "Yuliia Starodubtseva",
-            "Sae Noguchi",
-            "Viktorija Golubic",
-            "Emiliana Arango",
-            "Varvara Gracheva",
-            "Maddison Inglis",
-            "Hailey Baptiste",
-            "Ashlyn Krueger",
-            "Dalma Galfi",
-            "Nao Hibino",
-            "Cristina Bucsa",
-            "Alina Charaeva",
-            "Himeno Sakatsume",
+            "Aoi Ito",
+            "Yexin Ma",
+            "Daria Kasatkina",
+            "Liudmila Samsonova",
+            "Heather Watson",
             "Ena Shibahara",
-            "Rebecca Sramkova",
-            "Maria Sakkari",
-            "Zeynep Sonmez",
+            "Alycia Parks",
+            "Yuliia Starodubtseva",
             "Aliaksandra Sasnovich",
-            "Suzan Lamens"
+            "Shiho Tsujioka",
+            "Kamilla Rakhimova",
+            "Katie Boulter",
+            "Sayaka Ishii",
+            "Storm Hunter",
+            "Yulia Putintseva",
+            "Oleksandra Oliynykova",
+            "Mai Hontama",
+            "Maya Joint",
+            "Viktorija Golubic"
           ]
         }
       ],
@@ -71200,7 +71258,7 @@
           "players": []
         }
       ],
-      "2025-10-26"
+      "2026-10-24"
     ],
     "ROVERETO-125": [
       [
@@ -79115,5 +79173,5 @@
       1180
     ]
   ],
-  "old_day": 22
+  "old_day": 23
 }
