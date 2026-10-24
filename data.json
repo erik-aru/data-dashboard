@@ -64507,7 +64507,51 @@
     "       9. ZHIBEK KULAMBAYEVA / ISABELLE HAVERLAG \n\n",
     "       10. NICOLE FOSSA HUERGO / ELENA PRIDANKINA \n\n",
     "15:32  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2026/order-of-play\n\n",
-    "15:32  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/order-of-play\n\n"
+    "15:32  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/order-of-play\n\n",
+    "22:16  NEW draw in COURMAYEUR-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1174/COURMAYEUR-125/2026/draws\n\n",
+    "       Players added to the draw in COURMAYEUR-125 QUALS:    \n\n",
+    "       1. Zongyu Li \n",
+    "          Li, Z\n\n",
+    "       2. Finja Matuella \n",
+    "          Matuella, F\n\n",
+    "       3. Gaia Maduzzi \n",
+    "          Maduzzi, G\n\n",
+    "       4. Yelyzaveta Kotliar \n",
+    "          Kotliar, Y\n\n",
+    "       5. Tayisiya Morderger \n",
+    "          Morderger, T\n\n",
+    "       6. Alja Senica \n",
+    "          Senica, A\n\n",
+    "       7. Adrienn Nagy \n",
+    "          Nagy, A\n\n",
+    "       8. Daria Yesypchuk \n",
+    "          Yesypchuk, D\n\n",
+    "       9. Sapfo Sakellaridi \n",
+    "          Sakellaridi, S\n\n",
+    "       10. Yana Morderger \n",
+    "           Morderger, Y\n\n",
+    "       11. Enola Chiesa \n",
+    "           Chiesa, E\n\n",
+    "22:16  OOP in COURMAYEUR-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1174/COURMAYEUR-125/2026/order-of-play\n\n",
+    "22:16  NEW draw in CURITIBA-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/draws\n\n",
+    "       Players added to the draw in CURITIBA-125 QUALS:    \n\n",
+    "       1. Fernanda Labrana \n",
+    "          Labrana, F\n\n",
+    "       2. Bianca Mendonca Bernardes \n",
+    "          Mendonca Bernardes, B\n\n",
+    "       3. Berta Bonardi \n",
+    "          Bonardi, B\n\n",
+    "       4. Catarina Mellei Ibiaraba Melleiro \n",
+    "          Ibiaraba Melleiro, C\n\n",
+    "       5. Luna Maria Cinalli \n",
+    "          Cinalli, L\n\n",
+    "       6. Jennifer Dourado \n",
+    "          Dourado, J\n\n",
+    "       7. Lourdes Ayala \n",
+    "          Ayala, L\n\n",
+    "       8. Georgia Gulin \n",
+    "          Gulin, G\n\n",
+    "22:16  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -79328,9 +79372,21 @@
     "COURMAYEUR-125": [
       [
         0,
-        0,
+        11,
         {
-          "players": []
+          "players": [
+            "Zongyu Li",
+            "Finja Matuella",
+            "Gaia Maduzzi",
+            "Yelyzaveta Kotliar",
+            "Tayisiya Morderger",
+            "Alja Senica",
+            "Adrienn Nagy",
+            "Daria Yesypchuk",
+            "Sapfo Sakellaridi",
+            "Yana Morderger",
+            "Enola Chiesa"
+          ]
         }
       ],
       [
@@ -79404,14 +79460,23 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-10-25"
     ],
     "CURITIBA-125": [
       [
         0,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Fernanda Labrana",
+            "Bianca Mendonca Bernardes",
+            "Berta Bonardi",
+            "Catarina Mellei Ibiaraba Melleiro",
+            "Luna Maria Cinalli",
+            "Jennifer Dourado",
+            "Lourdes Ayala",
+            "Georgia Gulin"
+          ]
         }
       ],
       [
@@ -79477,7 +79542,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-10-25"
     ]
   },
   "torns": [
