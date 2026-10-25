@@ -64551,7 +64551,45 @@
     "          Ayala, L\n\n",
     "       8. Georgia Gulin \n",
     "          Gulin, G\n\n",
-    "22:16  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n"
+    "22:16  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n",
+    "08:59  QUERETARO-125 QUALS draw    \n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2026/draws\n\n",
+    "       Players added to the draw in QUERETARO-125 QUALS:    \n\n",
+    "       1. Carmen Andreea Herea \n",
+    "          Herea, C\n\n",
+    "       2. Abril Cardenas Olivares \n",
+    "          Cardenas Olivares, A\n\n",
+    "       3. Maria Torres Murcia \n",
+    "          Torres Murcia, M\n\n",
+    "       4. Valeriya Strakhova \n",
+    "          Strakhova, V\n\n",
+    "       5. Gabriela Vilar \n",
+    "          Vilar, G\n\n",
+    "       6. Sophie Llewellyn \n",
+    "          Llewellyn, S\n\n",
+    "       7. Amelie Van Impe \n",
+    "          Van Impe, A\n\n",
+    "       8. Victoria Hu \n",
+    "          Hu, V\n\n",
+    "       9. Natalia Sousa Salazar \n",
+    "          Sousa Salazar, N\n\n",
+    "       10. Dasha Plekhanova \n",
+    "           Plekhanova, D\n\n",
+    "       11. Demi Tran \n",
+    "           Tran, D\n\n",
+    "       12. Victoria Rodriguez \n",
+    "           Rodriguez, V\n\n",
+    "       13. Jessica Hinojosa Gomez \n",
+    "           Hinojosa Gomez, J\n\n",
+    "       Players removed from the draw in QUERETARO-125 QUALS:    \n\n",
+    "       1. Haley Giavara \n\n",
+    "       2. Marian Gomez Pezuela Cano \n\n",
+    "       3. Kristina Novak \n\n",
+    "       4. Katrina Scott \n\n",
+    "       5. Anita Wagner \n\n",
+    "       6. Katherine Torres Lopez \n\n",
+    "       7. Elina Nepliy \n\n",
+    "       8. Daniela Martinez Guerrero \n\n",
+    "08:59  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -71752,20 +71790,25 @@
     "QUERETARO-125": [
       [
         0,
-        11,
+        16,
         {
           "players": [
-            "Haley Giavara",
-            "Marian Gomez Pezuela Cano",
-            "Kristina Novak",
-            "Katrina Scott",
-            "Anita Wagner",
-            "Alexandra Osborne",
-            "Katherine Torres Lopez",
+            "Carmen Andreea Herea",
+            "Abril Cardenas Olivares",
+            "Maria Torres Murcia",
             "Maria Fernanda Navarro Oliva",
-            "Elina Nepliy",
-            "Daniela Martinez Guerrero",
-            "Maria Herazo"
+            "Valeriya Strakhova",
+            "Gabriela Vilar",
+            "Sophie Llewellyn",
+            "Amelie Van Impe",
+            "Victoria Hu",
+            "Natalia Sousa Salazar",
+            "Dasha Plekhanova",
+            "Demi Tran",
+            "Victoria Rodriguez",
+            "Maria Herazo",
+            "Alexandra Osborne",
+            "Jessica Hinojosa Gomez"
           ]
         }
       ],
@@ -71840,7 +71883,7 @@
           "players": []
         }
       ],
-      "2025-10-26"
+      "2026-10-25"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -79579,5 +79622,5 @@
       1180
     ]
   ],
-  "old_day": 24
+  "old_day": 25
 }
