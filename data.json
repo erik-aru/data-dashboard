@@ -1,71 +1,5 @@
 {
   "kuits": {
-    "OSAKA": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "RIO-DE-JANEIRO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "NINGBO": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "GUANGZHOU": [
       [
         0,
@@ -64911,7 +64845,20 @@
     "       27. JUSTINA GONZALEZ DANIELE \n\n",
     "       28. LAURA SAMSON \n\n",
     "       29. NAUHANY VITORIA LEME DA SILVA \n\n",
-    "22:21  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n"
+    "22:21  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n",
+    "09:51  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2026/order-of-play\n\n",
+    "09:51  change in TOKYO SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/draws\n\n       Players added to the draw in TOKYO SINGLES:    \n\n",
+    "       1. Kimberly Birrell \n",
+    "          Birrell, K\n\n",
+    "       Players removed from the draw in TOKYO SINGLES:    \n\n",
+    "       1. Maja Chwalinska \n\n",
+    "09:51  change in TOKYO DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/draws\n\n       Players added to the draw in TOKYO DOUBLES:    \n\n",
+    "       1. Yulia Putintseva / Liudmila Samsonova \n",
+    "          Putintseva, Y/Samsonova, L\n\n",
+    "       Players removed from the draw in TOKYO DOUBLES:    \n\n",
+    "       1. Alexandra Eala / Desirae Krawczyk \n\n",
+    "09:51  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/order-of-play\n\n",
+    "09:51  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -71907,7 +71854,7 @@
           "players": []
         }
       ],
-      "2026-10-26"
+      "2026-10-27"
     ],
     "TOKYO": [
       [
@@ -71974,7 +71921,7 @@
             "Mia Pohankova",
             "Xinyu Wang",
             "Alycia Parks",
-            "Maja Chwalinska"
+            "Kimberly Birrell"
           ]
         }
       ],
@@ -71985,7 +71932,7 @@
           "players": [
             "Gabriela Dabrowski / Luisa Stefani",
             "Cristina Bucsa / Leylah Fernandez",
-            "Alexandra Eala / Desirae Krawczyk",
+            "Yulia Putintseva / Liudmila Samsonova",
             "Hao-Ching Chan / Miyu Kato",
             "Ellen Perez / Demi Schuurs",
             "Qianhui Tang / Yifan Xu",
@@ -72016,7 +71963,7 @@
           "players": []
         }
       ],
-      "2026-10-26"
+      "2026-10-27"
     ],
     "ROVERETO-125": [
       [
@@ -72209,7 +72156,7 @@
           "players": []
         }
       ],
-      "2026-10-25"
+      "2026-10-26"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -79910,18 +79857,6 @@
   },
   "torns": [
     [
-      "OSAKA",
-      405
-    ],
-    [
-      "RIO-DE-JANEIRO-125",
-      1150
-    ],
-    [
-      "NINGBO",
-      2092
-    ],
-    [
       "GUANGZHOU",
       1023
     ],
@@ -79942,5 +79877,5 @@
       1180
     ]
   ],
-  "old_day": 25
+  "old_day": 26
 }
