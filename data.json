@@ -64875,7 +64875,26 @@
     "       4. Enola Chiesa \n",
     "          Chiesa, E\n\n",
     "23:36  OOP in COURMAYEUR-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1174/COURMAYEUR-125/2026/order-of-play\n\n",
-    "23:36  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n"
+    "23:36  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n",
+    "09:39  TOKYO SINGLES draw    \n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/draws\n\n",
+    "       Players added to the draw in TOKYO SINGLES:    \n\n",
+    "       1. Kamilla Rakhimova \n",
+    "          Rakhimova, K\n\n",
+    "09:39  TOKYO DOUBLES draw    \n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/draws\n\n",
+    "       Players added to the draw in TOKYO DOUBLES:    \n\n",
+    "       Players removed from the draw in TOKYO DOUBLES:    \n\n",
+    "       1. Cristina Bucsa / Leylah Fernandez \n\n",
+    "09:39  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/order-of-play\n\n",
+    "09:39  QUERETARO-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2026/draws\n\n",
+    "       Players added to the draw in QUERETARO-125 SINGLES:    \n\n",
+    "       1. Valeriya Strakhova \n",
+    "          Strakhova, V\n\n",
+    "       2. Victoria Rodriguez \n",
+    "          Rodriguez, V\n\n",
+    "       3. Dasha Plekhanova \n",
+    "          Plekhanova, D\n\n",
+    "       4. Carmen Andreea Herea \n",
+    "          Herea, C\n\n"
   ],
   "sits": {
     "ROME": [
@@ -71908,7 +71927,7 @@
       ],
       [
         1,
-        27,
+        28,
         {
           "players": [
             "Elena Rybakina",
@@ -71918,6 +71937,7 @@
             "Himeno Sakatsume",
             "Moyuka Uchijima",
             "Elise Mertens",
+            "Kamilla Rakhimova",
             "Ann Li",
             "Ekaterina Alexandrova",
             "Diane Parry",
@@ -71943,11 +71963,10 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Gabriela Dabrowski / Luisa Stefani",
-            "Cristina Bucsa / Leylah Fernandez",
             "Yulia Putintseva / Liudmila Samsonova",
             "Hao-Ching Chan / Miyu Kato",
             "Ellen Perez / Demi Schuurs",
@@ -71979,7 +71998,7 @@
           "players": []
         }
       ],
-      "2026-10-27"
+      "2026-10-28"
     ],
     "ROVERETO-125": [
       [
@@ -72112,7 +72131,7 @@
       ],
       [
         1,
-        28,
+        32,
         {
           "players": [
             "Tatjana Maria",
@@ -72121,6 +72140,7 @@
             "Zuzanna Pawlikowska",
             "Polona Hercog",
             "Martina Capurro Taborda",
+            "Valeriya Strakhova",
             "Sofia Costoulas",
             "Fiona Ferro",
             "Sofia Johnson",
@@ -72132,6 +72152,7 @@
             "Emiliana Arango",
             "Tamara Zidansek",
             "Katrina Scott",
+            "Victoria Rodriguez",
             "Alicia Herrero Linana",
             "Mell Reasco Gonzalez",
             "Diletta Cherubini",
@@ -72139,8 +72160,10 @@
             "Bianca Andreescu",
             "Nadia Podoroska",
             "Alice Rame",
+            "Dasha Plekhanova",
             "Miriam Bulgaru",
             "Marian Gomez Pezuela Cano",
+            "Carmen Andreea Herea",
             "Carole Monnet",
             "Leolia Jeanjean"
           ]
@@ -79897,5 +79920,5 @@
       1180
     ]
   ],
-  "old_day": 26
+  "old_day": 27
 }
