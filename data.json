@@ -64894,7 +64894,55 @@
     "       3. Dasha Plekhanova \n",
     "          Plekhanova, D\n\n",
     "       4. Carmen Andreea Herea \n",
-    "          Herea, C\n\n"
+    "          Herea, C\n\n",
+    "17:38  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2026/order-of-play\n\n",
+    "17:38  change in COURMAYEUR-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1174/COURMAYEUR-125/2026/draws\n\n",
+    "       Players added to the draw in COURMAYEUR-125 DOUBLES:    \n\n",
+    "       1. Catherine Harrison / Dalayna Hewitt \n",
+    "          Harrison, C/Hewitt, D\n\n",
+    "       2. Anastasiia Sobolieva / Elizara Yaneva \n",
+    "          Sobolieva, A/Yaneva, E\n\n",
+    "       3. Hiroko Kuwata / Ankita Raina \n",
+    "          Kuwata, H/Raina, A\n\n",
+    "       4. Laura Mair / Isabella Maria Serban \n",
+    "          Mair, L/Serban, I\n\n",
+    "       5. Enola Chiesa / Rositsa Dencheva \n",
+    "          Chiesa, E/Dencheva, R\n\n",
+    "       6. Susan Bandecchi / Lisa Pigato \n",
+    "          Bandecchi, S/Pigato, L\n\n",
+    "       7. Adrienn Nagy / Sapfo Sakellaridi \n",
+    "          Nagy, A/Sakellaridi, S\n\n",
+    "       8. Madeleine Brooks / Lisa Zaar \n",
+    "          Brooks, M/Zaar, L\n\n",
+    "       Players removed from the draw in COURMAYEUR-125 DOUBLES:    \n\n",
+    "       1. ANETA LABOUTKOVA / ANETA KUCMOVA \n\n",
+    "       2. CATHERINE HARRISON / DALAYNA HEWITT \n\n",
+    "       3. ADRIENN NAGY / SAPFO SAKELLARIDI \n\n",
+    "       4. LARA SALDEN / LUCIJA CIRIC BAGARIC \n\n",
+    "17:38  OOP in COURMAYEUR-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1174/COURMAYEUR-125/2026/order-of-play\n\n",
+    "17:38  change in CURITIBA-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/draws\n\n",
+    "       Players added to the draw in CURITIBA-125 DOUBLES:    \n\n",
+    "       1. Dalila Jakupovic / Nika Radisic \n",
+    "          Jakupovic, D/Radisic, N\n\n",
+    "       2. Luiza Fullana / Rebeca Pereira \n",
+    "          Fullana, L/Pereira, R\n\n",
+    "       3. Maria Lourdes Carle / Julia Riera \n",
+    "          Carle, M/Riera, J\n\n",
+    "       4. Lucia Bronzetti / Julia Grabher \n",
+    "          Bronzetti, L/Grabher, J\n\n",
+    "       5. Julia Konishi Camargo Silva / Marjorie Souza \n",
+    "          Konishi Camargo Silva, J/Souza, M\n\n",
+    "       6. Nauhany Vitoria Leme Da Silva / Laura Pigossi \n",
+    "          Leme Da Silva, N/Pigossi, L\n\n",
+    "       7. Justina Gonzalez Daniele / Antonia Vergara Rivera \n",
+    "          Gonzalez Daniele, J/Vergara Rivera, A\n\n",
+    "       8. Ana Candiotto / Despina Papamichail \n",
+    "          Candiotto, A/Papamichail, D\n\n",
+    "       Players removed from the draw in CURITIBA-125 DOUBLES:    \n\n",
+    "       1. NIKA RADISIC / DALILA JAKUPOVIC \n\n",
+    "       2. ANA CANDIOTTO / DESPINA PAPAMICHAIL \n\n",
+    "       3. JULIA RIERA / MARIA LOURDES CARLE \n\n",
+    "       4. DARJA SEMENISTAJA / VERONIKA ERJAVEC \n\n"
   ],
   "sits": {
     "ROME": [
@@ -71890,7 +71938,7 @@
           "players": []
         }
       ],
-      "2026-10-27"
+      "2026-10-28"
     ],
     "TOKYO": [
       [
@@ -79786,13 +79834,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ANETA LABOUTKOVA / ANETA KUCMOVA",
-            "CATHERINE HARRISON / DALAYNA HEWITT",
-            "ADRIENN NAGY / SAPFO SAKELLARIDI",
-            "LARA SALDEN / LUCIJA CIRIC BAGARIC"
+            "Catherine Harrison / Dalayna Hewitt",
+            "Anastasiia Sobolieva / Elizara Yaneva",
+            "Hiroko Kuwata / Ankita Raina",
+            "Laura Mair / Isabella Maria Serban",
+            "Enola Chiesa / Rositsa Dencheva",
+            "Susan Bandecchi / Lisa Pigato",
+            "Adrienn Nagy / Sapfo Sakellaridi",
+            "Madeleine Brooks / Lisa Zaar"
           ]
         }
       ],
@@ -79810,7 +79862,7 @@
           "players": []
         }
       ],
-      "2026-10-27"
+      "2026-10-28"
     ],
     "CURITIBA-125": [
       [
@@ -79871,13 +79923,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "NIKA RADISIC / DALILA JAKUPOVIC",
-            "ANA CANDIOTTO / DESPINA PAPAMICHAIL",
-            "JULIA RIERA / MARIA LOURDES CARLE",
-            "DARJA SEMENISTAJA / VERONIKA ERJAVEC"
+            "Dalila Jakupovic / Nika Radisic",
+            "Luiza Fullana / Rebeca Pereira",
+            "Maria Lourdes Carle / Julia Riera",
+            "Lucia Bronzetti / Julia Grabher",
+            "Julia Konishi Camargo Silva / Marjorie Souza",
+            "Nauhany Vitoria Leme Da Silva / Laura Pigossi",
+            "Justina Gonzalez Daniele / Antonia Vergara Rivera",
+            "Ana Candiotto / Despina Papamichail"
           ]
         }
       ],
