@@ -64942,7 +64942,31 @@
     "       1. NIKA RADISIC / DALILA JAKUPOVIC \n\n",
     "       2. ANA CANDIOTTO / DESPINA PAPAMICHAIL \n\n",
     "       3. JULIA RIERA / MARIA LOURDES CARLE \n\n",
-    "       4. DARJA SEMENISTAJA / VERONIKA ERJAVEC \n\n"
+    "       4. DARJA SEMENISTAJA / VERONIKA ERJAVEC \n\n",
+    "23:35  change in QUERETARO-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2026/draws\n\n",
+    "       Players added to the draw in QUERETARO-125 DOUBLES:    \n\n",
+    "       1. Sofia Costoulas / Valeriya Strakhova \n",
+    "          Costoulas, S/Strakhova, V\n\n",
+    "       2. Maria Fernanda Navarro Oliva / Zuzanna Pawlikowska \n",
+    "          Navarro Oliva, M/Pawlikowska, Z\n\n",
+    "       3. Sofia Johnson / Mell Reasco Gonzalez \n",
+    "          Johnson, S/Reasco Gonzalez, M\n\n",
+    "       4. Emiliana Arango / Leolia Jeanjean \n",
+    "          Arango, E/Jeanjean, L\n\n",
+    "       5. Miriam Bulgaru / Polona Hercog \n",
+    "          Bulgaru, M/Hercog, P\n\n",
+    "       6. Victoria Rodriguez / Demi Tran \n",
+    "          Rodriguez, V/Tran, D\n\n",
+    "       7. Marian Gomez Pezuela Cano / Nadia Podoroska \n",
+    "          Gomez Pezuela Cano, M/Podoroska, N\n\n",
+    "       8. Carole Monnet / Alexandra Osborne \n",
+    "          Monnet, C/Osborne, A\n\n",
+    "       Players removed from the draw in QUERETARO-125 DOUBLES:    \n\n",
+    "       1. DEMI TRAN / VICTORIA RODRIGUEZ \n\n",
+    "       2. ZUZANNA PAWLIKOWSKA / MARIA FERNANDA NAVARRO OLIVA \n\n",
+    "       3. TENIKA MCGIFFIN / LIA KARATANCHEVA \n\n",
+    "       4. VALERIYA STRAKHOVA / SOFIA COSTOULAS \n\n",
+    "23:35  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -72219,13 +72243,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "DEMI TRAN / VICTORIA RODRIGUEZ",
-            "ZUZANNA PAWLIKOWSKA / MARIA FERNANDA NAVARRO OLIVA",
-            "TENIKA MCGIFFIN / LIA KARATANCHEVA",
-            "VALERIYA STRAKHOVA / SOFIA COSTOULAS"
+            "Sofia Costoulas / Valeriya Strakhova",
+            "Maria Fernanda Navarro Oliva / Zuzanna Pawlikowska",
+            "Sofia Johnson / Mell Reasco Gonzalez",
+            "Emiliana Arango / Leolia Jeanjean",
+            "Miriam Bulgaru / Polona Hercog",
+            "Victoria Rodriguez / Demi Tran",
+            "Marian Gomez Pezuela Cano / Nadia Podoroska",
+            "Carole Monnet / Alexandra Osborne"
           ]
         }
       ],
@@ -79951,7 +79979,7 @@
           "players": []
         }
       ],
-      "2026-10-27"
+      "2026-10-28"
     ]
   },
   "torns": [
