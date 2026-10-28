@@ -64966,7 +64966,13 @@
     "       2. ZUZANNA PAWLIKOWSKA / MARIA FERNANDA NAVARRO OLIVA \n\n",
     "       3. TENIKA MCGIFFIN / LIA KARATANCHEVA \n\n",
     "       4. VALERIYA STRAKHOVA / SOFIA COSTOULAS \n\n",
-    "23:35  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n"
+    "23:35  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n",
+    "10:23  TOKYO DOUBLES draw    \n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/draws\n\n",
+    "       Players added to the draw in TOKYO DOUBLES:    \n\n",
+    "       1. Mana Ayukawa / Emily Webley-Smith \n",
+    "          Ayukawa, M/Webley-Smith, E\n\n",
+    "10:23  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/order-of-play\n\n",
+    "10:23  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -72035,10 +72041,11 @@
       ],
       [
         2,
-        15,
+        16,
         {
           "players": [
             "Gabriela Dabrowski / Luisa Stefani",
+            "Mana Ayukawa / Emily Webley-Smith",
             "Yulia Putintseva / Liudmila Samsonova",
             "Hao-Ching Chan / Miyu Kato",
             "Ellen Perez / Demi Schuurs",
@@ -72070,7 +72077,7 @@
           "players": []
         }
       ],
-      "2026-10-28"
+      "2026-10-29"
     ],
     "ROVERETO-125": [
       [
@@ -72271,7 +72278,7 @@
           "players": []
         }
       ],
-      "2026-10-27"
+      "2026-10-28"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -80004,5 +80011,5 @@
       1180
     ]
   ],
-  "old_day": 27
+  "old_day": 28
 }
