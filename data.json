@@ -65605,7 +65605,64 @@
     "           SHINIKOVA, I/KROITOR, K\n\n",
     "18:09  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2026/order-of-play\n\n",
     "23:49  OOP in COURMAYEUR-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1174/COURMAYEUR-125/2026/order-of-play\n\n",
-    "23:49  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n"
+    "23:49  OOP in CURITIBA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1180/CURITIBA-125/2026/order-of-play\n\n",
+    "10:44  OOP in GUANGZHOU appeared \u2605\n       https://www.wtatennis.com/tournament/1023/GUANGZHOU/2026/order-of-play\n\n",
+    "10:44  OOP in TOKYO appeared \u2605\n       https://www.wtatennis.com/tournament/1056/TOKYO/2026/order-of-play\n\n",
+    "10:44  OOP in QUERETARO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1145/QUERETARO-125/2026/order-of-play\n\n",
+    "10:44  HONG-KONG QUALS draw    \n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/draws\n\n",
+    "       Players added to the draw in HONG-KONG QUALS:    \n\n",
+    "       1. Aliaksandra Sasnovich \n",
+    "          Sasnovich, A\n\n",
+    "       2. Cheuk Ying Shek \n",
+    "          Shek, C\n\n",
+    "       3. Ching Laam Lai \n",
+    "          Lai, C\n\n",
+    "       4. Carol Young Suh Lee \n",
+    "          Lee, C\n\n",
+    "       5. Hong Yi Cody Wong \n",
+    "          Wong, H\n\n",
+    "       6. Elena Pridankina \n",
+    "          Pridankina, E\n\n",
+    "       7. Ekaterine Gorgodze \n",
+    "          Gorgodze, E\n\n",
+    "       8. Tatiana Prozorova \n",
+    "          Prozorova, T\n\n",
+    "       9. Hayu Kinoshita \n",
+    "          Kinoshita, H\n\n",
+    "       10. Mika Stojsavljevic \n",
+    "           Stojsavljevic, M\n\n",
+    "       11. Alevtina Ibragimova \n",
+    "           Ibragimova, A\n\n",
+    "       12. Emerson Jones \n",
+    "           Jones, E\n\n",
+    "       13. Heather Watson \n",
+    "           Watson, H\n\n",
+    "       14. Alexandra Shubladze \n",
+    "           Shubladze, A\n\n",
+    "       Players removed from the draw in HONG-KONG QUALS:    \n\n",
+    "       1. Maddison Inglis \n\n",
+    "       2. Marina Melnikova \n\n",
+    "       3. Man Ying Ng \n\n",
+    "       4. Jia-Jing Lu \n\n",
+    "       5. Kyoka Okamura \n\n",
+    "       6. Meiqi Guo \n\n",
+    "       7. Viktoria Morvayova \n\n",
+    "       8. Emily Appleton \n\n",
+    "       9. Anastasia Kulikova \n\n",
+    "       10. Anna Yang \n\n",
+    "       11. Miho Kuramochi \n\n",
+    "       12. Ye-Xin Ma \n\n",
+    "       13. Yuyao Li \n\n",
+    "       14. Nadiya Kolb \n\n",
+    "       15. Amy Zhu \n\n",
+    "       16. Haruka Kaji \n\n",
+    "       17. Kallista Liu \n\n",
+    "       18. Kristiana Sidorova \n\n",
+    "       19. Zarina Diyas \n\n",
+    "       20. Xiaodi You \n\n",
+    "       21. Momoko Kobori \n\n",
+    "       22. Ikumi Yamazaki \n\n",
+    "10:44  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -72601,7 +72658,7 @@
           "players": []
         }
       ],
-      "2026-10-30"
+      "2026-10-31"
     ],
     "TOKYO": [
       [
@@ -72710,7 +72767,7 @@
           "players": []
         }
       ],
-      "2026-10-30"
+      "2026-10-31"
     ],
     "ROVERETO-125": [
       [
@@ -72911,7 +72968,7 @@
           "players": []
         }
       ],
-      "2026-10-29"
+      "2026-10-30"
     ],
     "FLORIANOPOLIS-125": [
       [
@@ -73010,33 +73067,25 @@
     "HONG-KONG": [
       [
         0,
-        24,
+        16,
         {
           "players": [
-            "Maddison Inglis",
-            "Marina Melnikova",
-            "Man Ying Ng",
-            "Jia-Jing Lu",
-            "Kyoka Okamura",
-            "Meiqi Guo",
-            "Viktoria Morvayova",
-            "Emily Appleton",
+            "Aliaksandra Sasnovich",
+            "Cheuk Ying Shek",
+            "Ching Laam Lai",
+            "Carol Young Suh Lee",
             "Himeno Sakatsume",
-            "Anastasia Kulikova",
-            "Anna Yang",
-            "Miho Kuramochi",
-            "Ye-Xin Ma",
-            "Yuyao Li",
-            "Nadiya Kolb",
-            "Amy Zhu",
-            "Haruka Kaji",
-            "Kallista Liu",
-            "Kristiana Sidorova",
-            "Zarina Diyas",
-            "Xiaodi You",
+            "Hong Yi Cody Wong",
+            "Elena Pridankina",
+            "Ekaterine Gorgodze",
+            "Tatiana Prozorova",
+            "Hayu Kinoshita",
+            "Mika Stojsavljevic",
+            "Alevtina Ibragimova",
+            "Emerson Jones",
+            "Heather Watson",
             "Ying Zhang",
-            "Momoko Kobori",
-            "Ikumi Yamazaki"
+            "Alexandra Shubladze"
           ]
         }
       ],
@@ -73118,7 +73167,7 @@
           "players": []
         }
       ],
-      "2025-11-02"
+      "2026-10-31"
     ],
     "JIUJIANG": [
       [
@@ -80777,5 +80826,5 @@
       1176
     ]
   ],
-  "old_day": 29
+  "old_day": 30
 }
