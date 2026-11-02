@@ -1,115 +1,5 @@
 {
   "kuits": {
-    "GUANGZHOU": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "TOKYO": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "QUERETARO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "COURMAYEUR-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "CURITIBA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "HONG-KONG": [
       [
         0,
@@ -66333,7 +66223,8 @@
     "       Players removed from the draw in CALI-125 QUALS:    \n\n",
     "       1. Laura Pigossi \n\n",
     "       2. Maria Paulina Perez Garcia \n\n",
-    "23:24  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2026/order-of-play\n\n"
+    "23:24  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2026/order-of-play\n\n",
+    "12:03  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -73838,7 +73729,7 @@
           "players": []
         }
       ],
-      "2026-11-02"
+      "2026-11-03"
     ],
     "JIUJIANG": [
       [
@@ -81459,26 +81350,6 @@
   },
   "torns": [
     [
-      "GUANGZHOU",
-      1023
-    ],
-    [
-      "TOKYO",
-      1056
-    ],
-    [
-      "QUERETARO-125",
-      1145
-    ],
-    [
-      "COURMAYEUR-125",
-      1174
-    ],
-    [
-      "CURITIBA-125",
-      1180
-    ],
-    [
       "HONG-KONG",
       1074
     ],
@@ -81499,5 +81370,5 @@
       1176
     ]
   ],
-  "old_day": 1
+  "old_day": 2
 }
