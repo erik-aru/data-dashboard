@@ -66257,7 +66257,36 @@
     "          Jones, E\n\n",
     "       Players removed from the draw in HONG-KONG SINGLES:    \n\n",
     "       1. Alycia Parks \n\n",
-    "11:41  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/order-of-play\n\n"
+    "11:41  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/order-of-play\n\n",
+    "19:13  change in CALI-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1110/CALI-125/2026/draws\n\n",
+    "       Players added to the draw in CALI-125 DOUBLES:    \n\n",
+    "       1. Dalila Jakupovic / Nika Radisic \n",
+    "          Jakupovic, D/Radisic, N\n\n",
+    "       2. Irene Burillo / Julia Riera \n",
+    "          Burillo, I/Riera, J\n\n",
+    "       3. Maria Lourdes Carle / Laura Pigossi \n",
+    "          Carle, M/Pigossi, L\n\n",
+    "       4. Sofia Costoulas / Despina Papamichail \n",
+    "          Costoulas, S/Papamichail, D\n\n",
+    "       5. Tenika McGiffin / Alexandra Osborne \n",
+    "          McGiffin, T/Osborne, A\n\n",
+    "       6. Valentina Mediorreal Arias / Maria Paulina Perez Garcia \n",
+    "          Mediorreal Arias, V/Perez Garcia, M\n\n",
+    "       7. Laura Samson / Tamara Zidansek \n",
+    "          Samson, L/Zidansek, T\n\n",
+    "       8. Anna Rogers / Allura Zamarripa \n",
+    "          Rogers, A/Zamarripa, A\n\n",
+    "       Players removed from the draw in CALI-125 DOUBLES:    \n\n",
+    "       1. TENIKA MCGIFFIN / ALEXANDRA OSBORNE \n\n",
+    "       2. IRENE BURILLO / JULIA RIERA \n\n",
+    "       3. DALILA JAKUPOVIC / NIKA RADISIC \n\n",
+    "       4. DESPINA PAPAMICHAIL / SOFIA COSTOULAS \n\n",
+    "19:13  change in CHENNAI DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1148/CHENNAI/2026/draws\n\n",
+    "       Players added to the draw in CHENNAI DOUBLES:    \n\n",
+    "       Players removed from the draw in CHENNAI DOUBLES:    \n\n",
+    "       1. Teodora Kostovic / Jeline Vandromme \n\n",
+    "19:13  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2026/order-of-play\n\n",
+    "19:13  OOP in LUANDA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1176/LUANDA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -73926,13 +73955,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "TENIKA MCGIFFIN / ALEXANDRA OSBORNE",
-            "IRENE BURILLO / JULIA RIERA",
-            "DALILA JAKUPOVIC / NIKA RADISIC",
-            "DESPINA PAPAMICHAIL / SOFIA COSTOULAS"
+            "Dalila Jakupovic / Nika Radisic",
+            "Irene Burillo / Julia Riera",
+            "Maria Lourdes Carle / Laura Pigossi",
+            "Sofia Costoulas / Despina Papamichail",
+            "Tenika McGiffin / Alexandra Osborne",
+            "Valentina Mediorreal Arias / Maria Paulina Perez Garcia",
+            "Laura Samson / Tamara Zidansek",
+            "Anna Rogers / Allura Zamarripa"
           ]
         }
       ],
@@ -74019,7 +74052,7 @@
       ],
       [
         2,
-        16,
+        15,
         {
           "players": [
             "Momoko Kobori / Peangtarn Plipuech",
@@ -74031,7 +74064,6 @@
             "Isabelle Haverlag / Panna Udvardy",
             "Mana Ayukawa / Emily Webley-Smith",
             "Jodie Burrage / Robin Montgomery",
-            "Teodora Kostovic / Jeline Vandromme",
             "Vaishnavi Adkar / Rutuja Bhosale",
             "Madeleine Brooks / Amelia Rajecki",
             "Gabriella Da Silva Fick / Zhibek Kulambayeva",
@@ -74055,7 +74087,7 @@
           "players": []
         }
       ],
-      "2026-11-03"
+      "2026-11-04"
     ],
     "WTA-FINALS": [
       [
@@ -81382,7 +81414,7 @@
           "players": []
         }
       ],
-      "2026-11-03"
+      "2026-11-04"
     ]
   },
   "torns": [
