@@ -109,6 +109,28 @@
         0,
         "none"
       ]
+    ],
+    "WTA-FINALS": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ],
+      [
+        0,
+        "none"
+      ]
     ]
   },
   "messages": [
@@ -66286,7 +66308,8 @@
     "       Players removed from the draw in CHENNAI DOUBLES:    \n\n",
     "       1. Teodora Kostovic / Jeline Vandromme \n\n",
     "19:13  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2026/order-of-play\n\n",
-    "19:13  OOP in LUANDA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1176/LUANDA-125/2026/order-of-play\n\n"
+    "19:13  OOP in LUANDA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1176/LUANDA-125/2026/order-of-play\n\n",
+    "00:26  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -73983,7 +74006,7 @@
           "players": []
         }
       ],
-      "2026-11-03"
+      "2026-11-04"
     ],
     "CHENNAI": [
       [
@@ -74099,34 +74122,16 @@
       ],
       [
         1,
-        8,
+        0,
         {
-          "players": [
-            "Aryna Sabalenka",
-            "Coco Gauff",
-            "Jessica Pegula",
-            "Jasmine Paolini",
-            "Iga Swiatek",
-            "Amanda Anisimova",
-            "Elena Rybakina",
-            "Madison Keys"
-          ]
+          "players": []
         }
       ],
       [
         2,
-        8,
+        0,
         {
-          "players": [
-            "Sara Errani / Jasmine Paolini",
-            "Veronika Kudermetova / Elise Mertens",
-            "Su-Wei Hsieh / Jelena Ostapenko",
-            "Asia Muhammad / Demi Schuurs",
-            "Katerina Siniakova / Taylor Townsend",
-            "Gabriela Dabrowski / Erin Routliffe",
-            "Mirra Andreeva / Diana Shnaider",
-            "Timea Babos / Luisa Stefani"
-          ]
+          "players": []
         }
       ],
       [
@@ -81437,7 +81442,11 @@
     [
       "LUANDA-125",
       1176
+    ],
+    [
+      "WTA-FINALS",
+      808
     ]
   ],
-  "old_day": 3
+  "old_day": 4
 }
