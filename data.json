@@ -66309,7 +66309,49 @@
     "       1. Teodora Kostovic / Jeline Vandromme \n\n",
     "19:13  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2026/order-of-play\n\n",
     "19:13  OOP in LUANDA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1176/LUANDA-125/2026/order-of-play\n\n",
-    "00:26  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2026/order-of-play\n\n"
+    "00:26  OOP in CALI-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1110/CALI-125/2026/order-of-play\n\n",
+    "11:54  change in HONG-KONG SINGLES \u2605   \n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/draws\n\n       Players added to the draw in HONG-KONG SINGLES:    \n\n",
+    "       1. Mika Stojsavljevic \n",
+    "          Stojsavljevic, M\n\n",
+    "       Players removed from the draw in HONG-KONG SINGLES:    \n\n",
+    "       1. Leylah Fernandez \n\n",
+    "11:54  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/order-of-play\n\n",
+    "11:54  NEW draw in WTA-FINALS SINGLES \u2605    \n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/draws\n\n",
+    "       Players added to the draw in WTA-FINALS SINGLES:    \n\n",
+    "       1. Elena Rybakina \n",
+    "          Rybakina, E\n\n",
+    "       2. Coco Gauff \n",
+    "          Gauff, C\n\n",
+    "       3. Jessica Pegula \n",
+    "          Pegula, J\n\n",
+    "       4. Linda Noskova \n",
+    "          Noskova, L\n\n",
+    "       5. Aryna Sabalenka \n",
+    "          Sabalenka, A\n\n",
+    "       6. Mirra Andreeva \n",
+    "          Andreeva, M\n\n",
+    "       7. Elina Svitolina \n",
+    "          Svitolina, E\n\n",
+    "       8. Karolina Muchova \n",
+    "          Muchova, K\n\n",
+    "11:54  NEW draw in WTA-FINALS DOUBLES \u2605    \n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/draws\n\n",
+    "       Players added to the draw in WTA-FINALS DOUBLES:    \n\n",
+    "       1. Gabriela Dabrowski / Luisa Stefani \n",
+    "          Dabrowski, G/Stefani, L\n\n",
+    "       2. Hanyu Guo / Kristina Mladenovic \n",
+    "          Guo, H/Mladenovic, K\n\n",
+    "       3. Su-Wei Hsieh / Jelena Ostapenko \n",
+    "          Hsieh, S/Ostapenko, J\n\n",
+    "       4. Elise Mertens / Shuai Zhang \n",
+    "          Mertens, E/Zhang, S\n\n",
+    "       5. Katerina Siniakova / Taylor Townsend \n",
+    "          Siniakova, K/Townsend, T\n\n",
+    "       6. Cristina Bucsa / Nicole Melichar-Martinez \n",
+    "          Bucsa, C/Melichar-Martinez, N\n\n",
+    "       7. Ellen Perez / Demi Schuurs \n",
+    "          Perez, E/Schuurs, D\n\n",
+    "       8. Sara Errani / Jasmine Paolini \n",
+    "          Errani, S/Paolini, J\n\n"
   ],
   "sits": {
     "ROME": [
@@ -73749,7 +73791,7 @@
             "Paula Badosa",
             "Alexandra Shubladze",
             "Liudmila Samsonova",
-            "Leylah Fernandez",
+            "Mika Stojsavljevic",
             "Sofia Kenin",
             "Dayana Yastremska",
             "Zeynep Sonmez",
@@ -73814,7 +73856,7 @@
           "players": []
         }
       ],
-      "2026-11-04"
+      "2026-11-05"
     ],
     "JIUJIANG": [
       [
@@ -74122,16 +74164,34 @@
       ],
       [
         1,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Elena Rybakina",
+            "Coco Gauff",
+            "Jessica Pegula",
+            "Linda Noskova",
+            "Aryna Sabalenka",
+            "Mirra Andreeva",
+            "Elina Svitolina",
+            "Karolina Muchova"
+          ]
         }
       ],
       [
         2,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Gabriela Dabrowski / Luisa Stefani",
+            "Hanyu Guo / Kristina Mladenovic",
+            "Su-Wei Hsieh / Jelena Ostapenko",
+            "Elise Mertens / Shuai Zhang",
+            "Katerina Siniakova / Taylor Townsend",
+            "Cristina Bucsa / Nicole Melichar-Martinez",
+            "Ellen Perez / Demi Schuurs",
+            "Sara Errani / Jasmine Paolini"
+          ]
         }
       ],
       [
