@@ -66458,7 +66458,26 @@
     "10:54  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n",
     "17:32  OOP in HONG-KONG appeared \u2605\n       https://www.wtatennis.com/tournament/1074/HONG-KONG/2026/order-of-play\n\n",
     "17:32  OOP in CHENNAI appeared \u2605\n       https://www.wtatennis.com/tournament/1148/CHENNAI/2026/order-of-play\n\n",
-    "17:32  OOP in LUANDA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1176/LUANDA-125/2026/order-of-play\n\n"
+    "17:32  OOP in LUANDA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1176/LUANDA-125/2026/order-of-play\n\n",
+    "23:28  NEW draw in SOPO-125 QUALS \u2605    \n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/draws\n\n",
+    "       Players added to the draw in SOPO-125 QUALS:    \n\n",
+    "       1. Carolina Alves \n",
+    "          Alves, C\n\n",
+    "       2. Sara Alejandra Lozano Avellaneda \n",
+    "          Lozano Avellaneda, S\n\n",
+    "       3. Katrina Scott \n",
+    "          Scott, K\n\n",
+    "       4. Maria Torres Murcia \n",
+    "          Torres Murcia, M\n\n",
+    "       5. Dalila Jakupovic \n",
+    "          Jakupovic, D\n\n",
+    "       6. Isabella Collazos \n",
+    "          Collazos, I\n\n",
+    "       7. Maria Herazo \n",
+    "          Herazo, M\n\n",
+    "       8. Maria Jose Sanchez Uribe \n",
+    "          Sanchez Uribe, M\n\n",
+    "23:28  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -81592,9 +81611,18 @@
     "SOPO-125": [
       [
         0,
-        0,
+        8,
         {
-          "players": []
+          "players": [
+            "Carolina Alves",
+            "Sara Alejandra Lozano Avellaneda",
+            "Katrina Scott",
+            "Maria Torres Murcia",
+            "Dalila Jakupovic",
+            "Isabella Collazos",
+            "Maria Herazo",
+            "Maria Jose Sanchez Uribe"
+          ]
         }
       ],
       [
@@ -81658,7 +81686,7 @@
           "players": []
         }
       ],
-      "nothing"
+      "2026-11-08"
     ]
   },
   "torns": [
