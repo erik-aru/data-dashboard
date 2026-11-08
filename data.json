@@ -22,28 +22,6 @@
         "none"
       ]
     ],
-    "CALI-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "CHENNAI": [
       [
         0,
@@ -66477,7 +66455,8 @@
     "          Herazo, M\n\n",
     "       8. Maria Jose Sanchez Uribe \n",
     "          Sanchez Uribe, M\n\n",
-    "23:28  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n"
+    "23:28  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n",
+    "11:05  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -74335,7 +74314,7 @@
           "players": []
         }
       ],
-      "2026-11-08"
+      "2026-11-09"
     ],
     "AUSTIN-125": [
       [
@@ -81695,10 +81674,6 @@
       1074
     ],
     [
-      "CALI-125",
-      1110
-    ],
-    [
       "CHENNAI",
       1148
     ],
@@ -81719,5 +81694,5 @@
       1181
     ]
   ],
-  "old_day": 7
+  "old_day": 8
 }
