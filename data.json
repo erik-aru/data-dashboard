@@ -1,93 +1,5 @@
 {
   "kuits": {
-    "HONG-KONG": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "CHENNAI": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "MIAMI-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
-    "LUANDA-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "WTA-FINALS": [
       [
         0,
@@ -66552,7 +66464,8 @@
     "       25. LUISINA GIOVANNINI \n\n",
     "       26. PETRA MARCINKO \n\n",
     "       27. LAURA SAMSON \n\n",
-    "23:27  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n"
+    "23:27  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n",
+    "12:36  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -74410,7 +74323,7 @@
           "players": []
         }
       ],
-      "2026-11-09"
+      "2026-11-10"
     ],
     "AUSTIN-125": [
       [
@@ -81771,22 +81684,6 @@
   },
   "torns": [
     [
-      "HONG-KONG",
-      1074
-    ],
-    [
-      "CHENNAI",
-      1148
-    ],
-    [
-      "MIAMI-125",
-      1169
-    ],
-    [
-      "LUANDA-125",
-      1176
-    ],
-    [
       "WTA-FINALS",
       808
     ],
@@ -81795,5 +81692,5 @@
       1181
     ]
   ],
-  "old_day": 8
+  "old_day": 9
 }
