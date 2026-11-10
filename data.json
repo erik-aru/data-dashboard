@@ -66465,7 +66465,13 @@
     "       26. PETRA MARCINKO \n\n",
     "       27. LAURA SAMSON \n\n",
     "23:27  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n",
-    "12:36  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n"
+    "12:36  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n",
+    "02:34  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n",
+    "02:34  SOPO-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/draws\n\n",
+    "       Players added to the draw in SOPO-125 SINGLES:    \n\n",
+    "       Players removed from the draw in SOPO-125 SINGLES:    \n\n",
+    "       1. Leolia Jeanjean \n\n",
+    "02:34  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -74323,7 +74329,7 @@
           "players": []
         }
       ],
-      "2026-11-10"
+      "2026-11-11"
     ],
     "AUSTIN-125": [
       [
@@ -81615,7 +81621,7 @@
       ],
       [
         1,
-        32,
+        31,
         {
           "players": [
             "Tatjana Maria",
@@ -81648,8 +81654,7 @@
             "Veronika Erjavec",
             "Katrina Scott",
             "Andrea Lazaro Garcia",
-            "Jazmin Ortenzi",
-            "Leolia Jeanjean"
+            "Jazmin Ortenzi"
           ]
         }
       ],
@@ -81679,7 +81684,7 @@
           "players": []
         }
       ],
-      "2026-11-09"
+      "2026-11-10"
     ]
   },
   "torns": [
@@ -81692,5 +81697,5 @@
       1181
     ]
   ],
-  "old_day": 9
+  "old_day": 10
 }
