@@ -66471,7 +66471,12 @@
     "       Players added to the draw in SOPO-125 SINGLES:    \n\n",
     "       Players removed from the draw in SOPO-125 SINGLES:    \n\n",
     "       1. Leolia Jeanjean \n\n",
-    "02:34  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n"
+    "02:34  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n",
+    "00:27  SOPO-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/draws\n\n",
+    "       Players added to the draw in SOPO-125 SINGLES:    \n\n",
+    "       1. Maria Torres Murcia \n",
+    "          Torres Murcia, M\n\n",
+    "00:27  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -81621,7 +81626,7 @@
       ],
       [
         1,
-        31,
+        32,
         {
           "players": [
             "Tatjana Maria",
@@ -81654,7 +81659,8 @@
             "Veronika Erjavec",
             "Katrina Scott",
             "Andrea Lazaro Garcia",
-            "Jazmin Ortenzi"
+            "Jazmin Ortenzi",
+            "Maria Torres Murcia"
           ]
         }
       ],
@@ -81684,7 +81690,7 @@
           "players": []
         }
       ],
-      "2026-11-10"
+      "2026-11-11"
     ]
   },
   "torns": [
@@ -81697,5 +81703,5 @@
       1181
     ]
   ],
-  "old_day": 10
+  "old_day": 11
 }
