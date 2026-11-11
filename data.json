@@ -66477,7 +66477,30 @@
     "       1. Maria Torres Murcia \n",
     "          Torres Murcia, M\n\n",
     "00:27  OOP in SOPO-125 appeared \u2605\n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/order-of-play\n\n",
-    "11:42  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n"
+    "11:42  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n",
+    "19:20  change in SOPO-125 DOUBLES \u2605   \n       https://www.wtatennis.com/tournament/1181/SOPO-125/2026/draws\n\n",
+    "       Players added to the draw in SOPO-125 DOUBLES:    \n\n",
+    "       1. Dalila Jakupovic / Nika Radisic \n",
+    "          Jakupovic, D/Radisic, N\n\n",
+    "       2. Carole Monnet / Laura Pigossi \n",
+    "          Monnet, C/Pigossi, L\n\n",
+    "       3. Laura Samson / Tamara Zidansek \n",
+    "          Samson, L/Zidansek, T\n\n",
+    "       4. Valentina Mediorreal Arias / Maria Paulina Perez Garcia \n",
+    "          Mediorreal Arias, V/Perez Garcia, M\n\n",
+    "       5. Veronika Erjavec / Zhibek Kulambayeva \n",
+    "          Erjavec, V/Kulambayeva, Z\n\n",
+    "       6. Tenika McGiffin / Alexandra Osborne \n",
+    "          McGiffin, T/Osborne, A\n\n",
+    "       7. Sofia Costoulas / Allura Zamarripa \n",
+    "          Costoulas, S/Zamarripa, A\n\n",
+    "       8. Rasheeda McAdoo / Anna Rogers \n",
+    "          McAdoo, R/Rogers, A\n\n",
+    "       Players removed from the draw in SOPO-125 DOUBLES:    \n\n",
+    "       1. NIKA RADISIC / DALILA JAKUPOVIC \n\n",
+    "       2. ANNA ROGERS / RASHEEDA MCADOO \n\n",
+    "       3. ALEXANDRA OSBORNE / TENIKA MCGIFFIN \n\n",
+    "       4. ZHIBEK KULAMBAYEVA / VERONIKA ERJAVEC \n\n"
   ],
   "sits": {
     "ROME": [
@@ -81667,13 +81690,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "NIKA RADISIC / DALILA JAKUPOVIC",
-            "ANNA ROGERS / RASHEEDA MCADOO",
-            "ALEXANDRA OSBORNE / TENIKA MCGIFFIN",
-            "ZHIBEK KULAMBAYEVA / VERONIKA ERJAVEC"
+            "Dalila Jakupovic / Nika Radisic",
+            "Carole Monnet / Laura Pigossi",
+            "Laura Samson / Tamara Zidansek",
+            "Valentina Mediorreal Arias / Maria Paulina Perez Garcia",
+            "Veronika Erjavec / Zhibek Kulambayeva",
+            "Tenika McGiffin / Alexandra Osborne",
+            "Sofia Costoulas / Allura Zamarripa",
+            "Rasheeda McAdoo / Anna Rogers"
           ]
         }
       ],
