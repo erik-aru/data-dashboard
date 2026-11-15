@@ -22,28 +22,6 @@
         "none"
       ]
     ],
-    "SOPO-125": [
-      [
-        0,
-        0
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ],
-      [
-        0,
-        "none"
-      ]
-    ],
     "COLINA-125": [
       [
         0,
@@ -66664,7 +66642,94 @@
     "       4. Jimar Gerald Gonzalez \n\n",
     "       5. Polona Hercog \n\n",
     "       6. Eryn Cayetano \n\n",
-    "23:42  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n"
+    "23:42  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n",
+    "11:47  OOP in WTA-FINALS appeared \u2605\n       https://www.wtatennis.com/tournament/808/WTA-FINALS/2026/order-of-play\n\n",
+    "11:47  COLINA-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/draws\n\n",
+    "       Players added to the draw in COLINA-125 SINGLES:    \n\n",
+    "       1. Leyre Romero Gormaz \n",
+    "          Romero Gormaz, L\n\n",
+    "       2. Ipek Oz \n",
+    "          Oz, I\n\n",
+    "       3. Nadia Podoroska \n",
+    "          Podoroska, N\n\n",
+    "       4. Varvara Lepchenko \n",
+    "          Lepchenko, V\n\n",
+    "       5. Katrina Scott \n",
+    "          Scott, K\n\n",
+    "       6. Anastasia Zolotareva \n",
+    "          Zolotareva, A\n\n",
+    "       7. Irene Burillo \n",
+    "          Burillo, I\n\n",
+    "       8. Darja Semenistaja \n",
+    "          Semenistaja, D\n\n",
+    "       9. Lucia Bronzetti \n",
+    "          Bronzetti, L\n\n",
+    "       10. Alicia Herrero Linana \n",
+    "           Herrero Linana, A\n\n",
+    "       11. Victoria Jimenez Kasintseva \n",
+    "           Jimenez Kasintseva, V\n\n",
+    "       12. Carole Monnet \n",
+    "           Monnet, C\n\n",
+    "       13. Anastasia Tikhonova \n",
+    "           Tikhonova, A\n\n",
+    "       14. Maria Lourdes Carle \n",
+    "           Carle, M\n\n",
+    "       15. Veronika Erjavec \n",
+    "           Erjavec, V\n\n",
+    "       16. Guiomar Maristany Zuleta De Reales \n",
+    "           Maristany Zuleta De Reales, G\n\n",
+    "       17. Sofia Costoulas \n",
+    "           Costoulas, S\n\n",
+    "       18. Nuria Brancaccio \n",
+    "           Brancaccio, N\n\n",
+    "       19. Fernanda Labrana \n",
+    "           Labrana, F\n\n",
+    "       20. Antonia Vergara Rivera \n",
+    "           Vergara Rivera, A\n\n",
+    "       21. Barbara Gatica \n",
+    "           Gatica, B\n\n",
+    "       22. Andrea Lazaro Garcia \n",
+    "           Lazaro Garcia, A\n\n",
+    "       23. Rebeka Masarova \n",
+    "           Masarova, R\n\n",
+    "       24. Polona Hercog \n",
+    "           Hercog, P\n\n",
+    "       25. Miriam Bulgaru \n",
+    "           Bulgaru, M\n\n",
+    "       26. Luisina Giovannini \n",
+    "           Giovannini, L\n\n",
+    "       27. Despina Papamichail \n",
+    "           Papamichail, D\n\n",
+    "       28. Laura Samson \n",
+    "           Samson, L\n\n",
+    "       Players removed from the draw in COLINA-125 SINGLES:    \n\n",
+    "       1. VARVARA LEPCHENKO \n\n",
+    "       2. POLONA HERCOG \n\n",
+    "       3. MAGDA LINETTE \n\n",
+    "       4. DESPINA PAPAMICHAIL \n\n",
+    "       5. ANDREA LAZARO GARCIA \n\n",
+    "       6. NADIA PODOROSKA \n\n",
+    "       7. JULIA GRABHER \n\n",
+    "       8. IRENE BURILLO \n\n",
+    "       9. IPEK OZ \n\n",
+    "       10. ALICIA HERRERO LINANA \n\n",
+    "       11. REBEKA MASAROVA \n\n",
+    "       12. LUCIA BRONZETTI \n\n",
+    "       13. MARIA LOURDES CARLE \n\n",
+    "       14. TAMARA ZIDANSEK \n\n",
+    "       15. GUIOMAR MARISTANY ZULETA DE REALES \n\n",
+    "       16. NURIA BRANCACCIO \n\n",
+    "       17. CAROLE MONNET \n\n",
+    "       18. LEYRE ROMERO GORMAZ \n\n",
+    "       19. JAZMIN ORTENZI \n\n",
+    "       20. JULIA RIERA \n\n",
+    "       21. VERONIKA ERJAVEC \n\n",
+    "       22. DARJA SEMENISTAJA \n\n",
+    "       23. VICTORIA JIMENEZ KASINTSEVA \n\n",
+    "       24. SOFIA COSTOULAS \n\n",
+    "       25. YASMINE KABBAJ \n\n",
+    "       26. LUISINA GIOVANNINI \n\n",
+    "       27. LAURA SAMSON \n\n"
   ],
   "sits": {
     "ROME": [
@@ -74522,7 +74587,7 @@
           "players": []
         }
       ],
-      "2026-11-14"
+      "2026-11-15"
     ],
     "AUSTIN-125": [
       [
@@ -74721,36 +74786,37 @@
       ],
       [
         1,
-        27,
+        28,
         {
           "players": [
-            "VARVARA LEPCHENKO",
-            "POLONA HERCOG",
-            "MAGDA LINETTE",
-            "DESPINA PAPAMICHAIL",
-            "ANDREA LAZARO GARCIA",
-            "NADIA PODOROSKA",
-            "JULIA GRABHER",
-            "IRENE BURILLO",
-            "IPEK OZ",
-            "ALICIA HERRERO LINANA",
-            "REBEKA MASAROVA",
-            "LUCIA BRONZETTI",
-            "MARIA LOURDES CARLE",
-            "TAMARA ZIDANSEK",
-            "GUIOMAR MARISTANY ZULETA DE REALES",
-            "NURIA BRANCACCIO",
-            "CAROLE MONNET",
-            "LEYRE ROMERO GORMAZ",
-            "JAZMIN ORTENZI",
-            "JULIA RIERA",
-            "VERONIKA ERJAVEC",
-            "DARJA SEMENISTAJA",
-            "VICTORIA JIMENEZ KASINTSEVA",
-            "SOFIA COSTOULAS",
-            "YASMINE KABBAJ",
-            "LUISINA GIOVANNINI",
-            "LAURA SAMSON"
+            "Leyre Romero Gormaz",
+            "Ipek Oz",
+            "Nadia Podoroska",
+            "Varvara Lepchenko",
+            "Katrina Scott",
+            "Anastasia Zolotareva",
+            "Irene Burillo",
+            "Darja Semenistaja",
+            "Lucia Bronzetti",
+            "Alicia Herrero Linana",
+            "Victoria Jimenez Kasintseva",
+            "Carole Monnet",
+            "Anastasia Tikhonova",
+            "Maria Lourdes Carle",
+            "Veronika Erjavec",
+            "Guiomar Maristany Zuleta De Reales",
+            "Sofia Costoulas",
+            "Nuria Brancaccio",
+            "Fernanda Labrana",
+            "Antonia Vergara Rivera",
+            "Barbara Gatica",
+            "Andrea Lazaro Garcia",
+            "Rebeka Masarova",
+            "Polona Hercog",
+            "Miriam Bulgaru",
+            "Luisina Giovannini",
+            "Despina Papamichail",
+            "Laura Samson"
           ]
         }
       ],
@@ -81874,13 +81940,9 @@
       808
     ],
     [
-      "SOPO-125",
-      1181
-    ],
-    [
       "COLINA-125",
       2076
     ]
   ],
-  "old_day": 14
+  "old_day": 15
 }
