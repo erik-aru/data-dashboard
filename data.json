@@ -66718,7 +66718,31 @@
     "          Cherubini, D\n\n",
     "       4. Ariana Geerlings \n",
     "          Geerlings, A\n\n",
-    "23:49  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n"
+    "23:49  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n",
+    "02:47  COLINA-125 DOUBLES draw    \n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/draws\n\n",
+    "       Players added to the draw in COLINA-125 DOUBLES:    \n\n",
+    "       1. Valeriya Strakhova / Anastasia Tikhonova \n",
+    "          Strakhova, V/Tikhonova, A\n\n",
+    "       2. Irene Burillo / Anastasia Zolotareva \n",
+    "          Burillo, I/Zolotareva, A\n\n",
+    "       3. Nuria Brancaccio / Guiomar Maristany Zuleta De Reales \n",
+    "          Brancaccio, N/Maristany Zuleta De Reales, G\n\n",
+    "       4. Sofia Costoulas / Darja Semenistaja \n",
+    "          Costoulas, S/Semenistaja, D\n\n",
+    "       5. Fernanda Labrana / Antonia Vergara Rivera \n",
+    "          Labrana, F/Vergara Rivera, A\n\n",
+    "       6. Tenika McGiffin / Alexandra Osborne \n",
+    "          McGiffin, T/Osborne, A\n\n",
+    "       7. Ipek Oz / Despina Papamichail \n",
+    "          Oz, I/Papamichail, D\n\n",
+    "       8. Veronika Erjavec / Zhibek Kulambayeva \n",
+    "          Erjavec, V/Kulambayeva, Z\n\n",
+    "       Players removed from the draw in COLINA-125 DOUBLES:    \n\n",
+    "       1. ANASTASIA TIKHONOVA / VALERIYA STRAKHOVA \n\n",
+    "       2. INGRID MARTINS / IRENE BURILLO \n\n",
+    "       3. ZHIBEK KULAMBAYEVA / VERONIKA ERJAVEC \n\n",
+    "       4. ANNA ROGERS / AYANA AKLI \n\n",
+    "02:47  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -74815,13 +74839,17 @@
       ],
       [
         2,
-        4,
+        8,
         {
           "players": [
-            "ANASTASIA TIKHONOVA / VALERIYA STRAKHOVA",
-            "INGRID MARTINS / IRENE BURILLO",
-            "ZHIBEK KULAMBAYEVA / VERONIKA ERJAVEC",
-            "ANNA ROGERS / AYANA AKLI"
+            "Valeriya Strakhova / Anastasia Tikhonova",
+            "Irene Burillo / Anastasia Zolotareva",
+            "Nuria Brancaccio / Guiomar Maristany Zuleta De Reales",
+            "Sofia Costoulas / Darja Semenistaja",
+            "Fernanda Labrana / Antonia Vergara Rivera",
+            "Tenika McGiffin / Alexandra Osborne",
+            "Ipek Oz / Despina Papamichail",
+            "Veronika Erjavec / Zhibek Kulambayeva"
           ]
         }
       ],
@@ -74839,7 +74867,7 @@
           "players": []
         }
       ],
-      "2026-11-16"
+      "2026-11-17"
     ],
     "BUENOS-AIRES-125": [
       [
@@ -81933,5 +81961,5 @@
       2076
     ]
   ],
-  "old_day": 16
+  "old_day": 17
 }
