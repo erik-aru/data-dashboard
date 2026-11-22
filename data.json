@@ -66879,7 +66879,35 @@
     "       7. Sada Nahimana / Anastasia Zolotareva \n\n",
     "       8. Nicole Fossa Huergo / Laura Samson \n\n",
     "01:41  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n",
-    "01:07  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n"
+    "01:07  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n",
+    "00:07  OOP in COLINA-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2076/COLINA-125/2026/order-of-play\n\n",
+    "00:07  change in BUENOS-AIRES-125 QUALS \u2605   \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2026/draws\n\n       Players added to the draw in BUENOS-AIRES-125 QUALS:    \n\n",
+    "       1. Zhibek Kulambayeva \n",
+    "          Kulambayeva, Z\n\n",
+    "       2. Guadalupe Rondinoni \n",
+    "          Rondinoni, G\n\n",
+    "       3. Lourdes Ayala \n",
+    "          Ayala, L\n\n",
+    "       4. Marina Bulbarella \n",
+    "          Bulbarella, M\n\n",
+    "       5. Josefina Estevez \n",
+    "          Estevez, J\n\n",
+    "       6. Camila Markus \n",
+    "          Markus, C\n\n",
+    "       7. Abigail Rencheli \n",
+    "          Rencheli, A\n\n",
+    "       8. Alexandra Osborne \n",
+    "          Osborne, A\n\n",
+    "       Players removed from the draw in BUENOS-AIRES-125 QUALS:    \n\n",
+    "       1. Ayana Akli \n\n",
+    "       2. Maria Urrutia \n\n",
+    "       3. Nicole Fossa Huergo \n\n",
+    "       4. Sara Sorribes Tormo \n\n",
+    "       5. Alicia Herrero Linana \n\n",
+    "       6. Julia Caffarena \n\n",
+    "       7. Katarina Jokic \n\n",
+    "       8. Valeriya Strakhova \n\n",
+    "00:07  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -75004,7 +75032,7 @@
           "players": []
         }
       ],
-      "2026-11-21"
+      "2026-11-22"
     ],
     "BUENOS-AIRES-125": [
       [
@@ -75012,14 +75040,14 @@
         8,
         {
           "players": [
-            "Ayana Akli",
-            "Maria Urrutia",
-            "Nicole Fossa Huergo",
-            "Sara Sorribes Tormo",
-            "Alicia Herrero Linana",
-            "Julia Caffarena",
-            "Katarina Jokic",
-            "Valeriya Strakhova"
+            "Zhibek Kulambayeva",
+            "Guadalupe Rondinoni",
+            "Lourdes Ayala",
+            "Marina Bulbarella",
+            "Josefina Estevez",
+            "Camila Markus",
+            "Abigail Rencheli",
+            "Alexandra Osborne"
           ]
         }
       ],
@@ -75083,7 +75111,7 @@
           "players": []
         }
       ],
-      "2025-11-30"
+      "2026-11-22"
     ],
     "QUITO-125": [
       [
@@ -82092,5 +82120,5 @@
       2052
     ]
   ],
-  "old_day": 21
+  "old_day": 22
 }
