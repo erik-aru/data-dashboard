@@ -66984,7 +66984,12 @@
     "14:07  change in BUENOS-AIRES-125 SINGLES \u2605   \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2026/draws\n\n",
     "       Players added to the draw in BUENOS-AIRES-125 SINGLES:    \n\n",
     "       Players removed from the draw in BUENOS-AIRES-125 SINGLES:    \n\n",
-    "       1. Rebeka Masarova \n\n"
+    "       1. Rebeka Masarova \n\n",
+    "04:39  BUENOS-AIRES-125 SINGLES draw    \n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2026/draws\n\n",
+    "       Players added to the draw in BUENOS-AIRES-125 SINGLES:    \n\n",
+    "       1. Alexandra Osborne \n",
+    "          Osborne, A\n\n",
+    "04:39  OOP in BUENOS-AIRES-125 appeared \u2605\n       https://www.wtatennis.com/tournament/2052/BUENOS-AIRES-125/2026/order-of-play\n\n"
   ],
   "sits": {
     "ROME": [
@@ -75130,7 +75135,7 @@
       ],
       [
         1,
-        31,
+        32,
         {
           "players": [
             "Solana Sierra",
@@ -75145,6 +75150,7 @@
             "Alicia Herrero Linana",
             "Josefina Estevez",
             "Ariana Geerlings",
+            "Alexandra Osborne",
             "Ipek Oz",
             "Despina Papamichail",
             "Julia Riera",
@@ -75192,7 +75198,7 @@
           "players": []
         }
       ],
-      "2026-11-23"
+      "2026-11-24"
     ],
     "QUITO-125": [
       [
@@ -82197,5 +82203,5 @@
       2052
     ]
   ],
-  "old_day": 23
+  "old_day": 24
 }
